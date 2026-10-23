@@ -23,14 +23,14 @@ const USAGE = `usage:
   node server/cli.ts layout list [<room>]                             one line per saved variant: <room>/<variant>  <name>  (<n> placed, <m> extras)
   node server/cli.ts layout promote <room> <variant>                  make the variant the staged pick "a"; the old "a" takes its id
 
-The same through npm, from apps/furniture-planner (or npm --prefix apps/furniture-planner from the repo root):
+The same through npm, from the repo root:
   npm run validate | npm run catalog:add -- <file.json> [--update]
   npm run catalog:image -- <itemId> <url> [--caption <text>]
   npm run layout:set -- <room> <file.json> [--variant <id>] [--name <text>]
 
 Data directory: ${DATA_DIR} (set FURNITURE_DATA_DIR to use another)`;
 
-// npm runs the package scripts from apps/furniture-planner; a relative path means one from where npm was started.
+// npm runs the package scripts from the repo root; a relative path means one from where npm was started.
 const NPM_SCRIPTS = new Set(["validate", "catalog:add", "catalog:image", "layout:set"]);
 const BASE_DIR =
   NPM_SCRIPTS.has(process.env.npm_lifecycle_event ?? "") && process.env.INIT_CWD ? process.env.INIT_CWD : process.cwd();

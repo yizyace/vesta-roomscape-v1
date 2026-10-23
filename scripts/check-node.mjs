@@ -21,7 +21,7 @@ const atLeastMin =
 if (!atLeastMin || cur[0] >= maxMajor) {
   console.error(
     `check-node: Node ${process.versions.node} is outside "${range}". ` +
-      `Run from the vesta repo root (its .tool-versions pins nodejs ${min.join(".")}) ` +
+      `Run from the repo root (its .tool-versions pins nodejs ${min.join(".")}) ` +
       `or \`asdf install nodejs ${min.join(".")}\`. See ${fileURLToPath(new URL("../README.md", import.meta.url))}.`,
   );
   process.exit(1);

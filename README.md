@@ -20,14 +20,14 @@ anything.
 - The dependencies, once, and again after a pull that changes `package-lock.json`:
 
 ```
-cd ~/work/vesta/apps/furniture-planner
+cd ~/work/vesta-roomscape-v1
 npm install
 ```
 
 ## Start it
 
 ```
-cd ~/work/vesta/apps/furniture-planner
+cd ~/work/vesta-roomscape-v1
 npm run dev
 ```
 
@@ -152,7 +152,7 @@ they stay in Andrew's private vesta repo.
 
 | Symptom | Fix |
 |---|---|
-| `check-node: Node … is outside ">=24.22.1 <25"` | `asdf install nodejs 24.22.1`, and run from inside `~/work/vesta` |
+| `check-node: Node … is outside ">=24.22.1 <25"` | `asdf install nodejs 24.22.1`, and run from inside `~/work/vesta-roomscape-v1` |
 | `npm install` fails with `EBADENGINE` | The same: the wrong Node is active |
 | The browser shows a blank page or another app | Open the printed URL in your own window (not the tab Claude controls) and reload |
 | The URL isn't `:5173` | Another program has that port; use the URL `npm run dev` printed |

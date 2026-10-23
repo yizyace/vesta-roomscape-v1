@@ -18,7 +18,7 @@ client has a build step.
 ## Modules
 
 ```
-apps/furniture-planner/
+vesta-roomscape-v1/
 ├── shared/                 pure (no fs, no DOM): imported by the client, the server, the CLI and the tests
 │   ├── schema.ts           zod schemas of the four data files (the data contract), ROOM_IDS, LAYERS, issuesToLines, toJsonText
 │   ├── geometry.ts         the wall walk, feature spans and door arcs, footprints, keep-out zones, collisions by layer, snap
@@ -167,9 +167,8 @@ node server/cli.ts layout list [<room>]
 node server/cli.ts layout promote <room> <variant>
 ```
 
-The npm scripts `validate`, `catalog:add`, `catalog:image` and `layout:set` wrap the first four; from the
-repo root, `npm --prefix apps/furniture-planner run <script> -- <args>`. `layout list` and `layout
-promote` have no script: from the repo root, `node apps/furniture-planner/server/cli.ts layout list`.
+The npm scripts `validate`, `catalog:add`, `catalog:image` and `layout:set` wrap the first four: `npm run
+<script> -- <args>`. `layout list` and `layout promote` have no script: `node server/cli.ts layout list`.
 `help` prints the usage. `layout set` takes the variant from `--variant`, else the file's `variant`, else
 `a`, and the name from `--name`, else the file's `name`, else the saved one; a `room` in the file must
 match the argument. `layout list` prints `<room>/<variant>  <name>  (<n> placed, <m> extras)` per saved
@@ -280,8 +279,8 @@ removed if the save fails. This is the sanctioned exception to the repo's browse
 
 ## Run and test
 
-From the repo root, so asdf picks Node 24.22.1: `npm --prefix apps/furniture-planner ci`, then `run dev`,
-`test`, `run typecheck`, `run build`, `run preview`, `run validate`.
+From the repo root, so asdf picks Node 24.22.1: `npm ci`, then `npm run dev`, `npm test`, `npm run
+typecheck`, `npm run build`, `npm run preview`, `npm run validate`.
 
 Tests first: a failing test in `tests/`, then the code. The server tests run the middleware on a loopback
 port (`startTestServer`) over a temporary data directory (`mkTempDataDir` copies the real `rooms.json` and
@@ -323,7 +322,7 @@ room's left side is the staircase (F-40).
 
 ## Node pin
 
-Node 24.22.1 through asdf. The repo root's `.tool-versions` pins it, and this folder's repeats the pin.
+Node 24.22.1 through asdf. The repo root's `.tool-versions` pins it.
 `package.json` `engines` is `>=24.22.1 <25`; `.npmrc` sets `engine-strict=true`, so `npm install` and `npm
 ci` refuse another Node; `scripts/check-node.mjs` runs before `dev`, `test` and `validate`, because npm does
 not check `engines` on `run`. The machine's default Node predates the October 2026 security fixes.

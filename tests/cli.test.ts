@@ -1,4 +1,4 @@
-// Spawns `node server/cli.ts` from apps/furniture-planner with the Node running these tests (the
+// Spawns `node server/cli.ts` from the repo root with the Node running these tests (the
 // pinned one), so passing here also proves Node strips the types without a build step.
 import { execFile } from "node:child_process";
 import fs from "node:fs/promises";
