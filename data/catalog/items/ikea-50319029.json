@@ -1,0 +1,42 @@
+{
+  "id": "ikea-50319029",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lack-coffee-table-white-stained-oak-effect-50319029/",
+  "name": "LACK Coffee table, white stained oak effect, 35 3/8x21 5/8 \"",
+  "brand": "IKEA",
+  "category": "coffee-table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 35.375,
+    "d": 21.625,
+    "h": 17.75,
+    "raw": "Length: 35 3/8 \"; Width: 21 5/8 \"; Height: 17 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; a table's Length runs along the sofa (w), its Width is front to back (d)"
+  },
+  "images": [
+    {
+      "file": "ikea-50319029-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lack-coffee-table-white-stained-oak-effect__0411538_pe570463_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room, 14\" in front of the KIVIK sofa (F-39); at only 21.6\" deep it keeps 30\" or more between it and the TV console (F-30) with the sofa where F-37 puts it for the 65\" TV (back about 50\" from the window wall) · fits. No glass: a solid top and an open shelf for books and toys; square corners. Matches the LACK side table ikea-70319028. Variant: white stained oak effect (white 90449905; black-brown 40104294 is the Best seller, #1 under Coffee tables sorted Most popular), article 503.190.29. Popularity: this variant not badged; 4.5 stars (4164). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

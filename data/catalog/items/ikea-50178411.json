@@ -1,0 +1,43 @@
+{
+  "id": "ikea-50178411",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/laett-childrens-table-and-2-chairs-white-pine-50178411/",
+  "name": "LÄTT Children's table and 2 chairs, white/pine",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "kids",
+    "bedroom",
+    "seating",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 24.75,
+    "d": 18.875,
+    "h": 17.75,
+    "raw": "Table length: 24 3/4 \"; Table width: 18 7/8 \"; Table height: 17 3/4 \"; Seat width: 11 \"; Seat depth: 11 \"; Seat height: 11 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Table length, d = Table width, h = Table height; the table only)"
+  },
+  "images": [
+    {
+      "file": "ikea-50178411-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/laett-childrens-table-and-2-chairs-white-pine__0735856_pe740220_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: maddie-room top wall, 118\" (106\" usable, F-33): the 24 3/4\" table leaves 81.25\"; 18 7/8\" deep plus 30\" for a chair (F-35) uses 48.9\" of the room's 122\" · fits; it can also stand free on the open floor. The footprint is the table's; the two chairs are 11 x 11\" with 11\" seats. The table is 17 3/4\" high, lower than FLISAT's 23 1/4\" minimum. Solid pine frames, white foiled tops. Variant: white/pine. Popularity: Best seller; #1 under Kids tables sorted Most popular; 4.6 stars (2711). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

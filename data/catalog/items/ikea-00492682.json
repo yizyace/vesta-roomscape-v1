@@ -1,0 +1,41 @@
+{
+  "id": "ikea-00492682",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kleppstad-bed-frame-white-vissle-beige-00492682/",
+  "name": "KLEPPSTAD Bed frame, white/Vissle beige, Queen",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 62.25,
+    "d": 81.875,
+    "h": 33.875,
+    "raw": "Height: 33 7/8 \"; Width: 62 1/4 \"; Length: 81 7/8 \"; Footboard height: 10 5/8 \"; Height under furniture: 7 7/8 \"; Mattress width: 59 7/8 \"; Mattress length: 79 1/2 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w (headboard side), Length -> d, h the Height row (the headboard)"
+  },
+  "images": [
+    {
+      "file": "ikea-00492682-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kleppstad-bed-frame-white-vissle-beige__1035341_pe840528_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, headboard on the 133\" right wall (F-20; never the heater wall, F-33): 62.25\" wide and centered (y 35.4 to 97.6) it leaves 35.4\" on each side for nightstands, and 81.875\" long it leaves 95.1\" of the room's 177\"; F-34: 29.4\" from the window-side edge to the heater's face, 35.4\" on the bathroom side · fits. White metal frame with a Vissle beige textile headboard (product feature: \"Washable cover\"), designer Ebba Strandmark; sold as two compact packages, so flat-pack (F-22); 7 7/8\" under the frame for boxes. Takes a 59 7/8 x 79 1/2\" mattress (the VALEVÅG ikea-50511857). The upholstered-headboard alternative to the TARVA ikea-29007794 at the same $199. 4.4 stars (329). Full/Double $179.00, Queen $199.00. In stock in IKEA Long Island, NY on 2026-10-22. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

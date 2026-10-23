@@ -1,0 +1,42 @@
+{
+  "id": "ikea-90574800",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/brimnes-wardrobe-with-3-doors-white-90574800/",
+  "name": "BRIMNES Wardrobe with 3 doors, white, 46x19 3/4x74 3/4 \"",
+  "brand": "IKEA",
+  "category": "wardrobe",
+  "tags": [
+    "bedroom",
+    "storage",
+    "anchor-required",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 249.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 46,
+    "d": 19.75,
+    "h": 74.75,
+    "raw": "Width: 46 \"; Depth: 19 3/4 \"; Height: 74 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-90574800-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/brimnes-wardrobe-with-3-doors-white__1268958_pe928897_s5.jpg"
+    }
+  ],
+  "notes": "Optional: the room already has a walk-in closet. F-20: 46\" on the 70\" clear wall between the closet and the bathroom door leaves 24\" (in place of the dresser). F-31: keep 24\" clear in front of its doors. Flags: anchor-required (74.75\" wardrobe). Variant white (black also listed). Best seller (product page; the first wardrobe on the Armoires & wardrobes list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

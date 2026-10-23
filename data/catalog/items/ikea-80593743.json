@@ -1,0 +1,40 @@
+{
+  "id": "ikea-80593743",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vimsig-foam-mattress-for-extendable-bed-80593743/",
+  "name": "VIMSIG Foam mattress for extendable bed, 38 1/4x74 3/4 \"",
+  "brand": "IKEA",
+  "category": "mattress",
+  "tags": [
+    "kids",
+    "bedroom"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 38.25,
+    "d": 74.75,
+    "h": 3.875,
+    "raw": "Min. length: 47 1/4 \"; Max. length: 74 3/4 \"; Length with 1 filler piece: 61 \"; Width: 38 1/4 \"; Thickness: 3 7/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Max. length with both filler pieces, h = Thickness)"
+  },
+  "images": [
+    {
+      "file": "ikea-80593743-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vimsig-foam-mattress-for-extendable-bed__1451369_pe990705_s5.jpg"
+    }
+  ],
+  "notes": "Flags: delivery-path-unmeasured (F-22: a mattress, shipped flat rather than rolled: one package 35 ¾ x 2 ¾ x 75 ¼\", 13 lb 8 oz). Fit: goes in an extendable frame (MINNEN ikea-59124621 or SUNDVIK ikea-69046072); three pieces give 47\", 61\" or 74 3/4\" lengths; not placed on its own. 3 7/8\" thick, reversible (egg-shaped medium-firm side, smooth firmer side); removable cover, machine washable warm. Popularity: #2 under Kids mattresses sorted Most popular, the top mattress for an extendable bed (#1, UNDERLIG, is for a junior bed); 4 stars (8). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ikea-00576790",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/skogsduva-cushion-flower-shaped-white-00576790/",
+  "name": "SKOGSDUVA Cushion, flower-shaped/white, 19 \"",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "kids",
+    "bedroom",
+    "decor",
+    "washable",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 14.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 19,
+    "d": 19,
+    "h": 3,
+    "raw": "Diameter: 19 \"; Filling weight: 7 oz; Thickness: 3 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (round: w = d = Diameter, h = Thickness)"
+  },
+  "images": [
+    {
+      "file": "ikea-00576790-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/skogsduva-cushion-flower-shaped-white__1294173_pe935317_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: a layout extra (F-41: cushions go in extras): floor cushions for the reading corner under the LÖVA canopy (ikea-20542129), or on the bed by day. 19\" across, 3\" thick; recycled polyester; the page: \"just fold the cushion and machine wash it at 40 °C\". Variant: flower-shaped/white. Popularity: Best seller; #2 under Kids room pillows & blankets sorted Most popular. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

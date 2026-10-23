@@ -1,0 +1,42 @@
+{
+  "id": "ikea-00405048",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lauters-floor-lamp-ash-white-00405048/",
+  "name": "LAUTERS Floor lamp, ash/white",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "living-room",
+    "lighting",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 79.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 24,
+    "d": 24,
+    "h": 59,
+    "raw": "Max.: 13 W; Shade width: 15 \"; Min. height: 47 \"; Max. height: 59 \"; Base diameter: 24 \"; Cord length: 11 ' 6 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; no Width or Depth row: w and d are the 24\" Base diameter (the tripod), the widest stated; h is the Max. height row"
+  },
+  "images": [
+    {
+      "file": "ikea-00405048-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lauters-floor-lamp-ash-white__0663863_pe712536_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room, a 24\" tripod at a sofa end or behind an armchair; 6\" or more from the heater's face if it stands by the window wall (F-33) · fits. Ash-wood tripod with a white textile shade (the house style's light wood; no black metal); height adjusts 47\" to 59\"; excess cord hides in the base. \"Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white.\" Article 004.050.48. Popularity: Best seller; #5 under Floor lamps sorted Most popular; 4.7 stars (1481); kept over ÖKENSAND beech/white (Best seller, #2, $89.99), the cheaper of the two. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

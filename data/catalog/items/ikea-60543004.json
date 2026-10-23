@@ -1,0 +1,42 @@
+{
+  "id": "ikea-60543004",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/svartpoppel-cushion-cover-off-white-60543004/",
+  "name": "SVARTPOPPEL Cushion cover, off-white, 20x20 \"",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "living-room",
+    "decor",
+    "washable",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 20,
+    "d": 20,
+    "raw": "Length: 20 \"; Width: 20 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width is w and Length is d; a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "ikea-60543004-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/svartpoppel-cushion-cover-off-white__1118258_pe872990_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room extras, two on the sofa with the FJÄDRAR inserts ikea-60262188 · fits. Warm white, textured; \"Inner cushion is sold separately.\" Washable: \"Machine wash warm, normal cycle.\" Article 605.430.04. Popularity: Best seller; #1 under Throw pillow covers sorted Most popular; 4.8 stars (1414). Stock: the page showed \"Checking availability...\" when read on 2026-10-22. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

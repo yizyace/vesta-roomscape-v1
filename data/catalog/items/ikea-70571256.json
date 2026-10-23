@@ -1,0 +1,41 @@
+{
+  "id": "ikea-70571256",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/slattum-upholstered-bed-frame-vissle-dark-gray-70571256/",
+  "name": "SLATTUM Upholstered bed frame, Vissle dark gray, Queen",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 149,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 61.375,
+    "d": 81.875,
+    "h": 33.5,
+    "raw": "Length: 81 7/8 \"; Width: 61 3/8 \"; Footboard height: 15 3/4 \"; Headboard height: 33 1/2 \"; Mattress length: 79 1/2 \"; Mattress width: 59 7/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w, Length -> d, h the headboard height"
+  },
+  "images": [
+    {
+      "file": "ikea-70571256-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/slattum-upholstered-bed-frame-vissle-dark-gray__1259363_pe926663_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Rejected (F-03): sold only in Vissle dark gray (the page offers no other color), outside the house palette of warm white, oatmeal and light gray, and \"Only sold in-store\" at IKEA Long Island, NY (2026-10-22). Best seller (product page); 4.1 stars (596); Full $129.00, Queen $149.00. KLEPPSTAD white/Vissle beige ikea-00492682 ($199.00, washable cover) is the upholstered-headboard alternative kept. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

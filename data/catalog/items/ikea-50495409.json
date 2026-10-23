@@ -1,0 +1,40 @@
+{
+  "id": "ikea-50495409",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lydersholm-rug-flatwoven-in-outdoor-medium-brown-50495409/",
+  "name": "LYDERSHOLM Rug flatwoven, in/outdoor, medium brown, 6 ' 7 \"x9 ' 10 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 79,
+    "d": 118,
+    "h": 0.25,
+    "raw": "Length: 9 ' 10 \"; Width: 6 ' 7 \"; Thickness: ¼ \"; Area: 53.82 sq feet; Surface density: 3.80 oz/sq ft",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23; Width 6'7\" = 79\" -> w, Length 9'10\" = 118\" -> d, Thickness -> h. The Area row (53.82 sq ft) does not match 79 x 118\" (64.7 sq ft); the Length and Width rows are recorded"
+  },
+  "images": [
+    {
+      "file": "ikea-50495409-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lydersholm-rug-flatwoven-in-outdoor-medium-brown__0963035_pe808276_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: dining-room, rug layer under the table group: 79 x 118\" runs 24\" or more past every table edge a chair pulls out from in the staged layouts, so the chairs stay on it, and 118\" fills the room's 119\" depth with 1/2\" of tile at each wall; it may run under the kitchen walkway (F-42) · fits. Product details: \"The color and weave create a natural look.\" \"The rug is perfect for outdoor use because it's water resistant and made for easy care.\" \"Ideal in your living room or under your dining table since the flat-woven surface makes it easy to pull out the chairs and vacuum.\" Good to know: \"You will need 2 STOPP FILT rug underlay with anti-slip (5'5\"x7'9\") for this rug. Trim if necessary.\" (ikea-90132261 x 2, in the layouts' extras) \"This rug fits under a 6-seat dining table\" \"Suitable for indoor and outdoor use.\" The Materials and care section rendered empty on this page. An in/outdoor flatweave: the house style's jute look with a surface that rinses clean, which suits tile and a 4-year-old better than jute (TIOKRONA, \"Do not wash.\"). Kept over the beige MORUM 6'7\"x9'10\" (ikea-80198295, rejected: not sold at IKEA Long Island and unavailable for delivery to our ZIP today) and the FULLMAKT 7'10\"x9'10\" (ikea-20573111, rejected: clearance, unavailable). Article 504.954.09. 4.6 stars (526); not badged. Stock 2026-10-23: in stock in IKEA Long Island, NY; click and collect; \"Delivery currently limited to large orders.\" rooms: dining-room, from the redesign brief (F-41: a rug the right size for the chairs to slide out).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

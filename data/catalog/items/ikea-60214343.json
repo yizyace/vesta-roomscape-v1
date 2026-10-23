@@ -1,0 +1,42 @@
+{
+  "id": "ikea-60214343",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/blanda-matt-serving-bowl-bamboo-60214343/",
+  "name": "BLANDA MATT Serving bowl, bamboo, 11 \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "dining",
+    "decor",
+    "best-seller"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 11,
+    "d": 11,
+    "h": 5,
+    "raw": "Height: 5 \"; Diameter: 11 \"; Volume: 152 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; round, no Width or Depth row: w and d are the Diameter row"
+  },
+  "images": [
+    {
+      "file": "ikea-60214343-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/blanda-matt-serving-bowl-bamboo__1395111_pe966843_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: the table's centerpiece (a fruit bowl on the runner), listed in the layouts' extras. Bamboo with a clear acrylic lacquer, so nothing to break if Maddie knocks it off the table (the brief's no-glass rule); 'Handwash only', not microwave-safe, no metal utensils. Other sizes on the page: 5\" $8.99, 8\" $12.99. Best seller badge on the page; 4.7 stars (1,928). In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

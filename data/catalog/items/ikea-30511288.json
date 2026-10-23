@@ -1,0 +1,41 @@
+{
+  "id": "ikea-30511288",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lohals-rug-flatwoven-natural-30511288/",
+  "name": "LOHALS Rug, flatwoven, natural, 4 ' 4 \"x6 ' 5 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "office",
+    "decor"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 52,
+    "d": 77,
+    "h": 0.5,
+    "raw": "Width: 4 ' 4 \"; Length: 6 ' 5 \"; Area: 27.99 sq feet; Surface density: 9.34 oz/sq ft; Thickness: ½ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; feet and inches to inches (4'4\" = 52, 6'5\" = 77): Width is w, Length is d, Thickness is h"
+  },
+  "images": [
+    {
+      "file": "ikea-30511288-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lohals-rug-flatwoven-natural__0280221_pe419173_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. Flatwoven jute, 1/2\" thick, so the office chair rolls on it (staging brief: low pile or flatweave); the natural jute look of the house style. Best seller badge on the Rugs list card (the 6'7\"x9'10\" and 2'7\"x4'11\" sizes); not on this size's page. Other sizes: 5'3\"x7'7\" $129.99 (ikea-50277393), 6'7\"x9'10\" $179.99 (ikea-00277395). In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

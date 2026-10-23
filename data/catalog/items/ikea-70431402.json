@@ -1,0 +1,40 @@
+{
+  "id": "ikea-70431402",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/hoppvals-cellular-blind-white-70431402/",
+  "name": "HOPPVALS Cellular blind, white, 34x64 \"",
+  "brand": "IKEA",
+  "category": "curtains",
+  "tags": [
+    "office",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 39.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 34,
+    "h": 64,
+    "raw": "Length: 64 \"; Width: 34 \"; Area: 15.18 sq feet",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width is w and Length (the drop) is d, the catalog's Length-to-d convention; it hangs in the window, so it is a layout extra and never placed; flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-70431402-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/hoppvals-cellular-blind-white__0602283_pe680560_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits (two side by side, 68\" in all, cover the 67\" window, whose measured width is the only number; check inside or outside mount against the frame). Cordless with a hidden control, so no dangling cord for Maddie (the roller-blind search page carries IKEA's notice recalling roller, Roman and roll-up blinds for strangulation risk). Light filtering. Chosen over floor-length curtains because the whole window wall is a heater wall (F-33: no textiles hanging against the heater). The page says a RIKTIG draw rod is sold separately (only for a blind hung out of reach). Sizes on the page: 30x64 $34.99, 32x64 $37.99, 34x64, 36x64. Black-out alternative seen on the list, not opened: TRIPPEVALS black-out cellular blind 34x76 3/4 $69.99 (Best seller). Best seller (product page; first on the roller-blind search sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ikea-80481415",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/asvang-foam-mattress-medium-firm-white-80481415/",
+  "name": "ÅSVANG Foam mattress, medium firm/white, Twin",
+  "brand": "IKEA",
+  "category": "mattress",
+  "tags": [
+    "bedroom",
+    "washable",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 129,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 38.25,
+    "d": 74.375,
+    "h": 4.75,
+    "raw": "Length: 74 3/8 \"; Width: 38 1/4 \"; Thickness: 4 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; a mattress: Length is d, Width is w, Thickness is h"
+  },
+  "images": [
+    {
+      "file": "ikea-80481415-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/asvang-foam-mattress-medium-firm-white__0976032_pe812963_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits (inside the HEMNES daybed ikea-30349329, mattress size 74 1/2 x 38 1/4; two needed, one on top and one in the pull-out). A layout extra, never placed: it lies in the frame. The cover is removable and machine washable (product page). Roll-packed, so F-22 does not apply. The HEMNES page offers it under Complete with. ÅGOTNES foam mattress, firm, twin, $89, was on the daybed search list and not opened. Best seller (product page). In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ikea-70514100",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/knoeckla-step-trash-can-dark-gray-70514100/",
+  "name": "KNÖCKLA Step trash can, dark gray, 13 gallon",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "must-have",
+    "best-seller"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 44.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 19,
+    "d": 11.75,
+    "h": 24.5,
+    "raw": "Height: 24 ½ \"; Volume: 13 gallon; Width: 19 \"; Depth: 11 ¾ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-70514100-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/knoeckla-step-trash-can-dark-gray__1029080_pe835654_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: kitchen essentials list, no layout (F-41); 19 x 11.75\" of floor wherever the unmeasured kitchen has room. 13 gallon takes the standard US kitchen bag. Pedal lid with 'soft-closing gas hinges, which prevents the risk of getting your fingers caught when closing it' (Maddie is 4); a ring inside hides the bag. Polypropylene (min. 20% recycled); wipe clean. A 7 gallon size is $37.99; HÅLLBAR (9 gallon bin with lid, Best seller, $19.99) is the cheaper can on the 'kitchen trash can' search, not opened. Best seller badge on the page; 4.1 stars (878). In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ikea-99623151",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/besta-wall-mounted-cabinet-combination-white-bjoerkoeviken-ash-veneer-s99623151/",
+  "name": "BESTÅ Wall-mounted cabinet combination, white/Björköviken ash veneer, 70 7/8x8 5/8x15 \"",
+  "brand": "IKEA",
+  "category": "sideboard",
+  "tags": [
+    "dining",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 420,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 70.875,
+    "d": 8.625,
+    "h": 15,
+    "raw": "Depth: 8 5/8 \"; Height: 15 \"; Width: 70 7/8 \"; Max load/shelf: 29 lb",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-99623151-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/besta-wall-mounted-cabinet-combination-white-bjoerkoeviken-ash-veneer__1603562_pe1044255_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none (15\" tall and screwed to the wall on its suspension rails, so F-21's anchor tag does not apply; the page's warning still does: \"WARNING! Falling hazard – to reduce the risk of this product falling down, it must be securely anchored. Use suitable screws and plugs for your home.\"). Fit: dining-room right wall (119\", nothing drawn on it), centered (y 24.1 to 94.9) and floated with its underside about 18\" up as a credenza (top about 33\"), the BLODFLÄDER canvas above it; 8 5/8\" deep, so with chairs on both long sides of a 29 1/8\" table it leaves 39.75\" from the table edge to its doors (F-36) where a 16 1/2\" BESTÅ would leave 31.9\" (F-63) · fits. Doors only, no drawers (F-32 does not apply); a door opened while the right-hand chairs are occupied meets a chair back. Product details: \"10 year guarantee.\" \"The doors open with a light push and close silently and softly, as the hinges have both push-open and soft-closing functions.\" \"Adjustable shelves, so you can customize your storage as needed.\" Good to know: \"The max load for a wall-hung frame depends on the wall material.\" \"BESTÅ suspension rails for wall mounting are included.\" \"3 adjustable shelves included.\" Holds table linens, placemats, candles and Maddie's crayons and paper; at 8 5/8\" deep it does not take 10\" dinner plates. Solid ash-veneer doors on a white frame (the house style's white and light wood), no glass, no handles to bump into. Price: regular $420.00; IKEA Family price $348.00, valid Oct 7, 2026 - Nov 11, 2026. Found on the BESTÅ storage system list, page 2 (Andrew's link), card 14 of 24. Article 996.231.51 (a combination; the URL carries an s). 3.3 stars (11); the review text was not read. Stock 2026-10-23: in stock in IKEA Long Island, NY. rooms: dining-room, from the redesign brief (F-63).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

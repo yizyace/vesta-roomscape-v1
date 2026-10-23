@@ -1,0 +1,37 @@
+{
+  "id": "ikea-20569487",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/brimnes-tv-unit-white-20569487/",
+  "name": "BRIMNES TV unit, white, 70 7/8x16 1/8x20 7/8 \"",
+  "brand": "IKEA",
+  "category": "tv-stand",
+  "tags": [
+    "living-room",
+    "tv",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 199.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 70.875,
+    "d": 16.125,
+    "h": 20.875,
+    "raw": "Width: 70 7/8 \"; Depth: 16 1/8 \"; Height: 20 7/8 \"; Max load/shelf: 29 lb; Maximum load/drawer: 20 lb; Max. TV weight: 66 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-22: its three drawers have frosted-glass fronts at a 4-year-old's height (the house style allows no glass within her reach), and the page's safety text says \"Handle with care! A damaged edge or scratched surface can cause the glass to suddenly crack or break\". Flags: none. Fit: bottom wall, 70.875\" of 275.5\" (F-20) · fits. Also \"WARNING! Tipping hazard – this product must be securely anchored.\" Article 205.694.87 (the black version 40569486 is #5 under TV stands & benches sorted Most popular). 4.5 stars (574). In stock at IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

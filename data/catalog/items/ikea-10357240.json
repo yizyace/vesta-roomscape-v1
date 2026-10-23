@@ -1,0 +1,41 @@
+{
+  "id": "ikea-10357240",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/dvala-fitted-sheet-white-10357240/",
+  "name": "DVALA Fitted sheet, white, Twin",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 38,
+    "d": 74,
+    "h": 10,
+    "raw": "Thread count: 152 /inch²; Length: 74 \"; Width: 38 \"; Max. mattress thickness: 10 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; bedding: Width is w, Length is d, and h is the Max. mattress thickness row"
+  },
+  "images": [
+    {
+      "file": "ikea-10357240-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/dvala-fitted-sheet-white__0604085_pe681026_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits (the 38 1/4 x 74 3/8 x 4 3/4 ÅSVANG twin mattress). A layout extra for the guest daybed (HEMNES ikea-30349329 with an ÅSVANG twin mattress ikea-80481415), never placed. 100% cotton; machine wash warm (page). Not badged. In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

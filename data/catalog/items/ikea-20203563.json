@@ -1,0 +1,40 @@
+{
+  "id": "ikea-20203563",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/morum-rug-flatwoven-in-outdoor-beige-20203563/",
+  "name": "MORUM Rug flatwoven, in/outdoor, beige, 5 ' 3 \"x7 ' 7 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 63,
+    "d": 91,
+    "h": 0.25,
+    "raw": "Length: 7 ' 7 \"; Width: 5 ' 3 \"; Area: 39.61 sq feet; Thickness: ¼ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; feet and inches to inches (5'3\" = 63, 7'7\" = 91): Width is w, Length is d, Thickness is h (as the other rugs in the catalog)"
+  },
+  "images": [
+    {
+      "file": "ikea-20203563-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/morum-rug-flatwoven-in-outdoor-beige__0123529_pe279665_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: 63 x 91\" in the 128 x 119\" dining room, its length along the table: under the ALHULT (31.5 x 47.25\") it runs 15.75\" past each long side and 21.9\" past each end, so the back legs of a fully pulled-out chair (SANDSBERG, 18.5\" deep) land about 3\" off its long edges; the brief's 'about 5'7\" x 7'10\"' is 4\" wider and 3\" longer. Washable by hand, not machine washable (so no washable tag): 100 % polypropylene with a synthetic rubber backing; care 'Use a mild detergent, brush with a soft brush and rinse thoroughly with water. Let the rug dry completely before use. Hand wash warm water.' Page: 'Ideal in your living room or under your dining table since the flat-woven surface makes it easy to pull out the chairs and vacuum'; in/outdoor. Good to know: 'You will need 1 STOPP FILT rug underlay with anti-slip (5'5\"x7'9\") for this rug' (ikea-90132261, for the tile floor). Other sizes: 6'7\"x9'10\" $149.99 (too deep for the 119\" room once the table is centered), 7'10\"x10' $199.99. Not badged; 4.6 stars (2,322). In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

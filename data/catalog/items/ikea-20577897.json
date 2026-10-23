@@ -1,0 +1,36 @@
+{
+  "id": "ikea-20577897",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/grunka-4-piece-kitchen-utensil-set-stainless-steel-20577897/",
+  "name": "GRUNKA 4-piece kitchen utensil set, stainless steel",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "must-have",
+    "best-seller"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 14.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-20577897-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/grunka-4-piece-kitchen-utensil-set-stainless-steel__0711741_pe728430_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (the Measurements tab shows only the package: 'Width: 3 ¾ \"; Height: 3 ½ \"; Length: 14 \"; Weight: 1 lb 1 oz'; a set, never placed). Fit: kitchen essentials list, no layout (F-41). 'Includes: 13\" spoon, 11\" ladle, 13\" turner and 13\" spaghetti server.' Stainless steel, 'Dishwasher-safe': for the stainless IKEA 365+ pots (ikea-50577909); the non-stick frying pan gets the KNORRHANE spatula (ikea-60599675), since steel scratches its coating. Best seller badge on the page; first on the 'kitchen utensil set' search; 4.5 stars (55). MAJFISK (acacia, ikea-70634249) was rejected. In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

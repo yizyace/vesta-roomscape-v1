@@ -1,0 +1,43 @@
+{
+  "id": "ikea-10500059",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/hoevolm-rack-with-6-knobs-oak-10500059/",
+  "name": "HÖVOLM Rack with 6 knobs, oak",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "living-room",
+    "entry",
+    "storage",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 22.5,
+    "d": 2,
+    "h": 2,
+    "raw": "Height: 2 \"; Width: 22 1/2 \"; Depth: 2 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; a wall rack (top layer)"
+  },
+  "images": [
+    {
+      "file": "ikea-10500059-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/hoevolm-rack-with-6-knobs-oak__1011319_pe828455_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room bottom wall by the bottom-left stair landing, at adult coat height beside the BISSA shoe cabinet (top layer, takes no floor; F-40 keeps the landing itself clear) · fits. Six knobs in solid oak (the house style's light wood) for the family's coats and bags; racks can be mounted in a row (\"the edge of the rack is straight\"). \"Screws for wall mounting sold separately.\" Article 105.000.59. Popularity: Best seller; #2 under Wall & door hooks sorted Most popular; 3.7 stars (178). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief (entry).",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ikea-00570000",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/rosentorp-chair-black-00570000/",
+  "name": "ROSENTORP Chair, black",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "dining",
+    "seating",
+    "best-seller"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 75,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 17.375,
+    "d": 20.875,
+    "h": 35.875,
+    "raw": "Width: 17 3/8 \"; Depth: 20 7/8 \"; Height: 35 7/8 \"; Seat width: 17 3/8 \"; Seat depth: 15 3/8 \"; Seat height: 17 3/4 \"; Tested for: 243 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-00570000-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/rosentorp-chair-black__1434531_pe983577_s5.jpg"
+    }
+  ],
+  "notes": "Seat height 17.75\": 11.75\" under the ÅLHULT top and 11.375\" under LISABO. Variant black (white also sold). Best seller badge on the Dining chairs list sorted Most popular (#9); the product page shows none. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

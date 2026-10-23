@@ -1,0 +1,40 @@
+{
+  "id": "ikea-00578906",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/pjaetteryd-picture-waterlilies-1916-19-00578906/",
+  "name": "PJÄTTERYD Picture, Waterlilies, 1916 19, 27 ½x19 ¾ \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 27.5,
+    "h": 19.75,
+    "raw": "Width: 27 1/2 \"; Height: 19 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; the page gives Width and Height only (no Depth row), so Height is recorded as d, the catalog's second-number convention (as for ikea-40602018); it hangs flat on the wall (top layer); flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-00578906-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/pjaetteryd-picture-waterlilies-1916-19__1237264_pe917884_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room, a wall piece on the top layer, 27.5\" of wall (F-20), takes no floor · fits. Monet's water lilies in soft greens (the house style's sage), printed on canvas that wraps the edges: no glass (\"The picture has extra depth and life because it's printed on high quality canvas.\"). \"Screws for wall mounting not included. IKEA recommends using ALFTA adhesive hook. Sold separately.\" (adhesive hooks suit a rental). Material: poster 100% polyester. Article 005.789.06. Popularity: not badged; #11 under Wall art sorted Most popular; 4.7 stars (12). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

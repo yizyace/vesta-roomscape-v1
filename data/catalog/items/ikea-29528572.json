@@ -1,0 +1,41 @@
+{
+  "id": "ikea-29528572",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/mittzon-desk-sit-stand-electric-white-s29528572/",
+  "name": "MITTZON Desk sit/stand, electric white, 55 1/8x31 1/2 \"",
+  "brand": "IKEA",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 579.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 55.125,
+    "d": 31.5,
+    "h": 49.625,
+    "raw": "Max. load: 176 lb; Width: 55 1/8 \"; Depth: 31 1/2 \"; Max. height: 49 5/8 \"; Min. height: 24 3/8 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23; h is the Max. height row (it adjusts 24 3/8 to 49 5/8)"
+  },
+  "images": [
+    {
+      "file": "ikea-29528572-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/mittzon-desk-sit-stand-electric-white__1210944_pe909896_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. Fit: back-bedroom right wall (rot 90), the window end of the personal four-screen run with the MITTZON 47 1/4 (ikea-09527578): 55 1/8 + 47 1/4 = 102 3/8\" of the right wall's 110\" between the heater wall's 6\" (F-33, y 12) and the door's swing (F-31, y 122), two of the four 32\" monitors (each about 28\" wide, F-62) on each desk, the outer screens angled in. 31 1/2\" deep, F-62's 'about 30\" for a 32\" screen'. Sit/stand, electric with dual motors (24 3/8-49 5/8\"); contract grade, ANSI/BIFMA; 10-year limited warranty; max. load 176 lb. Its depth picker: 55 1/8x23 5/8\" $529.99. Complete with: KOPPLA 5-outlet power strip & 2 USB ports, 118\" ($34.99, last chance; not captured). Article 295.285.72, a combination (the URL carries an s). 4.7 stars (306); the Best seller badge on the standing-desk list is on the walnut 55 1/8 card, not this white page. Stock 2026-10-23: in stock at IKEA Long Island, NY; click and collect; home delivery to our ZIP from $49.00 ($39.00 with IKEA Family); assembly service $33.80*. rooms: back-bedroom, from the redesign brief (F-62).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

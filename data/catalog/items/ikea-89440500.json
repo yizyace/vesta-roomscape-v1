@@ -1,0 +1,44 @@
+{
+  "id": "ikea-89440500",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kivik-ottoman-with-storage-tibbleby-beige-gray-s89440500/",
+  "name": "KIVIK Ottoman with storage, Tibbleby beige/gray",
+  "brand": "IKEA",
+  "category": "stool",
+  "tags": [
+    "living-room",
+    "seating",
+    "storage",
+    "washable",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 299,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 35.375,
+    "d": 27.5,
+    "h": 16.875,
+    "raw": "Width: 35 3/8 \"; Depth: 27 1/2 \"; Height: 16 7/8 \"",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-89440500-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kivik-ottoman-with-storage-tibbleby-beige-gray__1056133_pe848264_s5.jpg",
+      "caption": "KIVIK grey fabric ottoman, rectangular, cushioned with hidden storage."
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room, in front of the KIVIK sofa ikea-39440593 in place of a hard coffee table: 35.375 x 27.5\", 16.875\" high, 14\" to 18\" from the sofa (F-39) · fits. Upholstered, no corners at a 4-year-old's head height, in the sofa's own cover: \"Rest your feet on the footstool or use it as an extra seat or a comfortable extension of your sofa.\"; \"The footstool has a generous storage space under the seat\"; \"The cover is easy to keep clean since it can be machine washed and is easy to take off and put on again.\" (Tibbleby, dope-dyed polyester, herringbone). Drinks need a tray or the side table. Popularity: #1 in a search for \"kivik ottoman\" on IKEA US; not badged; 4.6 stars (200); the page carries \"Apartment Therapy: Best Sofa for Families\". Stock 2026-10-23: in stock at IKEA Long Island, NY; home delivery to our ZIP from $49.00. Variant: Tibbleby beige/gray, matching the sofa (also Kelinge gray-turquoise, Tresund light beige and anthracite); spare cover KIVIK Cover for ottoman with storage $29.00 (card only), article 894.405.00. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ikea-10601124",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/centerhalv-office-chair-black-10601124/",
+  "name": "CENTERHALV Office chair, black",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "office",
+    "seating",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 27.125,
+    "d": 26,
+    "h": 51.125,
+    "raw": "Depth: 26 \"; Max. height: 51 1/8 \"; Max. seat height: 22 \"; Min. seat height: 18 1/8 \"; Seat depth: 18 1/2 \"; Seat width: 20 1/8 \"; Tested for: 276 lb; Width: 27 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; h is the Max. height row (no plain Height row)"
+  },
+  "images": [
+    {
+      "file": "ikea-10601124-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/centerhalv-office-chair-black__1408739_pe971989_s5.jpg"
+    }
+  ],
+  "notes": "Seat height adjusts 18.125\"-22\". F-35: its 27.1\" x 26\" footprint fits in the 86.4\" behind the MICKE. IKEA Family in-store-only price $149.99, Sep 8 to Dec 24, 2026. Best seller (product page; #4 on the Desk chairs list sorted Most popular); 2 reviews. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ikea-00570934",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vallkrassing-throw-gray-green-00570934/",
+  "name": "VALLKRASSING Throw, gray-green, 59x79 \"",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "bedroom",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 19.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 59,
+    "d": 79,
+    "raw": "Length: 79 \"; Width: 59 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w, Length -> d; a layout extra"
+  },
+  "images": [
+    {
+      "file": "ikea-00570934-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vallkrassing-throw-gray-green__1207660_pe908117_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, folded across the foot of the bed (a layout extra) · fits. Cotton muslin with raw edges in gray-green, the house's sage accent and the same line as the living room's VALLKRASSING cushion covers ikea-50570955. 4.7 stars (436). Best seller badge on the search-result card (not on the product page). Not stocked at IKEA Long Island, NY; home delivery to our ZIP (2026-10-22). rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

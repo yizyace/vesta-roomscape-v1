@@ -1,0 +1,41 @@
+{
+  "id": "ikea-40533063",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/svartsenap-table-runner-natural-40533063/",
+  "name": "SVARTSENAP Table runner, natural, 14x51 \"",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "dining",
+    "decor",
+    "washable"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 5.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 13.75,
+    "d": 51.25,
+    "raw": "Length: 51 ¼ \"; Width: 13 ¾ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width is w, Length is d (as the rugs)"
+  },
+  "images": [
+    {
+      "file": "ikea-40533063-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/svartsenap-table-runner-natural__1089709_pe861668_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: a textile on the table, listed in the layouts' extras. 51.25\" runs the length of the ALHULT closed (47.25\", 2\" over each end) and the LISABO (55.125\"); on the round VIHALS it lies across the 42\" top. 100 % yarn-dyed cotton in a natural (oatmeal) color: 'Machine wash warm, normal cycle', shrinkage up to 7%. Page: 'Protects the table top surface and reduces noise from plates and flatware.' Not badged; 4.2 stars (273); the cheapest runner on the 'table runner' search. In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

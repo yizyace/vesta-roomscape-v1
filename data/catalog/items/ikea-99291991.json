@@ -1,0 +1,43 @@
+{
+  "id": "ikea-99291991",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/slaekt-bed-frame-w-storage-slatted-bedbase-white-s99291991/",
+  "name": "SLÄKT Bed frame w/storage+slatted bedbase, white, Twin",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "kids",
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 449.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 40.5,
+    "d": 77.125,
+    "h": 35,
+    "raw": "Length: 77 1/8 \"; Width: 40 1/2 \"; Headboard height: 35 \"; Footboard height: 28 \"; Mattress width: 38 1/4 \"; Mattress length: 74 3/8 \"; Shelf width: 12 5/8 \"; Shelf depth: 13 3/4 \"; Drawer width (inside): 28 3/8 \"; Drawer depth (inside): 22 1/2 \"; Height of drawer (inside): 5 1/2 \"; Maximum load/drawer: 33 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Length, h = Headboard height)"
+  },
+  "images": [
+    {
+      "file": "ikea-99291991-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/slaekt-bed-frame-w-storage-slatted-bedbase-white__0648364_pe704867_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: maddie-room left wall, 108\" clear (F-20): a long side along it leaves 30.9\"; the 40.5\" width plus 24\" on the open side for getting in and for the drawers (F-34, F-32) uses 64.5\" of the room's 118\" · fits, with the drawers on the open side (the page does not say which side they go on). IKEA's safety note: keep the bed less than 2½\" or more than 9\" from a wall, so push it flush. Twin; mattress 38 1/4 x 74 3/8\" (the page suggests ÅSVANG foam mattress, Twin, $129.00); drawers 22 1/2\" deep inside, 33 lb each; LURÖY slatted base included, packed separately. Variant: white. Popularity: Best seller; #2 under Kids beds sorted Most popular; 4.3 stars (806). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

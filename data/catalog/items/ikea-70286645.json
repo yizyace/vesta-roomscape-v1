@@ -1,0 +1,43 @@
+{
+  "id": "ikea-70286645",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kallax-insert-with-2-drawers-white-70286645/",
+  "name": "KALLAX Insert with 2 drawers, white, 13x13 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "kids",
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 25,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 13,
+    "d": 14.625,
+    "h": 13,
+    "raw": "Width: 13 \"; Depth: 14 5/8 \"; Height: 13 \"",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-70286645-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kallax-insert-with-2-drawers-white__0640671_pe699976_s5.jpg",
+      "caption": "White KALLAX drawer unit, square shape with smooth finish, two drawers, flat surface."
+    }
+  ],
+  "notes": "Flags: none. Fit: an insert for one 13\" KALLAX cube (ikea-20631639, ikea-20631663: 15 3/8\" deep), so it is a layout extra, never placed on its own · fits. Toy drawers for the living room's play wall (Andrew: \"toy drawers etc\", F-61): two drawers per cube, white, no glass. \"Standing or lying, against the wall or to divide the room – the KALLAX series is eager to please ... Fine tune with drawers, shelves, boxes and inserts.\" Popularity: #2 in a search for \"kallax insert\" on IKEA US; not badged; 4.5 stars (3483). Stock 2026-10-23: in stock at IKEA Long Island, NY; \"Ships with $35.00 order\". Variant: white (also white stained oak effect 50324511, black-brown 90286649, high-gloss white 00314642, wave shaped/white), article 702.866.45. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

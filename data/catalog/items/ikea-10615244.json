@@ -1,0 +1,40 @@
+{
+  "id": "ikea-10615244",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-monstera-10615244/",
+  "name": "FEJKA Artificial potted plant, indoor/outdoor monstera, 7 ½ \"",
+  "brand": "IKEA",
+  "category": "plant",
+  "tags": [
+    "decor"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 7.5,
+    "d": 7.5,
+    "h": 35.5,
+    "raw": "Diameter of plant pot: 7 ½ \"; Height of plant: 35 ½ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; no Width or Depth row, so w and d are the pot's diameter (the leaves spread wider; the page gives no spread), h is the Height of plant row"
+  },
+  "images": [
+    {
+      "file": "ikea-10615244-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-monstera__0614197_pe686822_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. A floor plant, artificial: no soil for Maddie to dig and no watering. Its leaves spread beyond the 7 1/2\" pot, so it stands where a brushed leaf does no harm. Comes in a black plastic pot; the page offers a 7 1/2\" water hyacinth plant pot as an add-on (natural texture, not captured). Only 1 left in IKEA Long Island, NY on 2026-10-22. Floor-size alternatives on the search list, not opened: FEJKA bamboo 8 1/4\" and bird of paradise 9\", $89.99 each (Best seller). New; not badged. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

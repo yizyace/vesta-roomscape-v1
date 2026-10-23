@@ -1,0 +1,41 @@
+{
+  "id": "ikea-20580705",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ikea-365-frying-pan-stainless-steel-non-stick-coating-20580705/",
+  "name": "IKEA 365+ Frying pan, stainless steel/non-stick coating, 11 \"",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "must-have"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 19,
+    "d": 11,
+    "h": 2,
+    "raw": "Diameter: 11 \"; Height: 2 \"; Length including handles: 19 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; w is the Length including handles, d the Diameter, h the Height"
+  },
+  "images": [
+    {
+      "file": "ikea-20580705-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ikea-365-frying-pan-stainless-steel-non-stick-coating__1275978_pe930770_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: kitchen essentials list, no layout (F-41); the frying pan the 9-piece pot set (ikea-50577909) lacks. Sol-gel ceramic non-stick on stainless steel with an aluminum base: 'no PTFE or other PFAS have been allowed'; works on gas and induction cooktops; 'Handwash only'; 'Use only wooden or plastic utensils without sharp edges' (the list's KNORRHANE nylon-and-silicone spatula, ikea-60599675, is for this pan; the GRUNKA steel set is for the steel pots). Other sizes: 5\" $9.99, 9\" $19.99, 13\" $29.99. MIDDAGSMAT (non-stick, 9\" $9.99) is the cheaper line on the 'frying pan non-stick' search, not opened. Not badged; 3.9 stars (2,204). In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

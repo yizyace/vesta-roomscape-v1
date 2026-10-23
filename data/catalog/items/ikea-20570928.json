@@ -1,0 +1,42 @@
+{
+  "id": "ikea-20570928",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vallkrassing-throw-off-white-20570928/",
+  "name": "VALLKRASSING Throw, off-white, 59x79 \"",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "living-room",
+    "decor",
+    "washable",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 19.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 59,
+    "d": 79,
+    "raw": "Length: 79 \"; Width: 59 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width is w and Length is d; a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "ikea-20570928-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vallkrassing-throw-off-white__1207651_pe908114_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room extras, folded over the sofa arm · fits. Warm-white cotton throw (the image alt reads \"A VALLKRASSING cream-colored cotton throw\"); matches the VALLKRASSING gray-green cushion covers ikea-50570955. Washable: \"Machine wash warm, normal cycle.\" Article 205.709.28. Popularity: Best seller; #1 under Blankets & throws sorted Most popular; 4.7 stars (436). Stock 2026-10-22: \"Not stocked at IKEA Long Island, NY / Order online for delivery\" (home delivery to our ZIP). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

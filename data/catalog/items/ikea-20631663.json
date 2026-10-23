@@ -1,0 +1,44 @@
+{
+  "id": "ikea-20631663",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kallax-shelf-unit-white-20631663/",
+  "name": "KALLAX Shelf unit, white, 30 1/8x57 5/8 \"",
+  "brand": "IKEA",
+  "category": "bookcase",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly",
+    "anchor-required",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 79.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 30.125,
+    "d": 15.375,
+    "h": 57.625,
+    "raw": "Width: 30 1/8 \"; Depth: 15 3/8 \"; Height: 57 5/8 \"; Max load/shelf: 29 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; standing (2 cubes wide, 4 high); lying on its side it would be 57 5/8\" wide and 30 1/8\" tall, which the planner cannot draw, so layouts stand it up"
+  },
+  "images": [
+    {
+      "file": "ikea-20631663-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kallax-shelf-unit-white__0644757_pe702939_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: anchor-required (F-21: 57.6\" tall, in a room Maddie climbs; Safety and compliance: \"WARNING! Tipping hazard – this product must be securely anchored.\"). Fit: living-room, 30.1\" of wall beside the TV console or in the kids corner (F-20), 15.4\" deep plus 24\" in front to pull the baskets (F-32) · fits. Eight 13\" cubes: books up top, GNABBAS seagrass baskets ikea-60400298 (or DRÖNA boxes for toys) in the four she can reach. \"Choose whether to place it standing and use it as a shelving unit or lying and use it as a sideboard.\" \"KALLAX underframe sold separately.\" Article 206.316.63. Popularity: Best seller; #1 under the KALLAX series sorted Most popular; 4.8 stars (13). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

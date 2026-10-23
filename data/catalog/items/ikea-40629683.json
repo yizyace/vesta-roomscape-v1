@@ -1,0 +1,36 @@
+{
+  "id": "ikea-40629683",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kjuge-pouf-with-storage-oereryd-gray-beige-40629683/",
+  "name": "KJUGE Pouf with storage, Öreryd gray-beige",
+  "brand": "IKEA",
+  "category": "stool",
+  "tags": [
+    "kids",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 15,
+    "d": 15,
+    "h": 13,
+    "raw": "Diameter: 15 \"; Height: 13 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (round: w = d = Diameter, h = Height)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-22: considered as the reading-nook seat (15\" round, 13\" high, storage under the lid), but the page says \"Non-removable cover\" and \"Do not wash.\", and the house style asks for washable covers in a 4-year-old's room. Flags: none. Variant: Öreryd gray-beige (\"New\"); the Knisa dark gray cover (30531903) carries the Best seller badge.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

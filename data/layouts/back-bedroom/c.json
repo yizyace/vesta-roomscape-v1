@@ -1,0 +1,172 @@
+{
+  "room": "back-bedroom",
+  "variant": "c",
+  "name": "Alt: most desktop, four sit/stand desks (204 3/4\") and no guest bed",
+  "updatedAt": "2026-10-23T15:10:28.900Z",
+  "notes": "Alternative (F-41): the most desktop. The personal run, the work desk and a second MITTZON as a spare desk give 204 3/4\" of sit/stand desk. Gives up the guest bed (F-62 allows a daybed only if small; here there is none) and floor storage.\ndesk-1 and desk-2: the personal run on the right wall, rot 90, x 74.5-106, y 12-114.4; F-33 6\" from the heater face; F-31 7.6\" above the door's swing (assumed-position:door); F-35 47\" to the work desk and 43\" to the spare desk · four 32\" screens as in a.\ndesk-3 TRAVSPORT: left wall, rot 270, x 0-27.5, y 12-59.25, the work station; F-33 6\" from the heater face; F-35 47\" to desk-1 · fits.\ndesk-4 MITTZON 55 1/8x31 1/2, the spare desk (printer, papers, a second laptop, a second person standing): left wall, rot 270, x 0-31.5, y 59.25-114.4; F-31 3.6\" above the wardrobe's left swing (assumed-position:closet); F-35 43\" to desk-2, over the 42\" where someone passes · fits.\nchair-1 FLINTAN: the run's center, x 46-74, y 50-78 · fits. chair-2 FLINTAN: the work desk, x 28-56, y 21.6-49.6, rolled to the spare desk when it is needed; a third chair parked there would leave a 14\" walkway (F-30) · fits.\nlamp-1 TÅGARP: bottom-left corner, x 0.5-9.5, y 142-151, left of the wardrobe's swing (assumed-position:closet) · fits. plant-1 FEJKA: x 1-8.5, y 116-123.5, left of the wardrobe's swing · fits.\nrug-1 LOHALS (rug layer): x 25-77, y 20-97 under both chairs. rug-2 KOLON (rug layer): x 35.1-74.5, y 40.4-87.6 under chair-1.\nstorage-2 BESTÅ shelf unit with doors 47 1/4x16 1/2x15 (top, F-63): hung on the left wall above the work desk, x 0-16.5, y 12-59.25, its underside about 70\" up so it clears the work monitor with the desk at full height (46 1/8\"), its top about 85\", under any 8' ceiling; two suspension rails. art-1 PJÄTTERYD 3-pack (top): the three canvases in a row over the spare desk's door end and the corner, y 76-144, 54-76\" up, clear of the spare desk at 49 5/8\". lamp-2 RÖDFLIK (top): the work desk's door end. lamp-3 RÖDFLIK (top): the spare desk's window end.\nExtras: the blinds, two HUANUO arms, three cable trays (both run desks and the spare desk), the FREIVID mat, the ELLOVEN, two suspension rails, the throw over chair-1.\nNot placed: any guest bed (a guest gets an air mattress on the rug or the living room), the low BESTÅ (no free floor wall), the 2026-10-22 MICKE, ALEX, BILLY and HEMNES (see a).\nPrices: the new pieces as of 2026-10-23; the reused ones (FLINTAN, TÅGARP, RÖDFLIK, FEJKA, LOHALS, PJÄTTERYD, HOPPVALS, FÖRSÄSONG, ELLOVEN, bedding and textiles) as of 2026-10-22, price-stale (F-02).",
+  "placements": [
+    {
+      "id": "desk-1",
+      "itemId": "ikea-29528572",
+      "x": 74.5,
+      "y": 12,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "personal run, window end; two of the four 32\" screens on a HUANUO arm, the outer one angled in; F-33 6\" from the heater face"
+    },
+    {
+      "id": "desk-2",
+      "itemId": "ikea-09527578",
+      "x": 74.5,
+      "y": 67.125,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "personal run, door end; two of the four 32\" screens on a HUANUO arm, the outer one angled in; F-31 7.6\" above the door's swing (assumed-position:door)"
+    },
+    {
+      "id": "desk-3",
+      "itemId": "ikea-49620956",
+      "x": 0,
+      "y": 12,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "the work station; F-33 6\" from the heater face; F-35 47\" behind"
+    },
+    {
+      "id": "desk-4",
+      "itemId": "ikea-29528572",
+      "x": 0,
+      "y": 59.25,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "spare desk; F-31 3.6\" above the wardrobe's swing (assumed-position:closet); F-35 43\" behind"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-49424465",
+      "x": 46,
+      "y": 50,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "at the personal run's center"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-49424465",
+      "x": 28,
+      "y": 21.625,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "at the work desk; rolls to the spare desk"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-70486395",
+      "x": 0.5,
+      "y": 142,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "corner uplighter, left of the wardrobe's swing (assumed-position:closet)"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-10615244",
+      "x": 1,
+      "y": 116,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "left of the wardrobe's swing (assumed-position:closet)"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-30511288",
+      "x": 25,
+      "y": 20,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "flatweave in the aisle under both chairs"
+    },
+    {
+      "id": "rug-2",
+      "itemId": "ikea-44881100",
+      "x": 35.125,
+      "y": 40.375,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "clear chair mat under chair-1, on the rug"
+    },
+    {
+      "id": "storage-2",
+      "itemId": "ikea-79047429",
+      "x": 0,
+      "y": 12,
+      "rotation": 270,
+      "layer": "top",
+      "note": "BESTÅ cabinet hung above the work desk, underside about 70\" up, two suspension rails (F-63)"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-40602018",
+      "x": 0,
+      "y": 99,
+      "rotation": 270,
+      "layer": "top",
+      "note": "three 22\" canvases in a row, y 76-144, over the spare desk's door end and the corner"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-40584057",
+      "x": 2,
+      "y": 51,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the work desk's door end"
+    },
+    {
+      "id": "lamp-3",
+      "itemId": "ikea-40584057",
+      "x": 2,
+      "y": 62,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the spare desk's window end"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-70431402",
+      "qty": 2,
+      "note": "HOPPVALS cordless cellular blinds, two side by side (68\") over the 67\" window; no floor-length curtains on the heater wall (F-33); check inside or outside mount (assumed-position:window)"
+    },
+    {
+      "itemId": "amazon-B0CTMHHJJC",
+      "qty": 2,
+      "note": "HUANUO dual monitor arms, one clamped to the back of each personal-run desk: two 32\" screens each (no-dimensions, so an extra)"
+    },
+    {
+      "itemId": "ikea-00573188",
+      "qty": 3,
+      "note": "FÖRSÄSONG cable trays under the two run desks and the spare desk"
+    },
+    {
+      "itemId": "ikea-00556773",
+      "qty": 1,
+      "note": "FREIVID anti-fatigue mat, gray-green: lives under the personal run and comes out when he stands (F-62)"
+    },
+    {
+      "itemId": "ikea-50474770",
+      "qty": 1,
+      "note": "ELLOVEN stand with drawer on the work desk: raises the job laptop beside the 32\" monitor; the drawer holds badge and chargers"
+    },
+    {
+      "itemId": "ikea-70488318",
+      "qty": 2,
+      "note": "BESTÅ suspension rails for the wall-hung cabinet, fixed into studs"
+    },
+    {
+      "itemId": "ikea-20570928",
+      "qty": 1,
+      "note": "VALLKRASSING off-white throw over chair-1"
+    }
+  ]
+}

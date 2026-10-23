@@ -1,0 +1,42 @@
+{
+  "id": "ikea-60196358",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/sundvik-childrens-chair-white-60196358/",
+  "name": "SUNDVIK Children's chair, white",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "kids",
+    "bedroom",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 11,
+    "d": 11.375,
+    "h": 21.625,
+    "raw": "Width: 11 \"; Depth: 11 3/8 \"; Height: 21 5/8 \"; Seat width: 11 \"; Seat depth: 10 1/4 \"; Seat height: 11 3/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-60196358-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/sundvik-childrens-chair-white__0727928_pe735932_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: the seat for the FLISAT desk (ikea-30609181) or a play table; 11 x 11 3/8\" sits inside the desk's 30\" chair zone (F-35) · fits. Seat 11 3/8\" high; FLISAT's lowest top (23 1/4\") is 11 7/8\" above it. The page shows \"Last chance\" (being discontinued) and no age recommendation. Variant: White. Popularity: #4 under Kids chairs sorted Most popular, the first chair with a back (#1 to #3 are stools); 4.5 stars (509). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

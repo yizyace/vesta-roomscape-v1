@@ -1,0 +1,40 @@
+{
+  "id": "ikea-30623460",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/pjaetteryd-picture-endless-tide-30623460/",
+  "name": "PJÄTTERYD Picture, endless tide, 55x22 \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "bedroom",
+    "decor"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 69.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 55,
+    "h": 22,
+    "raw": "Width: 55 \"; Height: 22 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; the page gives Width and Height only (no Depth row), so Height is recorded as d, the catalog's second-number convention for wall pieces (as ikea-40602018), and the piece is drawn on the top layer by its face; it hangs flat on the wall; flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-30623460-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/pjaetteryd-picture-endless-tide__1483713_pe1001318_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, over the bed on the right wall: 55\" wide over the 63\" TARVA (87% of its width), centered on the headboard, on the top layer by its face (22\") · fits. A soft seascape (blush sky, sage sea, sand) in the house palette; motif by Irene Suchocki. New. Only 2.2 stars from 16 reviews (the page shows no review text): the format and palette fit and the rating is the risk; the 4.9-star BLODFLÄDER Nazaré ikea-80601917 was rejected as too small for over the bed. In stock in IKEA Long Island, NY on 2026-10-22. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

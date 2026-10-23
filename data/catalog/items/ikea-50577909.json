@@ -1,0 +1,36 @@
+{
+  "id": "ikea-50577909",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ikea-365-9-piece-cookware-set-stainless-steel-50577909/",
+  "name": "IKEA 365+ 9-piece cookware set, stainless steel",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "must-have",
+    "best-seller"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-50577909-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ikea-365-9-piece-cookware-set-stainless-steel__1006153_pe825739_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (the Measurements tab shows only the package: 'Width: 12 ¾ \"; Height: 11 ½ \"; Length: 22 ¼ \"; Weight: 13 lb 4 oz'; a set, never placed). Fit: kitchen essentials list, no layout (F-41). The pots: 'Includes: 1 pot with lid (10.6 qt), 1 pot with lid (5.3 qt), 1 pot with lid (3.2 qt), 1 saucepan with lid (2.1 qt) and 1 saucepan (1.1 qt).' No frying pan, so the list adds the IKEA 365+ non-stick 11\" (ikea-20580705). Stainless steel; works on gas, induction, ceramic glass and electric cooktops (the kitchen's range is unknown); 'Dishwasher-safe', oven-safe. ANNONS 5-piece (glass/stainless steel, Best seller, $19.99) is the budget set on the same search, not opened. Best seller badge on the page; 4.1 stars (22). In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

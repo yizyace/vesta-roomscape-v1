@@ -1,0 +1,38 @@
+{
+  "id": "ikea-10623475",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ekoln-trash-can-beige-10623475/",
+  "name": "EKOLN Trash can, beige, 1 gallon",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 14.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 6.75,
+    "d": 6.75,
+    "h": 10.25,
+    "raw": "Height: 10 1/4 \"; Diameter: 6 3/4 \"; Volume: 1 gallon",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (round: w = d = Diameter, h = Height)"
+  },
+  "images": [
+    {
+      "file": "ikea-10623475-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ekoln-trash-can-beige__1481779_pe1000701_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: the bathroom list; 6 3/4\" round, 10 1/4\" high, 1 gallon. A pedal bin with a lid (stainless steel lid; pedal and hinge of polypropylene and steel), \"the inner bucket can be removed\"; galvanized steel, powder coated; wipe clean. Variant: beige, matching EKOLN ikea-60493004. Popularity: from a search for \"ekoln\"; not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: [] with the bathroom tag (F-13: the bathroom is not one of the six rooms; F-41: it gets a list, not a layout); the bathroom is unmeasured.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ikea-90628228",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/tiokrona-rug-flatwoven-natural-90628228/",
+  "name": "TIOKRONA Rug, flatwoven, natural, 7 ' 10 \"x9 ' 10 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 129.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 118,
+    "d": 94,
+    "h": 0.25,
+    "raw": "Length: 9 ' 10 \"; Width: 7 ' 10 \"; Area: 77.50 sq feet; Thickness: 1/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Length 9'10\" = 118\" -> w (along the sofa), Width 7'10\" = 94\" -> d, Thickness -> h"
+  },
+  "images": [
+    {
+      "file": "ikea-90628228-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tiokrona-rug-flatwoven-natural__1538970_pe1017536_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room, the rug layer under the sofa's front legs and the coffee table; 118\" x 94\" inside the 225\" x 161\" of floor off the stair band and the heater (F-40, F-33) · fits. Flatwoven, 1/4\" thick, 100% jute (the house style's jute look); \"Do not wash.\" (vacuum with the standard floorhead, never the rotating brush), so it is wipe-and-vacuum, not washable. Use with an anti-slip underlay (STOPP FILT, #1 under Rugs sorted Most popular, not captured). Article 906.282.28. Popularity: not badged; #14 under Rugs sorted Most popular; 4.5 stars (10). Kept over the Best seller LOHALS 6'7\"x9'10\" (00277395, $179.99, card only): the same jute flatweave, $50 cheaper and a foot wider. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

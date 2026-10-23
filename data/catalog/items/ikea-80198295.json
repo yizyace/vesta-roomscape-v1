@@ -1,0 +1,34 @@
+{
+  "id": "ikea-80198295",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/morum-rug-flatwoven-in-outdoor-beige-80198295/",
+  "name": "MORUM Rug flatwoven, in/outdoor, beige, 6 ' 7 \"x9 ' 10 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 79,
+    "d": 118,
+    "h": 0.25,
+    "raw": "Length: 9 ' 10 \"; Width: 6 ' 7 \"; Area: 64.58 sq feet; Thickness: ¼ \"",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23; Width 6'7\" = 79\" -> w, Length 9'10\" = 118\" -> d, Thickness -> h"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-23 (F-03): the right size for the dining table (79 x 118\", the larger size of the catalog's 5'3\"x7'7\" MORUM ikea-20203563), but it cannot be had for the move: \"Not sold at IKEA Long Island, NY\", \"Not sold for Click and collect at IKEA Long Island, NY\", \"Currently unavailable for delivery to our ZIP\", \"Unavailable online for selected areas\". The in/outdoor LYDERSHOLM 6'7\"x9'10\" (ikea-50495409, in stock) is taken instead. Good to know: \"You will need 2 STOPP FILT rug underlay with anti-slip (5'5\"x7'9\") for this rug. Trim if necessary.\" \"This rug fits under a 6-seat dining table\". The Materials and care section rendered empty on this page. 4.6 stars (2323). Article 801.982.95. Flags: none.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

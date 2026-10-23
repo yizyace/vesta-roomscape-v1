@@ -1,0 +1,40 @@
+{
+  "id": "ikea-80601917",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/blodflaeder-picture-nazare-80601917/",
+  "name": "BLODFLÄDER Picture, Nazaré, 19 ¾x27 ½ \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "decor"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 59.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 20.5,
+    "d": 1.25,
+    "h": 28.25,
+    "raw": "Height: 27 ½ \"; Width: 19 ¾ \"; Frame width: 20 ½ \"; Frame height: 28 ¼ \"; Frame depth: 1 ¼ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; the framed size: Frame width -> w, Frame depth -> d, Frame height -> h"
+  },
+  "images": [
+    {
+      "file": "ikea-80601917-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/blodflaeder-picture-nazare__1392151_pe966013_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Rejected (F-03) for over the bed: 20 1/2\" framed width is a third of the 63\" headboard; a blue-teal wave line drawing in a light-wood frame (blue sits outside the palette). 4.9 stars (42); in stock in IKEA Long Island, NY on 2026-10-22. The well-reviewed swap for a smaller wall if the PJÄTTERYD endless tide ikea-30623460 (2.2 stars) disappoints. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

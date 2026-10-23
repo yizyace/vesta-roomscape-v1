@@ -1,0 +1,137 @@
+// The data files under data/, read straight from disk. The catalog and layout
+// directories may not exist yet; their checks are skipped until they do.
+import { existsSync, readdirSync, readFileSync } from "node:fs";
+import { describe, expect, it } from "vitest";
+import type { z } from "zod";
+import { ItemSchema, LayoutSchema, ROOM_IDS, RoomsSchema, TaxonomySchema, issuesToLines } from "../shared/schema.ts";
+
+const DATA = new URL("../data/", import.meta.url);
+const ITEMS_DIR = new URL("catalog/items/", DATA);
+const IMAGES_DIR = new URL("images/", DATA);
+const LAYOUTS_DIR = new URL("layouts/", DATA);
+const ROOM_ID_SET = new Set<string>(ROOM_IDS);
+
+type JsonFile = { file: string; data: unknown; error?: string };
+
+/** Every .json file in a directory, parsed as JSON; [] when the directory doesn't exist. */
+function jsonFiles(dir: URL): JsonFile[] {
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((file) => file.endsWith(".json"))
+    .sort()
+    .map((file) => {
+      try {
+        return { file, data: JSON.parse(readFileSync(new URL(file, dir), "utf8")) };
+      } catch (err) {
+        return { file, data: undefined, error: String(err) };
+      }
+    });
+}
+
+/** Parses each file with the schema; the values that parse, and one line per JSON or schema problem. */
+function parseAll<T>(files: JsonFile[], schema: z.ZodType<T>): { parsed: { file: string; value: T }[]; problems: string[] } {
+  const parsed: { file: string; value: T }[] = [];
+  const problems: string[] = [];
+  for (const { file, data, error } of files) {
+    if (error) {
+      problems.push(`${file}: ${error}`);
+      continue;
+    }
+    const result = schema.safeParse(data);
+    if (result.success) parsed.push({ file, value: result.data });
+    else problems.push(...issuesToLines(result.error).map((line) => `${file}: ${line}`));
+  }
+  return { parsed, problems };
+}
+
+/** Every layouts/<room>/<variant>.json, named "<room>/<variant>.json"; flat files keep their bare name. */
+function layoutFiles(): JsonFile[] {
+  if (!existsSync(LAYOUTS_DIR)) return [];
+  const flat = jsonFiles(LAYOUTS_DIR);
+  const nested = readdirSync(LAYOUTS_DIR, { withFileTypes: true })
+    .filter((entry) => entry.isDirectory())
+    .sort((a, b) => a.name.localeCompare(b.name))
+    .flatMap((dir) => jsonFiles(new URL(`${dir.name}/`, LAYOUTS_DIR)).map((f) => ({ ...f, file: `${dir.name}/${f.file}` })));
+  return [...flat, ...nested];
+}
+
+const rooms = RoomsSchema.safeParse(JSON.parse(readFileSync(new URL("rooms.json", DATA), "utf8")));
+const taxonomy = TaxonomySchema.safeParse(JSON.parse(readFileSync(new URL("catalog/taxonomy.json", DATA), "utf8")));
+const items = parseAll(jsonFiles(ITEMS_DIR), ItemSchema);
+const layouts = parseAll(layoutFiles(), LayoutSchema);
+
+const duplicates = (values: string[]): string[] => values.filter((v, i) => values.indexOf(v) !== i);
+
+describe("rooms.json", () => {
+  it("parses with RoomsSchema and lists exactly the six ROOM_IDS, in order", () => {
+    expect(rooms.success ? [] : issuesToLines(rooms.error)).toEqual([]);
+    expect(rooms.data?.rooms.map((r) => r.id)).toEqual([...ROOM_IDS]);
+  });
+
+  it("points each room at a sketch that exists", () => {
+    const missing = (rooms.data?.rooms ?? []).filter((r) => r.sketch !== undefined && !existsSync(new URL(r.sketch, DATA)));
+    expect(missing.map((r) => `${r.id}: ${r.sketch}`)).toEqual([]);
+  });
+});
+
+describe("catalog/taxonomy.json", () => {
+  it("parses with TaxonomySchema and repeats no category or tag", () => {
+    expect(taxonomy.success ? [] : issuesToLines(taxonomy.error)).toEqual([]);
+    expect(duplicates(taxonomy.data?.categories ?? [])).toEqual([]);
+    expect(duplicates(taxonomy.data?.tags ?? [])).toEqual([]);
+  });
+});
+
+describe.skipIf(!existsSync(ITEMS_DIR))("catalog/items/", () => {
+  it("every item parses with ItemSchema and is stored as <id>.json", () => {
+    const misnamed = items.parsed.filter(({ file, value }) => file !== `${value.id}.json`);
+    expect([...items.problems, ...misnamed.map(({ file, value }) => `${file}: holds "${value.id}"`)]).toEqual([]);
+  });
+
+  it("every category and tag is in the taxonomy, and every room is a ROOM_ID", () => {
+    const categories = new Set(taxonomy.data?.categories);
+    const tags = new Set(taxonomy.data?.tags);
+    const problems = items.parsed.flatMap(({ file, value }) => [
+      ...(categories.has(value.category) ? [] : [`${file}: category "${value.category}"`]),
+      ...value.tags.filter((t) => !tags.has(t)).map((t) => `${file}: tag "${t}"`),
+      ...value.rooms.filter((r) => !ROOM_ID_SET.has(r)).map((r) => `${file}: room "${r}"`),
+    ]);
+    expect(problems).toEqual([]);
+  });
+
+  it("every image file exists in data/images/", () => {
+    const missing = items.parsed.flatMap(({ file, value }) =>
+      value.images.filter((img) => !existsSync(new URL(img.file, IMAGES_DIR))).map((img) => `${file}: images/${img.file}`),
+    );
+    expect(missing).toEqual([]);
+  });
+});
+
+describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
+  it("every layout parses with LayoutSchema and is stored as <room>/<variant>.json for a ROOM_ID", () => {
+    const misplaced = layouts.parsed
+      .filter(({ file, value }) => !ROOM_ID_SET.has(value.room) || file !== `${value.room}/${value.variant}.json`)
+      .map(({ file, value }) => `${file}: holds ${value.room}/${value.variant}`);
+    expect([...layouts.problems, ...misplaced]).toEqual([]);
+  });
+
+  it("every extras item is in the catalog", () => {
+    const catalog = new Set(items.parsed.map(({ value }) => value.id));
+    const problems = layouts.parsed.flatMap(({ file, value }) =>
+      value.extras.filter((e) => !catalog.has(e.itemId)).map((e) => `${file}: extras item "${e.itemId}" is not in catalog/items/`),
+    );
+    expect(problems).toEqual([]);
+  });
+
+  it("every placement uses a catalog item that has dimensions", () => {
+    const catalog = new Map(items.parsed.map(({ value }) => [value.id, value]));
+    const problems = layouts.parsed.flatMap(({ file, value }) =>
+      value.placements.flatMap((p) => {
+        const item = catalog.get(p.itemId);
+        if (!item) return [`${file}: placement "${p.id}" uses "${p.itemId}", which is not in catalog/items/`];
+        return item.dimensions ? [] : [`${file}: placement "${p.id}" uses "${p.itemId}", which has no dimensions`];
+      }),
+    );
+    expect(problems).toEqual([]);
+  });
+});

@@ -1,0 +1,41 @@
+{
+  "id": "ikea-90559296",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/storklinta-2-drawer-chest-white-with-2-drawers-90559296/",
+  "name": "STORKLINTA 2-drawer chest, white/with 2 drawers, 19 5/8x18 7/8x20 7/8 \"",
+  "brand": "IKEA",
+  "category": "nightstand",
+  "tags": [
+    "bedroom",
+    "storage",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 79.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 19.625,
+    "d": 18.875,
+    "h": 20.875,
+    "raw": "Depth: 18 7/8 \"; Drawer depth (inside): 15 3/4 \"; Height: 20 7/8 \"; Width: 19 5/8 \"; Drawer width (inside): 16 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-90559296-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/storklinta-2-drawer-chest-white-with-2-drawers__1283590_pe932547_s5.jpg"
+    }
+  ],
+  "notes": "Nightstand. F-20: a pair beside the 63\" TARVA on the 133\" right wall uses 102.25\" and leaves 30.75\"; beside the 62.25\" BRIMNES, 101.5\" and 31.5\". Variant white (dark-brown oak effect and oak effect also sold); matches the STORKLINTA 6-drawer dresser. Best seller (product page; #1 on the Nightstands list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

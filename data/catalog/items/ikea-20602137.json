@@ -1,0 +1,39 @@
+{
+  "id": "ikea-20602137",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/bengta-block-out-curtain-1-piece-beige-with-heading-tape-20602137/",
+  "name": "BENGTA Block-out curtain, 1 piece, beige/with heading tape, 83x98 \"",
+  "brand": "IKEA",
+  "category": "curtains",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 14.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 83,
+    "h": 98,
+    "raw": "Area: 56.51 sq feet; Length: 98 \"; Width: 83 \"; Weight: 1 lb 8 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width (the one panel) is w and Length (the drop) is d, the catalog's Length-to-d convention for curtains; it hangs at the window, so it is a layout extra and never placed; flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-20602137-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/bengta-block-out-curtain-1-piece-beige-with-heading-tape__1341494_pe948758_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: assumed-position:window (F-38: the 67\" window's place on the top wall is eyeballed), heater-depth-assumed (F-33). Fit: master-bedroom, two panels (2 x 83\" = 166\", about 2.5x the 67\" window) on the HUGAD rod ikea-49634091 set to about 107\" so the panels stack off the glass · fits. F-33: the hatched window wall is a heater wall; BENGTA is cut to length (\"Cut to length and hang - the fabric won't shred.\"), so trim the 98\" drop to end above the heater, keeping textiles 12\" from its face (the heater's height is unmeasured). Product features: Black-out, Cut to size; recycled polyester that \"retains its fresh look after washing\" (no machine-wash line read, so not tagged washable). Sold as 1 piece: qty 2 for the window. 4.1 stars (559). In stock in IKEA Long Island, NY on 2026-10-22. #13 on Blackout curtains sorted Most popular: the warm-neutral black-out choices above it were KORGMOTT (Last chance) and MAJGULL or ROSENMANDEL (dark green or gray only). rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

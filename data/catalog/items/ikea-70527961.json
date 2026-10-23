@@ -1,0 +1,40 @@
+{
+  "id": "ikea-70527961",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/svartsenap-placemat-natural-70527961/",
+  "name": "SVARTSENAP Placemat, natural, 14x18 \"",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "dining",
+    "washable"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 1.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 13.75,
+    "d": 17.75,
+    "raw": "Length: 17 ¾ \"; Width: 13 ¾ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width is w, Length is d"
+  },
+  "images": [
+    {
+      "file": "ikea-70527961-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/svartsenap-placemat-natural__1089663_pe861634_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: one per seat, listed in the layouts' extras (qty 4); matches the SVARTSENAP runner (ikea-40533063). 100 % yarn-dyed cotton: 'Machine wash warm, normal cycle', so Maddie's spills go in the wash. Price $1.99 each; 'Online min. order quantity: 4'. Not badged; 3.5 stars (344). In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

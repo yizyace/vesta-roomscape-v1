@@ -1,0 +1,37 @@
+{
+  "id": "ikea-00626498",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/naelk-shower-curtain-liner-clear-00626498/",
+  "name": "NÄLK Shower curtain liner, clear, 71x71 \"",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 4.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 71,
+    "h": 71,
+    "raw": "Length: 71 \"; Width: 71 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (flat, vendors.md: w = Width, h = Length, the drop; no depth row, so no d; a list item)"
+  },
+  "images": [
+    {
+      "file": "ikea-00626498-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/naelk-shower-curtain-liner-clear__1494459_pe1004746_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: the bathroom list, behind STRANDLUMMER (ikea-60591146) on the same rings; the page: \"Transparent so you can see the decorative shower curtain through the liner.\" and \"Magnets at the bottom act as weights and anchor the liner to the bathtub\". \"Do not wash.\" (wipe it). Variant: clear. Popularity: \"New\"; #11 under a search for \"shower curtain\". Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: [] with the bathroom tag (F-13: the bathroom is not one of the six rooms; F-41: it gets a list, not a layout); the bathroom is unmeasured.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

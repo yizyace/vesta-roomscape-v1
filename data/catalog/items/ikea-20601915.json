@@ -1,0 +1,42 @@
+{
+  "id": "ikea-20601915",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/blodflaeder-picture-the-seine-at-giverny-20601915/",
+  "name": "BLODFLÄDER Picture, The Seine at Giverny, 46 ½x30 ¾ \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "dining",
+    "decor",
+    "best-seller"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 1.25,
+    "h": 31.5,
+    "raw": "Height: 30 ¾ \"; Width: 46 ½ \"; Frame width: 47 ¼ \"; Frame height: 31 ½ \"; Frame depth: 1 ¼ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; w is the Frame width, d the Frame depth (off the wall), h the Frame height; the 46 ½ x 30 ¾ in the name is the picture inside the frame"
+  },
+  "images": [
+    {
+      "file": "ikea-20601915-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/blodflaeder-picture-the-seine-at-giverny__1392143_pe966004_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: hangs centered above the VIHALS sideboard (55.125\" wide), so the layouts draw it on the top layer on the sideboard's wall; 47.25\" is 86% of the sideboard's width (above the KALLAX in the round layout it is wider than the unit, so that layout centers it on the wall). Canvas print (80% polyester, 100% recycled, and 20% linen) on a fiberboard frame with paper foil: no glass. 'The picture is hung from the protruding edge that runs along the top of the back side'; fasteners to suit the wall. Motif by Claude Monet, soft greens and blues (the house style's sage accent). Best seller badge on the page; #2 on Wall art sorted Most popular; 4.6 stars (125). In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

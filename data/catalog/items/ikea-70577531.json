@@ -1,0 +1,39 @@
+{
+  "id": "ikea-70577531",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/dvala-sheet-set-white-70577531/",
+  "name": "DVALA Sheet set, white, Queen",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 80,
+    "raw": "Fitted sheet width: 60 \"; Fitted sheet length: 80 \"; Pillowcase quantity: 2 pack; Pillowcase length: 20 \"; Pillowcase width: 30 \"; Sheet width: 90 \"; Sheet length: 104 \"; Thread count: 152 /inch²; Max. mattress thickness: 10 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Fitted sheet width -> w, Fitted sheet length -> d; bedding, a layout extra"
+  },
+  "images": [
+    {
+      "file": "ikea-70577531-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/dvala-sheet-set-white__1279647_pe931458_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, the queen fitted sheet (60 x 80\") takes a mattress up to 10\" thick and the VALEVÅG ikea-50511857 is 9.5\" · fits. Fitted sheet, a 90 x 104\" flat sheet and two 20 x 30\" pillowcases; 100% cotton, thread count 152 (\"gets softer and cozier with each wash\"). 3.6 stars (247). Sizes: Twin $19.99, Full/Double $24.99, Queen $29.99, King $39.99; the NATTJASMIN sets (Best seller) are $59.99. In stock in IKEA Long Island, NY; available for delivery (2026-10-22). rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

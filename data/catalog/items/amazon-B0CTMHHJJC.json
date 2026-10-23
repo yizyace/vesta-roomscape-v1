@@ -1,0 +1,34 @@
+{
+  "id": "amazon-B0CTMHHJJC",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CTMHHJJC",
+  "name": "HUANUO Dual Monitor Stand - Full Adjustable Monitor Desk Mount Swivel Vesa Bracket with C Clamp, Grommet Mounting Base for 13 to 32 Inch Computer Screens - Each Arm Holds 4.4 to 19.8lbs - White",
+  "brand": "HUANUO",
+  "category": "other",
+  "tags": [
+    "office"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 69.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "amazon-B0CTMHHJJC-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61T+SoUet+L._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (F-11: the page's overview and item-detail rows give no size, so it is a layout extra, never placed). Fit: one clamps to the back edge of each MITTZON desk of the personal run, two 32\" screens per arm set (F-62); the arms let the outer screens angle in to an arc on the 102 3/8\" run and push all four screens back to the wall. IKEA's STUBBERGET bracket (ikea-30591765) takes screens only up to 24\" (rejected), so this one is Amazon (F-25). Rows read: 'Mounting Type C-clamp or optional grommet mount; Movement Type Tilt, Swivel,Rotate, Height adjustment; Brand HUANUO; Material Alloy Steel; Color White; Compatible Devices Monitor; Maximum Tilt Angle 85 degrees; UPC 810158821897; Unit Count 1 Count; Number of Packs 1'; 'Item Weight 10.76 pounds'; 'Maximum-Supported Screen Size 32 inches'; 'Minimum-Supported Screen Size 13 inches'. Variant: the 13-32 Inch size, Color White, ASIN B0CTMHHJJC in the address (F-26). The search card shows 4.6 stars (34.8K). Check each monitor's weight (19.8 lb per arm at most) and its VESA mount before buying. rooms: back-bedroom, from the redesign brief.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

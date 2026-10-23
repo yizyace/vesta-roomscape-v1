@@ -1,0 +1,43 @@
+{
+  "id": "ikea-10620373",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ikea-ps-2026-chair-bed-skiftebo-light-grey-beige-10620373/",
+  "name": "IKEA PS 2026 Chair bed, Skiftebo light grey-beige",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "office",
+    "bedroom",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 399,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 31.5,
+    "d": 33.125,
+    "h": 29.5,
+    "raw": "Bed length: 79 7/8 \"; Height: 29 1/2 \"; Seat depth: 25 5/8 \"; Seat height: 16 1/8 \"; Width: 31 1/2 \" | dimension drawing on the same tab: 80 cm (31 1/2\"), 75 cm (29 1/2\"), 65 cm (25 5/8\"), 41 cm (16 1/8\"), 84 cm (33 1/8\"); opened 203cm (79 7/8\"), 201cm (79 1/8\"), 19 cm (7 1/2\"), 80 cm (31 1/2\")",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23. w is the Width row and h the Height row. The rows have no overall Depth, so d is the closed depth printed on the same tab's dimension drawing ('Illustration with measurements for the product: IKEA PS 2026', 84 cm (33 1/8\")), opened at full size (1400 px) in Chrome; the drawing also gives the opened bed: 203 cm (79 7/8\") long overall (the Bed length row), the mattress 201 cm (79 1/8\") by 80 cm (31 1/2\"), 19 cm (7 1/2\") thick"
+  },
+  "images": [
+    {
+      "file": "ikea-10620373-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ikea-ps-2026-chair-bed-skiftebo-light-grey-beige__1478460_pe999578_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. Fit: F-62's small daybed for the office. Closed it is 31 1/2\" wide by 33 1/8\" deep (1,043 sq in), a third of the HEMNES daybed it replaces (ikea-30349329: 78 3/8 x 41 3/8\", 3,243 sq in, and 76 3/4\" deep pulled out), and it still sleeps one adult on a 79 1/8 x 31 1/2\" mattress, 7 1/2\" thick. Opened, it runs 79 7/8\" forward from its back: from the side wall of the 106\" room that leaves 26\" for the desk opposite, so in a and d its last 5 3/8\" slides under the MITTZON desk opposite, raised for the night (24 3/8-49 5/8\" high); that desk's legs stand near its ends with T-feet running front to back, so the bed's foot goes between them (in a, angled a few degrees toward the window to clear the door-end leg). A getting-in side of 24\" or more runs along it (F-34). Seat height 16 1/8\", seat depth 25 5/8\", back 29 1/2\" high. Skiftebo light grey-beige cover with blue accent buttons. F-22: closed 31 1/2 x 33 1/8 x 29 1/2\", under 30\" in its smallest dimension, so it passes a 30\" door even assembled; the page offers assembly service ($6.50*). New; 4.2 stars (37). Other cover: Skiftebo bright orange (ikea-80620379, not opened). Designer Matilda Lindstam Nilsson; 10 year limited warranty. Article 106.203.73. Stock 2026-10-23: in stock at IKEA Long Island, NY; click and collect free; home delivery to our ZIP from $39.00. rooms: back-bedroom, from the redesign brief (F-62).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

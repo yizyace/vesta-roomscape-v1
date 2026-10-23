@@ -1,0 +1,41 @@
+{
+  "id": "ikea-60262188",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/fjaedrar-inner-cushion-off-white-60262188/",
+  "name": "FJÄDRAR Inner cushion, off-white, 20x20 \"",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "living-room",
+    "washable",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 12,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 20,
+    "d": 20,
+    "raw": "Length: 20 \"; Width: 20 \"; Filling weight: 26 oz; Total weight: 29 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width is w and Length is d; a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "ikea-60262188-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/fjaedrar-inner-cushion-off-white__0243140_pe382470_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room extras, one insert per 20x20\" cover (SVARTPOPPEL ikea-60543004, VALLKRASSING ikea-50570955) · fits. Duck-feather filling. Washable: \"Machine wash warm (max 140°F/60°C) normal cycle.\" The polyester INNER 20x20\" ($9.00) is the cheaper alternative (not opened). Article 602.621.88. Popularity: Best seller; #1 under the \"cushion cover\" search sorted Most popular; 4 stars (6716). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

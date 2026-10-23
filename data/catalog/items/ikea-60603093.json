@@ -1,0 +1,41 @@
+{
+  "id": "ikea-60603093",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/alhult-bench-beige-brown-60603093/",
+  "name": "ÅLHULT Bench, beige/brown, 40 1/2x14 1/8 \"",
+  "brand": "IKEA",
+  "category": "bench",
+  "tags": [
+    "dining",
+    "seating"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 40.5,
+    "d": 14.125,
+    "h": 17.75,
+    "raw": "Height: 17 3/4 \"; Length: 40 1/2 \"; Width: 14 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Length -> w (along the wall), Width -> d"
+  },
+  "images": [
+    {
+      "file": "ikea-60603093-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/alhult-bench-beige-brown__1403282_pe969289_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: backed against the dining room's 128\" top wall it leaves 87.5\"; 40.5\" runs inside the ALHULT's 47.25\" side, and the page says it 'can be tucked away under the table'. Seats two (Maddie plus a parent) with a wall behind them, so nothing tips backward and no chair is pulled out behind her; seat height 17.75\" matches the chairs. Matches the ALHULT beige/brown table (ikea-60597921): ash veneer top, stained, tinted clear acrylic lacquer. Indoor use only; TRIXIG floor protectors sold separately. Not badged; 4.9 stars (9); first result for 'dining bench'. PERJOHAN (pine bench with storage, Best seller, $79.99) is the cheaper alternative seen on the same search, not opened. In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

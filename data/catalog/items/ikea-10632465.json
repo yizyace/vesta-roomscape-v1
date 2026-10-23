@@ -1,0 +1,40 @@
+{
+  "id": "ikea-10632465",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/aengslilja-duvet-cover-and-pillowcase-s-pale-gray-green-10632465/",
+  "name": "ÄNGSLILJA Duvet cover and pillowcase(s), pale gray-green, Twin",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 64,
+    "d": 86,
+    "raw": "Pillowcase quantity: 1 pack; Duvet cover length: 86 \"; Duvet cover width: 64 \"; Pillowcase length: 20 \"; Pillowcase width: 30 \"; Thread count: 125 /inch²",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; bedding: Duvet cover width is w and Duvet cover length is d"
+  },
+  "images": [
+    {
+      "file": "ikea-10632465-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/aengslilja-duvet-cover-and-pillowcase-s-pale-gray-green__1521572_pe1013317_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. A layout extra for the guest daybed (HEMNES ikea-30349329 with an ÅSVANG twin mattress ikea-80481415), never placed. A duvet cover and one pillowcase in 100% cotton; machine wash warm (page). Pale gray-green, the sage accent of the house palette (also white, natural, gray and other colors). Fits the 64 x 86 twin duvet insert SÄFFEROT (ikea-40457078). #1 on Duvet covers sorted Most popular (the Full/Queen card); not badged. In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

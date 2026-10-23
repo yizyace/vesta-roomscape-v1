@@ -1,0 +1,36 @@
+{
+  "id": "ikea-80578342",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/aendlig-3-piece-knife-set-light-gray-white-80578342/",
+  "name": "ÄNDLIG 3-piece knife set, light gray/white",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "must-have",
+    "best-seller"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-80578342-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/aendlig-3-piece-knife-set-light-gray-white__0210168_pe363627_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (the Measurements tab shows only the package: 'Width: 6 ½ \"; Height: 1 \"; Length: 15 ¼ \"; Weight: 13 oz'; a set, never placed). Fit: kitchen essentials list, no layout (F-41). 'Includes: Bread knife 9\" (tot. length 13¾\"), cook's knife 5¾\" (tot. length 11\") and paring knife 4\" (tot. lenght 8\").' Stainless steel blades, polypropylene and TPE handles, 'Handwash only'; 15-year limited warranty. Store above Maddie's reach (she is 4). Pairs with the APTITLIG bamboo board (ikea-80233430). Best seller badge on the page; 4.9 stars (31). In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

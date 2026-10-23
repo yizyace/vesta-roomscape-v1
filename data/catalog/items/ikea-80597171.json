@@ -1,0 +1,40 @@
+{
+  "id": "ikea-80597171",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ginstmott-curtains-1-pair-beige-with-heading-tape-80597171/",
+  "name": "GINSTMOTT Curtains, 1 pair, beige/with heading tape, 57x98 \"",
+  "brand": "IKEA",
+  "category": "curtains",
+  "tags": [
+    "living-room",
+    "washable"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 34.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 57,
+    "h": 98,
+    "raw": "Length: 98 \"; Width: 57 \"; Weight: 4 lb 15 oz; Area: 39.07 sq feet; Width/curtain: 57 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width (per curtain) is w and Length (the drop) is d, the catalog's Length-to-d convention; it hangs at the window, so it is a layout extra and never placed; flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-80597171-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ginstmott-curtains-1-pair-beige-with-heading-tape__1308585_pe939896_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: assumed-position:window (F-38: the 102\" window's place on the top wall is eyeballed). Fit: living-room, two pairs (4 panels x 57\" = 228\", about 2.2x the 102\" window) on a rod of about 120\" · fits. Keep the hems clear of the heater along the window wall (F-33; its height is unmeasured): shorten with iron-on hemming tape if the 98\" drop reaches it. Light filtering: \"The fabric dims daylight entering the room and reduces glare.\" Washable: \"Machine wash warm, normal cycle.\" The heading tape takes a rod directly (the image shows a rod pocket) or hooks on a track. Variant: beige/with heading tape (the house style's oatmeal), 57x98\" ($29.99 for 57x84\"), article 805.971.71. Price is per pair. Popularity: not badged; #3 under Curtains & drapes sorted Most popular; 4.5 stars (466). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

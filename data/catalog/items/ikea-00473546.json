@@ -1,0 +1,41 @@
+{
+  "id": "ikea-00473546",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/alex-drawer-unit-white-00473546/",
+  "name": "ALEX Drawer unit, white, 14 1/8x27 1/2 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "office",
+    "storage",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 95,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 14.125,
+    "d": 22.875,
+    "h": 27.5,
+    "raw": "Width: 14 1/8 \"; Depth: 22 7/8 \"; Height: 27 1/2 \"; Drawer depth (inside): 20 1/2 \"; Maximum load/drawer: 9 lb; Max. load: 26 lb; Max. load small drawer: 4 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-00473546-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-white__0977775_pe813763_s5.jpg"
+    }
+  ],
+  "notes": "Drawer unit (no drawer-unit category, so storage). Beside the MICKE on the 152\" left wall: 55.875 + 14.125 = 70\". At 27.5\" it is too tall for the MICKE's 24.75\" under-desk height. F-32: 83.1\" in front of the drawers. Variant white (dark gray and black-brown also sold). IKEA Family in-store-only price $75.00, Sep 8 to Dec 24, 2026. Best seller (product page; #1 on the Desks list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

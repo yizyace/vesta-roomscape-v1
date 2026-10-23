@@ -1,0 +1,271 @@
+{
+  "room": "living-room",
+  "variant": "c",
+  "name": "Chaise lounge facing the TV, KALLAX play wall and a reading corner in the window corner",
+  "updatedAt": "2026-10-23T15:08:45.700Z",
+  "notes": "Alternative: a lounge layout. The KIVIK with chaise faces the TV on the IDANÄS, chaise on the stair end, with the LACK console behind it; no coffee table (the chaise is the footrest). The play wall is KALLAX: two 2x2 units with drawer inserts and DRÖNA boxes fill the 77\" niche, a 2x4 stands on the upper section, and the window corner is Maddie's reading corner with her POÄNG and the FLISAT book display.\nsofa-2 KIVIK with chaise (chaise on the left, stair end), drawn as its 110.25 x 64.125\" bounding box, x 82.875-193.125, y 51.375-115.5: back 45.4\" from the heater face (F-33); the console behind leaves a 30\" route along the window (F-39); screen 100\" from the back-cushion line (F-37: 1.54x); 41.8\" between the chaise and the IDANÄS (F-30); delivery-path-unmeasured (F-22, 5 boxes).\nconsole-1 LACK console, x 110.438-165.562, y 36-51.375, against the sofa's back, with lamp-2 STORSEGEL; plant-1 FEJKA at its left end.\ntv-stand-1 IDANÄS 63 3/4\", bottom wall x 106.125-169.875: solid drawers, no glass, fixed to the wall per its page; tv-1 Samsung 65\" on it, 2\" from the wall (31.7 lb on a 66 lb top).\nside-table-1 LACK side table with lamp-1 STORSEGEL, x 193.5-215.125, y 64-85.625, at the right arm: it holds the drinks in place of a coffee table, and sits 30.5\" from the KALLAX 2x4 so the way to the reading corner stays 30\" (F-30).\nfloor-lamp-2 TÅGARP over the chaise end, x 72.75-81.75, y 52-61, just past the stair strip.\nrug-1 TIOKRONA 118 x 94\", x 79-197, y 76-170: under the chaise's front and up to the IDANÄS.\nbookcase-2 and bookcase-3 KALLAX 2x2, the 77\" right-lower niche 101.375-161.625, x 260.125-275.5: eight cubes, four KALLAX drawer inserts (eight toy drawers) and four DRÖNA boxes (extras); anchor-required (F-21, 30 1/8\"); 24\" clear in front (F-32); their fronts are 0.9\" proud of the upper wall. art-1 PJÄTTERYD Waterlilies above them.\nbookcase-1 KALLAX 2x4 standing, right-upper wall y 62.875-93, x 245.625-261: books and display out of reach above, GNABBAS baskets in the four low cubes; anchor-required (F-21, 57 5/8\"); 24\" clear in front (F-32).\nkid-chair-1 POÄNG kid's armchair facing west in the window corner, x 239-261, y 22-40.5: 16\" from the heater face (F-33); book-display-1 FLISAT beside it facing the room (x 250-261, y 42-61.25); wall-lamp-1 UPPLYST over the chair; art-2 RÖDALM on the window wall above the corner. Check the heater's surface temperature before she reads there.\nrug-2 VALLABY 39 x 52\", x 193-232, y 112-164; kids-table-1 LÄTT with its two chairs, x 200-224.75, y 128-146.875: 35.4\" from the KALLAX fronts (F-32) and 30.1\" past the IDANÄS's end, so the route from the bottom landing reaches the free wall (F-30).\nshoe-cabinet-1 BISSA, bottom wall x 76-95.25: anchor-required (F-21); 12\" for its tilt-out; hooks-1 HÖVOLM at coat height and hooks-2 FLISAT at Maddie's height above it; mirror-1 LILJETRÄD by the top landing.\nFree wall: the bottom wall x 169.875-275.5 (105.6\") stays clear and reachable by a 30\" path (assumed-position:door).\nRight side (F-61): the 77\" right-lower wall carries the two KALLAX 2x2 (60 1/4\"), the 93\" right-upper wall the reading corner and the KALLAX 2x4.\nNot placed: the 3-seat KIVIK and LACK coffee table (the chaise replaces them), the grown-up POÄNG (in the window corner it would close the way to her reading chair), the BESTÅ pieces (a, b, d), TROFAST and SMÅSTAD (a, b, d), KIVIK ottoman and STOENSE (d), PERJOHAN (b, d), LAUTERS.\nStairs: nothing on the x 0-36 band (F-40, assumed-position:stairs); both 36\" landings stay clear, and the 36\" strip beside the band (x 36-72) is kept as a walkway joining them, so each landing meets the open floor with at least 30\" (F-30). Nothing she can climb stands against the stair side, whose edge (wall, half wall or railing) is unknown.\nHeater: every clearance is measured from the drawn 6\" heater face (heater-depth-assumed): floor pieces start at y 12 or more and upholstery at y 18 or more (F-33). Window: its place on the top wall is eyeballed (assumed-position:window); curtains and rod hang there and nothing stands under it (F-38).\nKid safety (F-21): no glass anywhere; every TV unit is fixed to the wall as its page says, and the TV gets an anti-tip strap; tall storage is anchored.\nExtras: GINSTMOTT curtains x2 pairs, HUGAD rod x1 (no-dimensions, an extra), SVARTPOPPEL covers x2, VALLKRASSING covers x2, FJÄDRAR inserts x4, VALLKRASSING throw x1, KALLAX insert with 2 drawers x4, DRÖNA boxes x4, GNABBAS baskets x4 (the 2x4's low cubes).",
+  "placements": [
+    {
+      "id": "sofa-2",
+      "itemId": "ikea-79440586",
+      "x": 82.875,
+      "y": 51.375,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "chaise on the left end, by the stairs; drawn as its bounding box"
+    },
+    {
+      "id": "console-1",
+      "itemId": "ikea-30574351",
+      "x": 110.4375,
+      "y": 36,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "LACK console against the sofa's back"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-60573576",
+      "x": 154,
+      "y": 40.5,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the console"
+    },
+    {
+      "id": "tv-stand-1",
+      "itemId": "ikea-70566052",
+      "x": 106.125,
+      "y": 157.25,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "IDANÄS on the far wall, anchored"
+    },
+    {
+      "id": "tv-1",
+      "itemId": "amazon-B0GP9QN5SN",
+      "x": 109.55,
+      "y": 162.3,
+      "rotation": 180,
+      "layer": "top",
+      "note": "on the IDANÄS, 2\" from the wall"
+    },
+    {
+      "id": "side-table-1",
+      "itemId": "ikea-70319028",
+      "x": 193.5,
+      "y": 64,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "at the sofa's right arm"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-60573576",
+      "x": 200.8125,
+      "y": 71.3125,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the side table"
+    },
+    {
+      "id": "floor-lamp-2",
+      "itemId": "ikea-70486395",
+      "x": 72.75,
+      "y": 52,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "over the chaise end"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-90628228",
+      "x": 79,
+      "y": 76,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "under the chaise's front and up to the IDANÄS"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 100,
+      "y": 40,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "at the console's left end"
+    },
+    {
+      "id": "bookcase-2",
+      "itemId": "ikea-20631639",
+      "x": 260.125,
+      "y": 101.375,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "KALLAX 2x2 in the niche: 2 drawer inserts + 2 DRÖNA boxes"
+    },
+    {
+      "id": "bookcase-3",
+      "itemId": "ikea-20631639",
+      "x": 260.125,
+      "y": 131.5,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "KALLAX 2x2 in the niche: 2 drawer inserts + 2 DRÖNA boxes"
+    },
+    {
+      "id": "bookcase-1",
+      "itemId": "ikea-20631663",
+      "x": 245.625,
+      "y": 62.875,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "KALLAX 2x4 standing: books up high, GNABBAS baskets in the four low cubes"
+    },
+    {
+      "id": "kid-chair-1",
+      "itemId": "ikea-29401436",
+      "x": 239,
+      "y": 22,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "Maddie's reading chair in the window corner"
+    },
+    {
+      "id": "book-display-1",
+      "itemId": "ikea-80614566",
+      "x": 250,
+      "y": 42,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "FLISAT book display facing her chair"
+    },
+    {
+      "id": "rug-2",
+      "itemId": "ikea-10548216",
+      "x": 193,
+      "y": 112,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "play rug under the LÄTT"
+    },
+    {
+      "id": "kids-table-1",
+      "itemId": "ikea-50178411",
+      "x": 200,
+      "y": 128,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LÄTT with its two chairs on the long sides"
+    },
+    {
+      "id": "wall-lamp-1",
+      "itemId": "ikea-40440832",
+      "x": 258,
+      "y": 25,
+      "rotation": 90,
+      "layer": "top",
+      "note": "cloud light over her chair"
+    },
+    {
+      "id": "art-2",
+      "itemId": "ikea-70624014",
+      "x": 222,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "window wall over the reading corner"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-00578906",
+      "x": 274.5,
+      "y": 117.75,
+      "rotation": 90,
+      "layer": "top",
+      "note": "right-lower wall above the KALLAX pair"
+    },
+    {
+      "id": "shoe-cabinet-1",
+      "itemId": "ikea-70530256",
+      "x": 76,
+      "y": 162,
+      "rotation": 180,
+      "layer": "floor"
+    },
+    {
+      "id": "hooks-1",
+      "itemId": "ikea-10500059",
+      "x": 74.375,
+      "y": 171,
+      "rotation": 180,
+      "layer": "top",
+      "note": "coat hooks over the BISSA, about 62\" up"
+    },
+    {
+      "id": "hooks-2",
+      "itemId": "ikea-40614568",
+      "x": 76.375,
+      "y": 172,
+      "rotation": 180,
+      "layer": "top",
+      "note": "Maddie's hooks over the BISSA, about 40\" up"
+    },
+    {
+      "id": "mirror-1",
+      "itemId": "ikea-80592102",
+      "x": 74,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "window wall by the top landing"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80597171",
+      "qty": 2,
+      "note": "GINSTMOTT beige, two pairs (4 x 57\" panels, about 2.2x the 102\" window); hems clear of the heater (F-33), shorten with hemming tape if needed"
+    },
+    {
+      "itemId": "ikea-49634091",
+      "qty": 1,
+      "note": "HUGAD white rod set to about 120\", 9\" past each side of the window; assumed-position:window"
+    },
+    {
+      "itemId": "ikea-60543004",
+      "qty": 2,
+      "note": "SVARTPOPPEL off-white covers on the sofa"
+    },
+    {
+      "itemId": "ikea-50570955",
+      "qty": 2,
+      "note": "VALLKRASSING gray-green covers on the sofa (the sage accent)"
+    },
+    {
+      "itemId": "ikea-60262188",
+      "qty": 4,
+      "note": "FJÄDRAR 20x20 inserts, one per cover"
+    },
+    {
+      "itemId": "ikea-20570928",
+      "qty": 1,
+      "note": "VALLKRASSING off-white throw on the sofa arm"
+    },
+    {
+      "itemId": "ikea-70286645",
+      "qty": 4,
+      "note": "KALLAX insert with 2 drawers, two in each 2x2: eight toy drawers"
+    },
+    {
+      "itemId": "ikea-30574006",
+      "qty": 4,
+      "note": "DRÖNA boxes, two in each 2x2"
+    },
+    {
+      "itemId": "ikea-60400298",
+      "qty": 4,
+      "note": "GNABBAS seagrass baskets in the KALLAX 2x4's four low cubes"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ikea-00447350",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/alstern-bath-mat-white-00447350/",
+  "name": "ALSTERN Bath mat, white, 20x31 \"",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom",
+    "washable",
+    "best-seller"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 20,
+    "d": 31,
+    "raw": "Weight: 2.95 oz/sq ft; Length: 31 \"; Width: 20 \"; Area: 4.31 sq feet",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Length)"
+  },
+  "images": [
+    {
+      "file": "ikea-00447350-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/alstern-bath-mat-white__0688673_pe722641_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: the bathroom list; 20 x 31\" in front of the tub or shower (the bathroom is unmeasured). 100% cotton; \"Machine wash warm (max 140°F/60°C) normal cycle.\"; the page says to place it \"on a smooth, clean and dry surface\" and names no anti-slip backing. Variant: white, to match the SALVIKEN towels. Popularity: Best seller; #4 under a search for \"bath mat\" (TOFTBO, #1 to #3 and also a Best seller, was out of stock at IKEA Long Island). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: [] with the bathroom tag (F-13: the bathroom is not one of the six rooms; F-41: it gets a list, not a layout); the bathroom is unmeasured.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

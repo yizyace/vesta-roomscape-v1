@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0GP9QN5SN",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GP9QN5SN",
+  "name": "Samsung 65-Inch Class M70H Series, Mini LED, 4K, Smart TV, 2026 Model",
+  "brand": "Samsung",
+  "category": "tv",
+  "tags": [
+    "living-room",
+    "tv",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 427.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 56.9,
+    "d": 8.7,
+    "h": 34.7,
+    "raw": "Product Dimensions: 8.7\"D x 56.9\"W x 34.7\"H; Item Dimensions D x W x H: 8.7\"D x 56.9\"W x 34.7\"H; Screen Size: 65 inches; Screen Size Diagonal: 64.5 inches; TV Without Stand Height: 32.7 inches; TV Without Stand Depth: 3 inches; Stand Footprint Width: 39.6 inches; Stand Footprint Dimensions: 1 x 6.8 x 8.7 inches; Item Weight: 31.7 pounds; Item Weight Without Stand: 31.1 pounds; Stand Type: Center pedestal feet; VESA Mount Standard: 200 x 200 mm",
+    "source": "#productOverview_feature_div row 'Product Dimensions' and the technical-details rows, read in Chrome 2026-10-22; mapped by letter (D -> d, W -> w, H -> h), on its stand"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GP9QN5SN-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71NxQvCvUyL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Diagonal: 65\" (class; the Screen Size Diagonal row says 64.5\"). F-37: a 65\" screen is 78\" to 104\" from the viewer (77.4\" to 103.2\" on the 64.5\" measured diagonal); each layout checks it from the sofa. Fit: living-room, on the top layer on its console: the center pedestal is 39.6\" wide and 8.7\" deep, the panel 56.9\" wide, 31.7 lb with the stand: within IDANÄS ikea-70566052 (63.75\" wide, Max. TV weight 66 lb) and KALLAX TV unit ikea-50574883 (57.75\" wide, 35 lb) · fits. VESA 200 x 200 mm if it is ever wall-mounted (a rental: ask the landlord first). Model UN65M70HAFXZA, Mini LED, 120 Hz; color Titan Black, 65 Inches selected; ASIN B0GP9QN5SN. Popularity: #5 on Amazon Best Sellers in Televisions on 2026-10-22, the top 65\" from a major brand there (TCL 65QM6K #17 at $647.99, card only); Best Sellers Rank #65 in Electronics, #1 in QLED TVs; badge \"Amazon's Choice\"; 4.3 stars (1,171). Sold and shipped by Amazon.com; In Stock; \"FREE scheduled delivery as soon as Saturday, October 24, 2 PM - 7 PM\" to 11365. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

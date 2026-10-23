@@ -1,0 +1,40 @@
+{
+  "id": "ikea-90603869",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/gullsudare-pendant-lamp-shade-white-handmade-90603869/",
+  "name": "GULLSUDARE Pendant lamp shade, white/handmade, 17 ¾ \"",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "dining",
+    "lighting"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 4.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 17.75,
+    "d": 17.75,
+    "raw": "Diameter: 17 ¾ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; round, no Width or Depth row: w and d are the Diameter row; no height row"
+  },
+  "images": [
+    {
+      "file": "ikea-90603869-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/gullsudare-pendant-lamp-shade-white-handmade__1385301_pe963263_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: hangs over the dining table, so the layouts draw it on the top layer at the table's center; 17.75\" is about the table's 31.5\" width less 12\", the usual pendant proportion. Hung from the HAVSRIS cord set with switch (ikea-80490052: a 15'5\" cord with a switch, two ceiling hooks included), swagged from a hook over the table to an outlet, since the dining room's ceiling box is unknown. Handmade rice-paper shade on a powder-coated steel ring, dust only; it hangs above the table, out of Maddie's reach. Good to know: 'Cord set and light bulb are sold separately' (an E26 LED bulb is needed). #2 on Lamp shades sorted Most popular (the 27 1/2\" GULLSUDARE is #1, $9.99, too wide for a 31.5\" table); 3.5 stars (211). In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

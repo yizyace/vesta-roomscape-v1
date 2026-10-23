@@ -1,0 +1,37 @@
+{
+  "id": "ikea-39195308",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/besta-storage-combination-w-doors-drawers-white-stained-oak-effect-lappviken-stubbarp-white-stained-oak-effect-s39195308/",
+  "name": "BESTÅ Storage combination w doors/drawers, white stained oak effect/Lappviken/Stubbarp white stained oak effect, 47 1/4x16 1/2x29 1/8 \"",
+  "brand": "IKEA",
+  "category": "sideboard",
+  "tags": [
+    "dining",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 290,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 16.5,
+    "h": 29.125,
+    "raw": "Width: 47 1/4 \"; Depth: 16 1/2 \"; Height: 29 1/8 \"",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-23 (F-03): considered as the dining room's sideboard on the bottom wall (the wall-bench layout) or the right wall (the kitchen-side bench layout). Not kept: 2.9 stars (101 reviews); \"Only 1 left in IKEA Long Island, NY\" and \"Currently unavailable for Click and collect at IKEA Long Island, NY\"; its soft-closing fronts need knobs or handles (\"Knobs or handles, sold separately.\"). The catalog's BESTÅ 70 7/8\" combination with push-open drawers (ikea-39412689, 3.2 stars, 13 of 18 in stock) does the same job with more storage and no knobs at a child's head height. Product details: \"Two drawers make it easy to keep your belongings organized. The shelves behind the doors give you even more storage space.\" \"The drawers and doors close silently and softly, thanks to the integrated soft-closing function.\" Safety and compliance: \"WARNING! Tipping hazard – this product must be securely anchored.\" Price: regular $290.00; IKEA Family price $237.00, valid Oct 7, 2026 - Nov 11, 2026. Article 391.953.08. Flags: anchor-required (F-21: 29 1/8\" tall).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

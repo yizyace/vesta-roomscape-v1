@@ -1,0 +1,42 @@
+{
+  "id": "ikea-59046906",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/besta-shelf-unit-with-door-white-lappviken-white-s59046906/",
+  "name": "BESTÅ Shelf unit with door, white/Lappviken white, 23 5/8x16 1/2x25 1/4 \"",
+  "brand": "IKEA",
+  "category": "cabinet",
+  "tags": [
+    "office",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 100,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 23.625,
+    "d": 16.5,
+    "h": 25.25,
+    "raw": "Width: 23 5/8 \"; Depth: 16 1/2 \"; Height: 25 1/4 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-59046906-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/besta-shelf-unit-with-door-white-lappviken-white__1603571_pe1044264_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none (25 1/4\" tall, under F-21's 27\"; a solid LAPPVIKEN door, no glass). Fit: F-63's BESTÅ for the office. In a it stands on the left wall between the work desk and the chair bed (rot 270), the chair bed's side table and closed storage for paper, cables and the guest's bedding, with 29 1/2\" clear in front of its door (F-32). In b it hangs on the left wall in the top-left corner (top layer) on one BESTÅ suspension rail (ikea-70488318), above the return's spare end. Price: the page shows $83.00 with '17% off, save $17.00 | Regular price: $100.00 | Price valid Oct 7, 2026 - Nov 11, 2026 or while supply lasts' (Andrew's IKEA profile is signed in, so it may be his IKEA Family price); the regular $100.00 is recorded. 10 year limited warranty. 4.3 stars (271). Article 590.469.06, a combination (the URL carries an s). Variant white/Lappviken white (6 other colors). Stock 2026-10-23: in stock at IKEA Long Island, NY; click and collect; home delivery to our ZIP; assembly service $28.60*. rooms: back-bedroom, from the redesign brief (F-63).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

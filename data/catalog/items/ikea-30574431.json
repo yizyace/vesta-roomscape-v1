@@ -1,0 +1,38 @@
+{
+  "id": "ikea-30574431",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/bolmen-step-stool-white-30574431/",
+  "name": "BOLMEN Step stool, white",
+  "brand": "IKEA",
+  "category": "stool",
+  "tags": [
+    "bathroom",
+    "best-seller"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 17.375,
+    "d": 13.75,
+    "h": 9.875,
+    "raw": "Width: 17 3/8 \"; Depth: 13 3/4 \"; Seat height: 9 7/8 \"; Max. load: 220 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (h = Seat height, the step's top; the page lists no other height)"
+  },
+  "images": [
+    {
+      "file": "ikea-30574431-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/bolmen-step-stool-white__0284761_pe421943_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: bathroom floor, unmeasured (F-13): 17 3/8 x 13 3/4\", a 9 7/8\" step up to the sink for Maddie. Anti-slip, approved for adults too, max load 220 lb; the page lists no assembly instructions. Category \"other\": the taxonomy has no stool category. Variant: white. Popularity: Best seller; #1 under Bathroom stools & benches and #2 under Kids chairs, both sorted Most popular; 4.8 stars (362). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

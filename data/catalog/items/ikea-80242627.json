@@ -1,0 +1,41 @@
+{
+  "id": "ikea-80242627",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/hemnes-2-drawer-chest-white-stain-80242627/",
+  "name": "HEMNES 2-drawer chest, white stain, 21 1/4x26 \"",
+  "brand": "IKEA",
+  "category": "nightstand",
+  "tags": [
+    "bedroom",
+    "storage",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 21.25,
+    "d": 15,
+    "h": 26,
+    "raw": "Width: 21 1/4 \"; Depth: 15 \"; Height: 26 \"; Drawer depth (inside): 12 1/4 \"; Height under furniture: 4 3/8 \"; Storage capacity: 1.3 cu.ft; Drawer pull-out: 8 7/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-80242627-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/hemnes-2-drawer-chest-white-stain__0651108_pe706676_s5.jpg"
+    }
+  ],
+  "notes": "Nightstand. F-20: a pair beside the 63\" TARVA on the 133\" right wall uses 105.5\" and leaves 27.5\"; beside the 62.25\" BRIMNES, 104.75\" and 28.25\". Variant white stain (black-brown also sold). Best seller (product page; #5 on the Nightstands list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ikea-19389152",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/smastad-bench-with-toy-storage-white-white-s19389152/",
+  "name": "SMÅSTAD Bench with toy storage, white/white, 35 3/8x20 1/2x18 7/8 \"",
+  "brand": "IKEA",
+  "category": "bench",
+  "tags": [
+    "kids",
+    "bedroom",
+    "seating",
+    "storage",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 35.375,
+    "d": 20.5,
+    "h": 18.875,
+    "raw": "Depth: 20 1/2 \"; Height: 18 7/8 \"; Width: 35 3/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-19389152-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/smastad-bench-with-toy-storage-white-white__0918197_pe786134_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: maddie-room left wall, 108\" clear (F-20): leaves 72.6\"; 20.5\" deep · fits; it also fits across the foot of a bed. A toy box and a seat in one; casters included; knobs sold separately; BÄNKKAMRAT bench pad sold separately; no anchoring warning on the page. Variant: white/white. Popularity: Best seller; #1 under Kids dressers & chest of drawers and #10 under Toy storage, both sorted Most popular; 4.5 stars (409). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

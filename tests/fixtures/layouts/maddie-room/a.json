@@ -1,0 +1,24 @@
+{
+  "room": "maddie-room",
+  "variant": "a",
+  "name": "Desk on the top wall",
+  "updatedAt": "2026-10-22T12:00:00.000Z",
+  "notes": "Test fixture: the desk against the top wall.",
+  "placements": [
+    {
+      "id": "desk",
+      "itemId": "amazon-B0FBGR4MM4",
+      "x": 6,
+      "y": 0,
+      "rotation": 0,
+      "layer": "floor"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "amazon-NODIMS0001",
+      "qty": 2,
+      "note": "Test fixture: an extra may have no dimensions."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ikea-69046072",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/sundvik-ext-bed-frame-with-slatted-bed-base-white-s69046072/",
+  "name": "SUNDVIK Ext bed frame with slatted bed base, white, 38 1/4x74 3/4 \"",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "kids",
+    "bedroom",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 279.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 42.5,
+    "d": 77.5,
+    "h": 31.875,
+    "raw": "Min. length: 50 \"; Max. length: 77 1/2 \"; Width: 42 1/2 \"; Headboard height: 31 7/8 \"; Footboard height: 26 \"; Mattress length: 74 3/4 \"; Mattress width: 38 1/4 \"; Free height under bed: 7 7/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Max. length fully extended, h = Headboard height)"
+  },
+  "images": [
+    {
+      "file": "ikea-69046072-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/sundvik-ext-bed-frame-with-slatted-bed-base-white__0637817_pe698558_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: maddie-room left wall, 108\" clear (F-20): a long side along it at the full 77.5\" length leaves 30.5\" (58\" at the 50\" minimum length); the 42.5\" width plus 24\" on the open side (F-34) uses 66.5\" of the room's 118\" · fits. IKEA's safety note: keep the bed less than 2½\" or more than 9\" from a wall, so push it flush. Extends from 50\" to 77 1/2\" for a 38 1/4x74 3/4\" extendable-bed mattress (e.g. VIMSIG ikea-80593743); LURÖY slatted base included, packed separately. Variant: White. Popularity: #23 of the 23 cards loaded under Kids beds sorted Most popular (the third extendable bed there, after MINNEN and BUSUNGE); 3.8 stars (241). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ikea-70634249",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/majfisk-3-piece-kitchen-utensil-set-acacia-70634249/",
+  "name": "MAJFISK 3-piece kitchen utensil set, acacia",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 7.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Flags: no-dimensions (the Measurements tab shows only the package: 'Width: 3 ½ \"; Height: 1 \"; Length: 14 \"; Weight: 4 oz'). Rejected 2026-10-22: 2.7 stars (158), and it is a rice-and-wok set rather than a day-one set ('Comprises: 1 rice paddle (length 8.7 in), 1 spatula (length 12.6 in) and 1 wok spatula (length 14.2 in)'): no spoon or ladle. Solid acacia with oil, hand wash, monthly oiling; 'Gentle to pots and pans with non-stick coating'. GRUNKA (ikea-20577897) plus the KNORRHANE spatula (ikea-60599675) were taken instead. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

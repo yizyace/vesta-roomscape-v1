@@ -1,0 +1,32 @@
+{
+  "id": "ikea-90314973",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/botaren-shower-curtain-tension-rod-white-90314973/",
+  "name": "BOTAREN Shower curtain tension rod, white, 47-79 \"",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-90314973-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/botaren-shower-curtain-tension-rod-white__0601992_pe680081_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (F-11: the Measurements section gives only \"Min. length: 47 \"; Max. length: 79 \"\", no depth or height row; a list item, never placed). Fit: the bathroom list, only if the bathroom has no curtain rod; a tension rod spans 47\" to 79\" wall to wall without drilling, which suits a rental (the tub's width is unmeasured). Aluminium (min. 70% recycled), galvanized and stainless steel. Variant: white. Popularity: STRANDLUMMER's page offers it under \"Complete with\"; not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: [] with the bathroom tag (F-13: the bathroom is not one of the six rooms; F-41: it gets a list, not a layout); the bathroom is unmeasured.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

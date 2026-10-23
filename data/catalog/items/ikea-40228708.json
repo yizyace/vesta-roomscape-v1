@@ -1,0 +1,37 @@
+{
+  "id": "ikea-40228708",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/brimnes-daybed-frame-with-2-drawers-white-40228708/",
+  "name": "BRIMNES Daybed frame with 2 drawers, white, Twin",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 299,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 76.75,
+    "d": 41,
+    "h": 22.875,
+    "raw": "Length: 76 3/4 \"; Width: 41 \"; Height: 22 7/8 \"; Drawer width (inside): 31 1/2 \"; Drawer depth (inside): 21 1/4 \"; Height of drawer (inside): 6 1/4 \"; Bed width: 78 \"; Bed length: 76 3/8 \"; Maximum load/drawer: 44 lb; Mattress length: 74 3/8 \"; Mattress width: 38 1/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; a daybed, so Length is w and Width (closed) is d"
+  },
+  "images": [],
+  "notes": "Rejected for the back-bedroom guest option (F-03): 22 7/8\" tall with no backrest, so by day it reads as a bed pushed against the wall, not a sofa; and out of stock at IKEA Long Island, NY (also unavailable for Click and collect) on 2026-10-22. The same 41\" depth as the HEMNES daybed (ikea-30349329, $449, 32 5/8\" tall with a back and sides), so it frees no floor. IKEA Family in-store-only price $229.00, Sep 8 to Dec 24, 2026. Best seller (product page; #2 on Daybeds sorted Most popular).",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

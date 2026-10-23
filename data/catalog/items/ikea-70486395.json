@@ -1,0 +1,39 @@
+{
+  "id": "ikea-70486395",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/tagarp-floor-uplighter-reading-lamp-black-white-70486395/",
+  "name": "TÅGARP Floor uplighter/reading lamp, black/white",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 17.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 9,
+    "d": 9,
+    "h": 70,
+    "raw": "Base diameter: 8 \"; Cord length: 3 ' 3 \"; Height: 70 \"; Max.: 21.6 W; Shade diameter: 9 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; no Width or Depth row: w and d are the Shade diameter row, the widest stated"
+  },
+  "images": [
+    {
+      "file": "ikea-70486395-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tagarp-floor-uplighter-reading-lamp-black-white__0965083_pe809330_s5.jpg"
+    }
+  ],
+  "notes": "No width or depth row: w and d are the 9 \" Shade diameter (Base diameter 8 \"); the reading arm's reach is not listed. 70\" tall. Bulbs sold separately (IKEA recommends an LED E26 globe and an LED E12 globe). F-33: keep it 6\" off the heater's face if it stands on the window wall. Not badged; #3 on the Floor lamps list sorted Most popular and the cheapest of its top five. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ikea-50569103",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vihals-chair-white-50569103/",
+  "name": "VIHALS Chair, white",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "dining",
+    "seating"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 30,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 17.75,
+    "d": 18.5,
+    "h": 31.125,
+    "raw": "Width: 17 3/4 \"; Depth: 18 1/2 \"; Height: 31 1/8 \"; Seat width: 15 3/8 \"; Seat depth: 15 3/4 \"; Seat height: 17 3/4 \"; Tested for: 243 lb",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-50569103-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vihals-chair-white__1370478_pe958751_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: dining-room, at the VIHALS extendable table (ikea-20589777): seat height 17 3/4\", 11 3/4\" under its 29 1/2\" top; two fit along each 47 1/4\" side with 11 3/4\" to spare (23.6\" per diner); 18 1/2\" deep, so a chair on the kitchen side with its back at x 30 or more puts the table edge at x 48.5 or more, clear of the 30\" walkway (F-42, F-36). The chair of the VIHALS / VIHALS table-and-6-chairs set. Product details: \"The chair is easy to store when not in use, since you can stack up to 6 chairs on top of each other.\" \"This lightweight chair, made of high-strength powder-coated steel and plastic, is easy to carry and wipe clean.\" Designer Ola Wihlborg. Good to know: \"Recommended for indoor use only.\" Safety and compliance: tested to EN 12520 and EN 1022 for safety, durability and stability; \"A maximum of 6 chairs can be stacked together.\" The SANDSBERG white (ikea-10605424, $15.00) is the cheaper chair of the same build when the set's match is not wanted. Article 505.691.03. 4.4 stars (45); not badged (the green VIHALS chair is the Best seller). Stock 2026-10-23: in stock in IKEA Long Island, NY. rooms: dining-room, from the redesign brief (F-60).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

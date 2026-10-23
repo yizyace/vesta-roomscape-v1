@@ -1,0 +1,42 @@
+{
+  "id": "ikea-20522046",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/billy-bookcase-white-20522046/",
+  "name": "BILLY Bookcase, white, 31 1/2x11x79 1/2 \"",
+  "brand": "IKEA",
+  "category": "bookcase",
+  "tags": [
+    "office",
+    "storage",
+    "anchor-required",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 79,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 31.5,
+    "d": 11,
+    "h": 79.5,
+    "raw": "Width: 31 1/2 \"; Depth: 11 \"; Height: 79 1/2 \"; Max load/shelf: 66 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-20522046-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/billy-bookcase-white__1590272_pe1038911_s5.jpg"
+    }
+  ],
+  "notes": "F-20: 31.5\" on the 152\" left wall next to the MICKE and ALEX, 101.5\" of the 106\" usable run (F-31/F-33, as on the MICKE). Flags: anchor-required (79.5\" bookcase), ceiling-unmeasured (F-23: 79.5\" is over 78\"). IKEA Family in-store-only price $65.00, Sep 8 to Dec 24, 2026. Best seller (product page; #1 on the Bookcases list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

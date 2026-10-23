@@ -1,0 +1,35 @@
+{
+  "id": "ikea-00138432",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/branaes-basket-rattan-00138432/",
+  "name": "BRANÄS Basket, rattan, 12 ½x13 ½x12 ½ \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "storage",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 12.5,
+    "d": 13.5,
+    "h": 12.5,
+    "raw": "Width: 12 ½ \"; Depth: 13 ½ \"; Height: 12 ½ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-22: considered as toy baskets (Best seller; \"The box fits perfectly in KALLAX shelf.\"; rattan, wipe clean), but it is $24.99 each with \"Online min. order quantity: 2\" and \"Not stocked at IKEA Long Island, NY\"; DRÖNA ikea-30574006 does the same job for $4.99 and is in stock. Flags: none.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

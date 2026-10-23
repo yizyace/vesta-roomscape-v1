@@ -1,0 +1,43 @@
+{
+  "id": "ikea-80614566",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/flisat-book-display-80614566/",
+  "name": "FLISAT Book display",
+  "brand": "IKEA",
+  "category": "bookcase",
+  "tags": [
+    "kids",
+    "bedroom",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 19.25,
+    "d": 11,
+    "h": 16.125,
+    "raw": "Width: 19 1/4 \"; Depth: 11 \"; Height: 16 1/8 \"; Max. load: 22 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-80614566-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/flisat-book-display__1408578_pe971981_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none (16 1/8\" tall, under F-21's 27\", and free-standing). Fit: a floor piece 19 1/4 x 11\": it fits the 14.5\" strip between a 77.5\" bed's foot and the door's swing on maddie-room's left wall (F-31), or a reading corner; the page: \"This book display lets your child collect and reach their books without your help\" and \"You can easily bring the book display to your favorite corner when it's time for a story.\" Covers face out, so a 4-year-old finds her book. Solid pine with clear acrylic lacquer, fiberboard; max load 22 lb; no anchoring line on the page. Variant: the one finish. Popularity: found by searching \"flisat book display\" (not in the first 40 cards of Kids storage & organization sorted Most popular); not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

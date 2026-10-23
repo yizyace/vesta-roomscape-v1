@@ -1,0 +1,37 @@
+{
+  "id": "ikea-50567830",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/skoghall-hook-self-adhesive-chrome-plated-50567830/",
+  "name": "SKOGHALL Hook, self-adhesive, chrome plated",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 6.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 1.75,
+    "d": 1.75,
+    "raw": "Max. load: 4 lb 7 oz; Package quantity: 3 pack; Diameter: 1 ¾ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (round: w = d = Diameter; the page gives no projection from the wall)"
+  },
+  "images": [
+    {
+      "file": "ikea-50567830-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/skoghall-hook-self-adhesive-chrome-plated__0583461_pe671221_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: the bathroom list, towel hooks: one 3-pack, one hook each, with Maddie's at her height. Self-adhesive, so no drilling into a rental's tile, but \"The adhesive tape can leave marks when the product is removed.\" and \"Do not attach the hook to bathroom wallpaper or other plastic surfaces\". Max. load 4.4 lb per hook (a wet bath towel weighs less). Aluminum, chrome plated (not black, which the house keeps for lamps). Price $6.99 per 3-pack. Variant: chrome plated. Popularity: the SKOGHALL search card carried Best seller (#2 and #3 under a search for \"towel hook\"); the chrome page shows no badge. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: [] with the bathroom tag (F-13: the bathroom is not one of the six rooms; F-41: it gets a list, not a layout); the bathroom is unmeasured.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

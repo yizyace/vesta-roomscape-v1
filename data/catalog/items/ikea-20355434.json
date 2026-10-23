@@ -1,0 +1,34 @@
+{
+  "id": "ikea-20355434",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/tertial-work-lamp-dark-gray-20355434/",
+  "name": "TERTIAL Work lamp, dark gray",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "office",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 19.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-20355434-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tertial-work-lamp-dark-gray__0609306_pe684440_s5.jpg"
+    }
+  ],
+  "notes": "No width, depth or height on the page; its Measurements section reads: Max.: 13 W; Shade diameter: 7 \"; Cord length: 4 ' 11 \"; Power: 13 W; Max. power/bulb: 13.0 W. Flags: no-dimensions (F-11; never placed). A desk lamp for the MICKE; bulb sold separately (IKEA recommends an LED E26 globe opal white). Best seller (product page; #1 on the Desk lamps list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

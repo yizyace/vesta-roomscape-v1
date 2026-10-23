@@ -1,0 +1,35 @@
+{
+  "id": "ikea-60599675",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/knorrhane-spatula-light-beige-anthracite-60599675/",
+  "name": "KNORRHANE Spatula, light beige/anthracite, 13 \"",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "nice-to-have"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 3.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-60599675-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/knorrhane-spatula-light-beige-anthracite__1456027_pe992059_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (the Measurements row is 'Length: 13 \"' only; never placed). Fit: kitchen essentials list, no layout (F-41); the turner for the IKEA 365+ non-stick frying pan (ikea-20580705), whose page offers it under 'Complete with'. Reinforced polyamide with a silicone edge: 'Gentle to pots and pans with non-stick coating'; 'Dishwasher-safe'; 'Withstands temperatures up to 428°F'. Not badged; 4.8 stars (15). In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ikea-80460583",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vildkorn-pillow-side-back-sleeper-80460583/",
+  "name": "VILDKORN Pillow, side/back sleeper, Queen",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 30,
+    "d": 20,
+    "raw": "Thread count: 186 /inch²; Length: 20 \"; Width: 30 \"; Filling weight: 24 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (the Total weight row was not read); Width -> w, Length -> d, as for ikea-60460602; bedding, a layout extra"
+  },
+  "images": [
+    {
+      "file": "ikea-80460583-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vildkorn-pillow-side-back-sleeper__0789297_pe763924_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, two sleeping pillows for the queen bed (qty 2), cased in the ÄNGSLILJA pillowcases · fits. Cotton/polyester mix that \"can be washed frequently at high temperatures - and it dries quickly too.\" (no machine-wash line read, so not tagged washable). 4 stars (654). Chosen over the PILSPINNARE side/back sleeper Queen ikea-80587129 (Best seller, but 3.5 stars, 90% feather, $24.99): half the price and better rated. Sizes: Queen $12.99, King $17.99. #4 on Bed pillows sorted Most popular. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

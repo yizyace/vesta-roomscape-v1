@@ -1,0 +1,36 @@
+{
+  "id": "ikea-90043076",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/foernuft-20-piece-flatware-set-stainless-steel-90043076/",
+  "name": "FÖRNUFT 20-piece flatware set, stainless steel",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "must-have",
+    "best-seller"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-90043076-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/foernuft-20-piece-flatware-set-stainless-steel__1213074_pe910905_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (the Measurements tab shows only the package: 'Width: 5 ¾ \"; Height: 1 ¼ \"; Length: 9 \"; Weight: 1 lb 11 oz'; never placed). Fit: kitchen essentials list, no layout (F-41). Service for 4: 'Includes: Fork, knife, spoon, teaspoon and dessert/salad fork, 4 of each.' A second set ($12.99) gives 8 settings to cover the 6-setting GODMIDDAG dinnerware (ikea-10564683). Stainless steel, 'Dishwasher-safe'. Best seller badge on the page; 4.6 stars (535). In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ikea-00165213",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/urban-junior-chair-white-00165213/",
+  "name": "URBAN Junior chair, white",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "dining",
+    "kids",
+    "seating"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 59.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 17.75,
+    "d": 18.875,
+    "h": 31.125,
+    "raw": "Width: 17 3/4 \"; Depth: 18 7/8 \"; Height: 31 1/8 \"; Seat width: 12 5/8 \"; Seat depth: 11 \"; Seat height: 20 7/8 \"; Max. load: 220 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-00165213-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/urban-junior-chair-white__0727935_pe735948_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: Maddie's seat at the dining table (the brief's booster: IKEA US lists no booster cushion; 'booster seat' finds high chairs and this Junior dining chairs list). Seat height 20.875\", 8.6\" under the 29.5\" tops of the ALHULT and the VIHALS round (adults get 11.75\"); 'Gives the right seat height for the child at the dining table.' Safety and compliance: 'Recommended for children 3 years and older' (Maddie is 4); tested to EN 1022:2018 and EN 1728:2012 for stability. Polypropylene, wipe clean; stackable. The layouts seat her at the top end in a and d (a fifth seat beside four chairs), at the round table's west seat in b (one of its four seats) and at the left end in c (or on the bench). #1 on Junior dining chairs sorted Most popular (4 items), not badged; 4.7 stars (941). In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

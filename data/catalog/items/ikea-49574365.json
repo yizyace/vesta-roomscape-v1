@@ -1,0 +1,35 @@
+{
+  "id": "ikea-49574365",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/malm-bed-frame-dark-brown-veneer-luroey-s49574365/",
+  "name": "MALM Bed frame, dark-brown veneer/Luröy, Queen",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 299,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 66.125,
+    "d": 83.125,
+    "h": 39.375,
+    "raw": "Length: 83 1/8 \"; Width: 66 1/8 \"; Footboard height: 15 \"; Headboard height: 39 3/8 \"; Mattress length: 79 1/2 \"; Mattress width: 59 7/8 \"; Height: 39 3/8 \"; Height under furniture: 8 1/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w (headboard side), Length -> d"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-22: Best seller (#3 on the Bed frames list sorted Most popular) but also Last chance, and the page showed 2 of 3 in stock in IKEA Long Island, NY, currently unavailable for delivery to our ZIP and for Click and collect. Queen frame + Luröy set 495.743.65 (URL with an s).",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

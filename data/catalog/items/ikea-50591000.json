@@ -1,0 +1,33 @@
+{
+  "id": "ikea-50591000",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/majgull-black-out-curtains-1-pair-dark-green-with-heading-tape-50591000/",
+  "name": "MAJGULL Black-out curtains, 1 pair, dark green/with heading tape, 57x84 \"",
+  "brand": "IKEA",
+  "category": "curtains",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 44.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 57,
+    "h": 84,
+    "raw": "Area: 33.37 sq feet; Length: 84 \"; Weight: 3 lb 12 oz; Width: 57 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (flat, vendors.md: w = Width per curtain, h = Length, the drop; no d)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-22: considered as maddie-room's black-out curtains (the 84\" drop would hang clear of more of the heater), but BENGTA ikea-20602137 blocks all light for $14.99 against this pair's $44.99 and can be cut to length without hemming; the colors offered are dark green and gray, off the house's light palette; and IKEA Long Island does not stock it (\"Not stocked at IKEA Long Island, NY\", \"Order online for delivery\"). The page: \"The fabric blocks out all light\". 57x98\" is $49.99. Flags: none.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

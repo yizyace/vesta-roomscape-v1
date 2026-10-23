@@ -1,0 +1,42 @@
+{
+  "id": "ikea-40614568",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/flisat-knob-rack-with-4-knobs-40614568/",
+  "name": "FLISAT Knob rack with 4 knobs",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "kids",
+    "living-room",
+    "entry",
+    "storage"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 7.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 18.5,
+    "h": 1.75,
+    "raw": "Width: 18 1/2 \"; Height: 1 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; the page gives Width and Height only (no Depth row), so Height is recorded as d, the catalog's second-number convention; a wall rack (top layer); flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-40614568-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/flisat-knob-rack-with-4-knobs__1408583_pe971986_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room bottom wall by the bottom-left stair landing, mounted low beside the BISSA shoe cabinet for Maddie (top layer, takes no floor) · fits. Solid pine, cone-shaped knobs: \"Your child can hang and keep things organized by themself if you hang the knob rack at a child-friendly height.\" Article 406.145.68. Popularity: not badged; #4 under Wall & door hooks sorted Most popular; 3.4 stars (62). Stock 2026-10-22: \"Out of stock in IKEA Long Island, NY\" (home delivery to our ZIP offered). rooms: living-room, from the brief (entry, kid height).",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

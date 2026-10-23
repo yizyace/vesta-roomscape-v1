@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0FBGR4MM4",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0FBGR4MM4",
+  "name": "BOLUO White Kids Desk and Chair Set for 5-8 Year Old, Small Child Desk with Fabric Drawer, Children Study Table with Storage Toddler Girls Boys",
+  "brand": "BOLUO",
+  "category": "desk",
+  "tags": [
+    "kids",
+    "bedroom",
+    "office"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 85.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 24.8,
+    "d": 18.9,
+    "h": 29.6,
+    "raw": "Size Over dimension : 18.9\"D x 24.8\"W x 29.6\"H",
+    "source": "#productOverview_feature_div row 'Size', read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "amazon-B0FBGR4MM4-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61MykxgREUL._AC_SL1500_.jpg",
+      "caption": "main (#landingImage data-old-hires)"
+    }
+  ],
+  "notes": "First result for \"kids desk and chair set\" on 2026-10-22, captured while probing the Amazon page layout; the listing says ages 5-8 (Maddie is 4). A desk and chair set; the listing's one size row does not say whether it is the desk alone or the set. rooms: maddie-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

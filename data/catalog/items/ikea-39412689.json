@@ -1,0 +1,43 @@
+{
+  "id": "ikea-39412689",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/besta-storage-combination-with-drawers-white-stained-oak-effect-lappviken-stubbarp-white-stained-oak-effect-s39412689/",
+  "name": "BESTÅ Storage combination with drawers, white stained oak effect/Lappviken/Stubbarp white stained oak effect, 70 7/8x16 1/2x29 1/8 \"",
+  "brand": "IKEA",
+  "category": "sideboard",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 365,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 70.875,
+    "d": 16.5,
+    "h": 29.125,
+    "raw": "Width: 70 7/8 \"; Depth: 16 1/2 \"; Height: 29 1/8 \"; Maximum load/drawer: 22 lb; Max load/shelf: 44 lb; Drawer width (inside): 20 1/8 \"; Drawer depth (inside): 12 3/4 \"",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-39412689-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/besta-storage-combination-with-drawers-white-stained-oak-effect-lappviken-stubbarp-white-stained-oak-effect__0350153_pe535233_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: anchor-required (F-21: 29 1/8\" tall in a room Maddie climbs; Safety and compliance: \"WARNING! Tipping hazard – this product must be securely anchored. Use suitable screws and plugs for your home.\"). Fit: living-room right-lower wall, the 77\" niche below the step (F-20, F-61): 70.875\" leaves 6.1\"; 16.5\" deep, so its front stands 2\" proud of the upper right wall's plane, a built-in look; 24\" clear in front for the drawers (F-32) · fits. Toy storage for the play zone: three 23 5/8\" sections, a door at each end and two drawers (a shallow one over a deep one) in the middle, as the main photo shows; \"The drawers have integrated push-openers so that you can open them with just a light push.\"; \"Adjustable hinges\"; \"The shelves are adjustable\". Solid fronts, no glass (the glass-door combinations on the same list were passed over, F-21). Price: regular $365.00; IKEA Family price $300.00, valid Oct 7, 2026 - Nov 11, 2026 (\"15% off all BESTÅ storage solutions\", in-store, members). Popularity: #2 under BESTÅ sideboards sorted Most popular (the black-brown card); 3.2 stars (164). Stock 2026-10-23: 13 of 18 in stock at IKEA Long Island, NY; home delivery to our ZIP. Assembly service $105.30. Variant: white stained oak effect/Lappviken/Stubbarp white stained oak effect, drawer runner push-open, article 394.126.89. rooms: living-room, from the brief (F-61 play area, F-63 BESTÅ).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

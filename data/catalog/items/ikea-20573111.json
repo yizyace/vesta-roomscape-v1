@@ -1,0 +1,33 @@
+{
+  "id": "ikea-20573111",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/fullmakt-rug-flatwoven-in-outdoor-beige-melange-20573111/",
+  "name": "FULLMAKT Rug flatwoven, in/outdoor, beige/mélange, 7 ' 10 \"x9 ' 10 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 239.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 94,
+    "d": 118,
+    "raw": "Length: 9 ' 10 \"; Width: 7 ' 10 \"; Area: 77.50 sq feet",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23; Width 7'10\" = 94\" -> w, Length 9'10\" = 118\" -> d"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-23 (F-03): the one kid-proof rug big enough for the round ROSENTORP with chairs on all four sides (94 x 118\" runs 25\" past its W and E edges and 37\" past N and S), but it is a clearance item that cannot be had: \"Not sold at IKEA Long Island, NY\", \"Not sold for Click and collect at IKEA Long Island, NY\", \"Currently unavailable for delivery to our ZIP\", \"Unavailable online for selected areas\". Price: Clearance $239.99; previous price $299.99, \"20% off, save $60.00\", \"Price valid from Apr 21, 2026 and while supply lasts\". Product details: \"Ideal in your living room or under your dining table since the flat-woven surface makes it easy to pull out the chairs and vacuum.\" Good to know: \"Suitable for indoor and outdoor use.\" \"The rug is machine-woven.\" \"You will need 2 STOPP FILT rug underlay with anti-slip (5'5\"x7'9\") for this rug.\" Sizes on the page: 5'7\"x7'10\" $199.99 and 7'10\"x9'10\". 4.7 stars (78). Article 205.731.11. Flags: none.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

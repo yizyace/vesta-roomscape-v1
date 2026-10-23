@@ -1,0 +1,44 @@
+{
+  "id": "ikea-30349329",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/hemnes-daybed-frame-with-3-drawers-white-30349329/",
+  "name": "HEMNES Daybed frame with 3 drawers, white, Twin",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 449,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 78.375,
+    "d": 41.375,
+    "h": 32.625,
+    "raw": "Height of drawer (inside): 7 1/8 \"; Length: 78 3/8 \"; Width: 41 3/8 \"; Height: 32 5/8 \"; Drawer width (inside): 20 1/8 \"; Drawer depth (inside): 27 1/2 \"; Bed width: 76 3/4 \"; Bed length: 78 3/8 \"; Mattress length: 74 1/2 \"; Mattress width: 38 1/4 \"; Maximum load/drawer: 44 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22. A daybed stands with its long back against the wall, so Length (78 3/8) is w and Width (41 3/8, closed) is d; pulled out as a double bed it is 76 3/4 deep (Bed width row)"
+  },
+  "images": [
+    {
+      "file": "ikea-30349329-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/hemnes-daybed-frame-with-3-drawers-white__1078996_pe857423_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. Fit: back-bedroom right wall at rotation 90, y 18 to 96.4: bedding 12\" from the heater's face at y 6 (F-33) and 25.6\" above the door's swing square at y 122 (F-31, assumed-position:door). Closed it is 41.4\" deep; pulled out as a double bed (the two twin mattresses side by side) it reaches 76.75\" from the wall, so the desk chair is tucked in on guest nights. Takes two twin mattresses up to 74 1/2 x 38 1/4 (ÅSVANG ikea-80481415, $129 each, the page's Complete with). Flat-pack in 4 packages, the longest 80 3/4\", so F-22 does not apply. Best seller (product page; #1 on Daybeds sorted Most popular; 3,993 reviews, 4.3). 4 colors on the list card. In stock in IKEA Long Island, NY on 2026-10-22; home delivery to our ZIP from $39.00; assembly service $174.20. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

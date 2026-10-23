@@ -1,0 +1,39 @@
+{
+  "id": "ikea-70294339",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lisabo-table-ash-veneer-70294339/",
+  "name": "LISABO Table, ash veneer, 55 1/8x30 3/4 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 299.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 55.125,
+    "d": 30.75,
+    "h": 29.125,
+    "raw": "Length: 55 1/8 \"; Width: 30 3/4 \"; Height: 29 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Length -> w (along the wall), Width -> d"
+  },
+  "images": [
+    {
+      "file": "ikea-70294339-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lisabo-table-ash-veneer__0737105_pe740883_s5.jpg"
+    }
+  ],
+  "notes": "Fixed top, no leaf. F-36, long side parallel to the 128\" walls: 36.4\" at each end and 44.1\" on each long side, so it fits (55.125\" is just under the room's 56\" limit). Variant ash veneer (black/ash veneer also sold). Not badged; #13 on the Dining tables list sorted Most popular, 1,058 reviews. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

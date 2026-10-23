@@ -1,0 +1,164 @@
+{
+  "room": "maddie-room",
+  "variant": "d",
+  "name": "Play-first: MINNEN along the top wall, BESTÅ storage over the dresser and play table, TROFAST divider, reading corner by the window",
+  "updatedAt": "2026-10-23T14:53:03.333Z",
+  "notes": "Alternative, re-checked 2026-10-23: play-first, the bed along the top wall so the middle stays open. Two changes: the TROFAST out of the slot in front of the heater to a low divider facing the play floor, and the BESTÅ unit on the empty wall above the dresser and the play table (F-63). 12 placed, 9 extras.\nbed-1 MINNEN (fully extended) along the top wall, head on the left wall, flush on both: F-34 its open side faces the room, clear from the dresser to the foot (x 17 to 77.5) down to the rug; F-33 bedding (the foot) 34.5\" from the heater face.\ndresser-1 GODISHUS on the left wall at the bed's head, the bedside table; drawers face the room: F-32 24\" clear (x 16.9 to 40.9, open floor); F-21 anchor it (IKEA).\ntable-1 LÄTT against the left wall by the door, its two chairs side by side on its open side (x 19 to 30); 1.25\" short of the door's swing (F-31), so the door still opens flat against the left wall. Flag: assumed-position:door.\ncabinet-1 BESTÅ shelf unit with doors, 47 1/4x16 1/2x15\" (top, new): left wall above the dresser and the play table, rot 270, x 0-16.5, y 41-88.25, starting at the bed's head edge, never over the bed: closed storage hung above her reach for markers, paint, glue and rotation toys a parent hands down (F-63): solid LAPPVIKEN doors (no glass, F-21), hung on 2 BESTÅ suspension rails screwed into studs (extras), underside about 54\" up. art-1 BLODFLÄDER (canvas, no glass, F-21) hangs between the table and the cabinet.\ntoys-1 TROFAST as a low divider, rot 180, x 66.4-103, y 77.1-94.5, boxes facing the play floor: its back on the closet doors' swing line without entering it, the 24\" in front of the closet clear (F-31); F-32 36.6\" in front of the boxes to the bed; its end 9\" from the heater face (F-33), with no open back toward the heater. Flag: assumed-position:closet.\nbooks-1 FLISAT book display in the window corner on the top wall, covers facing the room, right end 12.75\" from the heater face (F-33): the reading corner, with the SKOGSDUVA floor cushions (extras) in front and canopy-1 LÖVA over it on the top wall, its right edge 12\" from the heater face (F-33: textiles), mounted out of reach (IKEA).\nrug-1 VALLABY rot 0, x 24-63, y 40-92: the open play floor; 0.5\" of it slips under the bed's long rail (no legs there), it ends at the door's swing line, and it is 49\" from the heater face.\nlamp-1 UPPLYST on the left wall over the bed's head, cord fastened. nightlight-1 TÖVÄDER and plant-1 FEJKA (artificial) on the dresser.\nMaddie is 4 (F-21): every piece within her reach is under 27\" or anchored (the GODISHUS carries IKEA's anchor warning at 23 5/8\", so it is anchored too); no glass anywhere; no loft or bunk.\nWalkways (F-30): door to room 36.4\" between the play chairs and the TROFAST; middle to the reading corner 34.5\" between the bed's foot and the heater face, 36.6\" between the bed and the TROFAST.\nExtras: VIMSIG mattress and BARNDRÖM fitted sheet in the frame, SMÅSPORRE insert, BARNDRÖM cover, low pillow, SKOGSDUVA cushions x2 in the reading corner, BENGTA panel (cut to clear the heater, F-33) on the HUGAD rod (assumed-position:window), BESTÅ suspension rails x2. Not placed: nothing.\nTotal $1,114.31: placed $742.89 + extras $371.42; prices as of 2026-10-22 (price-stale, F-02) except the BESTÅ pieces, read 2026-10-23. Flags across the layout: assumed-position:door, assumed-position:closet, assumed-position:window, heater-depth-assumed.",
+  "placements": [
+    {
+      "id": "bed-1",
+      "itemId": "ikea-59124621",
+      "x": 0,
+      "y": 0,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "along the top wall, head on the left wall, fully extended"
+    },
+    {
+      "id": "dresser-1",
+      "itemId": "ikea-40598097",
+      "x": 0,
+      "y": 41,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "bedside table on the left wall; anchor it (F-21); 24in in front (F-32)"
+    },
+    {
+      "id": "table-1",
+      "itemId": "ikea-50178411",
+      "x": 0,
+      "y": 66,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "left wall by the door, chairs on its open side; assumed-position:door"
+    },
+    {
+      "id": "cabinet-1",
+      "itemId": "ikea-79047429",
+      "x": 0,
+      "y": 41,
+      "rotation": 270,
+      "layer": "top",
+      "note": "BESTÅ 2-door unit hung on the left wall above the dresser and the play table, underside about 54in up"
+    },
+    {
+      "id": "toys-1",
+      "itemId": "ikea-39574865",
+      "x": 66.375,
+      "y": 77.125,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "low divider facing the play floor, its back on the closet doors' swing line"
+    },
+    {
+      "id": "books-1",
+      "itemId": "ikea-80614566",
+      "x": 80,
+      "y": 0,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "reading corner in the window corner, 12.75in from the heater face"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-10548216",
+      "x": 24,
+      "y": 40,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "the open play floor in the middle"
+    },
+    {
+      "id": "canopy-1",
+      "itemId": "ikea-20542129",
+      "x": 65,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "over the reading corner, 12in from the heater face, mounted out of reach"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-40440832",
+      "x": 0,
+      "y": 12,
+      "rotation": 270,
+      "layer": "top",
+      "note": "left wall over the bed's head, cord fastened"
+    },
+    {
+      "id": "nightlight-1",
+      "itemId": "ikea-60516915",
+      "x": 4,
+      "y": 44,
+      "rotation": 270,
+      "layer": "top",
+      "note": "on the dresser"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-60615232",
+      "x": 8,
+      "y": 56,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the dresser"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-00601921",
+      "x": 0,
+      "y": 70,
+      "rotation": 270,
+      "layer": "top",
+      "note": "left wall over the play table, below the BESTÅ unit"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80593743",
+      "qty": 1,
+      "note": "VIMSIG mattress for MINNEN at full length (38 1/4 x 74 3/4 x 3 7/8in)"
+    },
+    {
+      "itemId": "ikea-50625203",
+      "qty": 1,
+      "note": "BARNDRÖM twin fitted sheet (up to 3 7/8in, VIMSIG's thickness)"
+    },
+    {
+      "itemId": "ikea-00457023",
+      "qty": 1,
+      "note": "SMÅSPORRE twin duvet insert, light warm"
+    },
+    {
+      "itemId": "ikea-10622697",
+      "qty": 1,
+      "note": "BARNDRÖM twin duvet cover and pillowcase"
+    },
+    {
+      "itemId": "ikea-60460602",
+      "qty": 1,
+      "note": "low pillow, 20 x 30in"
+    },
+    {
+      "itemId": "ikea-00576790",
+      "qty": 2,
+      "note": "SKOGSDUVA flower cushions: floor seats for reading, the bed by day"
+    },
+    {
+      "itemId": "ikea-20602137",
+      "qty": 1,
+      "note": "BENGTA block-out panel over the 55in window, cut to clear the heater (F-33)"
+    },
+    {
+      "itemId": "ikea-19634078",
+      "qty": 1,
+      "note": "HUGAD rod set to about 70in (assumed-position:window)"
+    },
+    {
+      "itemId": "ikea-70488318",
+      "qty": 2,
+      "note": "BESTÅ suspension rails for the wall-hung BESTÅ unit, screwed into studs (IKEA: 2 per 47 1/4in frame)"
+    }
+  ]
+}

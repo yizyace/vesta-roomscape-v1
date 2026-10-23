@@ -1,0 +1,23 @@
+{
+  "id": "amazon-NODIMS0001",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/NODIMS0001",
+  "name": "Kids bookcase without listed dimensions",
+  "category": "bookcase",
+  "tags": [
+    "kids"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": null,
+  "dimensions": null,
+  "images": [],
+  "notes": "Test fixture: the listing shows no dimensions, so the item can be recorded but not placed.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

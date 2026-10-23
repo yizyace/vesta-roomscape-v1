@@ -1,0 +1,41 @@
+{
+  "id": "ikea-00615225",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-areca-palm-00615225/",
+  "name": "FEJKA Artificial potted plant, indoor/outdoor Areca palm, 4 ¾ \"",
+  "brand": "IKEA",
+  "category": "plant",
+  "tags": [
+    "bedroom",
+    "decor"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 4.75,
+    "d": 4.75,
+    "h": 26.75,
+    "raw": "Diameter of plant pot: 4 ¾ \"; Height of plant: 26 ¾ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; no Width or Depth row: w and d are the plant pot's diameter, the widest stated (the fronds spread wider, unstated); h the plant's height"
+  },
+  "images": [
+    {
+      "file": "ikea-00615225-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-areca-palm__1034053_pe840164_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, on top of the STORKLINTA dresser (top layer): 26 3/4\" tall on its 29 1/2\" top · fits. Artificial: no soil, no watering, nothing for a 4-year-old to eat. IKEA pairs it with the PERSILLADE plant pot, 4 3/4\", $6.99 (not captured). 4.6 stars (28). In stock in IKEA Long Island, NY on 2026-10-22. The floor-size FEJKA (Bird of paradise, 9\", $89.99) was left to the living room. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

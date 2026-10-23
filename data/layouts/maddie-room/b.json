@@ -1,0 +1,164 @@
+{
+  "room": "maddie-room",
+  "variant": "b",
+  "name": "KURA den on the left wall, TROFAST and play table along the top wall with BESTÅ storage above, toy bench by the closet",
+  "updatedAt": "2026-10-23T14:53:02.913Z",
+  "notes": "Alternative, re-designed 2026-10-23: the KURA den, now with real storage. The old b had no dresser and left the floor below the window empty; that floor now holds the SMÅSTAD toy bench, and the wall above the play table takes the BESTÅ unit (F-63). 12 placed, 9 extras.\nbed-1 KURA in its LOW position only (F-21: no loft bed before 6; IKEA recommends the loft for 6 and older), head on the top wall, long side on the left wall, flush: the frame above the mattress makes the den. Its rails top out at 45 5/8\" and invite climbing; the canopy and the BESTÅ unit hang well above and to the side of them. F-34 open side 26.25\" to the toy bench's corner, more along the rest; F-33 bedding 70.6\" from the heater face.\ntoys-1 TROFAST on the top wall beside the KURA's head, the bedside surface (20.5\"): F-32 24\"+ clear in front for the boxes; no anchoring line on IKEA's page.\ntable-1 LÄTT on the top wall in the window corner: F-33 right end 7.25\" from the heater face; its two chairs sit side by side at its front (y 19 to 30), the right one 7.5\" from the heater face (furniture, 6\"); not under the window (13\" in from the right wall).\ncabinet-1 BESTÅ shelf unit with doors, 47 1/4x16 1/2x15\" (top, new): top wall above the TROFAST's end and the play table, x 58.75-106, its right end 6\" short of the heater face (F-33), 17\" to the side of the KURA's frame so she cannot reach it from the rails: closed storage hung above her reach for markers, paint, glue and rotation toys a parent hands down (F-63): solid LAPPVIKEN doors (no glass, F-21), hung on 2 BESTÅ suspension rails screwed into studs (extras), underside about 54\" up. art-1 BLODFLÄDER (canvas, no glass) hangs between the table and the cabinet at her eye level.\nbench-1 SMÅSTAD bench with toy storage (new in b), rot 180, x 67.6-103, y 74-94.5: a seat and a toy box facing the room, its back on the closet doors' swing line without entering it, the 24\" in front of the closet clear (F-31); F-32 24\"+ in front for the box; its end 9\" from the heater face (F-33, furniture). No cushion on it, so no upholstery near the heater. Flag: assumed-position:closet.\nbooks-1 FLISAT book display at the KURA's foot, covers facing the door, 1.5\" short of the door's swing (F-31). Flag: assumed-position:door.\nrug-1 VALLABY rot 90, x 46-98, y 33-72: the play floor, 14\" from the heater face (F-33), out of both swings, 2\" short of the toy bench.\ncanopy-1 LÖVA on the top wall over the KURA's head; mount it well above the 45 5/8\" frame so she cannot climb the frame to it (IKEA: out of reach). lamp-1 UPPLYST inside the den on the left wall, cord fastened (IKEA). nightlight-1 TÖVÄDER and plant-1 FEJKA (artificial) on the TROFAST.\nNo dresser: clothes go in the 55\" closet; toys in the TROFAST and the toy bench, supplies in the BESTÅ unit. Maddie is 4 (F-21): every piece within her reach is under 27\" or anchored; no glass anywhere; no loft or bunk.\nWalkways (F-30): door to room 46\" between the book display and the toy bench; around the toy bench to the closet 37.6\".\nExtras: ÅSVANG (4 3/4\", under KURA's 5 1/8\" maximum) with the DVALA fitted sheet (up to 10\"), SMÅSPORRE insert, BARNDRÖM cover, low pillow, SKOGSDUVA cushions x2 for the den, BENGTA panel (cut to clear the heater, F-33) on the HUGAD rod (assumed-position:window), BESTÅ suspension rails x2. Not placed: nothing.\nTotal $1,190.32: placed $892.89 + extras $297.43; prices as of 2026-10-22 (price-stale, F-02) except the BESTÅ pieces, read 2026-10-23. Flags across the layout: assumed-position:door, assumed-position:closet, assumed-position:window, heater-depth-assumed.",
+  "placements": [
+    {
+      "id": "bed-1",
+      "itemId": "ikea-80253814",
+      "x": 0,
+      "y": 0,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LOW position only (F-21); head on the top wall, long side on the left wall"
+    },
+    {
+      "id": "toys-1",
+      "itemId": "ikea-39574865",
+      "x": 42,
+      "y": 0,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "bedside surface and toy boxes on the top wall, 24in+ in front (F-32)"
+    },
+    {
+      "id": "table-1",
+      "itemId": "ikea-50178411",
+      "x": 80,
+      "y": 0,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "play table in the window corner, 7.25in from the heater face (F-33); chairs at its front"
+    },
+    {
+      "id": "cabinet-1",
+      "itemId": "ikea-79047429",
+      "x": 58.75,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "BESTÅ 2-door unit hung above the TROFAST and the play table, underside about 54in up"
+    },
+    {
+      "id": "bench-1",
+      "itemId": "ikea-19389152",
+      "x": 67.625,
+      "y": 74,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "toy bench as a low divider facing the room, its back on the closet doors' swing line"
+    },
+    {
+      "id": "books-1",
+      "itemId": "ikea-80614566",
+      "x": 2,
+      "y": 79.5,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "at the KURA's foot, 1.5in short of the door's swing; assumed-position:door"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-10548216",
+      "x": 46,
+      "y": 33,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "the play floor in front of the TROFAST, the table and the toy bench"
+    },
+    {
+      "id": "canopy-1",
+      "itemId": "ikea-20542129",
+      "x": 3,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "over the KURA's head, mounted well above the frame"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-40440832",
+      "x": 0,
+      "y": 34,
+      "rotation": 270,
+      "layer": "top",
+      "note": "inside the den, cord fastened"
+    },
+    {
+      "id": "nightlight-1",
+      "itemId": "ikea-60516915",
+      "x": 45,
+      "y": 4,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the TROFAST"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-60615232",
+      "x": 70,
+      "y": 6,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the TROFAST"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-00601921",
+      "x": 84,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "over the play table, below the BESTÅ unit"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80481415",
+      "qty": 1,
+      "note": "ÅSVANG twin foam mattress (38 1/4 x 74 3/8 x 4 3/4in)"
+    },
+    {
+      "itemId": "ikea-10357240",
+      "qty": 1,
+      "note": "DVALA twin fitted sheet (up to 10in)"
+    },
+    {
+      "itemId": "ikea-00457023",
+      "qty": 1,
+      "note": "SMÅSPORRE twin duvet insert, light warm"
+    },
+    {
+      "itemId": "ikea-10622697",
+      "qty": 1,
+      "note": "BARNDRÖM twin duvet cover and pillowcase"
+    },
+    {
+      "itemId": "ikea-60460602",
+      "qty": 1,
+      "note": "low pillow, 20 x 30in"
+    },
+    {
+      "itemId": "ikea-00576790",
+      "qty": 2,
+      "note": "SKOGSDUVA flower cushions: floor seats for reading, the bed by day"
+    },
+    {
+      "itemId": "ikea-20602137",
+      "qty": 1,
+      "note": "BENGTA block-out panel over the 55in window, cut to clear the heater (F-33)"
+    },
+    {
+      "itemId": "ikea-19634078",
+      "qty": 1,
+      "note": "HUGAD rod set to about 70in (assumed-position:window)"
+    },
+    {
+      "itemId": "ikea-70488318",
+      "qty": 2,
+      "note": "BESTÅ suspension rails for the wall-hung BESTÅ unit, screwed into studs (IKEA: 2 per 47 1/4in frame)"
+    }
+  ]
+}

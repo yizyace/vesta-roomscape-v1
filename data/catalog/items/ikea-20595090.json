@@ -1,0 +1,42 @@
+{
+  "id": "ikea-20595090",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vihals-daybed-frame-white-20595090/",
+  "name": "VIHALS Daybed frame, white, Twin",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 77.125,
+    "d": 40.5,
+    "h": 29.5,
+    "raw": "Length: 77 1/8 \"; Width: 40 1/2 \"; Mattress length: 74 3/8 \"; Mattress width: 38 1/4 \"; Free height under bed: 10 1/4 \"; Height: 29 1/2 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23. A daybed stands with its long back against the wall, so Length (77 1/8) is w and Width (40 1/2) is d, as for HEMNES (ikea-30349329)"
+  },
+  "images": [
+    {
+      "file": "ikea-20595090-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vihals-daybed-frame-white__1420913_pe977540_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. Fit: b's daybed-first option, a twin daybed with no trundle and no pull-out: closed and open 77 1/8 x 40 1/2\" (3,124 sq in), 1 1/4\" shorter, 7/8\" shallower and 3 1/8\" lower than HEMNES (ikea-30349329), with nothing to pull out. It sleeps one adult on a twin mattress (ÅSVANG ikea-80481415, the page's Complete with, $129.00). Back-bedroom left wall (rot 270): its foot 1/2\" above the wardrobe's swing (F-31, assumed-position:closet), its bedding 34\" from the heater face (F-33), 34\" along its open side to the desks opposite (F-34). The page: 'Mattress and bedlinens are sold separately.' and 'you can customise a daybed to your needs by adding drawers or a trundle bed' (neither added); 10 1/4\" free under it for storage boxes. Designer Ola Wihlborg. 3.2 stars (36), the weakest rating of the pieces kept: read the reviews before buying. Article 205.950.90. Stock 2026-10-23: in stock at IKEA Long Island, NY; click and collect; home delivery to our ZIP from $49.00 ($39.00 with IKEA Family). rooms: back-bedroom, from the redesign brief (F-62).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

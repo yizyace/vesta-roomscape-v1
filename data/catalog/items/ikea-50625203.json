@@ -1,0 +1,41 @@
+{
+  "id": "ikea-50625203",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/barndroem-fitted-sheet-multicolor-flower-pattern-50625203/",
+  "name": "BARNDRÖM Fitted sheet, multicolor/flower pattern, Twin",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "kids",
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 38.25,
+    "d": 74.375,
+    "raw": "Width: 38 1/4 \"; Length: 74 3/8 \"; Thread count: 152 /inch²; Package quantity: 1 pack",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Length; a layout extra, not a floor footprint)"
+  },
+  "images": [
+    {
+      "file": "ikea-50625203-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/barndroem-fitted-sheet-multicolor-flower-pattern__1481677_pe1000599_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: a layout extra (F-41) for an extendable bed (MINNEN ikea-59124621 or SUNDVIK ikea-69046072) at its full length with the VIMSIG mattress (ikea-80593743, 38 1/4 x 74 3/4 x 3 7/8\"): the page says it \"Fits mattresses with a thickness up to 3⅞\" since the fitted sheet has elastic edging all around\", exactly VIMSIG's thickness. Too shallow for the 4 3/4\" ÅSVANG twin mattress (ikea-80481415) that KURA and SLÄKT take; those use DVALA ikea-10357240 (up to 10\"). GOTS organic cotton; wash at 140°F (Hot). Matches the BARNDRÖM flower duvet cover ikea-10622697. Variant: multicolor/flower pattern, Twin. Popularity: #8 under Kids bedding & duvet covers sorted Most popular; 4 stars (4); not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

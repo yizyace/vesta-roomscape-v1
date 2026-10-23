@@ -1,0 +1,41 @@
+{
+  "id": "ikea-70624014",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/roedalm-frame-with-poster-leaf-cat-70624014/",
+  "name": "RÖDALM Frame with poster, leaf cat, 19 ¾x27 ½ \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "kids",
+    "living-room",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 34.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 19.75,
+    "h": 27.5,
+    "raw": "Height: 27 1/2 \"; Width: 19 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; the page gives Width and Height only (no Depth row), so Height is recorded as d, the catalog's second-number convention (as for ikea-40602018); it hangs flat on the wall (top layer); flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-70624014-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/roedalm-frame-with-poster-leaf-cat__1483990_pe1001417_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room, a wall piece on the top layer over the kids corner, 19.75\" of wall (F-20), takes no floor · fits. A playful cat-in-leaves poster for the family room, in a frame whose front is plastic, not glass: \"Front protection in plastic makes the frame safer to use.\" (Materials: front protection polystyrene). The poster can be swapped for Maddie's own drawings (\"you can easily change motif in the frame\"). Article 706.240.14. Popularity: not badged; #6 under Wall art sorted Most popular; 4.8 stars (12). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

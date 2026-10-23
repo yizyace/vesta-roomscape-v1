@@ -1,0 +1,44 @@
+{
+  "kitchen": {
+    "note": "The kitchen isn't measured, so it gets a day-one list instead of a layout (rules.md F-41). Picked by the dining/kitchen staging pass on 2026-10-22 (sources/2026-10-22-staging-dining-kitchen-browser.md).",
+    "items": [
+      { "itemId": "ikea-10564683", "qty": 1, "optional": false, "note": "service for 6" },
+      { "itemId": "ikea-60279711", "qty": 1, "optional": false, "note": "a 6-pack" },
+      { "itemId": "ikea-90043076", "qty": 1, "optional": false, "note": "service for 4; a second set makes 8" },
+      { "itemId": "ikea-50577909", "qty": 1, "optional": false, "note": "pots only" },
+      { "itemId": "ikea-20580705", "qty": 1, "optional": false },
+      { "itemId": "ikea-20577897", "qty": 1, "optional": false },
+      { "itemId": "ikea-60599675", "qty": 1, "optional": false, "note": "so the steel utensils don't scratch the non-stick pan" },
+      { "itemId": "ikea-80578342", "qty": 1, "optional": false },
+      { "itemId": "ikea-80233430", "qty": 1, "optional": false },
+      { "itemId": "ikea-40176950", "qty": 1, "optional": false },
+      { "itemId": "ikea-70514100", "qty": 1, "optional": false, "note": "soft-close lid" },
+      { "itemId": "ikea-30586783", "qty": 1, "optional": true, "note": "extra storage; out of stock at IKEA Long Island until Oct 24-31" }
+    ]
+  },
+  "bathroom": {
+    "note": "The bathroom isn't measured, so it gets a list instead of a layout (rules.md F-41). Picked by the Maddie/bathroom staging pass on 2026-10-22 (sources/2026-10-22-staging-maddie-bathroom-browser.md). Storage waits until it is measured: pick at most one of the optional cabinets.",
+    "items": [
+      { "itemId": "ikea-50313225", "qty": 3, "optional": false },
+      { "itemId": "ikea-60313220", "qty": 2, "optional": false },
+      { "itemId": "ikea-80313219", "qty": 4, "optional": false },
+      { "itemId": "ikea-00447350", "qty": 1, "optional": false },
+      { "itemId": "ikea-60591146", "qty": 1, "optional": false },
+      { "itemId": "ikea-00626498", "qty": 1, "optional": false },
+      { "itemId": "ikea-00466008", "qty": 1, "optional": false, "note": "a 12-pack" },
+      { "itemId": "ikea-60493004", "qty": 1, "optional": false },
+      { "itemId": "ikea-30493010", "qty": 1, "optional": false },
+      { "itemId": "ikea-10623475", "qty": 1, "optional": false },
+      { "itemId": "ikea-90493007", "qty": 1, "optional": false },
+      { "itemId": "ikea-50567830", "qty": 1, "optional": false, "note": "a 3-pack, for towels" },
+      { "itemId": "ikea-30574431", "qty": 1, "optional": false, "note": "for Maddie at the sink" },
+      { "itemId": "ikea-20400304", "qty": 1, "optional": false },
+      { "itemId": "ikea-40609406", "qty": 1, "optional": false },
+      { "itemId": "ikea-90314973", "qty": 1, "optional": true, "note": "only if there is no shower rod" },
+      { "itemId": "ikea-90600663", "qty": 1, "optional": true, "note": "only if there is a tub" },
+      { "itemId": "ikea-20470815", "qty": 1, "optional": true, "note": "storage, pick one: out of stock at IKEA Long Island" },
+      { "itemId": "ikea-60567778", "qty": 1, "optional": true, "note": "storage, pick one: glass door, so hang it out of Maddie's reach (F-21); anthracite" },
+      { "itemId": "ikea-60574905", "qty": 1, "optional": true, "note": "storage, pick one: black, off the house style" }
+    ]
+  }
+}

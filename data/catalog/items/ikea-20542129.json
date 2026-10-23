@@ -1,0 +1,42 @@
+{
+  "id": "ikea-20542129",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/loeva-bed-canopy-leaf-green-20542129/",
+  "name": "LÖVA Bed canopy, leaf/green",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "kids",
+    "bedroom",
+    "decor",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 14.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 35,
+    "h": 54,
+    "raw": "Length: 54 \"; Width: 35 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (flat, vendors.md: w = Width, h = Length; the page gives no depth or how far the leaf reaches out over the bed, so no d; it hangs on the wall: top layer)"
+  },
+  "images": [
+    {
+      "file": "ikea-20542129-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/loeva-bed-canopy-leaf-green__1160651_pe889036_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: wall-mounted (top layer), above the bed's head or over a reading corner; the page: \"easy to mount to the wall above the bed or can be used to create a small and cozy corner with soft blankets and pillows\". Safety and compliance: \"The product must be fixed high enough to the wall so that the child cannot hang or climb on it.\" 100% polyester; hand wash warm. A textile, so keep it 12\" from the heater's face like bedding (F-33). The page pairs it with the PLUFSIG folding gym mat (ikea-90552271, rejected). Variant: leaf/green. Popularity: Best seller; #2 under Kids bed tents & canopies sorted Most popular (#1 is the NATTAPA guard rail). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

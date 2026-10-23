@@ -1,0 +1,41 @@
+{
+  "id": "ikea-59124621",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/minnen-ext-bed-frame-with-slatted-bed-base-white-s59124621/",
+  "name": "MINNEN Ext bed frame with slatted bed base, white, 38 1/4x74 3/4 \"",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "kids",
+    "bedroom",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 40.5,
+    "d": 77.5,
+    "h": 36.25,
+    "raw": "Min. length: 50 \"; Max. length: 77 1/2 \"; Width: 40 1/2 \"; Headboard height: 36 1/4 \"; Footboard height: 28 3/8 \"; Mattress length: 38 1/4 \"; Mattress width: 74 3/4 \"; Height under furniture: 8 5/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Max. length fully extended, h = Headboard height)"
+  },
+  "images": [
+    {
+      "file": "ikea-59124621-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/minnen-ext-bed-frame-with-slatted-bed-base-white__0636271_pe697771_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: maddie-room left wall, 108\" clear (F-20): a long side along it at the full 77.5\" length leaves 30.5\" (58\" at the 50\" minimum length); the 40.5\" width plus 24\" on the open side (F-34) uses 64.5\" of the room's 118\" · fits. IKEA's safety note: keep the bed less than 2½\" or more than 9\" from a wall, so push it flush. Toddler-to-big-kid frame: extends from 50\" to 77 1/2\" for a 38 1/4x74 3/4\" extendable-bed mattress (e.g. VIMSIG ikea-80593743; the page suggests INNERLIG, $249.00); LURÖY slatted base included, packed separately. Variant: White (the category card listed 3 colors; white read). Popularity: #8 of the 23 cards loaded under Kids beds sorted Most popular, the first extendable bed there; 4.5 stars (199). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

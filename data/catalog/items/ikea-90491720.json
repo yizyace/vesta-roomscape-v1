@@ -1,0 +1,40 @@
+{
+  "id": "ikea-90491720",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vihals-sideboard-white-90491720/",
+  "name": "VIHALS Sideboard, white, 55 1/8x18 1/2x29 1/2 \"",
+  "brand": "IKEA",
+  "category": "sideboard",
+  "tags": [
+    "dining",
+    "storage"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 55.125,
+    "d": 18.5,
+    "h": 29.5,
+    "raw": "Depth: 18 1/2 \"; Height: 29 1/2 \"; Width: 55 1/8 \"; Max load/shelf: 40 lb; Drawer width (inside): 24 3/8 \"; Drawer depth (inside): 15 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-90491720-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vihals-sideboard-white__1035578_pe838113_s5.jpg"
+    }
+  ],
+  "notes": "Sideboard (the taxonomy has no sideboard category, so cabinet). F-20: 55.125\" on the 119\" left wall leaves 63.9\"; on the 128\" top wall, 72.9\". With it on the top wall 100.5\" of depth remains, so a 31.5\"-deep table centered leaves 34.5\" a side (F-36 tight:34.5); F-32: keep 24\" in front of its drawers. Variant white (dark gray also sold). Not badged; #3 on the Sideboards, buffets & sofa tables list sorted Most popular, and tied with SKRUVBY ($199.00) as the cheapest sideboard on its first page. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

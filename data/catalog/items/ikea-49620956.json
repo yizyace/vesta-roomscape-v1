@@ -1,0 +1,41 @@
+{
+  "id": "ikea-49620956",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/travsport-desk-sit-stand-electric-oak-effect-beige-s49620956/",
+  "name": "TRAVSPORT Desk sit/stand, electric oak effect/beige, 47 1/4x27 1/2 \"",
+  "brand": "IKEA",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 349.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 27.5,
+    "h": 46.125,
+    "raw": "Max. load: 110 lb; Width: 47 1/4 \"; Depth: 27 1/2 \"; Max. height: 46 1/8 \"; Min. height: 28 3/8 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23; h is the Max. height row (it adjusts 28 3/8 to 46 1/8)"
+  },
+  "images": [
+    {
+      "file": "ikea-49620956-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/travsport-desk-sit-stand-electric-oak-effect-beige__1545052_pe1019554_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. Fit: the separate work station (F-62: the job's laptop and one 32\" monitor, with room to spare): 47 1/4\" holds the 28\"-wide monitor and a laptop beside it with about 5\" over; 27 1/2\" deep, 2 1/2\" under F-62's 'about 30\"'. In the back bedroom it stands on the left wall (rot 270) at the window end, 6\" off the heater face (F-33), in a and c; at the door end in d; and as the L's return along the window wall in b (under-window, sill-unmeasured: it rises 28 3/8-46 1/8\"). The page: 'Cable management, a shelf, a flush control panel, rounded corners'. Sit/stand, electric; max. load 110 lb. Oak effect top on a beige frame, the warm wood of the house style. Article 496.209.56 (s49620956). Also sold as TRAVSPORT/MILLBERGET and TRAVSPORT/MARKUS desk-and-chair sets (not opened). New; 4.1 stars (18). Stock 2026-10-23: in stock at IKEA Long Island, NY; home delivery to our ZIP from $49.00 ($39.00 with IKEA Family); assembly service $27.30*. rooms: back-bedroom, from the redesign brief (F-62).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

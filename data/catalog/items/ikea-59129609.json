@@ -1,0 +1,42 @@
+{
+  "id": "ikea-59129609",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/brimnes-bed-frame-with-storage-headboard-white-luroey-s59129609/",
+  "name": "BRIMNES Bed frame with storage & headboard, white/Luröy, Queen",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom",
+    "storage",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 549,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 62.25,
+    "d": 95.25,
+    "h": 43.75,
+    "raw": "Length: 95 1/4 \"; Width: 62 1/4 \"; Height: 43 3/4 \"; Mattress length: 79 1/2 \"; Mattress width: 59 7/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w (headboard side), Length -> d, Height -> h"
+  },
+  "images": [
+    {
+      "file": "ikea-59129609-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/brimnes-bed-frame-with-storage-headboard-white-luroey__1101935_pe866863_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, headboard on the 133\" right wall (F-20, F-33): 62.25\" wide and centered (y 35.4 to 97.6) it leaves 35.4\" on each side for nightstands, and 95.25\" long (the storage headboard included) it leaves 81.75\" of the room's 177\"; F-34 and F-32 for its side drawers: 29.4\" from the window-side edge to the heater's face, 35.4\" on the bathroom side · fits. The white of the catalog's black BRIMNES ikea-79129608 (the same Measurements rows): the house style is white and light wood, not black. Hidden storage (drawers along the sides in the product photo) and a storage headboard; the Luröy slatted base is included (article 591.296.09 is a set; its URL carries an s). Best seller (product page). 4.2 stars (1254). Queen $549.00 (Full $499.00 and King $679.00 on the size picker). In stock in IKEA Long Island, NY; click and collect; home delivery to our ZIP from $39.00 (2026-10-22). rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ikea-50570955",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vallkrassing-cushion-cover-gray-green-50570955/",
+  "name": "VALLKRASSING Cushion cover, gray-green, 20x20 \"",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "living-room",
+    "decor",
+    "washable"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 20,
+    "d": 20,
+    "raw": "Length: 20 \"; Width: 20 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width is w and Length is d; a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "ikea-50570955-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vallkrassing-cushion-cover-gray-green__1204906_pe906875_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room extras, two on the sofa with the FJÄDRAR inserts ikea-60262188 · fits. The house style's sage-green accent. Washable: \"Machine wash warm, normal cycle.\" Insert sold separately (the page suggests FJÄDRAR 20x20\", $12.00). Article 505.709.55. Popularity: not badged; #5 under Throw pillow covers sorted Most popular; 4.5 stars (232). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

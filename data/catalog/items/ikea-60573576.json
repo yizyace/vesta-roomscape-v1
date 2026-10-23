@@ -1,0 +1,41 @@
+{
+  "id": "ikea-60573576",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/storsegel-table-lamp-ash-white-60573576/",
+  "name": "STORSEGEL Table lamp, ash/white",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "living-room",
+    "lighting"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 19.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 7,
+    "d": 7,
+    "h": 12,
+    "raw": "Diameter: 7 \"; Height: 12 \"; Max.: 9 W",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; no Width or Depth row: w and d are the Diameter row"
+  },
+  "images": [
+    {
+      "file": "ikea-60573576-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/storsegel-table-lamp-ash-white__1285773_pe933400_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room, a 7\" lamp on the top layer, on a side table or the bookcase (it takes no floor) · fits. A small ash tripod with a white shade, the table-size match for the LAUTERS floor lamp ikea-00405048. \"Light bulb sold separately. IKEA recommends LED bulb E12 globe opal white.\" Price: regular $19.99; IKEA Family price $14.99 (25% off, save $5.00), valid Oct 7, 2026 - Nov 11, 2026 or while supply lasts. Article 605.735.76. Popularity: not badged; #4 under Table lamps sorted Most popular; 4.8 stars (526). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

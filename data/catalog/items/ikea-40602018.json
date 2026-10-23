@@ -1,0 +1,39 @@
+{
+  "id": "ikea-40602018",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/pjaetteryd-picture-swedish-sand-dunes-40602018/",
+  "name": "PJÄTTERYD Picture, Swedish sand dunes, 22x22 \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "decor"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 69.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 22,
+    "h": 22,
+    "raw": "Height: 22 \"; Package quantity: 3 pack; Width: 22 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; each of the three canvases is 22 x 22; the page gives Width and Height only (no Depth row), so Height is recorded as d, the catalog's second-number convention (as for rugs and curtains), and the piece is drawn on the top layer by its face; it hangs flat on the wall; flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-40602018-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/pjaetteryd-picture-swedish-sand-dunes__1385657_pe963379_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. Three 22 x 22 canvas prints sold as one 3 pack ($69.99/3 pack): hung in a row with about 4\" gaps they span 74\", over the 78\" daybed. Sand, sea and grasses in beige and sage, the house palette. Screws for wall mounting not included; IKEA recommends ALFTA adhesive hooks, sold separately. First page of Wall art sorted Most popular; not badged; 23 reviews. In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

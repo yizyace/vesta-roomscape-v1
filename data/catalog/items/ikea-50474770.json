@@ -1,0 +1,42 @@
+{
+  "id": "ikea-50474770",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/elloven-monitor-stand-with-drawer-white-50474770/",
+  "name": "ELLOVEN Monitor stand with drawer, white",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "office",
+    "storage",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 18.5,
+    "d": 10.25,
+    "h": 4,
+    "raw": "Width: 18 ½ \"; Depth: 10 ¼ \"; Height: 4 \"; Drawer width (inside): 17 ¾ \"; Drawer depth (inside): 9 ½ \"; Max. load: 44 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-50474770-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/elloven-monitor-stand-with-drawer-white__0955984_pe804426_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits (on the desk; a layout extra, the desk organizer). Raises the screen 4\" and has a drawer for pens, chargers and cables; white with a bamboo top (the page's photo). Best seller (product page; on the cable-management search sorted Most popular; 4,508 reviews). In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

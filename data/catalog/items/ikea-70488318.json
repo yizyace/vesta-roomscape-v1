@@ -1,0 +1,38 @@
+{
+  "id": "ikea-70488318",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/besta-suspension-rail-silver-color-70488318/",
+  "name": "BESTÅ Suspension rail, silver color, 23 5/8 \"",
+  "brand": "IKEA",
+  "category": "other",
+  "tags": [
+    "storage"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 10,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 23.625,
+    "raw": "Length: 23 5/8 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23; the only row is Length, recorded as w (its run along the wall); no depth or height row, so it is a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "ikea-70488318-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/besta-suspension-rail-silver-color__0981312_pe815324_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: hardware, a layout extra (2 per 47 1/4\" BESTÅ frame hung on a wall, such as ikea-79047429). The page: \"The suspension rail functions as a reinforcement to make it easier and safer to mount the BESTÅ frame to the wall.\" \"The rail has several holes for attaching it directly to a stud.\" \"You can easily hang several frames next to each other and align them at exactly the same height thanks to the included connector.\" Article 704.883.18. 4 stars (352). IKEA Family price $8.00, valid Oct 7 to Nov 11, 2026. Stock 2026-10-23: in stock at IKEA Long Island, NY. rooms: maddie-room, from the redesign brief (the wall-hung BESTÅ above her desk).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

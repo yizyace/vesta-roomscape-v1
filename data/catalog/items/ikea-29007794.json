@@ -1,0 +1,40 @@
+{
+  "id": "ikea-29007794",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/",
+  "name": "TARVA Bed frame, pine/Luröy, Queen",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 63,
+    "d": 82.25,
+    "h": 36.25,
+    "raw": "Length: 82 1/4 \"; Width: 63 \"; Footboard height: 12 5/8 \"; Headboard height: 36 1/4 \"; Mattress length: 79 1/2 \"; Mattress width: 59 7/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w (headboard side), Length -> d, h the headboard height"
+  },
+  "images": [
+    {
+      "file": "ikea-29007794-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tarva-bed-frame-pine-luroey__1102036_pe866857_s5.jpg"
+    }
+  ],
+  "notes": "Queen frame with the Luröy slatted base (article 290.077.94 is the set; its URL carries an s before the digits); takes a 59 7/8 x 79 1/2 \" mattress, sold separately. F-20/F-33: headboard on the 133\" right wall, never the 177\" top heater wall: 63\" wide leaves 35\" on each side for nightstands, and 82.25\" long leaves 94.75\" of the room's 177\". F-34: 29\" from the window-side edge to the heater's face, 35\" on the bathroom side. Best seller (product page; #1 on the Bed frames list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

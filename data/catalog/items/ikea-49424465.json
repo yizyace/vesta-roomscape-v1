@@ -1,0 +1,41 @@
+{
+  "id": "ikea-49424465",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/flintan-office-chair-with-armrests-beige-s49424465/",
+  "name": "FLINTAN Office chair with armrests, beige",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "office",
+    "seating"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 119.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 28,
+    "d": 28,
+    "h": 44.875,
+    "raw": "Tested for: 276 lb; Width: 28 \"; Depth: 28 \"; Max. height: 44 7/8 \"; Min. height: 40 1/2 \"; Seat width: 18 1/8 \"; Seat depth: 19 1/4 \"; Max. seat height: 22 7/8 \"; Min. seat height: 17 3/4 \"; Min. armrest height: 27 1/8 \"; Max. armrest height: 32 1/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; h is the Max. height row"
+  },
+  "images": [
+    {
+      "file": "ikea-49424465-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/flintan-office-chair-with-armrests-beige__1007238_pe825958_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. The light-colored desk chair for the house style (white and beige, where CENTERHALV ikea-10601124 is black and MARKUS ikea-90289172 dark gray), and $80 less than CENTERHALV. Height adjusts 40 1/2\"-44 7/8\"; seat 17 3/4\"-22 7/8\"; the armrests (27 1/8\" at their lowest) stay above the MICKE's 24 3/4\" under-desk height, so the chair parks in front of the desk, not under it (F-35 counts it out). A set sold as one article (the URL's s49424465). Only 2 left in IKEA Long Island, NY on 2026-10-22. 728 reviews; not badged; on the Desk chairs list sorted Most popular. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

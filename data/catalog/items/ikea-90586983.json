@@ -1,0 +1,41 @@
+{
+  "id": "ikea-90586983",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/malinda-chair-pad-light-beige-90586983/",
+  "name": "MALINDA Chair pad, light beige, 16/14x15x3 \"",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "dining",
+    "washable"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 16,
+    "d": 15,
+    "h": 3,
+    "raw": "Min. width: 14 \"; Max. width: 16 \"; Depth: 15 \"; Thickness: 3 \"; Filling weight: 12 oz; Total weight: 16 oz",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23; Max. width -> w, Depth -> d, Thickness -> h"
+  },
+  "images": [
+    {
+      "file": "ikea-90586983-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/malinda-chair-pad-light-beige__0143188_pe302771_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: a layout extra, one per VIHALS chair (seat 15 3/8 x 15 3/4\"): the 16/14 x 15\" pad sits on the seat; it would overhang a SANDSBERG seat (13 3/8\" deep) by 1 5/8\", so the SANDSBERG layouts go without it. Softens the white steel-and-plastic chairs in the house style's oatmeal. Materials: outer fabric 100% cotton; filling 100% polyester hollow fiber (100% recycled); interliner 100% polypropylene; care: \"Machine wash warm, normal cycle.\" \"Tumble dry, low, normal cycle.\" \"Shrinkage maximum 4%.\" (the whole pad washes, which suits a 4-year-old's dinners). #1 on IKEA search 'chair pad' (22 results); 4.4 stars (2373); not badged. Stock 2026-10-23: in stock in IKEA Long Island, NY; click and collect free; home delivery to our ZIP. rooms: dining-room, from the redesign brief (textiles).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

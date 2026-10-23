@@ -1,0 +1,41 @@
+{
+  "id": "ikea-40584057",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/roedflik-desk-lamp-light-beige-40584057/",
+  "name": "RÖDFLIK Desk lamp, light beige",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "office",
+    "lighting"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 44.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 6,
+    "d": 6,
+    "h": 17,
+    "raw": "Height: 17 \"; Base diameter: 6 \"; Shade diameter: 6 \"; Max.: 9 W",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; no Width or Depth row, so w and d are the widest stated diameter (base and shade, both 6\")"
+  },
+  "images": [
+    {
+      "file": "ikea-40584057-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/roedflik-desk-lamp-light-beige__1327059_pe944350_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits (on the desk, top layer). The desk lamp with dimensions for the top layer; the TERTIAL ikea-20355434 has none. The page's main photo describes it as white with brass accents. Bulb sold separately (the page suggests an LED bulb E12 globe opal white). Best seller badge on the Desk lamps list card (#3 sorted Most popular, shown in gray-green); not on this variant's page. In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

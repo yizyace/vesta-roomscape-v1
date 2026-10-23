@@ -1,0 +1,41 @@
+{
+  "id": "ikea-30605423",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/sandsberg-chair-black-30605423/",
+  "name": "SANDSBERG Chair, black",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "dining",
+    "seating",
+    "best-seller"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 15,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 15.375,
+    "d": 18.5,
+    "h": 30.375,
+    "raw": "Tested for: 243 lb; Width: 15 3/8 \"; Depth: 18 1/2 \"; Height: 30 3/8 \"; Seat width: 15 3/8 \"; Seat depth: 13 3/8 \"; Seat height: 17 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-30605423-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/sandsberg-chair-black__1390732_pe965553_s5.jpg"
+    }
+  ],
+  "notes": "Seat height 17.75\": 11.75\" under the ÅLHULT top (29.5\") and 11.375\" under LISABO (29.125\"), within the 1 ft that IKEA's Dining tables page recommends. Black, to match the ÅLHULT black/brown. #1 on the Dining chairs list sorted Most popular; Best seller badge on the product page. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

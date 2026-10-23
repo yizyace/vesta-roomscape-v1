@@ -1,0 +1,44 @@
+{
+  "id": "ikea-29401436",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/poaeng-kids-armchair-birch-veneer-knisa-light-beige-s29401436/",
+  "name": "POÄNG Kid's armchair, birch veneer/Knisa light beige",
+  "brand": "IKEA",
+  "category": "armchair",
+  "tags": [
+    "kids",
+    "living-room",
+    "seating",
+    "washable",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 59.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 18.5,
+    "d": 22,
+    "h": 26.75,
+    "raw": "Width: 18 1/2 \"; Depth: 22 \"; Height: 26 3/4 \"; Seat width: 15 \"; Seat depth: 14 \"; Seat height: 9 1/2 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-29401436-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/poaeng-kids-armchair-birch-veneer-knisa-light-beige__0945683_pe797767_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room kids corner, 18.5\" x 22\" beside the toy storage (F-20), clear of the stair landings (F-40) · fits. Maddie's own small POÄNG to match the adult one (ikea-59305928): \"Recommended for children 3 years and older.\" (she is 4). Washable: cushion \"Machine wash warm, normal cycle.\" Variant: birch veneer/Knisa light beige, article 294.014.36. Popularity: not badged; #14 under Armchairs & chaises sorted Most popular; 4.6 stars (280). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief (the kids corner).",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ikea-50282177",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lack-wall-shelf-white-50282177/",
+  "name": "LACK Wall shelf, white, 11 3/4x10 1/4 \"",
+  "brand": "IKEA",
+  "category": "shelf",
+  "tags": [
+    "bedroom",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 7.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 11.75,
+    "d": 10.25,
+    "h": 2,
+    "raw": "Length: 11 3/4 \"; Depth: 10 1/4 \"; Height: 2 \"; Max. load: 7 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Length, along the wall; d = Depth; h = Height)"
+  },
+  "images": [
+    {
+      "file": "ikea-50282177-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lack-wall-shelf-white__0641086_pe700251_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: the bedside shelf, wall-mounted (top layer) beside the bed's head, about 10\" above the mattress, for the night light and a book; it takes no floor, so the bed's open side stays clear (F-34). Hidden suspension brackets included; screws sold separately; the page: \"Max. load 6.5 lbs. depending on type of wall and anchor\" (the row says 7 lb) and \"WARNING! Falling hazard – to reduce the risk of this product falling down, it must be securely anchored.\" Particleboard and paper honeycomb, so keep it light: the TÖVÄDER night light (ikea-60516915) and a book or two. Variant: white. Popularity: #7 under Nightstands sorted Most popular (IKEA lists it as a bedside option); not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

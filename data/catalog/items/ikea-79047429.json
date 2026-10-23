@@ -1,0 +1,43 @@
+{
+  "id": "ikea-79047429",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/besta-shelf-unit-with-doors-white-lappviken-white-s79047429/",
+  "name": "BESTÅ Shelf unit with doors, white/Lappviken white, 47 1/4x16 1/2x15 \"",
+  "brand": "IKEA",
+  "category": "cabinet",
+  "tags": [
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 125,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 16.5,
+    "h": 15,
+    "raw": "Width: 47 1/4 \"; Depth: 16 1/2 \"; Height: 15 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-79047429-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/besta-shelf-unit-with-doors-white-lappviken-white__1602888_pe1043802_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none (15\" tall, under F-21's 27\"; solid LAPPVIKEN doors, no glass). Fit: maddie-room top wall, wall-mounted (top layer) above her desk or play table, its right end 6\" short of the right wall's heater face (F-33), hung with its underside about 54\" up so the doors are above a 4-year-old's reach: closed storage for markers, paint, glue and rotation toys that a parent hands down (F-63) · fits. Good to know: \"Must be completed with BESTÅ suspension rail if you choose to mount the frame on the wall. This frame requires 2 suspension rails, sold separately.\" (ikea-70488318, x 2; fix them into studs). Safety and compliance: \"Max. load 44 lbs. per horizontal surface if placed on the floor.\" What's included: 1 BESTÅ frame 47 1/4x15 3/4x15\" (602.458.44), 2 LAPPVIKEN door/drawer fronts 23 1/2x15\" (002.916.74), 2 BESTÅ soft closing/push-open hinges (802.612.58). Article 790.474.29, a combination (the URL carries an s). Variant: white/Lappviken white. Best seller; 4.3 stars (321). IKEA Family price $103.00, valid Oct 7 to Nov 11, 2026. Stock 2026-10-23: in stock at IKEA Long Island, NY; click and collect; home delivery to our ZIP. rooms: maddie-room, from the redesign brief (F-63).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

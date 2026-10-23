@@ -1,0 +1,40 @@
+{
+  "id": "ikea-20426808",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/stoense-rug-low-pile-off-white-20426808/",
+  "name": "STOENSE Rug, low pile, off-white, 6 ' 7 \"x9 ' 10 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 129.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 79,
+    "d": 118,
+    "h": 0.75,
+    "raw": "Length: 9 ' 10 \"; Width: 6 ' 7 \"; Thickness: ¾ \"; Area: 64.58 sq feet; Surface density: 7.98 oz/sq ft; Pile coverage: 4.88 oz/sq ft; Pile thickness: ½ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width 6'7\" = 79\" -> w, Length 9'10\" = 118\" -> d, Thickness -> h"
+  },
+  "images": [
+    {
+      "file": "ikea-20426808-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/stoense-rug-low-pile-off-white__0624402_pe691814_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Rejected (F-03): on Clearance (\"Previous price $159.99\", now $129.99, 18% off, \"Price valid from Apr 21, 2026 and while supply lasts\") and \"Currently unavailable for delivery to our ZIP / Unavailable online for selected areas\" on 2026-10-22; the TIOKRONA 7'10\"x9'10\" jute flatweave ikea-90628228 (in stock, deliverable) takes the master-bedroom rug slot. Soft low pile (1/2\" pile), 4.6 stars (6161): worth a look in the Long Island store while it lasts. Sizes: 4'4\"x6'5\" $99.99, 5'7\"x7'10\" $149.99, 6'7\"x9'10\" $129.99 (clearance), 7'10\"x10' $249.99. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

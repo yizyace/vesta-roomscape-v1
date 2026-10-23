@@ -1,0 +1,42 @@
+{
+  "id": "ikea-60561248",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/storklinta-6-drawer-dresser-white-anchor-unlock-function-60561248/",
+  "name": "STORKLINTA 6-drawer dresser, white/anchor/unlock function, 55 1/8x18 7/8x29 1/2 \"",
+  "brand": "IKEA",
+  "category": "dresser",
+  "tags": [
+    "bedroom",
+    "storage",
+    "anchor-required",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 249.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 55.125,
+    "d": 18.875,
+    "h": 29.5,
+    "raw": "Depth: 18 7/8 \"; Drawer depth (inside): 15 3/4 \"; Height: 29 1/2 \"; Width: 55 1/8 \"; Drawer width (inside): 24 \"; Storage capacity: 8.4 cu.ft; Drawer pull-out: 10 7/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-60561248-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/storklinta-6-drawer-dresser-white-anchor-unlock-function__1344049_pe949711_s5.jpg"
+    }
+  ],
+  "notes": "F-20: 55.125\" on the 70\" clear wall between the walk-in closet and the bathroom door leaves 14.9\" (7.4\" a side). F-32: 24\" in front of the drawers, so a bed whose side runs past it must stay 24\" off its front. Flags: anchor-required (29.5\" dresser with the anchor/unlock function). IKEA Family in-store-only price $199.99, Sep 8 to Dec 24, 2026. Best seller (product page; #1 on the Dressers list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

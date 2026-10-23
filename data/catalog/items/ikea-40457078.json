@@ -1,0 +1,40 @@
+{
+  "id": "ikea-40457078",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/saefferot-duvet-insert-light-warm-40457078/",
+  "name": "SÄFFEROT Duvet insert, light warm, Twin",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 64,
+    "d": 86,
+    "raw": "Thread count: 176 /inch²; Length: 86 \"; Width: 64 \"; Filling weight: 12 oz; Total weight: 33 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; bedding: Width is w and Length is d"
+  },
+  "images": [
+    {
+      "file": "ikea-40457078-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/saefferot-duvet-insert-light-warm__0777305_pe758511_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. A layout extra for the guest daybed (HEMNES ikea-30349329 with an ÅSVANG twin mattress ikea-80481415), never placed. Light warm, for a room with a heater along its window wall. Machine wash warm (page). The cheaper of the two twin duvet inserts on the search list: SMÅSPORRE, warm, twin, $49.99, was seen and not opened (the browser tab title calls this one a Comforter). Full/Queen $29.99. Not badged. In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

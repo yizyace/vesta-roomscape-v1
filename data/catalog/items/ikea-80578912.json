@@ -1,0 +1,34 @@
+{
+  "id": "ikea-80578912",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/pjaetteryd-picture-vase-with-twelve-sunflowers-80578912/",
+  "name": "PJÄTTERYD Picture, Vase With Twelve Sunflowers, 27 ½x39 ¼ \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "dining",
+    "decor"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 39.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 27.5,
+    "h": 39.25,
+    "raw": "Height: 39 ¼ \"; Width: 27 ½ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; a flat canvas with no depth row: w the Width, h the Height, no d (furniture-planner 0.2.1)"
+  },
+  "images": [],
+  "notes": "Flags: none. Rejected 2026-10-22: at 27.5\" wide it is half the 55\" VIHALS sideboard it would hang over, and its page gives no depth (a flat item since app 0.2.1: top layer only); BLODFLÄDER The Seine at Giverny (ikea-20601915, a Best seller, 47.25\" frame with a 1.25\" frame depth on its page) was taken for that wall instead. Canvas print (100 % polyester) on a fiberboard inside frame, no glass; Van Gogh motif in ochre and terracotta; 'Screws for wall mounting not included. IKEA recommends using ALFTA adhesive hooks. 2 ALFTA hooks needed for each picture.' 4.9 stars (13). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ikea-60615114",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/maevinn-laundry-basket-jute-cotton-60615114/",
+  "name": "MÄVINN Laundry basket, jute/cotton",
+  "brand": "IKEA",
+  "category": "laundry",
+  "tags": [
+    "bedroom",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 39.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 15.75,
+    "d": 15.75,
+    "h": 19.75,
+    "raw": "Diameter: 15 ¾ \"; Height: 19 ¾ \"; Max. load: 33 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; no Width or Depth row: w and d are the Diameter row"
+  },
+  "images": [
+    {
+      "file": "ikea-60615114-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/maevinn-laundry-basket-jute-cotton__1429002_pe981729_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Rejected (F-03): Limited edition and 2.6 stars (21); the PURRPINGLA laundry bag with stand ikea-40609406 ($29.99, #3 on Laundry baskets, hampers & bags sorted Most popular) stands in the room instead. Thick jute and dyed cotton, designer Maria Vinka; the page read did not mention a lid. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

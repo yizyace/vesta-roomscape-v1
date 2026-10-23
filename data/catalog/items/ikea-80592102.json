@@ -1,0 +1,42 @@
+{
+  "id": "ikea-80592102",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/liljetraed-mirror-white-80592102/",
+  "name": "LILJETRÄD Mirror, white, 11 3/4x45 1/4 \"",
+  "brand": "IKEA",
+  "category": "mirror",
+  "tags": [
+    "living-room",
+    "entry",
+    "decor",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 11.75,
+    "h": 45.25,
+    "raw": "Height: 45 1/4 \"; Width: 11 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; the page gives Width and Height only (no Depth row), so Height is recorded as d, the catalog's second-number convention (as for ikea-40602018); it hangs flat on the wall (top layer); flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-80592102-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/liljetraed-mirror-white__1357336_pe953525_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room bottom wall by the bottom-left stair landing, hung vertically beside the BISSA shoe cabinet with its lower edge above Maddie's reach (top layer, takes no floor; F-40 keeps the landing clear) · fits. White frame; \"Can be hung horizontally or vertically.\" Glass, but \"Provided with safety film - reduces damage if glass is broken.\" Article 805.921.02. Popularity: Best seller; #4 under Mirrors sorted Most popular; 4.5 stars (427). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief (entry mirror).",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ikea-00466008",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/hassjoen-shower-curtain-rings-white-00466008/",
+  "name": "HASSJÖN Shower curtain rings, white",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 1.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-00466008-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/hassjoen-shower-curtain-rings-white__0804404_pe769174_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (F-11: the Measurements section gives only \"Package quantity: 12 pack\" and the box size; a list item, never placed). Fit: the bathroom list; one 12-pack carries the curtain and the liner. Price $1.99 per 12-pack. Variant: white. Popularity: #15 under a search for \"curtain rod\" sorted Most popular; not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: [] with the bathroom tag (F-13: the bathroom is not one of the six rooms; F-41: it gets a list, not a layout); the bathroom is unmeasured.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

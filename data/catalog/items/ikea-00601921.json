@@ -1,0 +1,42 @@
+{
+  "id": "ikea-00601921",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/blodflaeder-picture-two-birds-00601921/",
+  "name": "BLODFLÄDER Picture, two birds, 15 ¾x19 ¾ \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "kids",
+    "bedroom",
+    "decor"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 39.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 16.5,
+    "d": 1.25,
+    "h": 20.5,
+    "raw": "Height: 19 ¾ \"; Width: 15 ¾ \"; Frame width: 16 ½ \"; Frame height: 20 ½ \"; Frame depth: 1 ¼ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Frame width, d = Frame depth off the wall, h = Frame height; wall art, placed on the top layer)"
+  },
+  "images": [
+    {
+      "file": "ikea-00601921-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/blodflaeder-picture-two-birds__1392148_pe966012_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: wall art (top layer). No glass (F-21): printed on canvas (80% recycled polyester, 20% linen) with an attached oak-effect frame (fiberboard, paper foil); \"The picture is hung from the protruding edge that runs along the top of the back side\"; clean with a duster. Two white birds on sage green, motif by Maja Gunnarsdottir: the house's sage accent and light wood. Hang it where she cannot pull it down onto the bed (not straight over her pillow). Variant: two birds (the same series has an orange flower at the same size and price). Popularity: #5 under Wall art sorted Most popular; 5 stars (23); not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY; click and collect free. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

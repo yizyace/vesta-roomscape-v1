@@ -1,0 +1,42 @@
+{
+  "id": "ikea-40440832",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/upplyst-led-wall-lamp-cloud-white-40440832/",
+  "name": "UPPLYST LED wall lamp, cloud white",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "kids",
+    "bedroom",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 19.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 12,
+    "d": 3,
+    "h": 7,
+    "raw": "Luminous flux: 110 Lumen; Width: 12 \"; Depth: 3 \"; Height: 7 \"; Cord length: 6 ' 7 \"; Power: 1.6 W",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-40440832-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/upplyst-led-wall-lamp-cloud-white__0716259_pe730767_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: wall-mounted, 12 x 7\" and 3\" deep; takes no floor space. Plug-in with a 6' 7\" cord, which IKEA says to secure to the wall with the included fasteners; its safety note: \"All cords can present a strangulation hazard. Never place a corded product within reach of a child in a crib or playpen.\" 110 lumen (about a 15 W incandescent bulb), 1.6 W, replaceable LED. Variant: cloud white. Popularity: Best seller; #1 under Kids night lights & lamps sorted Most popular; 4.3 stars (527). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

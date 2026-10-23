@@ -1,0 +1,43 @@
+{
+  "id": "ikea-80576512",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/godishus-wardrobe-white-80576512/",
+  "name": "GODISHUS Wardrobe, white, 23 5/8x21 1/4x70 1/8 \"",
+  "brand": "IKEA",
+  "category": "wardrobe",
+  "tags": [
+    "kids",
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 23.625,
+    "d": 21.25,
+    "h": 70.125,
+    "raw": "Width: 23 5/8 \"; Depth: 21 1/4 \"; Height: 70 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-80576512-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/godishus-wardrobe-white__1246172_pe922030_s5.jpg"
+    }
+  ],
+  "notes": "Flags: anchor-required (F-21: 70 1/8\" tall in Maddie's room). Fit: maddie-room left wall, 108\" clear (F-20): leaves 84.4\"; 21.25\" deep plus 24\" to open it uses 45.3\" of the room's 118\" · fits. The room already has a closet with 55\" double doors. The page says \"Designed to meet the US Federal Stability Standard\" (F-21 prefers this) and \"WARNING! Tipping hazard – this product must be securely anchored.\"; screws for wood and wall plugs for plaster, concrete or masonry are included. Clothes rail and shelves, deep enough for adult hangers. Variant: white. Popularity: #3 under Children's wardrobes sorted Most popular, the first closed wardrobe there (#1 and #2 are FLISAT open storage); 4.7 stars (9). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ikea-30381852",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lustigt-wall-shelf-30381852/",
+  "name": "LUSTIGT Wall shelf, 14 5/8x14 5/8 \"",
+  "brand": "IKEA",
+  "category": "shelf",
+  "tags": [
+    "kids",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 14.625,
+    "d": 2.375,
+    "h": 14.625,
+    "raw": "Width: 14 5/8 \"; Depth: 2 3/8 \"; Height: 14 5/8 \"; Max load/shelf: 1 lb; Max. load/compartment: 4 lb; Total width: 24 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-22: considered as the bedside shelf (#7 under Kids storage & organization sorted Most popular, Best seller), but Safety and compliance says \"Recommended for children 6 years and older.\" (Maddie is 4), and it holds 1 lb per shelf. Birch plywood; the shelf slides sideways. Flags: none.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

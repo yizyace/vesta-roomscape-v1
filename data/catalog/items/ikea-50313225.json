@@ -1,0 +1,39 @@
+{
+  "id": "ikea-50313225",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/salviken-bath-towel-white-50313225/",
+  "name": "SALVIKEN Bath towel, white, 28x55 \"",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom",
+    "washable",
+    "best-seller"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 28,
+    "d": 55,
+    "raw": "Weight: 1.64 oz/sq ft; Length: 55 \"; Width: 28 \"; Area: 10.55 sq feet; Surface density: 1.64 oz/sq ft",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Length; a list item, not a floor footprint)"
+  },
+  "images": [
+    {
+      "file": "ikea-50313225-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/salviken-bath-towel-white__0605465_pe681754_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: the bathroom list, one per person (3, one each), plus spares as wanted. SALVIKEN, terry on one side and waffle on the other (500 g/m²); \"Machine wash warm (max 140°F/60°C) normal cycle.\"; tumble dry medium. White, the lightest of its two colors (white, anthracite); VÅGSJÖN light beige 28x55\" is $7.99 and not badged, if a warmer, cheaper set is preferred. Matching hand towel ikea-60313220 and washcloth ikea-80313219. Popularity: Best seller; #1 under a search for \"bath towel\" sorted Most popular. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: [] with the bathroom tag (F-13: the bathroom is not one of the six rooms; F-41: it gets a list, not a layout); the bathroom is unmeasured.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

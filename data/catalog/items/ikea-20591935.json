@@ -1,0 +1,28 @@
+{
+  "id": "ikea-20591935",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/stubberget-laptop-holder-with-arm-white-20591935/",
+  "name": "STUBBERGET Laptop holder with arm, white",
+  "brand": "IKEA",
+  "category": "other",
+  "tags": [
+    "office"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Flags: no-dimensions. Rejected (F-03): the page says 'This laptop holder with an arm fits perfectly on STUBBERGET bracket', and that bracket takes screens only up to 24\" (ikea-30591765, rejected), so beside a 32\" monitor it has nothing to mount on. Measurements: 'Max. load: 6 lb 10 oz'. 3.6 stars (16); only 1 left in IKEA Long Island, NY on 2026-10-23. Article 205.919.35. rooms: back-bedroom, from the redesign brief.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

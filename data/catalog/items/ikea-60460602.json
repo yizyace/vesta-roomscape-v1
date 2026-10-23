@@ -1,0 +1,41 @@
+{
+  "id": "ikea-60460602",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vildkorn-pillow-stomach-sleeper-60460602/",
+  "name": "VILDKORN Pillow, stomach sleeper, Queen",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "kids",
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 30,
+    "d": 20,
+    "raw": "Thread count: 186 /inch²; Length: 20 \"; Width: 30 \"; Filling weight: 19 oz; Total weight: 22 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Length; a layout extra, not a floor footprint)"
+  },
+  "images": [
+    {
+      "file": "ikea-60460602-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vildkorn-pillow-stomach-sleeper__0789326_pe763943_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: a layout extra (F-41). The page: \"A low, easy-care pillow\" (for a lower head position), the pillow IKEA lists under Kids duvet inserts & pillows; 20 x 30\", which the BARNDRÖM pillowcase (20 1/8 x 29 7/8\", ikea-10622697) fits. Machine-washable at 140°F (Hot); 65% recycled polyester, 35% cotton. Variant: stomach sleeper, Queen (King $14.99). Popularity: #2 of the 2 items under Kids duvet inserts & pillows sorted Most popular; 4 stars (365); not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

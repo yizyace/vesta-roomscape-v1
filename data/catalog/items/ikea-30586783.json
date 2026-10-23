@@ -1,0 +1,43 @@
+{
+  "id": "ikea-30586783",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/raskog-utility-cart-white-30586783/",
+  "name": "RÅSKOG Utility cart, white, 13 3/4x17 3/4x30 3/8 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "kitchen",
+    "storage",
+    "nice-to-have",
+    "best-seller"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 39.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 17.75,
+    "d": 13.75,
+    "h": 30.375,
+    "raw": "Height: 30 3/8 \"; Length: 13 3/4 \"; Load/tier: 13 lb; Max. load: 40 lb; Width: 17 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width (the long side) -> w, Length (front to back) -> d; the name lists them as 13 3/4 x 17 3/4 x 30 3/8"
+  },
+  "images": [
+    {
+      "file": "ikea-30586783-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/raskog-utility-cart-white__1366882_pe957173_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none (a 30.4\" cart on castors, not the tall storage F-21 lists; the page cites the EN 16121:2023 stability test). Fit: optional kitchen storage, no layout (F-41); 17.75 x 13.75\" of floor, and it rolls to wherever the unmeasured kitchen has a gap. Three mesh tiers, 'Max. load/shelf: 13 lbs', 40 lb in all; lockable castors; 'Not approved for food contact'. White epoxy-coated steel. Availability 2026-10-22: 'Out of stock in IKEA Long Island, NY | Back Oct 24 - Oct 31', click and collect unavailable, home delivery to our ZIP offered. Smaller RÅSKOG 11 x 15 x 24\" $29.99 and NISSAFORS $29.99 seen on the search, not opened. Best seller badge on the page; 4.6 stars (1,174). rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

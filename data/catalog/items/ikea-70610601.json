@@ -1,0 +1,42 @@
+{
+  "id": "ikea-70610601",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-bird-of-paradise-70610601/",
+  "name": "FEJKA Artificial potted plant, indoor/outdoor/Bird of paradise, 9 \"",
+  "brand": "IKEA",
+  "category": "plant",
+  "tags": [
+    "living-room",
+    "decor",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 89.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 9,
+    "d": 9,
+    "h": 70.75,
+    "raw": "Diameter of plant pot: 9 \"; Height of plant: 70 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; no Width or Depth row, so w and d are the pot's diameter (the leaves spread wider; the page gives no spread), h is the Height of plant row"
+  },
+  "images": [
+    {
+      "file": "ikea-70610601-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-bird-of-paradise__1034065_pe840176_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room, a 9\" pot in a corner or beside the TV console, where a brushed leaf does no harm; 6\" or more from the heater's face if it stands by the window (F-33); 70.75\" tall, under F-23's 78\" · fits. Artificial: no soil for Maddie to dig and no watering. Comes in a plastic grower pot; the page's \"Complete with\" offers the VALLMOFRÖN plant pot, 9 1/2\" ($34.99, not captured). Article 706.106.01. Popularity: Best seller; #14 under the \"fejka\" search sorted Most popular (the tallest FEJKA there, with the bamboo 8 1/4\", also $89.99); 4.4 stars (25). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

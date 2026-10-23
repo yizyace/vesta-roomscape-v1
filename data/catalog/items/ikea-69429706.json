@@ -1,0 +1,37 @@
+{
+  "id": "ikea-69429706",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/besta-shelf-unit-with-doors-white-lappviken-white-s69429706/",
+  "name": "BESTÅ Shelf unit with doors, white Lappviken/white, 23 5/8x16 1/2x50 3/4 \"",
+  "brand": "IKEA",
+  "category": "cabinet",
+  "tags": [
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 190,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 23.625,
+    "d": 16.5,
+    "h": 50.75,
+    "raw": "Width: 23 5/8 \"; Depth: 16 1/2 \"; Height: 50 3/4 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-23 (F-03): considered for the closet end of the master bedroom's 70\" bottom wall, the only free floor on that wall (25.75\" past an 82\" bed's foot). The 76\" version ikea-39429699 stands on the same 23 5/8 x 16 1/2\" footprint and adds a third door and two more shelves for $80 more, and linen and towel storage is the need there; both rate under 3 stars (this one 2.9, 75 reviews). What's included: 1 BESTÅ frame 23 5/8x15 3/4x50 3/8\" (402.458.40), 2 LAPPVIKEN doors 23 1/2x25 1/8\" (502.916.76), 2 soft closing/push-open hinges (802.612.58), 3 shelves 22x14 1/8\" (002.955.54). Article 694.297.06. IKEA Family price $157.00, valid Oct 7 to Nov 11, 2026. Stock 2026-10-23: in stock at IKEA Long Island, NY. Flags: anchor-required (F-21: 50 3/4\" tall).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

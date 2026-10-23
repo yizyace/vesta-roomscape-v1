@@ -1,0 +1,41 @@
+{
+  "id": "ikea-40176950",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/flundra-dish-drainer-white-40176950/",
+  "name": "FLUNDRA Dish drainer, white",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "must-have"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 4.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 18,
+    "d": 14.25,
+    "h": 4.75,
+    "raw": "Length: 18 \"; Width: 14 ¼ \"; Height: 4 ¾ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Length -> w, Width -> d"
+  },
+  "images": [
+    {
+      "file": "ikea-40176950-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/flundra-dish-drainer-white__0712687_pe728972_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: kitchen essentials list, no layout (F-41); sits on the counter (18 x 14.25\"), whatever the sink, since the kitchen is unmeasured. '18 plates fit for drying at the same time'; 'Nine glasses can be put on the outside'; 'Holds large plates with a dia. up to 13\"' (the GODMIDDAG plates are 10.25\"). White polypropylene, 'Handwash only'. Not badged; 4.6 stars (1,282); the cheapest all-in-one drainer on the 'dish drainer' search. LILLHAVET (Best seller, over-the-sink, ikea-80461276) and VÄLVÅRDAD (a tray, ikea-30605324) were rejected. In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

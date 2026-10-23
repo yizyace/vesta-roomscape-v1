@@ -1,0 +1,40 @@
+{
+  "id": "ikea-80587129",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/pilspinnare-pillow-side-back-sleeper-80587129/",
+  "name": "PILSPINNARE Pillow, side/back sleeper, Queen",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "bedroom",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 30,
+    "d": 20,
+    "raw": "Thread count: 233 /inch²; Length: 20 \"; Width: 30 \"; Filling weight: 37 oz; Total weight: 41 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w, Length -> d; bedding, a layout extra"
+  },
+  "images": [
+    {
+      "file": "ikea-80587129-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/pilspinnare-pillow-side-back-sleeper__1300769_pe937182_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Rejected (F-03): 3.5 stars (565) at twice the price of the 4-star VILDKORN side/back sleeper Queen ikea-80460583 ($12.99, washable at high temperatures). Cotton cover, 90% feather filling. Best seller (product page). King $34.99. In stock in IKEA Long Island, NY on 2026-10-22. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

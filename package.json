@@ -1,0 +1,39 @@
+{
+  "name": "furniture-planner",
+  "version": "0.2.2",
+  "private": true,
+  "description": "Room planner for L01: rooms, a furniture catalog and layouts, all stored as JSON under data/.",
+  "type": "module",
+  "engines": {
+    "node": ">=24.22.1 <25"
+  },
+  "scripts": {
+    "predev": "node scripts/check-node.mjs",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "pretest": "node scripts/check-node.mjs",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "prevalidate": "node scripts/check-node.mjs",
+    "validate": "node server/cli.ts validate",
+    "catalog:add": "node server/cli.ts catalog add",
+    "catalog:image": "node server/cli.ts catalog image",
+    "layout:set": "node server/cli.ts layout set"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}

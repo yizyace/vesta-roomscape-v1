@@ -1,0 +1,183 @@
+{
+  "room": "master-bedroom",
+  "variant": "c",
+  "name": "Reading corner: TARVA on the right wall, POÄNG and floor lamp by the window, dresser by the door, BESTÅ column by the closet",
+  "updatedAt": "2026-10-23T15:19:01.977Z",
+  "notes": "Alternative, re-checked 2026-10-23: a reading corner by the window in place of the bench, plus the BESTÅ column by the closet (F-63). The dresser moved 1.75\" up, from 0.4\" to 2.1\" clear of the door's swing. 13 placed, 11 extras.\nbed-1 TARVA queen (floor): as in a, x 94.75-177, y 35-98. F-34: 29\" window side, 35\" bathroom side; F-33: bedding 29\" from the heater face.\nnightstand-1 IKEA PS 2026 pine (floor): window side of the head, x 165.25-177, y 23.25-35. F-33: 17.25\" from the heater face. nightstand-2 IKEA PS 2026 pine (floor): bathroom side, x 165.25-177, y 98-109.75: slim (11.75\" square), so the bathroom door (eyeballed at x 139-169) is approached at full depth across its left 26.25\" and has 23.25\" in front of its last 3.75\" (F-30, F-31). Pine, like the TARVA bed and the PERJOHAN bench. lamp-1, lamp-2 STORSEGEL (top), art-1 PJÄTTERYD (top): as in a.\nrug-1 TIOKRONA (rug): as in a, rot 0, x 40-158, y 19.5-113.5; the chair's front 1.25\" rests on its edge.\nchair-1 POÄNG birch/Knisa light beige (floor): window-side corner, rot 270, x 9-41.25, y 18-44.75, facing into the room with the window to its front left. F-33: upholstery 12\" from the heater face (heater-depth-assumed); it ends 13.75\" short of the window's eyeballed left edge, so not under it (assumed-position:window).\nfloor-lamp-1 TÅGARP (floor): behind the chair's left shoulder against the left wall, x 0-9, y 22-31; its reading arm reaches over the chair. F-33: 16\" from the heater face.\ndresser-1 STORKLINTA 6-drawer (floor): left wall below the chair, x 0-18.9, y 45.75-100.9, 1\" below it. F-32: 75.9\" open in front of its drawers to the bed's foot; F-31: 2.1\" clear of the door's swing: it fits only if the door is where the sketch puts it (assumed-position:door; measure the door first); anchor-required (F-21). plant-1 FEJKA (top): on the dresser.\nstorage-1 BESTÅ shelf unit with doors, white/Lappviken, 23 5/8x16 1/2x76\" (floor, new for F-63): bottom wall at the closet end of the 70\" clear run, rot 180, x 70-93.6, y 116.5-133: linens and towels beside the closet, 4' from the bathroom door. F-31: 3\" clear of the closet's 24\" (x 25-67), assumed-position:closet; anchor-required (F-21: 76\"; IKEA: must be securely anchored, never hung). It is the only floor piece that wall can take: the other 46\" of the run is the 35\" bathroom walkway beside the bed, where this 16.5\" depth would leave 18.5\" and even a 7 7/8\"-deep BESTÅ frame 27.1\" (walkway-narrow, F-30; F-34 tight). F-30: open floor in front of it, then 35\" beside the bed to the bathroom.\nmirror-1 NISSEDAL 25 5/8x59\" (top, moved from the extras onto the plan): hung vertically on the walkway stretch of the 70\" wall, rot 180, x 103.8-129.4, flat to the wall, so the 35\" walkway stays clear: the full-length mirror between the closet and the bathroom.\nWalkways (F-30): 35\" beside the bed to the bathroom; 75.9\" of open floor between the dresser and the bed's foot; the closet's 24\" stays clear (F-31).\nWindow wall: nothing but the curtains and the reading corner, 12\" off it. F-33 allows furniture 6\" off the heater, but a cabinet there would box in the heater along the whole hatched wall (heater-depth-assumed), so no BESTÅ goes on it.\nExtras: VALEVÅG mattress x1, DVALA queen sheet set x1, SMÅSPORRE Full/Queen insert x1, ÄNGSLILJA natural cover set x1, VILDKORN pillows x2, FJÄDRAR inner cushions x2 in VALLKRASSING gray-green covers x2, VALLKRASSING throw x1, BENGTA block-out panels x2 on the HUGAD rod x1 (about 107\", centered on the window; cut the drop to end above the heater, F-33; assumed-position:window); PURRPINGLA laundry bag x1, kept just inside the walk-in closet: with the chair and the dresser on the left wall, no floor spot clears the door's swing, the closet's 24\" and the route past the bed.\nNot placed: the PERJOHAN bench ikea-60485339 (the chair takes its place) and the BRIMNES wardrobe ikea-90574800. Same headboard reasoning as a.\nTotal $2,099.79: placed $1,410.90 + extras $688.89; prices as of 2026-10-22 (price-stale, F-02) except the BESTÅ pieces, read 2026-10-23. Flags across the layout: assumed-position:door, assumed-position:closet, assumed-position:window, heater-depth-assumed, anchor-required (dresser-1, storage-1).\nDesign review 2026-10-23: the deeper nightstands covered the right 7 to 10.9\" of the bathroom doorway with 14 to 15.4\" in front; the slim IKEA PS 2026 pine pair keeps it open (above).",
+  "placements": [
+    {
+      "id": "bed-1",
+      "itemId": "ikea-29007794",
+      "x": 94.75,
+      "y": 35,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "TARVA queen, headboard centered on the right wall"
+    },
+    {
+      "id": "nightstand-1",
+      "itemId": "ikea-60619942",
+      "x": 165.25,
+      "y": 23.25,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "IKEA PS 2026 pine, window side of the bed"
+    },
+    {
+      "id": "nightstand-2",
+      "itemId": "ikea-60619942",
+      "x": 165.25,
+      "y": 98,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "IKEA PS 2026 pine, bathroom side: slim, so the bathroom doorway stays clear"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-60573576",
+      "x": 167.625,
+      "y": 25.625,
+      "rotation": 90,
+      "layer": "top",
+      "note": "STORSEGEL on nightstand-1"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-60573576",
+      "x": 167.625,
+      "y": 100.375,
+      "rotation": 90,
+      "layer": "top",
+      "note": "STORSEGEL on nightstand-2"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-30623460",
+      "x": 176,
+      "y": 39,
+      "rotation": 90,
+      "layer": "top",
+      "note": "PJÄTTERYD endless tide over the headboard, centered on the bed (flat, on the right wall)"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-90628228",
+      "x": 40,
+      "y": 19.5,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "TIOKRONA jute under the lower two thirds of the bed, stopping at the nightstands' fronts"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-59305928",
+      "x": 9,
+      "y": 18,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "POÄNG armchair in the window-side corner, facing into the room"
+    },
+    {
+      "id": "floor-lamp-1",
+      "itemId": "ikea-70486395",
+      "x": 0,
+      "y": 22,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "TÅGARP behind the chair's left shoulder, reading arm over it"
+    },
+    {
+      "id": "dresser-1",
+      "itemId": "ikea-60561248",
+      "x": 0,
+      "y": 45.75,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "STORKLINTA 6-drawer on the left wall below the chair; anchor it (F-21)"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-00615225",
+      "x": 7.0625,
+      "y": 48,
+      "rotation": 270,
+      "layer": "top",
+      "note": "FEJKA areca palm on the dresser"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-39429699",
+      "x": 70,
+      "y": 116.5,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "BESTÅ 76in door column at the closet end of the 70in wall; anchor it (F-21)"
+    },
+    {
+      "id": "mirror-1",
+      "itemId": "ikea-30503778",
+      "x": 103.75,
+      "y": 132,
+      "rotation": 180,
+      "layer": "top",
+      "note": "NISSEDAL hung vertically on the walkway stretch of the 70in wall"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-50511857",
+      "qty": 1,
+      "note": "VALEVÅG queen mattress on the frame (ships rolled, F-22)"
+    },
+    {
+      "itemId": "ikea-70577531",
+      "qty": 1,
+      "note": "DVALA queen sheet set, white: fitted, flat and 2 pillowcases"
+    },
+    {
+      "itemId": "ikea-80457019",
+      "qty": 1,
+      "note": "SMÅSPORRE Full/Queen duvet insert, light warm"
+    },
+    {
+      "itemId": "ikea-30591987",
+      "qty": 1,
+      "note": "ÄNGSLILJA Full/Queen duvet cover set, natural (oatmeal), 2 pillowcases"
+    },
+    {
+      "itemId": "ikea-80460583",
+      "qty": 2,
+      "note": "VILDKORN Queen sleeping pillows, one each"
+    },
+    {
+      "itemId": "ikea-60262188",
+      "qty": 2,
+      "note": "FJÄDRAR 20x20 inner cushions for the two accent cushions"
+    },
+    {
+      "itemId": "ikea-50570955",
+      "qty": 2,
+      "note": "VALLKRASSING 20x20 cushion covers, gray-green (sage accent)"
+    },
+    {
+      "itemId": "ikea-00570934",
+      "qty": 1,
+      "note": "VALLKRASSING throw, gray-green, across the foot of the bed"
+    },
+    {
+      "itemId": "ikea-20602137",
+      "qty": 2,
+      "note": "BENGTA block-out panels (sold singly), one each side of the 67in window; cut the drop to end above the heater (F-33)"
+    },
+    {
+      "itemId": "ikea-49634091",
+      "qty": 1,
+      "note": "HUGAD rod set to about 107in, centered on the window (assumed-position:window)"
+    },
+    {
+      "itemId": "ikea-40609406",
+      "qty": 1,
+      "note": "PURRPINGLA laundry bag with stand, kept just inside the walk-in closet: the left wall is full in this variant"
+    }
+  ]
+}

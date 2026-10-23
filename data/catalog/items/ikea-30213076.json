@@ -1,0 +1,40 @@
+{
+  "id": "ikea-30213076",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/micke-desk-white-30213076/",
+  "name": "MICKE Desk, white, 28 3/4x19 5/8 \"",
+  "brand": "IKEA",
+  "category": "desk",
+  "tags": [
+    "office"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 69.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 28.75,
+    "d": 19.625,
+    "h": 29.5,
+    "raw": "Max. load: 110 lb; Maximum load/drawer: 7 lb; Width: 28 3/4 \"; Depth: 19 5/8 \"; Height: 29 1/2 \"; Height under furniture: 24 3/4 \"; Drawer width (inside): 24 3/8 \"; Drawer depth (inside): 14 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-30213076-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/micke-desk-white__0736022_pe740349_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. The short return of an L-shaped desk corner, at right angles to the 55 7/8\" MICKE (ikea-90214308): the same 29 1/2\" height and 19 5/8\" depth. 24 3/4\" under the top, so the ALEX (27 1/2\") stands beside it, not under. 4,293 reviews; not badged. The 41 3/8\" MICKE was also on the search list ($109.99). In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

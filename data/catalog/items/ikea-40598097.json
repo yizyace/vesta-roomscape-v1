@@ -1,0 +1,43 @@
+{
+  "id": "ikea-40598097",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/godishus-3-drawer-dresser-white-40598097/",
+  "name": "GODISHUS 3-drawer dresser, white, 23 5/8x16 7/8x23 5/8 \"",
+  "brand": "IKEA",
+  "category": "dresser",
+  "tags": [
+    "kids",
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 23.625,
+    "d": 16.875,
+    "h": 23.625,
+    "raw": "Width: 23 5/8 \"; Depth: 16 7/8 \"; Height: 23 5/8 \"; Drawer width (inside): 20 7/8 \"; Drawer depth (inside): 13 3/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-40598097-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/godishus-3-drawer-dresser-white__1329343_pe945118_s5.jpg"
+    }
+  ],
+  "notes": "Flags: anchor-required (IKEA's tip-over warning; at 23 5/8\" it is under F-21's 27\"). Fit: maddie-room left wall, 108\" clear (F-20): leaves 84.4\"; 16.9\" deep plus 24\" in front for the drawers (F-32) uses 40.9\" of the room's 118\" · fits. Anchor kit: the page's Safety and compliance says \"WARNING! Tipping hazard – this product must be securely anchored.\"; the included screws suit wood and the included wall plugs suit plaster, concrete or masonry. No US Federal Stability Standard (STURDY) line on the page, which F-21 prefers. Low enough for her to reach the top; knob stickers included for labeling. Variant: white. Popularity: #2 under Kids dressers & chest of drawers sorted Most popular (#1 is the SMÅSTAD bench); 4.3 stars (66). Assembly service $45.50. Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

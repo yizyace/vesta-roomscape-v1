@@ -1,0 +1,39 @@
+{
+  "id": "ikea-40586023",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/majgull-room-darkening-curtains-1-pair-beige-yellow-with-heading-tape-40586023/",
+  "name": "MAJGULL Room darkening curtains, 1 pair, beige-yellow/with heading tape, 57x98 \"",
+  "brand": "IKEA",
+  "category": "curtains",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 57,
+    "h": 98,
+    "raw": "Area: 39.07 sq feet; Length: 98 \"; Width: 57 \"; Weight: 4 lb 3 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width (per curtain) -> w, Length (the drop) -> d, the catalog's convention for curtains; a layout extra, never placed; flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-40586023-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/majgull-room-darkening-curtains-1-pair-beige-yellow-with-heading-tape__1279712_pe931490_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Rejected (F-03): Last chance, and \"Only 2 left in IKEA Long Island, NY\" on 2026-10-22; BENGTA ikea-20602137 (black-out, beige, cut to length, in stock) takes the window. Room-darkening; 4.5 stars (784); 57x84\" $44.99. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

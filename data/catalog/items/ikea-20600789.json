@@ -1,0 +1,40 @@
+{
+  "id": "ikea-20600789",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/alhult-extendable-table-black-brown-20600789/",
+  "name": "ÅLHULT Extendable table, black/brown, 47 1/4/66 7/8x31 1/2 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining",
+    "best-seller"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 31.5,
+    "h": 29.5,
+    "raw": "Height: 29 1/2 \"; Max. length: 66 7/8 \"; Min. length: 47 1/4 \"; Width: 31 1/2 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Min. length -> w (closed), Width -> d"
+  },
+  "images": [
+    {
+      "file": "ikea-20600789-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/alhult-extendable-table-black-brown__1403275_pe969282_s5.jpg"
+    }
+  ],
+  "notes": "Extendable: 47.25\" closed (w), 66.875\" open (Max. length 66 7/8 \"). F-36, long side parallel to the 128\" walls: closed it leaves 40.4\" at each end and 43.75\" on each long side, so it fits; open it leaves 30.6\" at each end (tight:30.6). Variant black/brown (beige/brown also sold). Best seller badge on the Dining tables list sorted Most popular (#7); the product page shows none. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ikea-80457019",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/smasporre-duvet-insert-light-warm-80457019/",
+  "name": "SMÅSPORRE Duvet insert, light warm, Full/Queen",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "bedroom",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 44.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 86,
+    "d": 86,
+    "raw": "Thread count: 186 /inch²; Length: 86 \"; Width: 86 \"; Filling weight: 25 oz; Total weight: 60 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w, Length -> d; bedding, a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "ikea-80457019-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/smasporre-duvet-insert-light-warm__0776667_pe758187_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, the queen bed's duvet insert, 86 x 86\", the size of the ÄNGSLILJA Full/Queen cover ikea-30591987 · fits. Light warm; cotton/polyester. The page: \"This duvet can be washed frequently at high temperatures - and it dries quickly too.\" (no machine-wash line read, so not tagged washable). Best seller (product page; #1 on Down alternative duvet inserts sorted Most popular). 4.5 stars (1543). Sizes: Twin $39.99, Full/Queen $44.99, King $54.99. In stock in IKEA Long Island, NY; available for delivery (2026-10-22). rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

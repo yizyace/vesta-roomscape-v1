@@ -1,0 +1,29 @@
+{
+  "id": "ikea-20518030",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/gillstad-wall-decoration-set-of-3-sedge-handmade-20518030/",
+  "name": "GILLSTAD Wall decoration, set of 3, sedge handmade",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-10-22: the page marks it \"Last chance\" (being discontinued) and \"Not stocked at IKEA Long Island, NY / Order online for delivery\"; and it has no Measurements section, only the box (\"Package: Width: 15 3/4 \"; Height: 3/4 \"; Length: 15 3/4 \"; Weight: 10 oz\"), so no-dimensions (F-11). Flags: no-dimensions. Fit: not placed. Handwoven sedge (\"Skilled craftspeople have woven the product by hand\"), the natural texture the house style likes. Article 205.180.30. Popularity: #3 under Wall art sorted Most popular; 4.8 stars (154). PJÄTTERYD Waterlilies ikea-00578906 kept instead.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

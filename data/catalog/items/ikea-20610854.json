@@ -1,0 +1,42 @@
+{
+  "id": "ikea-20610854",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/varptross-wall-lamp-bamboo-20610854/",
+  "name": "VARPTROSS Wall lamp, bamboo, 12 \"",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "dining",
+    "lighting",
+    "decor"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 7,
+    "d": 5,
+    "h": 12,
+    "raw": "Cord length: 7 ' 3 \"; Depth: 5 \"; Height: 12 \"; Max.: 5.9 W; Width: 7 \"",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-20610854-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/varptross-wall-lamp-bamboo__1509491_pe1009730_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: dining-room, top layer on a wall: a pair flanking the BLODFLÄDER canvas above the BESTÅ, centers about 58\" up (above a 4-year-old's reach); it plugs in on its 7'3\" cord, no hardwiring (run the cord down to the outlet behind the storage in a cord cover) · fits. The low, warm second light the room lacked beside the pendant (F-41). Product details: \"Gives a soft glowing light, that gives your home a warm and welcoming atmosphere. Each lamp is unique since it is made of bamboo with natural color variations and has handmade details by skilled craftspeople.\" Designer A Deo/A Fredriksson. Good to know: \"Light bulb sold separately. IKEA recommends LED bulb E12 tube-shaped clear glass.\" (not in the catalog). Materials: base and hook steel, powder coating; bracket steel, galvanized; cord anchorage polyamide; shade bamboo, clear lacquer; California Prop 65 warning (lead). #5 on Wall lamps sorted Most popular (24 items); 5 stars (17); not badged. Stock 2026-10-23: in stock in IKEA Long Island, NY; click and collect; home delivery to our ZIP. rooms: dining-room, from the redesign brief (a lamp or sconce).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

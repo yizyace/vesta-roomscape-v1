@@ -1,0 +1,42 @@
+{
+  "id": "ikea-80233430",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/aptitlig-cutting-board-bamboo-80233430/",
+  "name": "APTITLIG Cutting board, bamboo, 17 ¾x11 \"",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "must-have",
+    "best-seller"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 17.75,
+    "d": 11,
+    "h": 0.75,
+    "raw": "Length: 17 ¾ \"; Width: 11 \"; Thickness: ¾ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Length -> w, Width -> d, Thickness -> h"
+  },
+  "images": [
+    {
+      "file": "ikea-80233430-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/aptitlig-cutting-board-bamboo__1377033_pe960693_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: kitchen essentials list, no layout (F-41); the board for the ÄNDLIG knives (ikea-80578342). Bamboo, oiled: 'gentle on your knives', reversible with slanted edges, doubles as a serving board; 'Handwash only', oil it periodically. A 9 1/2 x 6\" size is $4.99. Best seller badge on the page; 4.4 stars (2,228). In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

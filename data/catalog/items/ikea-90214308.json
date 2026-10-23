@@ -1,0 +1,40 @@
+{
+  "id": "ikea-90214308",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/micke-desk-white-90214308/",
+  "name": "MICKE Desk, white, 55 7/8x19 5/8 \"",
+  "brand": "IKEA",
+  "category": "desk",
+  "tags": [
+    "office",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 109.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 55.875,
+    "d": 19.625,
+    "h": 29.5,
+    "raw": "Max. load: 110 lb; Maximum load/drawer: 7 lb; Width: 55 7/8 \"; Depth: 19 5/8 \"; Height: 29 1/2 \"; Height under furniture: 24 3/4 \"; Drawer width (inside): 24 3/8 \"; Drawer depth (inside): 14 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-90214308-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/micke-desk-white__0736020_pe740347_s5.jpg"
+    }
+  ],
+  "notes": "F-20/F-33: on the 152\" left wall, not the 106\" window and heater wall. Between 34\" clear of the wardrobe's left door (F-31, assumed-position:closet) and 12\" off the heater wall, the left wall has 106\": MICKE + ALEX take 70\", and with a BILLY 101.5\". F-35: 86.4\" behind it for the chair. 24.75\" under the top, so the 27.5\" ALEX stands beside it, not under. Variant white (black-brown also sold). Best seller (product page; #12 on the Desks list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

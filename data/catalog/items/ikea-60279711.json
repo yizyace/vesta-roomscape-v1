@@ -1,0 +1,36 @@
+{
+  "id": "ikea-60279711",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ikea-365-glass-clear-glass-60279711/",
+  "name": "IKEA 365+ Glass, clear glass, 15 oz",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "must-have",
+    "best-seller"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-60279711-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ikea-365-glass-clear-glass__0928963_pe790099_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (the Measurements rows are 'Height: 5 \"; Volume: 15 oz; Package quantity: 6 pack', no diameter, so no footprint; never placed). Fit: kitchen essentials list, no layout (F-41). Price is per 6-pack ('$12.99/6 pack'): six 15 oz glasses. Tempered glass, 'Dishwasher-safe'; 'These glasses are not designed to be stacked.' Safety: 'Handle tempered glass with care; never use if damaged, scratched or chipped.' For Maddie (4) a plastic cup is the safer daily glass. The page's 'Complete with' offers the 10 oz IKEA 365+ glass at $9.99/6 pack. Best seller badge on the page; 4.6 stars (2,104). In stock in IKEA Long Island, NY on 2026-10-22. rooms: kitchen, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

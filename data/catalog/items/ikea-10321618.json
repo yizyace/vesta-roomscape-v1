@@ -1,0 +1,41 @@
+{
+  "id": "ikea-10321618",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/",
+  "name": "SKÅDIS Pegboard, white, 30x22 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "office",
+    "storage",
+    "best-seller"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 30,
+    "h": 22,
+    "raw": "Width: 30 \"; Height: 22 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; the page gives Width and Height only (no Depth row), so Height is recorded as d, the catalog's second-number convention (as for rugs and curtains), and the piece is drawn on the top layer by its face; it hangs flat on the wall; flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-10321618-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/skadis-pegboard-white__0710683_pe727709_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits (on the wall above the desk, top layer). Screws for wall mounting sold separately (page); with SKÅDIS connectors, also sold separately, it can stand on a desk instead. Hooks, shelves and containers are separate SKÅDIS items (the 7-piece accessories set, white, $15.00, was on the search list and not opened). Best seller (product page; first on the SKÅDIS search sorted Most popular; 3,633 reviews). In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

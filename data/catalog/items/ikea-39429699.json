@@ -1,0 +1,43 @@
+{
+  "id": "ikea-39429699",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/besta-shelf-unit-with-doors-white-lappviken-white-s39429699/",
+  "name": "BESTÅ Shelf unit with doors, white Lappviken/white, 23 5/8x16 1/2x76 \"",
+  "brand": "IKEA",
+  "category": "cabinet",
+  "tags": [
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 270,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 23.625,
+    "d": 16.5,
+    "h": 76,
+    "raw": "Width: 23 5/8 \"; Depth: 16 1/2 \"; Height: 76 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-39429699-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/besta-shelf-unit-with-doors-white-lappviken-white__1603514_pe1044207_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: anchor-required (F-21: 76\" tall; Safety and compliance: \"For safety reasons this furniture shall not be hung on the wall.\" and \"WARNING! Tipping hazard – this product must be securely anchored. Use suitable screws and plugs for your home. If you are uncertain, seek professional advice.\"). Under F-23's 78\", so no ceiling-unmeasured; flat-pack, so no delivery flag (F-22). Fit: master-bedroom bottom wall, the 70\" clear run between the walk-in closet and the bathroom door (F-20), at its closet end (x 70 to 93.6, assumed-position:closet): the other 46\" of that run is the 35\" walkway along the bed's bathroom side (F-30), where 16.5\" of depth would leave 18.5\" (walkway-narrow, F-34 tight), so this is the one floor spot on that wall; it stops short of a 82\" bed's foot line and leaves 30\" or more to a bench at the foot · fits. A linen and towel tower beside the closet, 4' from the bathroom door. What's included: 1 BESTÅ frame 23 5/8x15 3/4x75 5/8\" (002.458.42), 3 LAPPVIKEN doors 23 1/2x25 1/8\" (502.916.76), 3 BESTÅ soft closing/push-open hinges (802.612.58), 5 BESTÅ shelves 22x14 1/8\" (002.955.54). Good to know: \"Max. load:44 lbs./shelf.\" \"5 adjustable shelves included.\" Particleboard and fiberboard with paper foil; wipe clean. Article 394.296.99, a combination (the URL carries an s). Variant: White Lappviken/white (Choose color). Only 2.8 stars (145 reviews); the review text was not read. IKEA Family price $223.00, valid Oct 7 to Nov 11, 2026. Stock 2026-10-23: in stock at IKEA Long Island, NY; click and collect; home delivery to our ZIP from $49.00. rooms: master-bedroom, from the redesign brief (F-63, the 70\" bottom wall).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

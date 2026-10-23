@@ -1,0 +1,41 @@
+{
+  "id": "ikea-10622697",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/barndroem-duvet-cover-and-pillowcase-multicolor-flower-pattern-10622697/",
+  "name": "BARNDRÖM Duvet cover and pillowcase, multicolor/flower pattern, Twin",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "kids",
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 63.75,
+    "d": 85.875,
+    "raw": "Pillowcase length: 20 1/8 \"; Pillowcase width: 29 7/8 \"; Duvet cover length: 85 7/8 \"; Duvet cover width: 63 3/4 \"; Thread count: 152 /inch²",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Duvet cover width, d = Duvet cover length; a layout extra, not a floor footprint)"
+  },
+  "images": [
+    {
+      "file": "ikea-10622697-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/barndroem-duvet-cover-and-pillowcase-multicolor-flower-pattern__1474574_pe998149_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: a layout extra (F-41); fits the SMÅSPORRE Twin insert (64 x 86\", ikea-00457023), and its pillowcase (20 1/8 x 29 7/8\") fits the VILDKORN pillow (20 x 30\", ikea-60460602). Warm yellow and orange flowers with green leaves on white, in the house's warm white with sage and terracotta accents. 70% organic cotton, 30% viscose/rayon; \"Machine wash warm (max 140°F/60°C) normal cycle.\"; Safety and compliance: \"Recommended for children 3 years and older.\" (Maddie is 4). Matching fitted sheet: BARNDRÖM ikea-50625203. Variant: multicolor/flower pattern, Twin. Popularity: #6 under Kids bedding & duvet covers sorted Most popular (#2 and #3 are $29.99 BARNDRÖM prints; #5, the $24.99 heart print, was out of stock at IKEA Long Island); 5 stars (17); not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

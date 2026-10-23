@@ -1,0 +1,40 @@
+{
+  "id": "ikea-10548216",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vallaby-rug-green-10548216/",
+  "name": "VALLABY Rug, green, 3 ' 3 \"x4 ' 4 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "kids",
+    "bedroom",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 39,
+    "d": 52,
+    "raw": "Area: 14.32 sq feet; Length: 4 ' 4 \"; Width: 3 ' 3 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width 3' 3\" = 39\", d = Length 4' 4\" = 52\"; the page gives no thickness, so h is left out)"
+  },
+  "images": [
+    {
+      "file": "ikea-10548216-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vallaby-rug-green__1185059_pe898241_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: open floor, 39 x 52\" (14.32 sq ft); beside a twin bed (about 41\" wide) on the left wall there are about 77\" of floor across to the right wall · fits; keep it 12\" from the heater's face like bedding (F-33). Road-map play rug; recommended for children 18 months and older; non-slip TPE backing; pile 100% recycled polyester; the pattern joins up with more VALLABY rugs. The page gives no thickness, so dimensions.h is left out. Variant: green. Popularity: Best seller; #1 under Kids rugs sorted Most popular; 4.8 stars (270). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

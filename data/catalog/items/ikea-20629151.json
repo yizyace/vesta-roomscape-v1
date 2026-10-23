@@ -1,0 +1,40 @@
+{
+  "id": "ikea-20629151",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/stoense-rug-low-pile-pale-green-20629151/",
+  "name": "STOENSE Rug, low pile, pale green, 5 ' 7 \"x7 ' 10 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 67,
+    "d": 94,
+    "h": 0.75,
+    "raw": "Length: 7 ' 10 \"; Width: 5 ' 7 \"; Area: 43.92 sq feet; Thickness: ¾ \"",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23; Length is d, Width is w, Thickness is h (vendors.md)"
+  },
+  "images": [
+    {
+      "file": "ikea-20629151-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/stoense-rug-low-pile-pale-green__1492281_pe1004363_s5.jpg",
+      "caption": "STOENSE Rug, low pile, pale green, 5 ' 7 \"x7 ' 10 \""
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room play zone (F-61), the open floor in front of the right-wall toy storage: 67 x 94\", low pile, on the rug layer · fits. The big play floor: \"This dense low pile rug dampens sound and is soft under your feet\"; \"The cut edges makes it easy to join several rugs to create a bigger rug, without a visible seam.\" Pale green, the house style's sage accent. Care rows not read (the Materials and care panel did not open in the read); not tagged washable. The page offers STOPP FILT underlay 5'5\"x7'9\" ikea-90132261 ($14.99) under \"Complete with\". Popularity: in a search for \"kids rug\" on IKEA US (the green 5'7\"x7'10\" card, #13); not badged; 4.6 stars (6161). Stock 2026-10-23: in stock at IKEA Long Island, NY; home delivery to our ZIP from $14.00. Variant: pale green, 5'7\"x7'10\" (also 4'4\"x6'5\" at $99.99; green 90607688 and off-white 20635449 and 50425529 listed, not opened), article 206.291.51. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ikea-20470815",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/nysjoen-high-cabinet-white-20470815/",
+  "name": "NYSJÖN High cabinet, white, 11 3/4x74 3/4 \"",
+  "brand": "IKEA",
+  "category": "cabinet",
+  "tags": [
+    "bathroom",
+    "storage",
+    "needs-assembly",
+    "anchor-required",
+    "best-seller"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 119.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 11.75,
+    "d": 10.625,
+    "h": 74.75,
+    "raw": "Width: 11 3/4 \"; Depth: 10 5/8 \"; Height: 74 3/4 \"; Max. leg height: 5 3/8 \"; Min. leg height: 4 7/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-20470815-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/nysjoen-high-cabinet-white__0971572_pe811380_s5.jpg"
+    }
+  ],
+  "notes": "Flags: anchor-required (IKEA: \"Must be secured to the wall for a safe installation.\"). Fit: bathroom, unmeasured (F-13): 11 3/4\" wide, 10 5/8\" deep, 74 3/4\" tall on adjustable legs (4 7/8\" to 5 3/8\"); the page does not say at which leg height the 74 3/4\" applies. Wall fixings sold separately; knobs, hinges, legs and 4 adjustable shelves included; the door can hang to open left or right. Variant: white. Popularity: Best seller; #12 under Bathroom shelving units sorted Most popular, the first closed floor cabinet there; 4.4 stars (677). Assembly service $45.50. Stock 2026-10-22: out of stock at IKEA Long Island, NY (click and collect unavailable); home delivery to our ZIP offered from $39.00.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

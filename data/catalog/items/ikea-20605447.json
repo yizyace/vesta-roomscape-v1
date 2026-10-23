@@ -1,0 +1,26 @@
+{
+  "id": "ikea-20605447",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/gansjoen-3-piece-bathroom-set-light-green-20605447/",
+  "name": "GANSJÖN 3-piece bathroom set, light green",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom"
+  ],
+  "rooms": [],
+  "status": "rejected",
+  "price": {
+    "amount": 19.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-10-22: considered as the soap dispenser and toothbrush holder in one set (a Best seller in black; light green is the house's sage), but the cup, container and tray are \"Glass,Paint\" at a sink Maddie reaches from her step stool (house style: no glass within a 4-year-old's reach), and it is on clearance: \"Previous price $ 19.99 | $11.99 | 40% off\", valid from Sep 30, 2026 while supply lasts. Includes 1 soap dispenser 11.5 oz, 1 toothbrush holder and 1 tray; the Measurements section shows only the box. Flags: no-dimensions.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

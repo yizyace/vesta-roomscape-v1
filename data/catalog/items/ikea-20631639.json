@@ -1,0 +1,44 @@
+{
+  "id": "ikea-20631639",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kallax-shelf-unit-white-20631639/",
+  "name": "KALLAX Shelf unit, white, 30 1/8x30 1/8 \"",
+  "brand": "IKEA",
+  "category": "bookcase",
+  "tags": [
+    "kids",
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "anchor-required",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 30.125,
+    "d": 15.375,
+    "h": 30.125,
+    "raw": "Width: 30 1/8 \"; Depth: 15 3/8 \"; Height: 30 1/8 \"; Max load/shelf: 29 lb; Max. load/wall cabinet: 44 lb 1 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-20631639-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kallax-shelf-unit-white__0644753_pe702937_s5.jpg"
+    }
+  ],
+  "notes": "Flags: anchor-required (F-21: 30 1/8\" tall in Maddie's room). Fit: maddie-room left wall, 108\" clear (F-20): leaves 77.9\"; 15.4\" deep, plus 24\" in front if drawer inserts go in (F-32), uses 39.4\" of the room's 118\" · fits. The page's Safety and compliance says \"WARNING! Tipping hazard – this product must be securely anchored.\" (and warns of a falling hazard if it is wall-hung); it does not say whether wall hardware is included. Max 55 lb on top, 29 lb per shelf; inserts and boxes sold separately. Variant: white, the square 30 1/8 x 30 1/8\" unit; KALLAX shelf unit 20631663 ($79.99, Best seller) ranked higher and was not opened. Popularity: Best seller; #9 under the KALLAX series sorted Most popular; 4.7 stars (7053). Assembly service $22.10. Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

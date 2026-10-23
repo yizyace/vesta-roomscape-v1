@@ -1,0 +1,37 @@
+{
+  "id": "ikea-59337670",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/loberget-sibben-childs-desk-chair-white-s59337670/",
+  "name": "LOBERGET / SIBBEN Child's desk chair, white",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "kids",
+    "bedroom",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 22,
+    "d": 22,
+    "h": 29.5,
+    "raw": "Tested for: 243 lb; Width: 22 \"; Depth: 22 \"; Max. height: 29 1/2 \"; Seat width: 12 1/4 \"; Seat depth: 12 5/8 \"; Min. seat height: 15 \"; Max. seat height: 19 1/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (h = Max. height)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-22: the page's Safety and compliance says \"Recommended for children 8 years and older\", and Maddie is 4. Flags: none. Swivel desk chair, seat height 15\" to 19 1/4\" (h is the Max. height). Popularity: #1 under Kids desk chairs sorted Most popular; 4.3 stars (466). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

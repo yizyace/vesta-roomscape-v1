@@ -1,0 +1,39 @@
+{
+  "id": "ikea-80623448",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/pjaetteryd-picture-striped-leaf-80623448/",
+  "name": "PJÄTTERYD Picture, striped leaf, 35 ½x35 ½ \"",
+  "brand": "IKEA",
+  "category": "decor",
+  "tags": [
+    "decor"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 35.5,
+    "h": 35.5,
+    "raw": "Width: 35 ½ \"; Height: 35 ½ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; the page gives Width and Height only (no Depth row), so Height is recorded as d, the catalog's second-number convention for wall pieces (as ikea-40602018); flat: the page gives width and height only, so no depth (2026-10-22)"
+  },
+  "images": [
+    {
+      "file": "ikea-80623448-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/pjaetteryd-picture-striped-leaf__1483724_pe1001324_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Rejected (F-03): a vivid multicolor leaf (blue, green and pink stripes on yellow), off the house palette of warm neutrals with sage and terracotta. Motif by Emily Grady Dodge. New; 5 stars (1); in stock in IKEA Long Island, NY on 2026-10-22. rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

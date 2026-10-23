@@ -1,0 +1,32 @@
+{
+  "id": "ikea-30493010",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ekoln-toothbrush-holder-beige-30493010/",
+  "name": "EKOLN Toothbrush holder, beige",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 7.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-30493010-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ekoln-toothbrush-holder-beige__0954056_pe803149_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (F-11: the Measurements section gives only \"Height: 4 \"\"; a list item, never placed). Fit: the bathroom list, at the sink; stoneware, wipe clean. Matches the EKOLN soap dispenser ikea-60493004. Variant: beige. Popularity: from a search for \"ekoln\"; not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: [] with the bathroom tag (F-13: the bathroom is not one of the six rooms; F-41: it gets a list, not a layout); the bathroom is unmeasured.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

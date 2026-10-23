@@ -1,0 +1,42 @@
+{
+  "id": "ikea-80253814",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kura-reversible-bed-white-pine-80253814/",
+  "name": "KURA Reversible bed, white/pine, Twin",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "kids",
+    "bedroom",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 299.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 41.375,
+    "d": 78.375,
+    "h": 45.625,
+    "raw": "Length: 78 3/8 \"; Width: 41 3/8 \"; Height: 45 5/8 \"; Height under loft bed: 32 5/8 \"; Max. load: 220 lb; Mattress length: 74 3/8 \"; Mattress width: 38 \"; Max. mattress thickness: 5 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Length, h = Height)"
+  },
+  "images": [
+    {
+      "file": "ikea-80253814-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kura-reversible-bed-white-pine__0636268_pe697768_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: maddie-room left wall, 108\" clear (F-20): a long side along it leaves 29.6\"; the 41.4\" width plus 24\" on the open side (F-34) uses 65.4\" of the room's 118\" · fits. Low-bed position only until she is 6: IKEA recommends the loft position for 6 years and older, and F-21 allows no loft bed before 6. IKEA's safety note: keep the bed less than 2½\" or more than 9\" from a wall, so push it flush. Mattress 38 x 74 3/8\", at most 5 1/8\" thick (the page suggests ÅSVANG foam mattress, Twin, $129.00); two people to assemble; assembly service $65.00. Offer: in-store only price $229.99, valid Sep 8 to Dec 24, 2026, exclusive IKEA Family offer. Variant: white/pine. Popularity: Best seller; #3 under Kids beds sorted Most popular; 4.5 stars (1739). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

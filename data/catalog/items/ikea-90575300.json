@@ -1,0 +1,33 @@
+{
+  "id": "ikea-90575300",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ridstig-rug-flatwoven-off-white-red-90575300/",
+  "name": "RIDSTIG Rug, flatwoven, off-white/red, 5 ' 7 \"x7 ' 10 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 79.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 67,
+    "d": 94,
+    "raw": "Length: 7 ' 10 \"; Width: 5 ' 7 \"; Area: 43.92 sq feet",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; feet and inches to inches (5'7\" = 67, 7'10\" = 94): Width is w, Length is d; no thickness row, so no h"
+  },
+  "images": [],
+  "notes": "Flags: none. Rejected 2026-10-22: 100 % cotton and the care label says 'Do not wash' (vacuum, shake and rotate only); the staging brief allows a dining rug only if it is a washable flatweave, and Maddie is 4. Otherwise it fit: the brief's 5'7\" x 7'10\" size, and the page says it is 'Suitable for use underneath your dining table' and 'fits under a 4-seat dining table'. The cheapest 5'7\" x 7'10\" flatweave seen (TELEGRAFLINJE, the other, is $149.99). 3.6 stars (24). MORUM (ikea-20203563, hand washable) was taken instead.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

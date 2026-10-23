@@ -1,0 +1,41 @@
+{
+  "id": "ikea-60567778",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/mossjoen-wall-cabinet-w-shelves-glass-door-anthracite-60567778/",
+  "name": "MOSSJÖN Wall cabinet w shelves/glass door, anthracite, 14 1/8x7 1/8x40 1/8 \"",
+  "brand": "IKEA",
+  "category": "cabinet",
+  "tags": [
+    "bathroom",
+    "storage",
+    "needs-assembly",
+    "anchor-required",
+    "best-seller"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 129.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 14.125,
+    "d": 7.125,
+    "h": 40.125,
+    "raw": "Depth: 7 1/8 \"; Height: 40 1/8 \"; Width: 14 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-60567778-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/mossjoen-wall-cabinet-w-shelves-glass-door-anthracite__1239715_pe919026_s5.jpg"
+    }
+  ],
+  "notes": "Flags: anchor-required (IKEA: falling hazard, it must be securely anchored; it hangs on the wall). Fit: bathroom, which is not one of L01's six rooms and is unmeasured (F-13): 14 1/8\" wide, 7 1/8\" deep, 40 1/8\" tall, wall-hung. An open shelf plus a reeded-glass door (glass keeps it out of Maddie's room, F-21); wall fasteners are not included (\"Use fasteners suitable for the walls in your home\"). Variant: anthracite. Popularity: Best seller; #2 under Bathroom wall cabinets sorted Most popular (#1, HUSBYÅN at $29.99, was not opened); 4.3 stars (273). Assembly service $52.00. Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

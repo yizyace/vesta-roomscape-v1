@@ -1,0 +1,36 @@
+{
+  "id": "ikea-80490052",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/havsris-cord-set-with-switch-white-80490052/",
+  "name": "HAVSRIS Cord set with switch, white, 15 ' 5 \"",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "dining",
+    "lighting",
+    "best-seller"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 20,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-80490052-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/havsris-cord-set-with-switch-white__0940433_pe795002_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (a cord set: its Measurements rows are 'Cord length: 15 ' 5 \"; Max. load: 4 lb; Max.: 22 W', no footprint), so it goes in the layouts' extras, never placed. Fit: carries the GULLSUDARE paper shade (ikea-90603869) over the dining table without a ceiling box: 'To be hung on a ceiling hook. 2 ceiling hooks are included', so one hook goes over the table's center and the cord runs along the ceiling and down the wall to an outlet; the switch is on the cord. Good to know: 'Light bulb sold separately. IKEA recommends LED bulb E26. Shade is sold separately.' Safety: 'For safety's sake, hang out of reach of children'; the page carries a California Prop 65 warning (lead). PVC cord, acetal hanger, polycarbonate lampholder cup; wipe with a dry cloth. The US list has no HEMMA; HAVSRIS is the plug-in cord set it offers. Best seller badge on this page; 4.8 stars (99). In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

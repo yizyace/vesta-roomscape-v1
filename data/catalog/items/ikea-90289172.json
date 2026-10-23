@@ -1,0 +1,40 @@
+{
+  "id": "ikea-90289172",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/",
+  "name": "MARKUS Office chair, Vissle dark gray, Medium",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "office",
+    "seating"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 299.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 24.375,
+    "d": 23.625,
+    "h": 55.125,
+    "raw": "Tested for: 276 lb; Width: 24 3/8 \"; Depth: 23 5/8 \"; Max. height: 55 1/8 \"; Min. height: 50 3/4 \"; Seat width: 20 7/8 \"; Seat depth: 18 1/2 \"; Min. seat height: 18 1/8 \"; Max. seat height: 22 1/2 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; h is the Max. height row"
+  },
+  "images": [
+    {
+      "file": "ikea-90289172-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/markus-office-chair-vissle-dark-gray__0724714_pe734597_s5.jpg"
+    }
+  ],
+  "notes": "Height adjusts 50.75\"-55.125\" (h is the maximum); seat 18.125\"-22.5\". F-35: 24.4\" x 23.6\" fits in the 86.4\" behind the MICKE. Cover Vissle dark gray, size Medium (Vissle light gray also listed). Not badged; #9 on the Desk chairs list sorted Most popular, 2,879 reviews. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

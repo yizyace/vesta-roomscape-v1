@@ -1,0 +1,41 @@
+{
+  "id": "ikea-10605424",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/sandsberg-chair-white-10605424/",
+  "name": "SANDSBERG Chair, white",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "dining",
+    "seating"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 15,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 15.375,
+    "d": 18.5,
+    "h": 30.375,
+    "raw": "Tested for: 243 lb; Width: 15 3/8 \"; Depth: 18 1/2 \"; Height: 30 3/8 \"; Seat width: 15 3/8 \"; Seat depth: 13 3/8 \"; Seat height: 17 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-10605424-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/sandsberg-chair-white__1390727_pe965548_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: seat height 17.75\", 11.75\" under the ALHULT top (29.5\") and the VIHALS round top (29.5\"); two fit along a 47.25\" table side with 16.5\" to spare (F-36 clearances are in the layouts). The white variant of ikea-30605423, chosen for the house style (white furniture, black only on a few lamps); same Measurements rows. Powder-coated steel frame with a plastic seat and back: 'easy to carry and to wipe clean'; stacks up to 6. Good to know: indoor use only; TRIXIG floor protectors sold separately (worth it on the tile). SANDSBERG is #1 on Dining chairs sorted Most popular (the card shows black); this white page shows no badge. 4.5 stars (360). In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

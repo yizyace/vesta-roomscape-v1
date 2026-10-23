@@ -1,0 +1,32 @@
+room,item,wall_as_drawn,inches,feet_inches,kind,reads_agree,flag,note,photo
+living-room,window wall: left corner to the set-back right wall,top,261,21'9",measured,3 of 3,,"Hatched along its length (unlabeled; the bedroom sketches label this hatching heater). The arrow stops at the set-back part of the right wall",sources/2026-10-22-living-room-sketch-user.jpg
+living-room,window width,top,102,8'6",measured,3 of 3,,Distance from the corners not measured,sources/2026-10-22-living-room-sketch-user.jpg
+living-room,left wall: corner to corner,left,173,14'5",measured,3 of 3,,"The room's depth. The right side's two sections total 170; a small blocker in the corner on the right side takes the other 3 (Andrew, 2026-10-22)",sources/2026-10-22-living-room-sketch-user.jpg
+living-room,stairs along the left wall (its whole length),left,173,14'5",measured,"Andrew, 2026-10-22",measure,"Andrew: ""that entire thing is elevated (stairs)"". The width is not measured (drawn 36"" deep in the planner) and which end people step off is unknown",
+living-room,right wall: top wall to the step,right,93,7'9",measured,3 of 3,,"First section, confirmed by Andrew on 2026-10-22",sources/2026-10-22-living-room-sketch-user.jpg
+living-room,step in the right wall (outward),right,14.5,1'2.5",measured,3 of 3,,The room is wider below the step,sources/2026-10-22-living-room-sketch-user.jpg
+living-room,right wall: step to the bottom wall,right,77,6'5",measured,3 of 3,,"Second section, confirmed by Andrew on 2026-10-22",sources/2026-10-22-living-room-sketch-user.jpg
+living-room,bottom wall (opposite the windows),bottom,275.5,22'11.5",derived,,measure,"261 + 14.5, if 261 runs to the set-back wall as drawn",sources/2026-10-22-living-room-sketch-user.jpg
+dining-room,top wall: the side open to the kitchen to the right wall,top,128,10'8",measured,3 of 3,,"Tile. The 8 is written over an earlier digit; the show-through on the other side of the sheet also reads 128",sources/2026-10-22-dining-kitchen-sketch-user.jpg
+dining-room,left wall: corner to corner,left,119,9'11",measured,3 of 3,,Tile,sources/2026-10-22-dining-kitchen-sketch-user.jpg
+dining-room,open to the kitchen along the left side (its whole length),left,119,9'11",measured,"Andrew, 2026-10-23",,"Andrew: ""the left side of the room is actually a no-wall line to the ktichen!"" No wall between the dining room and the kitchen; nothing stands against it (rules.md F-42)",
+kitchen,all dimensions,,,,not-measured,,measure,Tile. Only the line dividing it from the dining room is drawn,sources/2026-10-22-dining-kitchen-sketch-user.jpg
+master-bedroom,window wall: corner to corner,top,177,14'9",measured,3 of 3,,"Hatched, with ""heater"" at its right end",sources/2026-10-22-master-bedroom-sketch-user.jpg
+master-bedroom,window width,top,67,5'7",measured,3 of 3,,Distance from the corners not measured,sources/2026-10-22-master-bedroom-sketch-user.jpg
+master-bedroom,left wall: corner to corner,left,133,11'1",measured,3 of 3,,,sources/2026-10-22-master-bedroom-sketch-user.jpg
+master-bedroom,bottom wall: walk-in closet to the bathroom door,bottom,70,5'10",measured,3 of 3,,,sources/2026-10-22-master-bedroom-sketch-user.jpg
+master-bedroom,walk-in closet,bottom,,,not-measured,,measure,"Also labeled ""wardrobe""; opens off the left end of the bottom wall",sources/2026-10-22-master-bedroom-sketch-user.jpg
+back-bedroom,window wall: corner to corner,top,106,8'10",measured,3 of 3,,"The office. Hatched, with ""heater"" at its right end",sources/2026-10-22-back-bedroom-sketch-user.jpg
+back-bedroom,window width,top,67,5'7",measured,3 of 3,,Distance from the corners not measured,sources/2026-10-22-back-bedroom-sketch-user.jpg
+back-bedroom,left wall: corner to corner,left,152,12'8",measured,3 of 3,,,sources/2026-10-22-back-bedroom-sketch-user.jpg
+back-bedroom,wardrobe width,bottom,68,5'8",measured,3 of 3,,Set into the bottom wall; double doors swing into the room,sources/2026-10-22-back-bedroom-sketch-user.jpg
+back-bedroom,wardrobe depth,bottom,22,1'10",measured,3 of 3,,,sources/2026-10-22-back-bedroom-sketch-user.jpg
+maddie-room,top wall: corner to corner,top,118,9'10",measured,3 of 3,,,sources/2026-10-22-maddie-room-sketch-user.jpg
+maddie-room,right wall: top corner to the step,right,87,7'3",measured,3 of 3,,"Hatched, labeled ""heat""",sources/2026-10-22-maddie-room-sketch-user.jpg
+maddie-room,window width,right,55,4'7",measured,3 of 3,,Starts just below the top corner,sources/2026-10-22-maddie-room-sketch-user.jpg
+maddie-room,step in the right wall (inward),right,15,1'3",measured,3 of 3,,Notches the bottom-right corner,sources/2026-10-22-maddie-room-sketch-user.jpg
+maddie-room,right wall: step to the bottom wall,right,35,2'11",measured,3 of 3,,,sources/2026-10-22-maddie-room-sketch-user.jpg
+maddie-room,depth: top wall to bottom wall,right,122,10'2",derived,,,"87 + 35, down the right side",sources/2026-10-22-maddie-room-sketch-user.jpg
+maddie-room,left wall: top corner to the door,left,108,9'0",measured,3 of 3,,"Stops at the door and leaves the door out (Andrew, 2026-10-22), so it is the clear wall on that side, not the room's depth",sources/2026-10-22-maddie-room-sketch-user.jpg
+maddie-room,closet double-door opening,bottom,55,4'7",measured,3 of 3,,Double doors swing into the room,sources/2026-10-22-maddie-room-sketch-user.jpg
+maddie-room,bottom wall,bottom,103,8'7",derived,,measure,"118 - 15, if the step is the only offset",sources/2026-10-22-maddie-room-sketch-user.jpg

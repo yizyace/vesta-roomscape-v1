@@ -1,0 +1,38 @@
+{
+  "id": "ikea-90600663",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/trampsjoen-bathtub-mat-light-turquoise-90600663/",
+  "name": "TRAMPSJÖN Bathtub mat, light turquoise, 17x17 \"",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom",
+    "kids"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 9.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 17,
+    "d": 17,
+    "raw": "Length: 17 \"; Width: 17 \"; Package quantity: 2 pack",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Length; one mat)"
+  },
+  "images": [
+    {
+      "file": "ikea-90600663-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/trampsjoen-bathtub-mat-light-turquoise__1384967_pe963080_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: the bathroom list, Maddie's non-slip tub mats (2 per pack, side by side): \"Suction cups keep the mat safely in place in your bathtub.\" The page says \"For bathtub use only.\" and whether L01's bathroom has a tub is not recorded, so skip it if there is only a shower stall. Thermoplastic elastomer; hand wash; hang to dry. Price $9.99 per 2-pack. Variant: light turquoise (no other color on the page). Popularity: #1 under a search for \"patrull bath mat\" (IKEA US lists no PATRULL bath mat); not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: [] with the bathroom tag (F-13: the bathroom is not one of the six rooms; F-41: it gets a list, not a layout); the bathroom is unmeasured.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ikea-30605324",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vaelvardad-dish-drainer-white-galvanized-30605324/",
+  "name": "VÄLVÅRDAD Dish drainer, white/galvanized, 20 ½x13 ¾ \"",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 20.5,
+    "d": 13.75,
+    "h": 0.75,
+    "raw": "Length: 20 ½ \"; Width: 13 ¾ \"; Height: ¾ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Length -> w, Width -> d"
+  },
+  "images": [],
+  "notes": "Flags: none. Rejected 2026-10-22: a 3/4\"-high grooved draining tray for items placed upside down; plates need the separate VÄLVÅRDAD dish drying rack (4 3/4 x 12 1/2\", $9.99, offered under 'Complete with'), so drying a full load costs $22.98, while FLUNDRA (ikea-40176950) holds 18 plates for $4.99. White powder-coated galvanized steel; wipe clean. 4.3 stars (64). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

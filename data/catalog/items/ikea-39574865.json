@@ -1,0 +1,43 @@
+{
+  "id": "ikea-39574865",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/trofast-storage-combination-with-boxes-light-white-stained-pine-white-s39574865/",
+  "name": "TROFAST Storage combination with boxes, light white stained pine/white, 36 5/8x17 3/8x20 1/2 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "kids",
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 36.625,
+    "d": 17.375,
+    "h": 20.5,
+    "raw": "Depth: 17 3/8 \"; Height: 20 1/2 \"; Width: 36 5/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-39574865-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/trofast-storage-combination-with-boxes-light-white-stained-pine-white__1354528_pe952681_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: maddie-room left wall, 108\" clear (F-20): leaves 71.4\"; 17.4\" deep plus 24\" to pull the boxes out (F-32) uses 41.4\" of the room's 118\" · fits. 20 1/2\" tall, so she can reach every box; no anchoring warning on the page. Takes TROFAST lids (sold separately); indoor use only. Variant: light white stained pine/white (the white/white combination 59574459, $97.99, also a Best seller, was not opened). Popularity: Best seller; #3 under Toy storage sorted Most popular (#1 and #2 are single boxes); 3.5 stars (133). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

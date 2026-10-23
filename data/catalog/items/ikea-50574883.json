@@ -1,0 +1,43 @@
+{
+  "id": "ikea-50574883",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kallax-tv-unit-white-stained-oak-effect-50574883/",
+  "name": "KALLAX TV unit, white stained oak effect, 57 3/4x23 1/2 \"",
+  "brand": "IKEA",
+  "category": "tv-stand",
+  "tags": [
+    "living-room",
+    "tv",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 79.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 57.75,
+    "d": 15.375,
+    "h": 23.5,
+    "raw": "Depth: 15 3/8 \"; Height: 23 1/2 \"; Width: 57 3/4 \"; Max. load/large shelf: 29 lb; Max. load/small shelf: 20 lb; Max. TV weight: 35 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-50574883-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kallax-tv-unit-white-stained-oak-effect__1238899_pe918670_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Anchoring: 23.5\" tall, under F-21's 27\" (no anchor-required tag), but the page says \"WARNING! Tipping hazard – this product must be securely anchored.\" and \"For safety reasons this furniture shall not be hung on the wall.\" Fit: living-room bottom wall (275.5\", F-20), 57.75\" of wall and 15.4\" deep, leaving 30\" or more in front for the walkway (F-30) · fits. Holds the Samsung 65\" amazon-B0GP9QN5SN: Max. TV weight 35 lb against the TV's 31.7 lb, and the TV's 39.6\" pedestal on the 57.75\" top (the 56.9\" panel nearly fills the width). Open cubbies, no glass, cable opening at the back (\"The opening at the back allows you to easily gather and organize all wires.\"); the budget console, $170 under IDANÄS ikea-70566052, which is wider (63.75\") with drawers and a 66 lb limit. Variant: white stained oak effect (the house style's light wood; also white 00574885, black-brown 90574881), article 505.748.83. Popularity: #1 under TV stands & benches sorted Most popular (the black-brown card); 4.6 stars (339). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief. Note 2026-10-22: first recorded as rejected for its 35 lb TV limit before the TV was chosen; the chosen 65\" weighs 31.7 lb, so it was restored to candidate the same day.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

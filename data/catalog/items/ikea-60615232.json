@@ -1,0 +1,41 @@
+{
+  "id": "ikea-60615232",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-monstera-60615232/",
+  "name": "FEJKA Artificial potted plant, indoor/outdoor monstera, 4 ¾ \"",
+  "brand": "IKEA",
+  "category": "plant",
+  "tags": [
+    "dining",
+    "decor"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 12.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 4.75,
+    "d": 4.75,
+    "h": 12.5,
+    "raw": "Diameter of plant pot: 4 ¾ \"; Height of plant: 12 ½ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; round, no Width or Depth row: w and d are the pot's diameter (the leaves spread wider), h the plant's height"
+  },
+  "images": [
+    {
+      "file": "ikea-60615232-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-monstera__0959226_pe809439_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: stands on the storage piece (the VIHALS sideboard, 18.5\" deep, or the KALLAX top), so the layouts draw it on the top layer; 12.5\" tall beside the art. Artificial, so nothing to water, no soil for a 4-year-old to dig and no leaves to chew: PEVA and polyethylene leaves in a polypropylene inner pot; wipe clean. Indoor/outdoor. The page's 'Complete with' offers a PERSILLADE plant pot, 4 3/4\", light beige, $6.99 (/us/en/p/persillade-plant-pot-light-beige-90606797/), not captured. Not badged; 4.6 stars (13); found on the FEJKA search (the Artificial plants list's top sellers are 2-3\" hanging plants and succulents; the floor-size FEJKA bamboo and bird of paradise, both Best sellers, are $89.99). In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

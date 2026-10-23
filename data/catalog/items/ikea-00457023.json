@@ -1,0 +1,41 @@
+{
+  "id": "ikea-00457023",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/smasporre-duvet-insert-light-warm-00457023/",
+  "name": "SMÅSPORRE Duvet insert, light warm, Twin",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "kids",
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 39.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 64,
+    "d": 86,
+    "raw": "Thread count: 186 /inch²; Length: 86 \"; Width: 64 \"; Filling weight: 19 oz; Total weight: 45 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Length; a layout extra, not a floor footprint)"
+  },
+  "images": [
+    {
+      "file": "ikea-00457023-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/smasporre-duvet-insert-light-warm__0776666_pe758188_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: a layout extra for a twin bed (F-41: bedding goes in extras); 64 x 86\" covers a 38 1/4\" twin mattress with overhang on both sides. Light warm, 4 TOG (the page: \"A good choice if you often feel warm while sleeping\"), which suits a heated bedroom; machine-washable at 140°F/60°C. Takes a Twin duvet cover such as BARNDRÖM ikea-10622697 (63 3/4 x 85 7/8\"). Variant: light warm, Twin (Full/Queen $44.99, King $54.99). Popularity: the SMÅSPORRE card is #1 under Kids duvet inserts & pillows sorted Most popular and carries the Best seller badge, but that card shows the Full/Queen; the Twin page has no badge, so best-seller is not tagged; 4.5 stars (1543). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

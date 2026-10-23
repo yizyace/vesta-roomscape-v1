@@ -1,0 +1,40 @@
+{
+  "id": "ikea-20400304",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/tisken-corner-basket-with-suction-cup-white-20400304/",
+  "name": "TISKEN Corner basket with suction cup, white",
+  "brand": "IKEA",
+  "category": "bath",
+  "tags": [
+    "bathroom",
+    "storage",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 8.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 11.75,
+    "d": 7.75,
+    "h": 6.75,
+    "raw": "Width: 11 ¾ \"; Depth: 7 ¾ \"; Height: 6 ¾ \"; Max. load: 6 lb 10 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-20400304-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tisken-corner-basket-with-suction-cup-white__0749053_pe745417_s5.jpg"
+    }
+  ],
+  "notes": "Flags: none. Fit: a shower corner, on smooth tile, glass or mirror (not wallpaper); 11 ¾ x 7 ¾ x 6 ¾\"; no drilling. Holds up to 6 lb (the measurement row says 6 lb 10 oz). The page shows \"Last chance\" (being discontinued). Variant: white. Popularity: Best seller; #2 under Shower accessories sorted Most popular (#1 is the TISKEN basket with suction cup); 4.1 stars (1440). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

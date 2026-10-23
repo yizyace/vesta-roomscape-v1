@@ -1,0 +1,42 @@
+{
+  "id": "ikea-30574006",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/droena-box-white-30574006/",
+  "name": "DRÖNA Box, white, 13x15x13 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "kids",
+    "bedroom",
+    "storage"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 4.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 13,
+    "d": 15,
+    "h": 13,
+    "raw": "Width: 13 \"; Depth: 15 \"; Height: 13 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-30574006-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/droena-box-white__0713066_pe729170_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: toy bins, in a KALLAX (ikea-20631639: \"Fits perfectly in KALLAX shelving unit and other units with shelves that are at least 13¾\" deep\") or on the floor; turned sideways they are 13\" deep, so two fit the 14.5\" strip between a 77.5\" bed's foot and the door's swing (F-31). Fabric with two integrated fabric handles, light enough for a 4-year-old to pull out. \"Online min. order quantity: 2\". Variant: white. Popularity: #1 under a search for \"kallax box\" sorted Most popular; not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

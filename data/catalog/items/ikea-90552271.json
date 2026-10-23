@@ -1,0 +1,34 @@
+{
+  "id": "ikea-90552271",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/plufsig-folding-gym-mat-green-90552271/",
+  "name": "PLUFSIG Folding gym mat, green, 30 3/4x72 7/8 \"",
+  "brand": "IKEA",
+  "category": "play",
+  "tags": [
+    "kids"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 39.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 30.75,
+    "d": 72.875,
+    "h": 1.125,
+    "raw": "Length: 72 7/8 \"; Width: 30 3/4 \"; Thickness: 1 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Width, d = Length unfolded, h = Thickness)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-22: considered as the reading-nook seat because LÖVA's page pairs the two, but the page gives only the unfolded size (72 7/8 x 30 3/4 x 1 1/8\"), with no folded size to place, it is a thin gym mat rather than a seat, and IKEA Long Island does not sell it (\"Not sold at IKEA Long Island, NY\"). Flags: none. Variant: green.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

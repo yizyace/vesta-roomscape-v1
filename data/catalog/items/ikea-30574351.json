@@ -1,0 +1,42 @@
+{
+  "id": "ikea-30574351",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lack-console-table-white-stained-oak-30574351/",
+  "name": "LACK Console table, white stained oak, 55 1/8x15 3/8 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "entry",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 129.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 55.125,
+    "d": 15.375,
+    "h": 25.625,
+    "raw": "Length: 55 1/8 \"; Width: 15 3/8 \"; Height: 25 5/8 \"; Max. load: 44 lb",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23; a table's Length runs along the wall (w) and its Width is front to back (d), vendors.md"
+  },
+  "images": [
+    {
+      "file": "ikea-30574351-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lack-console-table-white-stained-oak__1258135_pe926258_s5.jpg",
+      "caption": "White stained oak LACK console table with 2 storage levels"
+    }
+  ],
+  "notes": "Flags: none (a table, not storage furniture: F-21's anchoring rule does not apply; it stands braced against the sofa's back). Fit: living-room, behind the floating KIVIK sofa (89.75\"): 55.125\" long, 15.375\" deep, 25.625\" tall, 7\" under the sofa's 32.625\" back, leaving the 30\" route behind it (F-39) · fits. Turns the gap between the sofa and the window wall into a lamp-and-basket ledge plus the walkway, or, behind a sofa facing the right wall, the drop zone of the entry by the stairs. \"Separate shelf for magazines, etc. helps you keep your things organized and the table top clear.\"; \"The honeycomb-patterned paper filling construction adds strength to the table while keeping it lightweight\". White stained oak, matching the LACK coffee table ikea-50319029, the LACK side table ikea-70319028 and the BESTÅ white stained oak effect pieces. Popularity: #1 in a search for \"console table\" on IKEA US; not badged; 4.5 stars (36). Stock 2026-10-23: in stock at IKEA Long Island, NY; home delivery to our ZIP from $14.00. Variant: white stained oak (also black-brown 10574352), article 305.743.51. rooms: living-room, from the brief (F-61's use of the floor between the sofa and the window).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ikea-49634091",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/hugad-curtain-rod-combination-with-wall-ceiling-brackets-with-finials-white-s49634091/",
+  "name": "HUGAD Curtain rod combination, with wall/ceiling brackets/with finials white, 82 ¾-151 ½ \"",
+  "brand": "IKEA",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 25,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-49634091-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/hugad-curtain-rod-combination-with-wall-ceiling-brackets-with-finials-white__1560955_pe1025517_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: no-dimensions (F-11: the Measurements section gives only the rod's length range, \"Length: 82 3/4 \"; Max. length: 151 1/2 \"; Max. load: 22 lb; Min. length: 82 3/4 \"\", no depth or height row, so it has no footprint; a layout extra, never placed), assumed-position:window (F-38). Fit: living-room, the 102\" window plus about 9\" each side: set to about 120\" of its 82 3/4\" to 151 1/2\" range, carrying the two GINSTMOTT pairs ikea-80597171 (about 10 lb of the 22 lb max load) · fits. White, to keep black metal to the lamps (house style). What's included: 1 x HUGAD curtain rod 83-152\" (302.171.40), 4 x BETYDLIG wall/ceiling bracket (302.198.89), 1 x HELTUSS finials, 1 pair (306.200.46). Article 496.340.91 (the URL carries an s, a combination). The 47 1/4-82 3/4\" size is $18.50. Popularity: not badged; the black version is #13 under Curtain rods, rails & holders sorted Most popular; 4.3 stars (33). Stock 2026-10-22: 5 of 6 in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

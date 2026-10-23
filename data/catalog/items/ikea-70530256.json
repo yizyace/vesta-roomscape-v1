@@ -1,0 +1,44 @@
+{
+  "id": "ikea-70530256",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/bissa-shoe-cabinet-with-2-compartments-white-70530256/",
+  "name": "BISSA Shoe cabinet with 2 compartments, white, 19 1/4x11x36 5/8 \"",
+  "brand": "IKEA",
+  "category": "shoe-storage",
+  "tags": [
+    "living-room",
+    "entry",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 19.25,
+    "d": 11,
+    "h": 36.625,
+    "raw": "Width: 19 1/4 \"; Depth: 11 \"; Height: 36 5/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-70530256-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/bissa-shoe-cabinet-with-2-compartments-white__1126569_pe875786_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: anchor-required (F-21: tall storage, 36.6\", and the page says \"This cabinet must be fastened to the wall; the back panel has predrilled holes to make it easier.\"). Fit: living-room bottom wall beside the bottom-left stair landing (F-40 keeps x 36-72, y 137-173 clear), 19.25\" of wall and 11\" deep; the tilt-out compartments need about 12\" in front · fits. The family's entry shoe storage: \"Holds approx. 8 pairs of shoes.\"; dividers move; a cut-out at the back clears the baseboard. Its top (36.6\") holds keys and the mirror hangs above. Kept over TRONES (Best seller, #1, $39.99 but 7 1/8\" deep and about 4 pairs, so two would be needed, $79.98) as the cheaper way to 8 pairs. Article 705.302.56. Popularity: not badged; #2 under the \"shoe cabinet\" search sorted Most popular; 4.5 stars (689). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief (entry storage by the stairs).",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

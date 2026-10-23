@@ -1,0 +1,41 @@
+{
+  "id": "ikea-40625109",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/len-rug-low-pile-beige-dot-pattern-40625109/",
+  "name": "LEN Rug, low pile, beige/dot pattern, 4 ' 4 \"x5 ' 3 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "kids",
+    "living-room",
+    "washable"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 59.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 52,
+    "d": 63,
+    "raw": "Length: 5 ' 3 \"; Width: 4 ' 4 \"; Area: 22.93 sq feet",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23; a rug's Length is d (vendors.md); no thickness row, so no h"
+  },
+  "images": [
+    {
+      "file": "ikea-40625109-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/len-rug-low-pile-beige-dot-pattern__1498381_pe1006299_s5.jpg",
+      "caption": "LEN Rug, low pile, beige/dot pattern, 4 ' 4 \"x5 ' 3 \""
+    }
+  ],
+  "notes": "Flags: none. Fit: living-room play zone (F-61), the floor in front of the right-wall toy storage: 52 x 63\", low pile, a rug-layer piece · fits. The play rug the brief asks for: \"This soft, beige rug with white dots adds both function and a cozy feel to a child's room.\"; \"The rubber backing keeps the rug in place when the child runs/plays on it.\"; \"made from durable, stain-resistant synthetic fibers which are easy to care for\". Care: \"Hand wash warm water.\", \"Do not tumble dry.\", \"Vacuum and rotate the rug regularly.\" Materials: pile 100% polyester (100% recycled), backing 100% synthetic rubber. Beige with white dots, the house style's oatmeal. Popularity: #8 in a search for \"kids rug\" on IKEA US; not badged; 4.8 stars (8). Stock 2026-10-23: in stock at IKEA Long Island, NY; home delivery to our ZIP from $14.00. Variant: beige/dot pattern (LEN dotted/gray 90589043 also listed, not opened), article 406.251.09. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

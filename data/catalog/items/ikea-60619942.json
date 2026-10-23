@@ -1,0 +1,41 @@
+{
+  "id": "ikea-60619942",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ikea-ps-2026-nightstand-pine-with-flip-down-door-60619942/",
+  "name": "IKEA PS 2026 Nightstand, pine with flip-down door, 11 3/4x11 3/4x19 5/8 \"",
+  "brand": "IKEA",
+  "category": "nightstand",
+  "tags": [
+    "bedroom",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 69.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 11.75,
+    "d": 11.75,
+    "h": 19.625,
+    "raw": "Depth 11 3/4 \"; Height under furniture 8 5/8 \"; Height 19 5/8 \"; Width 11 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-23"
+  },
+  "images": [
+    {
+      "file": "ikea-60619942-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ikea-ps-2026-nightstand-pine-with-flip-down-door__1472079_pe997449_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: the slim nightstand for the master bedroom's bathroom side (design review 2026-10-23): 11 3/4\" off the right wall, so beside the bed it stands in front of only the last 3 3/4\" of the bathroom doorway as the sketch places it (x 139 to 169), with 20\"+ in front, where the 18 7/8\"-deep STORKLINTA covered 10.9\" with 15.4\" in front (F-30, F-31). Pine, to match the TARVA bed and the PERJOHAN bench. 4.8 stars (35 reviews); new; running low at IKEA Long Island, NY on 2026-10-23.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ikea-39440593",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kivik-sofa-tibbleby-beige-gray-s39440593/",
+  "name": "KIVIK Sofa, Tibbleby beige/gray",
+  "brand": "IKEA",
+  "category": "sofa",
+  "tags": [
+    "living-room",
+    "seating",
+    "washable",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 799,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 89.75,
+    "d": 37.375,
+    "h": 32.625,
+    "raw": "Width: 89 3/4 \"; Depth: 37 3/8 \"; Height: 32 5/8 \"; Seat width: 70 7/8 \"; Seat depth: 23 5/8 \"; Seat height: 17 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-39440593-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1577303_pe1033081_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: delivery-path-unmeasured (F-22: a sofa; it ships flat in 3 boxes, the largest the frame at 72 1/2 x 37 1/2 x 19 3/4\" and 118 lb 7 oz, then 38 1/2 x 36 1/4 x 11\" at 52 lb 8 oz and the cover at 22 1/4 x 14 3/4 x 3 1/2\"). Fit: living-room, backed toward the window wall with its back 12\" or more from the heater's face (y 18 or more, F-33) it uses 89.75\" of the 225\" of floor between the stair band and the right wall (F-20, F-40) and 37.4\" of the room's 173\" depth · fits. The staged 3-seat sofa. Washable: \"Removable cover\", sofa cover \"Machine wash warm, normal cycle.\" (Materials and care). Variant: Tibbleby beige/gray cover, article 394.405.93. Popularity: Best seller; #1 under Sofas & sectionals and Three-seat sofas sorted Most popular; 4.1 stars (558); card badge \"Apartment Therapy: Best Sofa for Families\". 10-year limited warranty. Stock 2026-10-22: 1 of 2 in stock at IKEA Long Island, NY; home delivery to our ZIP from $39.00. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

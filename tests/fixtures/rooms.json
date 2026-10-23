@@ -1,0 +1,119 @@
+{
+  "units": "in",
+  "source": "rooms.csv: every wall or feature marked measured is a row there, transcribed from Andrew's sketches (measurements.md). Walls run clockwise from the top-left corner; positions along walls (feature 'at') are eyeballed from the sketches until measured.",
+  "rooms": [
+    {
+      "id": "living-room",
+      "name": "Living room",
+      "sketch": "sources/2026-10-22-living-room-sketch-user.jpg",
+      "floor": "unknown",
+      "walls": [
+        { "name": "top", "dir": "right", "length": 261, "kind": "measured", "note": "window wall, hatched along its length; runs to the set-back part of the right wall" },
+        { "name": "right-upper", "dir": "down", "length": 93, "kind": "measured" },
+        { "name": "step", "dir": "right", "length": 14.5, "kind": "measured", "note": "steps outward; the room is wider below it" },
+        { "name": "right-lower", "dir": "down", "length": 77, "kind": "measured" },
+        { "name": "right-blocker", "dir": "down", "length": 3, "kind": "derived", "note": "173 - (93 + 77): the small blocker in a corner on the right side (Andrew, 2026-10-22); which corner and its width are not recorded, so it is drawn as 3 inches of wall at the bottom-right" },
+        { "name": "bottom", "dir": "left", "length": 275.5, "kind": "derived", "note": "261 + 14.5; the wall opposite the windows was not measured" },
+        { "name": "left", "dir": "up", "length": 173, "kind": "measured" }
+      ],
+      "features": [
+        { "type": "heater", "wall": "top", "at": 0, "length": 261, "depth": 6, "measured": [], "note": "hatched along the whole wall, unlabeled; on the bedroom sketches the same hatching marks the heater; depth not measured" },
+        { "type": "window", "wall": "top", "at": 110, "length": 102, "measured": ["length"], "note": "drawn right of center; distance from the corners not measured" }
+      ],
+      "notes": [
+        "No door is drawn on the sketch.",
+        "Positions along walls are eyeballed from the sketch until measured."
+      ]
+    },
+    {
+      "id": "dining-room",
+      "name": "Dining room",
+      "sketch": "sources/2026-10-22-dining-kitchen-sketch-user.jpg",
+      "floor": "tile",
+      "walls": [
+        { "name": "top", "dir": "right", "length": 128, "kind": "measured", "note": "from the left wall to the kitchen line" },
+        { "name": "right", "dir": "down", "length": 119, "kind": "derived", "note": "assumed equal to the left wall; this side is the kitchen line" },
+        { "name": "bottom", "dir": "left", "length": 128, "kind": "derived", "note": "assumed equal to the top wall" },
+        { "name": "left", "dir": "up", "length": 119, "kind": "measured" }
+      ],
+      "features": [
+        { "type": "opening", "wall": "right", "at": 0, "length": 119, "measured": [], "note": "the kitchen line: whether there is a wall, a counter or nothing between the rooms is not recorded" }
+      ],
+      "notes": ["Positions along walls are eyeballed from the sketch until measured."]
+    },
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "sketch": "sources/2026-10-22-dining-kitchen-sketch-user.jpg",
+      "floor": "tile",
+      "walls": [],
+      "features": [],
+      "notes": ["Not measured yet. Only the line dividing it from the dining room is drawn."]
+    },
+    {
+      "id": "master-bedroom",
+      "name": "Master bedroom",
+      "sketch": "sources/2026-10-22-master-bedroom-sketch-user.jpg",
+      "floor": "unknown",
+      "walls": [
+        { "name": "top", "dir": "right", "length": 177, "kind": "measured", "note": "window wall, hatched, 'heater' at its right end" },
+        { "name": "right", "dir": "down", "length": 133, "kind": "derived", "note": "assumed equal to the left wall" },
+        { "name": "bottom", "dir": "left", "length": 177, "kind": "derived", "note": "assumed equal to the top wall; carries the walk-in closet and the bathroom door" },
+        { "name": "left", "dir": "up", "length": 133, "kind": "measured" }
+      ],
+      "features": [
+        { "type": "window", "wall": "top", "at": 55, "length": 67, "measured": ["length"], "note": "distance from the corners not measured" },
+        { "type": "heater", "wall": "top", "anchor": "end", "at": 0, "length": 30, "depth": 6, "measured": [], "note": "'heater' written at the right end of the window wall; its length and depth are not measured" },
+        { "type": "door", "wall": "bottom", "at": 8, "length": 30, "swing": "out", "hinge": "start", "measured": [], "label": "bathroom", "note": "at the right end of the bottom wall, swings into the bathroom; width not measured" },
+        { "type": "clear", "wall": "bottom", "at": 38, "length": 70, "measured": ["length"], "note": "the 70 inches of wall between the walk-in closet and the bathroom door" },
+        { "type": "closet", "wall": "bottom", "at": 110, "length": 42, "depth": 24, "doors": "single", "swing": "out", "measured": [], "label": "walk-in closet", "note": "opens off the left end of the bottom wall (also labeled 'wardrobe'); not measured" },
+        { "type": "door", "wall": "left", "at": 0, "length": 30, "swing": "in", "hinge": "start", "measured": [], "note": "one of two swings drawn at the bottom-left; the sketch doesn't label which is the room's entrance; width not measured" }
+      ],
+      "notes": [
+        "Two door swings are drawn at the bottom-left: one from the left wall to the bottom wall, one into the closet. Which is the entrance is not labeled.",
+        "Positions along walls are eyeballed from the sketch until measured."
+      ]
+    },
+    {
+      "id": "back-bedroom",
+      "name": "Back bedroom (office)",
+      "sketch": "sources/2026-10-22-back-bedroom-sketch-user.jpg",
+      "floor": "unknown",
+      "walls": [
+        { "name": "top", "dir": "right", "length": 106, "kind": "measured", "note": "window wall, hatched, 'heater' at its right end" },
+        { "name": "right", "dir": "down", "length": 152, "kind": "derived", "note": "assumed equal to the left wall" },
+        { "name": "bottom", "dir": "left", "length": 106, "kind": "derived", "note": "assumed equal to the top wall; carries the wardrobe" },
+        { "name": "left", "dir": "up", "length": 152, "kind": "measured" }
+      ],
+      "features": [
+        { "type": "window", "wall": "top", "at": 10, "length": 67, "measured": ["length"], "note": "distance from the corners not measured" },
+        { "type": "heater", "wall": "top", "anchor": "end", "at": 0, "length": 25, "depth": 6, "measured": [], "note": "'heater' written at the right end of the window wall; length and depth not measured" },
+        { "type": "closet", "wall": "bottom", "anchor": "end", "at": 10, "length": 68, "depth": 22, "doors": "double", "swing": "in", "measured": ["length", "depth"], "label": "wardrobe", "note": "set into the bottom wall toward the left; double doors swing into the room" },
+        { "type": "door", "wall": "right", "anchor": "end", "at": 0, "length": 30, "swing": "in", "hinge": "end", "measured": [], "note": "swing drawn at the bottom-right corner opening into the room; the sketch doesn't say whether the door is in the right wall or the bottom wall; width not measured" }
+      ],
+      "notes": ["Positions along walls are eyeballed from the sketch until measured."]
+    },
+    {
+      "id": "maddie-room",
+      "name": "Maddie's room",
+      "sketch": "sources/2026-10-22-maddie-room-sketch-user.jpg",
+      "floor": "unknown",
+      "walls": [
+        { "name": "top", "dir": "right", "length": 118, "kind": "measured" },
+        { "name": "right-upper", "dir": "down", "length": 87, "kind": "measured", "note": "window wall, hatched and labeled 'heat'" },
+        { "name": "step", "dir": "left", "length": 15, "kind": "measured", "note": "steps inward, notching the bottom-right corner" },
+        { "name": "right-lower", "dir": "down", "length": 35, "kind": "measured" },
+        { "name": "bottom", "dir": "left", "length": 103, "kind": "derived", "note": "118 - 15, if the step is the only offset" },
+        { "name": "left", "dir": "up", "length": 122, "kind": "derived", "note": "87 + 35; the measured 108 is the clear wall above the door (feature 'clear')" }
+      ],
+      "features": [
+        { "type": "heater", "wall": "right-upper", "at": 0, "length": 87, "depth": 6, "measured": [], "note": "hatched along the whole section, labeled 'heat'; depth not measured" },
+        { "type": "window", "wall": "right-upper", "at": 2, "length": 55, "measured": ["length"], "note": "starts just below the top corner" },
+        { "type": "door", "wall": "bottom", "anchor": "end", "at": 0, "length": 30, "swing": "in", "hinge": "end", "measured": [], "note": "drawn at the bottom-left corner swinging into the room; which wall it is in and its width are not measured" },
+        { "type": "closet", "wall": "bottom", "at": 8, "length": 55, "depth": 24, "doors": "double", "swing": "in", "measured": ["length"], "note": "double doors swing into the room; runs from beside the door swing almost to the right wall; depth not measured" },
+        { "type": "clear", "wall": "left", "anchor": "end", "at": 0, "length": 108, "measured": ["length"], "note": "clear wall from the top corner to the door; the door is not counted (Andrew, 2026-10-22)" }
+      ],
+      "notes": ["Positions along walls are eyeballed from the sketch until measured."]
+    }
+  ]
+}

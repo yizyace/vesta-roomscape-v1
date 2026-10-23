@@ -1,0 +1,40 @@
+{
+  "id": "ikea-44881100",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kolon-floor-protector-44881100/",
+  "name": "KOLON Floor protector, 47 1/4x39 3/8 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "office"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 24.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 39.375,
+    "h": 0.125,
+    "raw": "Length: 39 3/8 \"; Width: 47 1/4 \"; Thickness: 1/8 \"; Area: 12.92 sq feet",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23; Width is w, Length is d and Thickness is h, the rug convention"
+  },
+  "images": [
+    {
+      "file": "ikea-44881100-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kolon-floor-protector__0292207_pe425129_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. Fit: the chair mat under the personal station's chair (rug layer), laid over the LOHALS flatweave where there is one. The page: 'A practical solution under your work chair to spare your floor from spills, wear and dirt. It's transparent so your rug or floor will shine through.' Thickness 1/8\"; contract grade. Category rug: the taxonomy has no chair-mat category, it lies on the floor like a rug, and the redesign brief asks for 'a rug or chair mat' (F-41). 4.4 stars (3,970). Article 448.811.00. Stock 2026-10-23: in stock at IKEA Long Island, NY; home delivery 'Ships with $35.00 order'. rooms: back-bedroom, from the redesign brief.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

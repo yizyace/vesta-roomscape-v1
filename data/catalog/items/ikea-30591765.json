@@ -1,0 +1,28 @@
+{
+  "id": "ikea-30591765",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/stubberget-bracket-for-2-monitors-white-30591765/",
+  "name": "STUBBERGET Bracket for 2 monitors, white",
+  "brand": "IKEA",
+  "category": "other",
+  "tags": [
+    "office"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 59.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Flags: no-dimensions. Rejected (F-03): its Measurements tab reads 'Max. screen size: 24 \"; Max. load: 35 lb 4 oz', and Andrew's monitors are 32\" (F-62). 3.8 stars (33). Article 305.917.65. 'Delivery currently limited to large orders.' In stock at IKEA Long Island, NY on 2026-10-23. Instead: the HUANUO dual arm for 13-32\" screens (amazon-B0CTMHHJJC). rooms: back-bedroom, from the redesign brief.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

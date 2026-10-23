@@ -1,0 +1,42 @@
+{
+  "id": "ikea-60516915",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/toevaeder-led-night-light-cat-battery-operated-60516915/",
+  "name": "TÖVÄDER LED night light, cat battery operated",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "kids",
+    "bedroom",
+    "lighting"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 19.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 6,
+    "d": 3,
+    "h": 4,
+    "raw": "Height: 4 \"; Length: 6 \"; Width: 3 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (w = Length, along the shelf it stands on; d = Width; h = Height)"
+  },
+  "images": [
+    {
+      "file": "ikea-60516915-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/toevaeder-led-night-light-cat-battery-operated__1010978_pe828372_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: on a dresser, nightstand or shelf (top layer). Battery operated (\"Batteries are sold separately; 2 pcs AA required.\"), so no cord at the bed. Built-in timer: off after 30 minutes or 8 hours; she can turn it on and off and change the color by pressing the cat; 5 colors (red, yellow, orange, green, white). Variant: cat. Popularity: #11 under Kids lighting sorted Most popular, the first night light there; not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

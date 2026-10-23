@@ -1,0 +1,37 @@
+{
+  "id": "ikea-90609178",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/flisat-childs-bench-height-adjustable-green-90609178/",
+  "name": "FLISAT Child's bench, height adjustable/green",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "kids",
+    "bedroom",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 24,
+    "d": 14.125,
+    "h": 18.5,
+    "raw": "Width: 24 \"; Depth: 14 1/8 \"; Height: 18 1/2 \"; Min. height: 13 3/8 \"; Max. height: 18 1/2 \"; Seat width: 18 7/8 \"; Seat depth: 11 3/4 \"; Seat height: 12 5/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22 (h = Height, the same as Max. height)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-22: unavailable: out of stock at IKEA Long Island, NY, \"Currently unavailable for delivery\" to our ZIP and \"Unavailable online for selected areas\". Otherwise the seat made for the FLISAT desk (ikea-30609181, \"A perfect match with FLISAT desk\"), with 3 seat heights (32, 37 and 45 cm per the page); worth re-checking if the desk is chosen. Flags: none. Popularity: #7 under Kids chairs sorted Most popular; 4.8 stars (12).",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ikea-60574905",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/froesjoen-over-the-toilet-shelf-black-60574905/",
+  "name": "FRÖSJÖN Over-the-toilet shelf, black, 25 5/8x61 3/8 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "bathroom",
+    "storage",
+    "needs-assembly",
+    "anchor-required",
+    "best-seller"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 59.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 25.625,
+    "d": 11.75,
+    "h": 61.375,
+    "raw": "Width: 25 5/8 \"; Depth: 11 3/4 \"; Height: 61 3/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22"
+  },
+  "images": [
+    {
+      "file": "ikea-60574905-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/froesjoen-over-the-toilet-shelf-black__1253945_pe924374_s5.jpg"
+    }
+  ],
+  "notes": "Flags: anchor-required (IKEA: \"WARNING! Tipping hazard – this product must be securely anchored.\"). Fit: bathroom, unmeasured (F-13): 25 5/8\" wide, 11 3/4\" deep, 61 3/8\" tall, standing over the toilet; check it against the toilet's width and tank height, which are unmeasured. Must be secured to the wall; fixings sold separately. Variant: black. Popularity: Best seller; #7 under Bathroom shelving units sorted Most popular; 4.3 stars (53). Stock 2026-10-22: not stocked at IKEA Long Island, NY; order online for delivery.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

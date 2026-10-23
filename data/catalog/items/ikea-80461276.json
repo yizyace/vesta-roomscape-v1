@@ -1,0 +1,35 @@
+{
+  "id": "ikea-80461276",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lillhavet-multifunctional-dish-rack-anthracite-80461276/",
+  "name": "LILLHAVET Multifunctional dish rack, anthracite",
+  "brand": "IKEA",
+  "category": "kitchenware",
+  "tags": [
+    "kitchen",
+    "best-seller"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 19.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 18.75,
+    "d": 6.75,
+    "h": 5.5,
+    "raw": "Width: 6 ¾ \"; Length: 18 ¾ \"; Height: 5 ½ \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Length -> w, Width -> d"
+  },
+  "images": [],
+  "notes": "Flags: none. Rejected 2026-10-22: it spans the sink ('Fits sinks with inner dimension 15 3/4 inches') and the kitchen and its sink are unmeasured, and it dries only 5 plates ('5 plates fit for drying at the same time') against the 6-setting dinnerware. Anthracite steel and polyamide with polypropylene trays. Best seller badge on the page, first on the 'dish drainer' search; 4.4 stars (937). FLUNDRA (ikea-40176950, 18 plates, $4.99) was taken instead. In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

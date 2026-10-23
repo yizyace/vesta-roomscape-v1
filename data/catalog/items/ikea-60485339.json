@@ -1,0 +1,43 @@
+{
+  "id": "ikea-60485339",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/perjohan-bench-with-storage-pine-60485339/",
+  "name": "PERJOHAN Bench with storage, pine, 39 3/8 \"",
+  "brand": "IKEA",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 79.99,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 39.375,
+    "d": 11,
+    "h": 17.75,
+    "raw": "Length: 39 3/8 \"; Height: 17 3/4 \"; Seat width: 39 3/8 \"; Tested for: 243 lb; Seat depth: 9 7/8 \"; Seat height: 17 3/4 \"; Depth: 11 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Length -> w (the bench's long side), Depth -> d, Height -> h"
+  },
+  "images": [
+    {
+      "file": "ikea-60485339-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/perjohan-bench-with-storage-pine__0948199_pe798912_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, across the foot of the queen bed (rot 90: 11\" deep, 39 3/8\" long), 2\" off the bed's foot and 62.9\" from the dresser's drawer fronts on the left wall (F-32, F-30) · fits. Solid pine (the house's light wood) with open storage underneath for spare blankets and a cut-out handle; seat height 17 3/4\", tested for 243 lb; 17 3/4\" tall, so no anchoring (F-21). Best seller (product page). 4.7 stars (521). In stock in IKEA Long Island, NY; home delivery to our ZIP (2026-10-22). rooms: master-bedroom, from the staging brief.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

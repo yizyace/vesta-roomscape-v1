@@ -1,0 +1,40 @@
+{
+  "id": "ikea-50511857",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/valevag-pocket-spring-mattress-medium-firm-white-50511857/",
+  "name": "VALEVÅG Pocket spring mattress, medium firm/white, Queen",
+  "brand": "IKEA",
+  "category": "mattress",
+  "tags": [
+    "bedroom",
+    "best-seller"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 399,
+    "currency": "USD",
+    "asOf": "2026-10-22"
+  },
+  "dimensions": {
+    "w": 59.875,
+    "d": 79.5,
+    "h": 9.5,
+    "raw": "Length: 79 1/2 \"; Width: 59 7/8 \"; Thickness: 9 1/2 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w, Length -> d, Thickness -> h"
+  },
+  "images": [
+    {
+      "file": "ikea-50511857-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/valevag-pocket-spring-mattress-medium-firm-white__1142895_pe881392_s5.jpg"
+    }
+  ],
+  "notes": "Queen, medium firm; fits the TARVA and BRIMNES queen frames (both list a 59 7/8 x 79 1/2 \" mattress). Ships rolled: one package 65 3/4 \" long, 16 1/4 \" in diameter, 76 lb 12 oz (Packaging rows), so F-22's rolled-mattress exception applies. Best seller (product page; #4 on the Mattresses list sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22.",
+  "captured": {
+    "date": "2026-10-22",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

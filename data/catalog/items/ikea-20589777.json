@@ -1,0 +1,41 @@
+{
+  "id": "ikea-20589777",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/vihals-extendable-table-white-20589777/",
+  "name": "VIHALS Extendable table, white, 47 1/4/70 7/8x29 1/8 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 29.125,
+    "h": 29.5,
+    "raw": "Min. length: 47 1/4 \"; Max. length: 70 7/8 \"; Width: 29 1/8 \"; Height: 29 1/2 \"",
+    "source": "IKEA product page, Measurements tab, read in Chrome 2026-10-23; Min. length -> w (closed), Width -> d; the open length (Max. length 70 7/8\") is in notes"
+  },
+  "images": [
+    {
+      "file": "ikea-20589777-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/vihals-extendable-table-white__1370472_pe958745_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none (F-21 to F-26 do not apply). Fit: dining-room, F-36 and F-60: long side along the room's depth, between VIHALS chairs on the kitchen side (backs at x 32, clear of the 30\" walkway, F-42) and the 8 5/8\" BESTÅ on the right wall: 39.75\" from the table edge to the BESTÅ, 50.5\" to the kitchen line (the passing side, 42-48\" met), 35.9\" at each end closed (tight:35.9, 1/8\" short); open (70 7/8\") the ends drop to 24.1\" (tight:24.1), so in this room the leaf is for an occasional three-a-side. Seats six closed as 2 + 2 + 1 + 1, 23.6\" per diner on the long sides. Extendable: Min. length 47 1/4\" (w), Max. length 70 7/8\". Good to know: \"Recommended for indoor use only.\" \"Seats 4-6.\" \"One extension leaf included.\" Product details: \"The table legs are always in the corners of the table top even when the table is extended, so there is plenty of room for chairs under the table.\" \"The extra leaf can be stored within easy reach under the table top when not in use.\" Materials: leg and side rail steel, epoxy/polyester powder coating; table top particleboard, melamine foil, plastic edging; care: \"Wipe clean using a damp cloth and a mild cleaner.\" (a kid-proof top, no glass). It is the table of the set VIHALS / VIHALS Table and 6 chairs, white/white, 47 1/4/70 7/8x29 1/8\" ($329.99 on Dining table sets for 6 sorted Most popular, 2026-10-23: this table plus six VIHALS chairs ikea-50569103 at $30.00, no set discount), the one white set on that list that fits the room (the rest are 63\" or longer closed, or the fixed 66 1/8\" HAUGA). Page's 'Complete with': VIHALS Chair $30.00. Article 205.897.77. 4.7 stars (259); not badged (the page shows only an IKEA Family message). Stock 2026-10-23: in stock in IKEA Long Island, NY; click and collect; home delivery to our ZIP. Assembly service $40.30. rooms: dining-room, from the redesign brief (F-60).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

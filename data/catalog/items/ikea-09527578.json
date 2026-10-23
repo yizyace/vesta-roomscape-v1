@@ -1,0 +1,41 @@
+{
+  "id": "ikea-09527578",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/mittzon-desk-sit-stand-electric-white-s09527578/",
+  "name": "MITTZON Desk sit/stand, electric white, 47 1/4x31 1/2 \"",
+  "brand": "IKEA",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 529.99,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 31.5,
+    "h": 49.625,
+    "raw": "Max. load: 176 lb; Width: 47 1/4 \"; Depth: 31 1/2 \"; Max. height: 49 5/8 \"; Min. height: 24 3/8 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-23; h is the Max. height row (it adjusts 24 3/8 to 49 5/8)"
+  },
+  "images": [
+    {
+      "file": "ikea-09527578-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/mittzon-desk-sit-stand-electric-white__1205601_pe907164_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. Fit: back-bedroom right wall (rot 90), the door end of the personal four-screen run, butted to the MITTZON 55 1/8 (ikea-29528572): together 102 3/8\" of the right wall's 110\" (F-33 above, F-31's door swing below), two 32\" monitors on it (F-62). The pair is one line, one height range and one depth, so the keyboard can straddle the seam once both are set to the same height. 31 1/2\" deep (F-62). Sit/stand, electric with dual motors (24 3/8-49 5/8\"); max. load 176 lb. Its depth picker: 47 1/4x23 5/8\" $499.99. A third one would be the work desk in white; TRAVSPORT (ikea-49620956) is $180 less. Article 095.275.78, a combination (the URL carries an s). 4.7 stars (74). Stock 2026-10-23: in stock at IKEA Long Island, NY; click and collect; home delivery to our ZIP from $49.00 ($39.00 with IKEA Family). rooms: back-bedroom, from the redesign brief (F-62).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

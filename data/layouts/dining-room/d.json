@@ -1,0 +1,158 @@
+{
+  "room": "dining-room",
+  "variant": "d",
+  "name": "Bench on the kitchen side, VIHALS, BESTÅ sideboard on the far wall",
+  "updatedAt": "2026-10-23T15:06:24.358Z",
+  "notes": "Bench on the kitchen side: a low, backless ÅLHULT bench along the open side keeps the view to the kitchen clear at 17 3/4\" high, and no chair ever slides back into the walkway. The clearance it saves lets a full-depth BESTÅ sideboard with drawers take the far (right) wall. Set for six as placed with the table closed: the bench (2), three VIHALS and Maddie's URBAN. Nothing stands in the 30\" walkway (F-42).\nFlags: tight:35.9 (F-36, both table ends); tight:24.1 (F-36, the ends with the leaf in); tight:19.8 (F-32, the sideboard's drawers to the seated right-hand chairs' backs; 38.25\" with those chairs tucked in); assumed-position:door; anchor-required (storage-1, F-21).\nbench-1 ÅLHULT bench (ikea-60603093), rot 270 at x 30, y 39.25: its back edge on the walkway's edge, centered on the table; you step over it from the walkway, and it slides under the table when not in use (its page: 'The bench can be tucked away under the table').\ntable-1 VIHALS extendable, white (ikea-20589777), rot 90 at x 44.125, y 35.875, against the bench: F-36 44.1\" from its kitchen-side edge to the kitchen line (passing, 42-48\" met; the bench needs no pull-out room), 38.25\" from its right edge to the sideboard, 35.9\" to the top and bottom walls (tight:35.9); leaf in, 24.1\" at the ends (tight:24.1).\nchair-3, chair-4 VIHALS (ikea-50569103), right side at the quarter points: 19.75\" behind them to the sideboard while seated. chair-5 VIHALS, bottom end: 17.4\" behind it.\njunior-chair-1 URBAN (ikea-00165213), top end: 17\" behind it.\nstorage-1 BESTÅ storage combination with drawers, white stained oak effect (ikea-39412689), right wall centered (y 24.1 to 94.9): F-36 38.25\" from the table; F-32 19.75\" from the drawer fronts to a seated chair's back (tight:19.8), 38.25\" with the chairs tucked in; push-open, no knobs; anchor-required (F-21: 29 1/8\").\nart-1 BLODFLÄDER (ikea-20601915), top layer, centered above the sideboard; lamp-1, lamp-2 VARPTROSS (ikea-20610854), top layer, flanking it, centers about 58\" up, plug-in.\npendant-1 GULLSUDARE (ikea-90603869), top layer over the table's center (58.7, 59.5) on the HAVSRIS swag cord, 5.3\" left of the room's center.\nplant-1 FEJKA bird of paradise (ikea-70610601), floor, bottom-right corner, clear of every chair.\nrug-1 LYDERSHOLM (ikea-50495409), rug layer from the walkway's edge (x 30 to 109, y 0.5 to 118.5): under the bench and the table, 35.75\" past the table's right edge and 35.4\" past each end, so every chair stays on it; 2.5\" short of the sideboard; the walkway stays bare tile.\nExtras: HAVSRIS x 1; STOPP FILT x 2; runner x 1; placemats x 6; BLANDA MATT x 1; MALINDA chair pads x 3.\nNot placed: chairs on the kitchen side (the bench replaces them). No window is drawn, so no window treatments (F-41). The kitchen line is unmeasured (wall, counter or open floor): the clearances treat it as the edge of a 30\" walkway that stays clear (F-42). Prices: items captured today as of 2026-10-23; reused catalog items as of 2026-10-22 are price-stale (F-02) except the BESTÅ pieces read on 2026-10-23. Not in the catalog, so not summed: light bulbs (E26 LED for the pendant, E12 LED for each VARPTROSS).",
+  "placements": [
+    {
+      "id": "bench-1",
+      "itemId": "ikea-60603093",
+      "x": 30,
+      "y": 39.25,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "ALHULT bench on the kitchen side, back edge on the walkway's edge (x 30), centered on the table; low and backless, so the view to the kitchen stays open"
+    },
+    {
+      "id": "table-1",
+      "itemId": "ikea-20589777",
+      "x": 44.125,
+      "y": 35.875,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "VIHALS closed, against the bench; F-36: 44.1\" to the kitchen line, 38.25\" to the sideboard, 35.9\" at each end (tight:35.9); leaf in, 24.1\" (tight:24.1)"
+    },
+    {
+      "id": "chair-3",
+      "itemId": "ikea-50569103",
+      "x": 73.25,
+      "y": 38.8125,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "right side, upper; 19.75\" behind it to the sideboard while seated"
+    },
+    {
+      "id": "chair-4",
+      "itemId": "ikea-50569103",
+      "x": 73.25,
+      "y": 62.4375,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "right side, lower; as chair-3"
+    },
+    {
+      "id": "chair-5",
+      "itemId": "ikea-50569103",
+      "x": 49.8125,
+      "y": 83.125,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "bottom end; 17.4\" behind it"
+    },
+    {
+      "id": "junior-chair-1",
+      "itemId": "ikea-00165213",
+      "x": 49.8125,
+      "y": 17,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "Maddie's URBAN at the top end; 17\" behind it"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-39412689",
+      "x": 111.5,
+      "y": 24.0625,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "BESTÅ sideboard with push-open drawers, centered on the right wall; F-36 38.25\"; F-32 19.75\" to a seated chair (tight:19.8), 38.25\" tucked in; anchor it (F-21)"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-20601915",
+      "x": 126.75,
+      "y": 35.875,
+      "rotation": 90,
+      "layer": "top",
+      "note": "BLODFLÄDER centered above the sideboard"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-20610854",
+      "x": 123,
+      "y": 25.375,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS above the sideboard's upper end, center about 58\" up, plug-in"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 123,
+      "y": 86.625,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS above the sideboard's lower end; as lamp-1"
+    },
+    {
+      "id": "pendant-1",
+      "itemId": "ikea-90603869",
+      "x": 49.8125,
+      "y": 50.625,
+      "rotation": 0,
+      "layer": "top",
+      "note": "GULLSUDARE on the HAVSRIS swag cord over the table's center (58.7, 59.5)"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 117,
+      "y": 106,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise in the bottom-right corner"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-50495409",
+      "x": 30,
+      "y": 0.5,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "LYDERSHOLM from the walkway's edge: under the bench, 35.75\" past the table's right edge, 35.4\" past each end; the walkway stays bare tile"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80490052",
+      "qty": 1,
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the 15'5\" cord along the ceiling to an outlet (the ceiling box is unknown); E26 LED bulb not in the catalog"
+    },
+    {
+      "itemId": "ikea-90132261",
+      "qty": 2,
+      "note": "STOPP FILT anti-slip underlays under the LYDERSHOLM (its page: 'You will need 2 ... Trim if necessary'): on tile with a 4-year-old running, the rug must not slide"
+    },
+    {
+      "itemId": "ikea-40533063",
+      "qty": 1,
+      "note": "SVARTSENAP runner, natural cotton, machine washable"
+    },
+    {
+      "itemId": "ikea-70527961",
+      "qty": 6,
+      "note": "SVARTSENAP placemats, one per seat, machine washable (online minimum 4)"
+    },
+    {
+      "itemId": "ikea-60214343",
+      "qty": 1,
+      "note": "BLANDA MATT 11\" bamboo bowl, the centerpiece (fruit), unbreakable"
+    },
+    {
+      "itemId": "ikea-90586983",
+      "qty": 3,
+      "note": "MALINDA chair pads, one per VIHALS chair (3), light beige cotton, the whole pad machine washable"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "room": "dining-room",
+  "variant": "a",
+  "name": "Staged: VIHALS set for six, floating BESTÅ and art on the far wall",
+  "updatedAt": "2026-10-23T15:06:23.652Z",
+  "notes": "Staged pick: the VIHALS / VIHALS white set from Andrew's 'Dining table sets for 6' link, set for six as placed with the table closed (five VIHALS chairs and Maddie's URBAN). The left side stays open to the kitchen (F-42): nothing stands in x 0 to 30, and the kitchen-side chairs keep their backs 2\" outside the walkway. The far (right) wall, the one you face from the kitchen, carries the storage, the art and the lamps.\nFlags: tight:35.9 (F-36, both table ends, 1/8\" short); tight:24.1 (F-36, the ends with the leaf in); assumed-position:door (no door is drawn: people are taken to come in from the kitchen side, and the right-hand seats are reached around the table's ends).\ntable-1 VIHALS extendable, white (ikea-20589777), rot 90 at x 50.5, y 35.875, closed 47 1/4 x 29 1/8\" along the room's depth, its center 1\" off the room's center line: F-36 50.5\" from its kitchen-side edge to the kitchen line (the passing side: the 30\" walkway is the passage, 42-48\" met), 39.75\" to the BESTÅ doors, 35.9\" to the top and bottom walls (tight:35.9). Leaf in (70 7/8\"): 24.1\" at the ends (tight:24.1), so seat three a side then and move the end chairs to the sides.\nchair-1, chair-2 VIHALS white (ikea-50569103), kitchen side at the quarter points (23.6\" per diner): backs at x 32, 2\" outside the walkway; a chair pulled back to stand borrows the walkway for a moment, as F-36's passing clearance intends.\nchair-3, chair-4 VIHALS, right side: 21.25\" behind them to the BESTÅ doors while seated. chair-5 VIHALS, bottom end: 17.4\" behind it.\njunior-chair-1 URBAN (ikea-00165213), top end between her parents: 17\" behind it. It is the sixth seat, and it counts (F-60) because the closed table seats six with it.\nstorage-1 BESTÅ wall-mounted cabinet combination, white/Björköviken ash veneer (ikea-99623151), right wall centered (y 24.1 to 94.9), underside about 18\" up so it reads as a floating credenza (top about 33\"): 8 5/8\" deep, which is what lets chairs line both long sides (a 16 1/2\" BESTÅ would leave 31.9\", F-36); push-open doors, no drawers (F-32 n/a); hung on its included suspension rails into studs, the anchoring F-63 asks for (15\" tall, so F-21's tag does not apply). For linens, placemats, candles and Maddie's crayons, not dinner plates.\nart-1 BLODFLÄDER The Seine at Giverny (ikea-20601915), top layer, centered above the BESTÅ (about 42 to 73 1/2\" up): two-thirds of the credenza's length, canvas, no glass.\nlamp-1, lamp-2 VARPTROSS bamboo wall lamps (ikea-20610854), top layer, flanking the art, centers about 58\" up and out of Maddie's reach; plug-in, their 7'3\" cords run down behind the BESTÅ in a cord cover.\npendant-1 GULLSUDARE 17 3/4\" paper shade (ikea-90603869), top layer over the table's center (65.1, 59.5) on the HAVSRIS swag cord (extras): a hook places it wherever the ceiling box turns out to be; a box at the room's center would be 1\" off.\nplant-1 FEJKA bird of paradise, 70 3/4\" (ikea-70610601), floor, top-right corner (x 117 to 126, y 2 to 11): 44.9\" from the table, clear of every chair.\nrug-1 LYDERSHOLM in/outdoor flatweave, 6'7\" x 9'10\" (ikea-50495409), rug layer centered on the table (x 25.6 to 104.6, y 0.5 to 118.5): 24.9\" past each long side and 35.4\" past each end, so the chairs stay on it when pulled out; 4.4\" of it runs under the walkway (F-42 allows rugs there); water resistant, rinses clean; 14.8\" of tile before the BESTÅ.\nExtras: HAVSRIS cord set x 1; STOPP FILT 5'5\"x7'9\" x 2; SVARTSENAP runner x 1; SVARTSENAP placemats x 6; BLANDA MATT bowl x 1; MALINDA chair pads x 5.\nNot placed: the set's sixth VIHALS chair (buy the table and five chairs, $30 less than the $329.99 set; the URBAN is the sixth seat). No window is drawn, so no window treatments (F-41). The kitchen line is unmeasured (wall, counter or open floor): the clearances treat it as the edge of a 30\" walkway that stays clear (F-42). Prices: items captured today as of 2026-10-23; reused catalog items as of 2026-10-22 are price-stale (F-02) except the BESTÅ pieces read on 2026-10-23. Not in the catalog, so not summed: light bulbs (E26 LED for the pendant, E12 LED for each VARPTROSS).",
+  "placements": [
+    {
+      "id": "table-1",
+      "itemId": "ikea-20589777",
+      "x": 50.5,
+      "y": 35.875,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "VIHALS extendable, closed 47 1/4 x 29 1/8\", along the depth; F-36: 50.5\" to the kitchen line (passing side), 39.75\" to the BESTÅ, 35.9\" at each end (tight:35.9); leaf in, 24.1\" (tight:24.1)"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-50569103",
+      "x": 32,
+      "y": 38.8125,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "kitchen side, upper; back at x 32, 2\" outside the 30\" walkway (F-42)"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-50569103",
+      "x": 32,
+      "y": 62.4375,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "kitchen side, lower; as chair-1"
+    },
+    {
+      "id": "chair-3",
+      "itemId": "ikea-50569103",
+      "x": 79.625,
+      "y": 38.8125,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "right side, upper; 21.25\" behind it to the BESTÅ doors while seated"
+    },
+    {
+      "id": "chair-4",
+      "itemId": "ikea-50569103",
+      "x": 79.625,
+      "y": 62.4375,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "right side, lower; as chair-3"
+    },
+    {
+      "id": "chair-5",
+      "itemId": "ikea-50569103",
+      "x": 56.1875,
+      "y": 83.125,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "bottom end; 17.4\" behind it to the wall"
+    },
+    {
+      "id": "junior-chair-1",
+      "itemId": "ikea-00165213",
+      "x": 56.1875,
+      "y": 17,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "Maddie's URBAN at the top end, the sixth seat; 17\" behind it"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-99623151",
+      "x": 119.375,
+      "y": 24.0625,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "BESTÅ wall-mounted, 8 5/8\" deep, centered on the right wall, underside about 18\" up; push-open doors; on its suspension rails, into studs"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-20601915",
+      "x": 126.75,
+      "y": 35.875,
+      "rotation": 90,
+      "layer": "top",
+      "note": "BLODFLÄDER centered above the BESTÅ, about 42 to 73 1/2\" up: the focal point from the kitchen"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-20610854",
+      "x": 123,
+      "y": 25.375,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS, above the BESTÅ's upper end, center about 58\" up; plug-in, cord in a cover behind the BESTÅ"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 123,
+      "y": 86.625,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS, above the BESTÅ's lower end; as lamp-1"
+    },
+    {
+      "id": "pendant-1",
+      "itemId": "ikea-90603869",
+      "x": 56.1875,
+      "y": 50.625,
+      "rotation": 0,
+      "layer": "top",
+      "note": "GULLSUDARE on the HAVSRIS swag cord, hooked over the table's center (65.1, 59.5)"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 117,
+      "y": 2,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise in the top-right corner, 44.9\" from the table"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-50495409",
+      "x": 25.5625,
+      "y": 0.5,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "LYDERSHOLM centered on the table: 24.9\" past each long side, 35.4\" past each end; 4.4\" under the walkway (F-42 allows rugs)"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80490052",
+      "qty": 1,
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the 15'5\" cord along the ceiling to an outlet (the ceiling box is unknown); E26 LED bulb not in the catalog"
+    },
+    {
+      "itemId": "ikea-90132261",
+      "qty": 2,
+      "note": "STOPP FILT anti-slip underlays under the LYDERSHOLM (its page: 'You will need 2 ... Trim if necessary'): on tile with a 4-year-old running, the rug must not slide"
+    },
+    {
+      "itemId": "ikea-40533063",
+      "qty": 1,
+      "note": "SVARTSENAP runner, natural cotton, machine washable"
+    },
+    {
+      "itemId": "ikea-70527961",
+      "qty": 6,
+      "note": "SVARTSENAP placemats, one per seat, machine washable (online minimum 4)"
+    },
+    {
+      "itemId": "ikea-60214343",
+      "qty": 1,
+      "note": "BLANDA MATT 11\" bamboo bowl, the centerpiece (fruit), unbreakable"
+    },
+    {
+      "itemId": "ikea-90586983",
+      "qty": 5,
+      "note": "MALINDA chair pads, one per VIHALS chair (5), light beige cotton, the whole pad machine washable"
+    }
+  ]
+}
