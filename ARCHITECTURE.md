@@ -50,6 +50,7 @@ vesta-roomscape-v1/
 ├── scripts/
 │   ├── check-node.mjs      refuses a Node outside package.json "engines" (runs before dev, test, validate and build:pages)
 │   └── export-static.ts    the read-only copy's data: the API's answer to each GET, the photos and the sketches, into dist/
+├── .github/workflows/pages.yml  publishes the read-only copy to GitHub Pages on a push to main
 └── index.html, vite.config.ts, tsconfig.json, package.json, .npmrc, .tool-versions
 ```
 
@@ -302,6 +303,17 @@ resolved against the directory npm was started in (`INIT_CWD`).
   price, size, store link), and the filters, the room lists, view mode and print work as in the editor.
 - `index.html` asks search engines not to index the site (`robots: noindex, nofollow`); the site and the
   repo are public all the same.
+- **Publishing** (`.github/workflows/pages.yml`), on a push to `main` or by hand (`workflow_dispatch`): a
+  build job (checkout; setup-node from `.tool-versions` with the npm cache; `npm ci`; `npm test`; `npm run
+  build:pages`; configure-pages; `dist/` uploaded as the Pages artifact) and a deploy job (deploy-pages in
+  the `github-pages` environment, whose URL is its `page_url`). The permissions are `contents: read`,
+  `pages: write` and `id-token: write`; the concurrency group `pages` queues a newer run behind the one
+  deploying. The repo's Pages source must be GitHub Actions. The runner is ubuntu-latest (linux-x64,
+  glibc): `package-lock.json` lists the linux-x64 builds of sharp, rolldown, lightningcss and TypeScript
+  beside the macOS ones, so `npm ci` installs them there. sharp is only for `catalog:image`, but
+  `vite.config.ts` and the tests import `server/api.ts`, which loads it: a lockfile that loses
+  `@img/sharp-linux-x64` breaks the build on the runner (regenerate it with `rm -rf node_modules
+  package-lock.json && npm install`).
 
 ## Images
 

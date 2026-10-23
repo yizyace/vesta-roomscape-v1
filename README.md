@@ -10,8 +10,9 @@ alternatives to compare. You can move pieces, try your own arrangement, and see 
 costs. Everything it shows is plain JSON in this repo, under `data/`, so an agent can
 add products and lay out rooms while you look at the same files in your browser.
 
-It runs only on this Mac, at `http://127.0.0.1:5173/`. Nothing is sent anywhere, and the agent never buys
-anything.
+The editor runs only on this Mac, at `http://127.0.0.1:5173/`; nothing it does is sent anywhere, and the
+agent never buys anything. A read-only copy is published at <https://yizyace.github.io/vesta-roomscape-v1/>
+to share by link ([The read-only copy](#the-read-only-copy)).
 
 ## Requirements
 
@@ -104,6 +105,13 @@ npx vite preview --outDir dist --base /vesta-roomscape-v1/
 and open `http://127.0.0.1:4173/vesta-roomscape-v1/`. Search engines are asked not to index it, but it
 is public: anyone with the link can open it, and this repo is public too.
 
+**Publishing.** GitHub Actions rebuilds it and publishes it at
+<https://yizyace.github.io/vesta-roomscape-v1/> on every push to `main` (`.github/workflows/pages.yml`):
+the tests, `npm run build:pages`, then the upload, so it shows `data/` as of the last push. If a test or
+the build fails, nothing is published and the last copy stays up. To publish again without a push, run
+the Pages workflow from the repo's Actions tab. Once per repo, the Pages source must be GitHub Actions
+(Settings, Pages, or `gh api -X POST repos/yizyace/vesta-roomscape-v1/pages -f build_type=workflow`).
+
 The editor is unchanged: `npm run dev` still reads and writes `data/` on this Mac.
 
 ## Asking an agent
@@ -185,5 +193,6 @@ they stay in Andrew's private vesta repo.
 | A piece is red | It overlaps another piece or leaves the room: drag it or rotate it. A rug that shows red only leaves the room |
 | A piece is amber | It stands on the stairs, on a heater, in a door's swing, in front of a closet or in the walkway along the dining room's side open to the kitchen: move it off the shaded part |
 | The page says the room has no variant B (or C…) | That letter was never saved, or Make staged swapped it with A: follow the link to A |
+| The read-only copy doesn't show a change | It shows what was pushed to `main`, a minute or two after the push: reload it. If the Pages run in the repo's Actions tab failed, the last copy stays up until a push passes the tests |
 
 How it is built, for whoever changes it: [`ARCHITECTURE.md`](ARCHITECTURE.md).
