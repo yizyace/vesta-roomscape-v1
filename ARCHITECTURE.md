@@ -10,7 +10,7 @@ field.
 One package: Vite, React 19 and TypeScript, with no separate backend. Vite's dev server (`npm run dev`,
 port 5173) and its preview server (`npm run preview`, port 4173) both mount the JSON API as Connect
 middleware, registered by the `furniture-api` plugin in `vite.config.ts`. The CLI (`server/cli.ts`)
-calls the same modules. The data lives outside the app, in `research/furniture-2026/`, committed to git;
+calls the same modules. The data lives beside the app, in `data/`, committed to git;
 `server/paths.ts` finds it, and `FURNITURE_DATA_DIR` points everything at another directory (the tests
 use a temporary copy). Node runs the server and CLI TypeScript directly (type stripping), so only the
 client has a build step.
@@ -287,7 +287,7 @@ Tests first: a failing test in `tests/`, then the code. The server tests run the
 port (`startTestServer`) over a temporary data directory (`mkTempDataDir` copies the real `rooms.json` and
 `taxonomy.json` plus `tests/fixtures/`), with a fake `fetch` for images. `tests/cli.test.ts` spawns
 `node server/cli.ts`, which also proves that the pinned Node strips the types. A test never writes under
-`research/furniture-2026/`. Before reporting, `test`, `typecheck`, `build` and `validate` all pass.
+`data/`. Before reporting, `test`, `typecheck`, `build` and `validate` all pass.
 
 ## Versioning
 
@@ -297,7 +297,7 @@ data-shape change goes from 0.x to 0.(x+1):
 - **patch**: a fix, with no change to any file's shape;
 - **minor**: a feature, or a new optional field that every existing file still passes;
 - **major**: a change to the shape of `rooms.json`, an item or a layout. Add an entry under Migrations
-  (what changed, how the files were rewritten), migrate every file under `research/furniture-2026/` in the
+  (what changed, how the files were rewritten), migrate every file under `data/` in the
   same pass, and run `validate` and `test`.
 
 ### Migrations
@@ -350,7 +350,7 @@ itself: no enums, namespaces or parameter properties, and imports name their `.t
 
 ## Never without Andrew's dated word
 
-- Moving the data out of `research/furniture-2026/`.
+- Moving the data out of `data/`.
 - Adding, removing or renaming a room (`ROOM_IDS`).
 - Widening `ALLOWED_IMAGE_HOSTS`, or adding any other scripted access to a vendor site.
 

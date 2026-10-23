@@ -7,7 +7,7 @@ November 1, 2026. It draws the six rooms from Andrew's tape measurements of Octo
 of furniture with each product's link, price, dimensions and photos, and shows every room but the
 kitchen staged: layout A, fully furnished, the way you would walk into it, plus at least three
 alternatives to compare. You can move pieces, try your own arrangement, and see what fits and what it
-costs. Everything it shows is plain JSON in this repo, under `research/furniture-2026/`, so an agent can
+costs. Everything it shows is plain JSON in this repo, under `data/`, so an agent can
 add products and lay out rooms while you look at the same files in your browser.
 
 It runs only on this Mac, at `http://127.0.0.1:5173/`. Nothing is sent anywhere, and the agent never buys
@@ -76,7 +76,7 @@ Ctrl-C.
   was read, and its size; you can change its status (shortlisted, ordered…) and its notes there.
   Double-click a piece to open its product page.
 - A piece without dimensions (the store's page showed none) is listed but can't be placed.
-- **Your changes save by themselves** to `research/furniture-2026/layouts/<room>/<letter>.json`, for
+- **Your changes save by themselves** to `data/layouts/<room>/<letter>.json`, for
   example `layouts/maddie-room/a.json` for A. When an agent changes a layout, click back into the window
   and it reloads.
 - **View mode**, `#/<room>/view` for A or `#/<room>/<letter>/view` for an alternative (for example
@@ -113,19 +113,23 @@ layout's total. Its instructions are the `furniture-planner` skill (`.claude/ski
 
 ## Where the data lives
 
-All of it is in `research/furniture-2026/`, committed to git:
+All of it is in `data/`, committed to git:
 
 | Path | What it is |
 |---|---|
-| `measurements.md`, `rooms.csv` | The measurements as written on the sketches, and what is still unmeasured |
+| `rooms.csv` | The measurements as written on the sketches, and what is still unmeasured |
 | `rooms.json` | The same rooms as the planner draws them |
 | `catalog/taxonomy.json` | The categories and tags a product can have |
 | `catalog/items/<id>.json` | One file per product, e.g. `ikea-60561248.json` or `amazon-B0FBGR4MM4.json` |
+| `catalog/lists.json` | The kitchen's and the bathroom's lists of things to buy |
 | `layouts/<room>/<letter>.json` | Each room's layouts: `a.json` is the staged pick, `b.json`, `c.json`, `d.json` the alternatives |
 | `images/` | Product photos, small copies |
-| `rules.md` | The rules the agent fits furniture by: clearances, heaters, door swings, Maddie's safety |
-| `sources/` | The sketches and the notes from each browsing session |
-| `summary.md` | Where the furniture task stands |
+| `sources/` | The sketches the rooms are drawn from |
+| `staging.md` | Every room's layouts with their pieces and totals, and the kitchen and bathroom lists (written by `scripts/staging_report.py`) |
+
+The measurement notes (`measurements.md`), the fitting rules (`rules.md`: clearances, heaters, door
+swings, Maddie's safety), the notes from each browsing session and the task summary did not move here;
+they stay in Andrew's private vesta repo.
 
 ## Rules of the road
 
