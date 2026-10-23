@@ -110,6 +110,7 @@ describe("cli", { timeout: 30_000 }, () => {
     expect(warnings(r.stdout, "layouts/living-room/b.json")).toEqual(["sofa-stairs is on the stairs"]);
     expect(warnings(r.stdout, "layouts/maddie-room/b.json")).toEqual([
       "desk-door is in the door's swing",
+      "desk-door is in front of the door",
       "desk-heater is on the heater",
       "desk-closet is in the closet's swing",
       "desk-closet is in front of the closet",

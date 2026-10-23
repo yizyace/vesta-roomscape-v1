@@ -340,14 +340,37 @@ describe("keep-out zones and layers", () => {
   });
 });
 
-describe("closet fronts", () => {
-  it("keeps 24 inches clear in front of every closet, even one whose door swings out", () => {
+describe("landings", () => {
+  it("keeps 36 inches clear in front of every door and closet, whichever way it opens", () => {
     const master = room("master-bedroom");
     const fronts = keepOutZones(master.walls, master.features).filter((z) => z.kind === "front");
-    expect(fronts.map((z) => z.rect)).toEqual([{ x: 25, y: 109, w: 42, h: 24 }]); // the walk-in closet, door swinging out
+    expect(fronts.map((z) => z.rect)).toEqual([
+      { x: 139, y: 97, w: 30, h: 36 }, // the bathroom door, swinging out
+      { x: 25, y: 97, w: 42, h: 36 }, // the walk-in closet, door swinging out
+      { x: 0, y: 103, w: 36, h: 30 }, // the room's door on the left wall, swinging in
+    ]);
     const items = new Map<string, Pick<Item, "dimensions">>([["ikea-dresser", { dimensions: { w: 30, d: 18 } }]]);
-    const c = findCollisions([{ id: "dresser", itemId: "ikea-dresser", x: 30, y: 115, rotation: 180 }], items, walkWalls(master.walls).points, keepOutZones(master.walls, master.features));
-    expect(c.blocked.get("dresser")?.map((z) => z.kind)).toEqual(["front"]);
+    const c = findCollisions([{ id: "dresser", itemId: "ikea-dresser", x: 40, y: 115, rotation: 180 }], items, walkWalls(master.walls).points, keepOutZones(master.walls, master.features));
+    expect(c.blocked.get("dresser")?.map((z) => z.label)).toEqual(["walk-in closet"]);
+  });
+
+  it("flags a piece backed against a door's or a closet's swing, where there is no room to stand", () => {
+    // Andrew, 2026-10-23, of the TROFAST standing on the closet doors' arc in Maddie's room: "why would a
+    // storage be put right in front of the door like this?"
+    const maddie = room("maddie-room");
+    const items = new Map<string, Pick<Item, "dimensions">>([
+      ["ikea-trofast", { dimensions: { w: 36.625, d: 17.375 } }],
+      ["ikea-book-display", { dimensions: { w: 19.25, d: 11 } }],
+    ]);
+    const placed = [
+      { id: "toys", itemId: "ikea-trofast", x: 66.375, y: 77.125, rotation: 180 as const }, // its back on the closet doors' arc
+      { id: "books", itemId: "ikea-book-display", x: 2, y: 78.5, rotation: 0 as const }, // 2.5" past the door's arc
+      { id: "clear", itemId: "ikea-trofast", x: 40.5, y: 40.875, rotation: 270 as const }, // along the bed, 44.5" from the closet
+    ];
+    const c = findCollisions(placed, items, walkWalls(maddie.walls).points, keepOutZones(maddie.walls, maddie.features));
+    expect(c.blocked.get("toys")?.map((z) => z.kind)).toEqual(["front"]);
+    expect(c.blocked.get("books")?.map((z) => z.kind)).toEqual(["front"]);
+    expect(c.blocked.has("clear")).toBe(false);
   });
 });
 

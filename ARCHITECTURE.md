@@ -98,8 +98,9 @@ complete for rectilinear rooms (the living room's step, Maddie's notch).
 `keepOutZones(walls, features)` returns the floor a standing piece may not use, each zone `{kind, label,
 rect}`: a `stairs` band (`depth` deep, `DEFAULT_STAIRS_DEPTH` 36 when left out), a `heater` strip
 (`DEFAULT_HEATER_DEPTH` 6), and a `swing` square per leaf of every door or closet with `swing: "in"`
-(`length` square for a single door, two `length / 2` squares for double doors), a `front` strip 24" deep
-before every closet (`CLOSET_FRONT_CLEARANCE`, F-31), and an `opening` walkway 30" deep along every opening
+(`length` square for a single door, two `length / 2` squares for double doors), a `front` landing 36"
+deep before every door and closet whichever way it opens (`FRONT_CLEARANCE`, F-31: it holds every leaf up
+to 36", so nothing can stand on a swing's edge), and an `opening` walkway 30" deep along every opening
 (`OPENING_CLEARANCE`, F-42); `label` is the feature's `label`, else its type. `findCollisions(placements, itemsById, points, keepOut = [])` returns
 `{overlapping, outside, blocked}`: only `floor` pieces overlap each other or land in `blocked` (a map from
 placement id to the zones it touches); `rug` and `top` pieces only have to stay inside the room, which
@@ -206,7 +207,7 @@ resolved against the directory npm was started in (`INIT_CWD`).
    `room` and the file name its `variant`; a flat `layouts/<room>.json` is an error that says to move it
    to `layouts/<room>/a.json`), and one warning per finding of `findCollisions` with the room's
    `keepOutZones`: two floor pieces overlapping, any piece outside the room, a floor piece on the stairs,
-   a heater strip, in a door's or closet's swing, in front of a closet or in an opening's walkway. Errors make `ok` false; warnings never block a save.
+   a heater strip, in a door's or closet's swing, in front of a door or closet or in an opening's walkway. Errors make `ok` false; warnings never block a save.
    The editor draws the same findings on the plan.
 5. **The tests hold the real data too**: `tests/data.test.ts` (the files parse, `rooms.json` lists the six
    `ROOM_IDS` in order, the sketches exist, every reference resolves) and `tests/rooms-vs-csv.test.ts`
@@ -241,8 +242,8 @@ resolved against the directory npm was started in (`INIT_CWD`).
   puts a piece on its category's layer (`layerFor` in `src/edit.ts`: `rug` under; `tv`, `decor` and
   `mirror` on top; the rest, a lamp included, on the floor), and the details panel's Layer field changes
   it. The toolbar counts pieces overlapping, outside, on the stairs, on a heater, in a swing, in front of
-  a closet and blocking an opening (`keepOutZones` adds a 24" strip before every closet, F-31, and a 30"
-  walkway along every opening, F-42).
+  a door or closet and blocking an opening (`keepOutZones` adds a 36" landing before every door and closet,
+  F-31, and a 30" walkway along every opening, F-42).
 - **The stairs** (`plan/Features.tsx`) are a band `depth` into the room with a tread line every 10"
   along the wall, dashed until `at`, `length` and `depth` are all measured, and labelled with the depth
   ("stairs ≈36"" until the depth is measured).
@@ -341,7 +342,7 @@ port (`startTestServer`) over a temporary data directory (`mkTempDataDir` copies
 
 ## Versioning
 
-`package.json` `version` (0.2.3 today: the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
+`package.json` `version` (0.2.4 today: a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
 data-shape change goes from 0.x to 0.(x+1):
 
 - **patch**: a fix, with no change to any file's shape;

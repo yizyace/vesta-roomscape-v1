@@ -122,10 +122,10 @@ describe("keep-out reasons", () => {
     expect(blockedCounts(new Map([["desk-1", swings]]))).toEqual({ stairs: 0, heater: 0, swing: 1, front: 0, opening: 0 });
   });
 
-  it("names a closet's front, which is kept clear whichever way the closet door opens", () => {
+  it("names the landing in front of a door or closet, which is kept clear whichever way it opens", () => {
     const master = room("master-bedroom");
     const fronts = keepOutZones(master.walls, master.features).filter((z) => z.kind === "front");
-    expect(keepOutReasons(fronts)).toEqual(["In front of the walk-in closet"]);
+    expect(keepOutReasons(fronts)).toEqual(["In front of the bathroom", "In front of the walk-in closet", "In front of the door"]);
     expect(blockedCounts(new Map([["dresser-1", fronts]]))).toEqual({ stairs: 0, heater: 0, swing: 0, front: 1, opening: 0 });
   });
 
