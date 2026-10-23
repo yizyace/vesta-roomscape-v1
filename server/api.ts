@@ -17,12 +17,15 @@
 // Errors are {"error": string, "issues"?: string[]} with the status. Every write must be sent as
 // application/json (the promote POST too, with an empty body or {}), which a cross-site form or a
 // text/plain fetch cannot do without a CORS preflight.
+//
+// Each JSON GET is one call: loadRooms, loadCatalog, listVariants or getLayout. The read-only copy's
+// export (scripts/export-static.ts) makes the same calls and writes the same JSON text, so keep them so.
 import fs from "node:fs/promises";
 import type { IncomingMessage, ServerResponse } from "node:http";
 import path from "node:path";
 import { z } from "zod";
 import { issuesToLines } from "../shared/schema.ts";
-import { getItem, listItems, loadTaxonomy, saveItem } from "./catalog.ts";
+import { getItem, loadCatalog, saveItem } from "./catalog.ts";
 import { HttpError, errorMessage } from "./errors.ts";
 import { addImageToItem, type FetchLike } from "./images.ts";
 import { getLayout, listVariants, promoteVariant, saveLayout } from "./layouts.ts";
@@ -74,12 +77,7 @@ async function route(dataDir: string, options: ApiOptions, req: IncomingMessage,
     return dispatch(req, res, { GET: async () => send(await loadRooms(dataDir)) });
   }
   if (pathname === "/api/catalog") {
-    return dispatch(req, res, {
-      GET: async () => {
-        const [{ items, errors }, taxonomy] = await Promise.all([listItems(dataDir), loadTaxonomy(dataDir)]);
-        send({ items, taxonomy, errors });
-      },
-    });
+    return dispatch(req, res, { GET: async () => send(await loadCatalog(dataDir)) });
   }
   if ((m = /^\/api\/catalog\/([^/]+)$/.exec(pathname))) {
     const id = decode(m[1]);

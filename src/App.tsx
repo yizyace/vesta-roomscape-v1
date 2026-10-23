@@ -2,12 +2,13 @@
 // or in view mode (#/<room>[/<variant>]/view) the plan alone, large, with the numbered legend, the room
 // list and the total below. App owns the data hooks, the route, the selection, the catalog filters and
 // sort (so they survive room switches), the variant actions (duplicate, make staged) and keyboard
-// dispatch.
+// dispatch. In the published read-only copy (READ_ONLY) nothing edits: every room, variant, piece and
+// catalog item can be looked at, filtered, viewed and printed, and nothing that would save is offered.
 import { useEffect, useEffectEvent, useMemo, useState } from "react";
 import { bounds, depthOf, findCollisions, isClosed, keepOutZones, walkWalls } from "../shared/geometry.ts";
 import type { KeepOut, Pt } from "../shared/geometry.ts";
 import type { Item, Layer, Placement, Room } from "../shared/schema.ts";
-import { errorText, getVariants, promoteVariant, putLayout, sketchUrl } from "./api.ts";
+import { READ_ONLY, errorText, getVariants, promoteVariant, putLayout, sketchUrl } from "./api.ts";
 import { CatalogPanel } from "./components/CatalogPanel.tsx";
 import { DetailsPanel } from "./components/DetailsPanel.tsx";
 import type { DetailsActions } from "./components/DetailsPanel.tsx";
@@ -29,6 +30,7 @@ import type { LayoutState } from "./hooks/useLayout.ts";
 import { useRooms } from "./hooks/useRooms.ts";
 import { useVariants } from "./hooks/useVariants.ts";
 import { STAGED, parseHash, routeHash } from "./route.ts";
+import { latestPriceDate } from "./totals.ts";
 import { copyName, nextVariantId, variantLetter, variantPills, variantTitle } from "./variants.ts";
 
 export type Selection = { kind: "placement"; id: string } | { kind: "item"; id: string } | null;
@@ -70,7 +72,9 @@ export function App() {
   const variants = useVariants(route.roomId);
   const room = rooms.data?.rooms.find((r) => r.id === route.roomId);
   // A room without walls (the kitchen) never gets a layout file (rules.md F-41): read it, never write it.
-  const layout = useLayout(route.roomId, route.variant, { writable: (room?.walls.length ?? 0) > 0, onSaved: () => void variants.refresh() });
+  // Nor does any room in the read-only copy.
+  const writable = !READ_ONLY && (room?.walls.length ?? 0) > 0;
+  const layout = useLayout(route.roomId, route.variant, { writable, onSaved: () => void variants.refresh() });
   const [selection, setSelection] = useState<Selection>(null);
   const [filters, setFilters] = useState<Filters>(NO_FILTERS);
   const [sort, setSort] = useState<Sort>({ key: "name", dir: "asc" });
@@ -83,9 +87,10 @@ export function App() {
   const measured = walk.points.length >= 3;
   const itemsById = useMemo(() => new Map(catalog.items.map((i) => [i.id, i])), [catalog.items]);
   const collisions = useMemo(() => findCollisions(layout.placements, itemsById, walk.points, keepOut), [layout.placements, itemsById, walk, keepOut]);
-  // Nothing on a wall-less room's tab writes (see useLayout above), nor in view mode, before the
-  // variant loads, or while a variant action runs.
-  const editable = !route.view && measured && layout.loaded && busy === null;
+  // Nothing on a wall-less room's tab writes (see useLayout above), nor in the read-only copy, in view
+  // mode, before the variant loads, or while a variant action runs.
+  const editable = !READ_ONLY && !route.view && measured && layout.loaded && busy === null;
+  const pricesAsOf = useMemo(() => (READ_ONLY ? latestPriceDate(catalog.items) : null), [catalog.items]);
 
   // Keyed on the item ids only, so dragging a piece does not re-render the catalog's counts.
   const placedKey = layout.placements.map((p) => p.itemId).join(" ");
@@ -278,6 +283,8 @@ export function App() {
             measured={measured}
             closed={isClosed(walk)}
             view={route.view}
+            readOnly={READ_ONLY}
+            pricesAsOf={pricesAsOf}
             saving={layout.saving}
             collisions={collisions}
             canUndo={editable && layout.canUndo}
@@ -289,6 +296,7 @@ export function App() {
                 current={route.variant}
                 pills={pills}
                 view={route.view}
+                readOnly={READ_ONLY}
                 listError={variants.error}
                 busy={busy}
                 canDuplicate={editable}
@@ -314,7 +322,7 @@ export function App() {
               selectedItemId={selectedItem?.id ?? null}
               placedCounts={placedCounts}
               listedCounts={listedCounts}
-              offerAdd={measured}
+              offerAdd={measured && !READ_ONLY}
               canPlace={editable}
               canList={editable}
               onFilters={setFilters}
@@ -381,6 +389,7 @@ export function App() {
               outside={selectedPlacement ? collisions.outside.has(selectedPlacement.id) : false}
               blocked={(selectedPlacement && collisions.blocked.get(selectedPlacement.id)) || NO_ZONES}
               editable={editable}
+              readOnly={READ_ONLY}
               measured={measured}
               catalogReady={!catalog.loading}
               layoutNotes={layout.notes}

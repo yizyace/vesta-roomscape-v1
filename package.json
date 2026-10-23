@@ -1,6 +1,6 @@
 {
   "name": "furniture-planner",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "private": true,
   "description": "Room planner for L01: rooms, a furniture catalog and layouts, all stored as JSON under data/.",
   "type": "module",
@@ -11,6 +11,8 @@
     "predev": "node scripts/check-node.mjs",
     "dev": "vite",
     "build": "vite build",
+    "prebuild:pages": "node scripts/check-node.mjs",
+    "build:pages": "VITE_STATIC=1 vite build --base \"${PAGES_BASE:-/vesta-roomscape-v1/}\" && node scripts/export-static.ts dist",
     "preview": "vite preview",
     "pretest": "node scripts/check-node.mjs",
     "test": "vitest run",

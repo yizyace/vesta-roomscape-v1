@@ -1,6 +1,7 @@
 // What a variant costs, by the contract's rule: every placement counts its item's price once, every
 // room-list line (extra) its price × qty, and an item without a price (or missing from the catalog) is
-// counted and named, never summed. Pure. Money is added in cents, so 3 × $19.99 is $59.97 exactly.
+// counted and named, never summed. Also the date of the catalog's newest price, which the read-only
+// copy's toolbar shows. Pure. Money is added in cents, so 3 × $19.99 is $59.97 exactly.
 import type { Extra, Item, Placement } from "../shared/schema.ts";
 
 type Priced = Pick<Item, "name" | "price">;
@@ -61,6 +62,13 @@ export function extraLine(extra: Pick<Extra, "qty">, item: Pick<Item, "price"> |
   const price = item?.price;
   if (!price) return { unit: null, subtotal: null };
   return { unit: price.amount, subtotal: (cents(price.amount) * extra.qty) / 100 };
+}
+
+/** The newest `price.asOf` among the items (ISO dates sort as text), or null when none has a price. */
+export function latestPriceDate(items: readonly Pick<Item, "price">[]): string | null {
+  let latest: string | null = null;
+  for (const { price } of items) if (price && (latest === null || price.asOf > latest)) latest = price.asOf;
+  return latest;
 }
 
 /** `1 item without a price`, `3 items without a price`. */

@@ -83,6 +83,29 @@ Ctrl-C.
   `http://127.0.0.1:5173/#/maddie-room/view`), hides the panels and numbers each piece, with a legend of
   sizes, prices and links, the room list and the total. Print from the browser to get it on paper.
 
+## The read-only copy
+
+A copy of the planner that changes nothing, to share by link: there is nothing to install, only a
+browser. It has the same room tabs, layouts A to D, plans, catalog with its search and filters, kitchen
+essentials, room lists, totals and view mode, read from the files in `data/` as they were when it was
+built. Click a piece or a catalog row for its photos, its price with the date it was read, its size and
+its store link. Nothing in it saves, so it has no Edit mode (the switch reads Browse and View), no Add to
+plan, no dragging, rotating or deleting, and no Duplicate or Make staged; statuses, notes and names show
+as text. The toolbar says "Read-only copy", with the date of the newest price in the catalog.
+
+Build it with `npm run build:pages`: the site lands in `dist/`, for
+`https://yizyace.github.io/vesta-roomscape-v1/` (`PAGES_BASE=/another/path/ npm run build:pages` builds it
+for another path). To look at it on this Mac first:
+
+```
+npx vite preview --outDir dist --base /vesta-roomscape-v1/
+```
+
+and open `http://127.0.0.1:4173/vesta-roomscape-v1/`. Search engines are asked not to index it, but it
+is public: anyone with the link can open it, and this repo is public too.
+
+The editor is unchanged: `npm run dev` still reads and writes `data/` on this Mac.
+
 ## Asking an agent
 
 Start Claude Code from `~/work/vesta` as `claude --chrome`: it reads the stores' pages in your Chrome,

@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import type { Item } from "../shared/schema.ts";
-import { extraLine, itemsTotal, roomTotals, unpricedNames, unpricedText } from "../src/totals.ts";
+import { extraLine, itemsTotal, latestPriceDate, roomTotals, unpricedNames, unpricedText } from "../src/totals.ts";
 
 type Priced = Pick<Item, "id" | "name" | "price">;
 const priced = (id: string, amount: number | null, name = id): Priced => ({
@@ -86,5 +86,18 @@ describe("unpriced text", () => {
         { itemId: "b", name: "GURLI cushion cover", count: 4 },
       ]),
     ).toBe("BILD poster, GURLI cushion cover ×4");
+  });
+});
+
+describe("latestPriceDate", () => {
+  const asOf = (date: string): Pick<Item, "price"> => ({ price: { amount: 10, currency: "USD", asOf: date } });
+
+  it("is the date of the newest price in the catalog", () => {
+    expect(latestPriceDate([asOf("2026-10-22"), { price: null }, asOf("2026-10-23"), asOf("2026-09-30")])).toBe("2026-10-23");
+  });
+
+  it("is null when no item has a price", () => {
+    expect(latestPriceDate([])).toBeNull();
+    expect(latestPriceDate([{ price: null }])).toBeNull();
   });
 });

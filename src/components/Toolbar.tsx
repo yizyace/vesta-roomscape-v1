@@ -1,6 +1,7 @@
 // The room's title (with the open variant's letter and name, shown in view mode and on paper; a room
 // without walls has no variants), its size, the warning flags, save state, undo, print and the
-// edit/view switch; the variant switcher below.
+// edit/view switch; the variant switcher below. In the read-only copy: no save state and no undo, the
+// switch reads Browse/View, and a note says it is a copy, with the date of the catalog's newest price.
 import type { ReactNode } from "react";
 import type { Collisions, KeepOutKind, Rect } from "../../shared/geometry.ts";
 import { lengthLabel } from "../../shared/format.ts";
@@ -21,6 +22,10 @@ type Props = {
   measured: boolean;
   closed: boolean;
   view: boolean;
+  /** The published read-only copy. */
+  readOnly: boolean;
+  /** The date of the catalog's newest price, for the read-only note. */
+  pricesAsOf: string | null;
   saving: SaveState;
   collisions: Collisions;
   canUndo: boolean;
@@ -41,7 +46,12 @@ const BLOCKED_TEXT: Record<KeepOutKind, string> = {
   opening: "blocking an opening",
 };
 
-export function Toolbar({ roomId, room, variant, variantName, showVariant, box, measured, closed, view, saving, collisions, canUndo, onUndo, children }: Props) {
+const EDIT_HINT =
+  'Drag a piece to move it · arrows nudge 1" (Shift 12") · R rotates · Delete removes · Esc deselects · ⌘Z undoes · ' +
+  "double-click opens the product page · drop catalog rows on the plan";
+const READ_ONLY_HINT = "Click a piece or a catalog row for its photos, price and size · double-click a piece opens its product page";
+
+export function Toolbar({ roomId, room, variant, variantName, showVariant, box, measured, closed, view, readOnly, pricesAsOf, saving, collisions, canUndo, onUndo, children }: Props) {
   const blocked = blockedCounts(collisions.blocked);
   return (
     <div className="toolbar">
@@ -68,12 +78,17 @@ export function Toolbar({ roomId, room, variant, variantName, showVariant, box, 
             ),
         )}
         <span className="spacer" />
-        {!view && (
+        {readOnly && (
+          <span className="read-only-note" title="Published from the planner's files; nothing here saves. Each price shows the date it was read.">
+            Read-only copy{pricesAsOf && ` · prices as of ${pricesAsOf}`}
+          </span>
+        )}
+        {!view && !readOnly && (
           <span className={`save-state ${saving}`} role="status">
             {SAVE_TEXT[saving]}
           </span>
         )}
-        {!view && (
+        {!view && !readOnly && (
           <button type="button" onClick={onUndo} disabled={!canUndo} title="Undo the last change to the plan or the room list (⌘Z)">
             Undo
           </button>
@@ -85,7 +100,7 @@ export function Toolbar({ roomId, room, variant, variantName, showVariant, box, 
         )}
         <nav className="mode" aria-label="Mode">
           <a href={routeHash(roomId, variant, false)} aria-current={view ? undefined : "page"}>
-            Edit
+            {readOnly ? "Browse" : "Edit"}
           </a>
           <a href={routeHash(roomId, variant, true)} aria-current={view ? "page" : undefined}>
             View
@@ -93,12 +108,7 @@ export function Toolbar({ roomId, room, variant, variantName, showVariant, box, 
         </nav>
       </div>
       {children}
-      {!view && measured && (
-        <p className="hint">
-          Drag a piece to move it · arrows nudge 1" (Shift 12") · R rotates · Delete removes · Esc deselects · ⌘Z undoes ·
-          double-click opens the product page · drop catalog rows on the plan
-        </p>
-      )}
+      {!view && measured && <p className="hint">{readOnly ? READ_ONLY_HINT : EDIT_HINT}</p>}
     </div>
   );
 }

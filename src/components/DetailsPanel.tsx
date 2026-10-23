@@ -4,7 +4,8 @@
 // flagged (overlap, outside, on the stairs, the heater or a swing), rotate/remove and its note. With
 // nothing selected: the open variant's name, its numbered pieces, its room list (the extras, with qty)
 // and total, the layout's notes and the room's notes. A room without walls (the kitchen) never gets a
-// layout (rules.md F-41): no add buttons, no name, no room list to edit.
+// layout (rules.md F-41): no add buttons, no name, no room list to edit. The read-only copy shows the
+// same facts with nothing to change: the layer, the status, the notes and the name as text.
 import { useRef, useState } from "react";
 import { dimensionsText, inchesText, money } from "../../shared/format.ts";
 import type { KeepOut } from "../../shared/geometry.ts";
@@ -43,6 +44,8 @@ type Props = {
   blocked: readonly KeepOut[];
   /** The plan, the room list and the variant's name can change (edit mode, a room with walls, loaded). */
   editable: boolean;
+  /** The published read-only copy: nothing is offered that would save, not even disabled. */
+  readOnly: boolean;
   /** The room has walls; one without (the kitchen) offers nothing to add and nothing to edit. */
   measured: boolean;
   catalogReady: boolean;
@@ -71,6 +74,7 @@ export function DetailsPanel(props: Props) {
           outside={props.outside}
           blocked={props.blocked}
           editable={props.editable}
+          readOnly={props.readOnly}
           onRotate={actions.onRotate}
           onRemove={actions.onRemove}
           onLayer={actions.onLayer}
@@ -83,7 +87,8 @@ export function DetailsPanel(props: Props) {
           rooms={props.rooms}
           placed={props.placements.filter((p) => p.itemId === item.id).length}
           listed={props.extras.find((e) => e.itemId === item.id)?.qty ?? 0}
-          offerAdd={props.measured}
+          offerAdd={props.measured && !props.readOnly}
+          readOnly={props.readOnly}
           canPlace={props.editable}
           canList={props.editable}
           onAddToPlan={actions.onAddToPlan}
@@ -108,12 +113,13 @@ type BarProps = {
   outside: boolean;
   blocked: readonly KeepOut[];
   editable: boolean;
+  readOnly: boolean;
   onRotate: () => void;
   onRemove: () => void;
   onLayer: (layer: Layer) => void;
 };
 
-function PlacementBar({ placement, number, overlapping, outside, blocked, editable, onRotate, onRemove, onLayer }: BarProps) {
+function PlacementBar({ placement, number, overlapping, outside, blocked, editable, readOnly, onRotate, onRemove, onLayer }: BarProps) {
   return (
     <section className="placement-bar">
       <div className="placement-head">
@@ -131,16 +137,20 @@ function PlacementBar({ placement, number, overlapping, outside, blocked, editab
         </p>
       ))}
       {placement.note && <p className="placement-note">{placement.note}</p>}
-      <label className="field layer-field">
-        <span>Layer</span>
-        <select value={placement.layer} disabled={!editable} onChange={(e) => onLayer(e.target.value as Layer)}>
-          {LAYERS.map((l) => (
-            <option key={l} value={l}>
-              {LAYER_TEXT[l]}
-            </option>
-          ))}
-        </select>
-      </label>
+      {readOnly ? (
+        <p className="placement-layer">Layer: {LAYER_TEXT[placement.layer]}</p>
+      ) : (
+        <label className="field layer-field">
+          <span>Layer</span>
+          <select value={placement.layer} disabled={!editable} onChange={(e) => onLayer(e.target.value as Layer)}>
+            {LAYERS.map((l) => (
+              <option key={l} value={l}>
+                {LAYER_TEXT[l]}
+              </option>
+            ))}
+          </select>
+        </label>
+      )}
       {editable && (
         <div className="actions">
           <button type="button" onClick={onRotate}>
@@ -163,6 +173,8 @@ type ItemProps = {
   placed: number;
   listed: number;
   offerAdd: boolean;
+  /** Status and notes as text, not fields. */
+  readOnly: boolean;
   canPlace: boolean;
   canList: boolean;
   onAddToPlan: (item: Item) => void;
@@ -170,7 +182,7 @@ type ItemProps = {
   saveItem: (item: Item) => Promise<Item>;
 };
 
-function ItemDetails({ item, rooms, placed, listed, offerAdd, canPlace, canList, onAddToPlan, onAddToList, saveItem }: ItemProps) {
+function ItemDetails({ item, rooms, placed, listed, offerAdd, readOnly, canPlace, canList, onAddToPlan, onAddToList, saveItem }: ItemProps) {
   const [note, setNote] = useState<SaveNote>({ state: "idle" });
   const [draft, setDraft] = useState(item.notes);
   const [savedNotes, setSavedNotes] = useState(item.notes);
@@ -255,6 +267,12 @@ function ItemDetails({ item, rooms, placed, listed, offerAdd, canPlace, canList,
         <dd>
           <code>{item.id}</code>
         </dd>
+        {readOnly && item.notes && (
+          <>
+            <dt>Notes</dt>
+            <dd className="pre">{item.notes}</dd>
+          </>
+        )}
       </dl>
       <div className="chips">
         <StatusChip status={item.status} />
@@ -270,30 +288,34 @@ function ItemDetails({ item, rooms, placed, listed, offerAdd, canPlace, canList,
           </span>
         ))}
       </div>
-      <label className="field">
-        <span>Status</span>
-        <select value={item.status} onChange={(e) => void save({ ...item, status: e.target.value as ItemStatus })}>
-          {ITEM_STATUSES.map((s) => (
-            <option key={s} value={s}>
-              {s}
-            </option>
-          ))}
-        </select>
-      </label>
-      <label className="field">
-        <span>Notes</span>
-        <textarea
-          rows={4}
-          value={draft}
-          onChange={(e) => setDraft(e.target.value)}
-          onBlur={() => {
-            if (draft !== item.notes) void save({ ...item, notes: draft });
-          }}
-        />
-      </label>
-      <p className={`save-note ${note.state}`} role="status">
-        {note.state === "saving" ? "Saving…" : note.state === "saved" ? "Saved to the catalog" : note.state === "error" ? `Not saved: ${note.message}` : ""}
-      </p>
+      {!readOnly && (
+        <>
+          <label className="field">
+            <span>Status</span>
+            <select value={item.status} onChange={(e) => void save({ ...item, status: e.target.value as ItemStatus })}>
+              {ITEM_STATUSES.map((s) => (
+                <option key={s} value={s}>
+                  {s}
+                </option>
+              ))}
+            </select>
+          </label>
+          <label className="field">
+            <span>Notes</span>
+            <textarea
+              rows={4}
+              value={draft}
+              onChange={(e) => setDraft(e.target.value)}
+              onBlur={() => {
+                if (draft !== item.notes) void save({ ...item, notes: draft });
+              }}
+            />
+          </label>
+          <p className={`save-note ${note.state}`} role="status">
+            {note.state === "saving" ? "Saving…" : note.state === "saved" ? "Saved to the catalog" : note.state === "error" ? `Not saved: ${note.message}` : ""}
+          </p>
+        </>
+      )}
     </section>
   );
 }
@@ -332,14 +354,18 @@ function Gallery({ item }: { item: Item }) {
 const LAYER_TAG: Record<Layer, string | null> = { floor: null, rug: "rug", top: "on top" };
 
 function RoomSummary(props: Props) {
-  const { room, variant, variantName, placements, extras, itemsById, layoutNotes, editable, measured, catalogReady, actions } = props;
+  const { room, variant, variantName, placements, extras, itemsById, layoutNotes, editable, readOnly, measured, catalogReady, actions } = props;
   if (!measured) return <NoLayoutSummary {...props} />;
   return (
     <section className="room-summary">
       <h2>
         {room?.name ?? "Room"} <span className="muted">· {variantLetter(variant)}</span>
       </h2>
-      <VariantName key={`${room?.id}/${variant}`} name={variantName} variant={variant} editable={editable} onRename={actions.onRename} />
+      {readOnly ? (
+        variantName.trim() && <p className="variant-name">{variantName.trim()}</p>
+      ) : (
+        <VariantName key={`${room?.id}/${variant}`} name={variantName} variant={variant} editable={editable} onRename={actions.onRename} />
+      )}
       <p className="muted">Click a piece on the plan, or an item in the catalog, for its photos, price and product page.</p>
       <h3>In this room</h3>
       {placements.length === 0 ? (
@@ -365,7 +391,9 @@ function RoomSummary(props: Props) {
       <h3>Room list</h3>
       {extras.length === 0 ? (
         <p className="muted small">
-          Bedding, curtains, cushions and the like: “Add to room list” on a catalog row or an item puts them here.
+          {readOnly
+            ? "Nothing on the room list."
+            : "Bedding, curtains, cushions and the like: “Add to room list” on a catalog row or an item puts them here."}
         </p>
       ) : (
         <RoomList

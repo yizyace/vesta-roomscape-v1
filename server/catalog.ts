@@ -8,6 +8,8 @@ import { loadRooms, roomIds } from "./rooms.ts";
 import { exists, isNotFound, listJsonFiles, readJson, readRequiredJson, writeJsonAtomic } from "./store.ts";
 
 export type FileError = { file: string; message: string };
+/** The answer to GET /api/catalog (and the read-only copy's static/catalog.json). */
+export type CatalogAnswer = { items: Item[]; taxonomy: Taxonomy; errors: FileError[] };
 
 export async function loadTaxonomy(dataDir: string): Promise<Taxonomy> {
   const parsed = TaxonomySchema.safeParse(await readRequiredJson(taxonomyFile(dataDir), "catalog/taxonomy.json"));
@@ -64,6 +66,12 @@ export async function listItems(dataDir: string): Promise<{ items: Item[]; error
     else errors.push(r);
   }
   return { items, errors };
+}
+
+/** Every item that parses, the taxonomy, and each item file that does not parse. */
+export async function loadCatalog(dataDir: string): Promise<CatalogAnswer> {
+  const [{ items, errors }, taxonomy] = await Promise.all([listItems(dataDir), loadTaxonomy(dataDir)]);
+  return { items, taxonomy, errors };
 }
 
 export async function getItem(dataDir: string, id: string): Promise<Item> {

@@ -13,7 +13,8 @@ middleware, registered by the `furniture-api` plugin in `vite.config.ts`. The CL
 calls the same modules. The data lives beside the app, in `data/`, committed to git;
 `server/paths.ts` finds it, and `FURNITURE_DATA_DIR` points everything at another directory (the tests
 use a temporary copy). Node runs the server and CLI TypeScript directly (type stripping), so only the
-client has a build step.
+client has a build step. `npm run build:pages` builds a second, read-only copy that needs no server, for
+GitHub Pages ([The read-only copy](#the-read-only-copy)).
 
 ## Modules
 
@@ -22,13 +23,14 @@ vesta-roomscape-v1/
 ├── shared/                 pure (no fs, no DOM): imported by the client, the server, the CLI and the tests
 │   ├── schema.ts           zod schemas of the four data files (the data contract), ROOM_IDS, LAYERS, issuesToLines, toJsonText
 │   ├── geometry.ts         the wall walk, feature spans and door arcs, footprints, keep-out zones, collisions by layer, snap
-│   └── format.ts           inches and feet-inches, money, dimension text
+│   ├── format.ts           inches and feet-inches, money, dimension text
+│   └── static.ts           the read-only copy's file for each GET (staticFile, staticUrl)
 ├── server/                 Node only
 │   ├── paths.ts            DATA_DIR and every file path; an id must pass its regex before it names a file; "view" is a reserved variant
 │   ├── errors.ts           HttpError(status, message, issues?)
 │   ├── store.ts            JSON reads; atomic writes (<file>.<random>.part, then rename); writePartFile; a per-key lock
 │   ├── rooms.ts            loads rooms.json and refuses a walk that is open or counter-clockwise
-│   ├── catalog.ts          taxonomy and items: list, get, save (schema, taxonomy, room ids; 409 unless update)
+│   ├── catalog.ts          taxonomy and items: list, get, save (schema, taxonomy, room ids; 409 unless update); loadCatalog
 │   ├── layouts.ts          a room's variants: list, get, save (placed items exist and have dimensions, extras exist), promote
 │   ├── images.ts           catalog:image: the host allowlist, the download, the 800 px JPEG, images[]
 │   ├── validate.ts         validateAll: every file on disk, errors and warnings
@@ -36,16 +38,18 @@ vesta-roomscape-v1/
 │   └── cli.ts              validate · catalog add · catalog image · layout set · layout list · layout promote
 ├── src/                    the React client
 │   ├── main.tsx, App.tsx   entry; App owns the data hooks, the route, the selection, the filters and sort, the keys
-│   ├── api.ts              typed fetch wrappers; every answer is parsed with the shared schemas
+│   ├── api.ts              typed fetch wrappers; every answer is parsed with the shared schemas; READ_ONLY reads the static files
 │   ├── route.ts            the hash routes: #/<room>[/<variant>][/view] (pure)
 │   ├── variants.ts         the switcher's pills, the next free letter, a copy's name (pure)
-│   ├── totals.ts           a variant's total and the kitchen list's, in cents (pure)
+│   ├── totals.ts           a variant's total and the kitchen list's, in cents; the newest price's date (pure)
 │   ├── edit.ts             pure layout edits: placement ids, a category's layer, moves kept in the room's box, rotation, room-list lines, keep-out reasons
 │   ├── filters.ts          catalog filters and sorts (pure)
 │   ├── hooks/              useRooms, useCatalog, useLayout (one variant: autosave, undo), useVariants, useHashRoute, useWindowFocus
 │   └── components/         RoomTabs, Toolbar, VariantBar, CatalogPanel, RoomPlan (plan/: Walls, Features, Placements), DetailsPanel, RoomList, Legend, Thumb, Chips
 ├── tests/                  vitest; helpers.ts (temp data dir, test server, plantItem, plantLayout); fixtures/ (two items, one layout variant, the geometry tests' rooms.json snapshot)
-├── scripts/check-node.mjs  refuses a Node outside package.json "engines" (runs before dev, test and validate)
+├── scripts/
+│   ├── check-node.mjs      refuses a Node outside package.json "engines" (runs before dev, test, validate and build:pages)
+│   └── export-static.ts    the read-only copy's data: the API's answer to each GET, the photos and the sketches, into dist/
 └── index.html, vite.config.ts, tsconfig.json, package.json, .npmrc, .tool-versions
 ```
 
@@ -138,9 +142,11 @@ are skipped.
 | `GET /data/sources/<file>` | A sketch or photo from `sources/` (`.jpg`, `.jpeg`, `.png`, `.webp`) |
 
 HEAD works wherever GET does; any other method is a 405 with an `Allow` header. Paths outside `/api/` and
-`/data/` go on to Vite. Every write, the promote POST included, must be sent as `application/json` (else
-415: a cross-site form cannot send that without a CORS preflight), and a body is at most 1 MB (else 413).
-A variant id in a path must be a kebab-case slug other than `view` (else 400).
+`/data/` go on to Vite. Each JSON GET is one call (`loadRooms`, `loadCatalog`, `listVariants`,
+`getLayout`), which the read-only copy's export makes too. Every write, the promote POST included, must be
+sent as `application/json` (else 415: a cross-site form cannot send that without a CORS preflight), and a
+body is at most 1 MB (else 413). A variant id in a path must be a kebab-case slug other than `view` (else
+400).
 
 Every error is `{"error": "<message>", "issues"?: ["<path>: <message>", …]}` with its status:
 
@@ -265,6 +271,38 @@ resolved against the directory npm was started in (`INIT_CWD`).
   Backspace removes, Esc deselects, ⌘Z or Ctrl-Z undoes the last change to the plan or the room list;
   none of them in view mode or while typing in a field.
 
+## The read-only copy
+
+`npm run build:pages` builds a copy of the planner that needs no server, for GitHub Pages:
+`VITE_STATIC=1 vite build` with the base `/vesta-roomscape-v1/` (`PAGES_BASE` overrides it), then
+`node scripts/export-static.ts dist`.
+
+- **The export** (`scripts/export-static.ts`) writes the API's answer to every GET the client makes: the
+  same function `server/api.ts` calls and the same text (`JSON.stringify`), at the file `shared/static.ts`
+  names. That is `static/rooms.json`, `static/catalog.json`, `static/layouts/<room>.json` (the variant
+  list) and `static/layouts/<room>/<variant>.json` for every saved variant, plus `a` for every room (the
+  kitchen's tab reads its empty `a`). It copies each photo a catalog item lists to `data/images/<file>` and
+  each room's sketch to `data/<sketch>`, where the client links them. It reads and checks everything
+  before the first write: a missing photo or sketch, or a sketch outside the data directory, fails it with
+  the file named. It writes only new files, only under the out dir, and refuses an out dir that overlaps
+  the data directory or already holds an export (`vite build` empties `dist/` first).
+  `tests/export-static.test.ts` holds every file to the live API's answer, byte for byte.
+- **The client** (`src/api.ts`): `READ_ONLY` is `import.meta.env.VITE_STATIC === "1"`. `request` then
+  sends each GET to `staticUrl(path, import.meta.env.BASE_URL)` and refuses every PUT and POST with a 405
+  `ApiError` ("This is a read-only copy of the planner: nothing can be saved here") before any request. A
+  file the copy lacks is a 404, so an unsaved variant reads as missing, as on the dev server. `imageUrl`
+  and `sketchUrl` start with the base in both modes (`/` on the dev server). `useWindowFocus` does nothing:
+  the files change only with a deploy.
+- **The UI** offers nothing that would save. App's `editable` and `useLayout`'s `writable` are false, so
+  nothing drags, nudges, rotates, deletes or is added; the toolbar has no save state and no Undo, its
+  switch reads Browse and View, and a note says "Read-only copy · prices as of <date>", the newest
+  `price.asOf` in the catalog (`latestPriceDate`); the switcher has no Duplicate or Make staged; the
+  catalog and the details panel have no add buttons; the details panel shows the layer, the status, the
+  notes and the variant's name as text. A click on a piece or a catalog row still selects it (photos,
+  price, size, store link), and the filters, the room lists, view mode and print work as in the editor.
+- `index.html` asks search engines not to index the site (`robots: noindex, nofollow`); the site and the
+  repo are public all the same.
+
 ## Images
 
 `server/images.ts`: https only, no credentials in the URL, and a host that is `ikea.com`,
@@ -280,17 +318,18 @@ removed if the save fails. This is the sanctioned exception to the repo's browse
 ## Run and test
 
 From the repo root, so asdf picks Node 24.22.1: `npm ci`, then `npm run dev`, `npm test`, `npm run
-typecheck`, `npm run build`, `npm run preview`, `npm run validate`.
+typecheck`, `npm run build`, `npm run build:pages`, `npm run preview`, `npm run validate`. To look at the
+read-only copy, `npx vite preview --outDir dist --base /vesta-roomscape-v1/` after `build:pages`.
 
 Tests first: a failing test in `tests/`, then the code. The server tests run the middleware on a loopback
 port (`startTestServer`) over a temporary data directory (`mkTempDataDir` copies the real `rooms.json` and
 `taxonomy.json` plus `tests/fixtures/`), with a fake `fetch` for images. `tests/cli.test.ts` spawns
 `node server/cli.ts`, which also proves that the pinned Node strips the types. A test never writes under
-`data/`. Before reporting, `test`, `typecheck`, `build` and `validate` all pass.
+`data/`. Before reporting, `test`, `typecheck`, `build`, `build:pages` and `validate` all pass.
 
 ## Versioning
 
-`package.json` `version` (0.2.2 today: an opening keeps a 30" walkway clear, F-42, and a click on a piece no longer nudges it onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
+`package.json` `version` (0.2.3 today: the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
 data-shape change goes from 0.x to 0.(x+1):
 
 - **patch**: a fix, with no change to any file's shape;
@@ -324,8 +363,9 @@ room's left side is the staircase (F-40).
 
 Node 24.22.1 through asdf. The repo root's `.tool-versions` pins it.
 `package.json` `engines` is `>=24.22.1 <25`; `.npmrc` sets `engine-strict=true`, so `npm install` and `npm
-ci` refuse another Node; `scripts/check-node.mjs` runs before `dev`, `test` and `validate`, because npm does
-not check `engines` on `run`. The machine's default Node predates the October 2026 security fixes.
+ci` refuse another Node; `scripts/check-node.mjs` runs before `dev`, `test`, `validate` and `build:pages`,
+because npm does not check `engines` on `run`. The machine's default Node predates the October 2026
+security fixes.
 `tsconfig.json` sets `erasableSyntaxOnly` and `allowImportingTsExtensions` because Node strips the types
 itself: no enums, namespaces or parameter properties, and imports name their `.ts` files.
 

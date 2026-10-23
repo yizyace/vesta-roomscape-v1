@@ -1,9 +1,17 @@
 // Typed wrappers around the planner's HTTP API (the vite middleware in server/). Every answer is
 // checked against the shared schemas, so a client/server contract drift reads as an error message
 // instead of a broken render, and the schema defaults fill any field the server left out.
+//
+// The published read-only copy (npm run build:pages builds with VITE_STATIC=1) has no API: each GET reads
+// the file the static export wrote for it (shared/static.ts) under the site's base, and every write is
+// refused here, before any request.
 import { z } from "zod";
 import { ItemSchema, LayoutSchema, RoomsSchema, TaxonomySchema, issuesToLines } from "../shared/schema.ts";
 import type { Extra, Item, Layout, Placement, RoomsFile, Taxonomy } from "../shared/schema.ts";
+import { staticUrl } from "../shared/static.ts";
+
+/** True in the published copy: nothing saves, and the UI offers nothing that would. */
+export const READ_ONLY: boolean = import.meta.env.VITE_STATIC === "1";
 
 /** A failed request. `status` is the HTTP status, or 0 when the server could not be reached. */
 export class ApiError extends Error {
@@ -28,7 +36,17 @@ export function errorText(e: unknown): string {
 
 const ErrorBodySchema = z.object({ error: z.string(), issues: z.array(z.string()).optional() });
 
+/** Where a request goes: the API path itself, or in the read-only copy the GET's file (a write is refused). */
+function target(method: "GET" | "PUT" | "POST", path: string): string {
+  if (!READ_ONLY) return path;
+  if (method !== "GET") throw new ApiError(405, `This is a read-only copy of the planner: nothing can be saved here (${method} ${path})`);
+  const url = staticUrl(path, import.meta.env.BASE_URL);
+  if (url === null) throw new ApiError(404, `The read-only copy has no answer for GET ${path}`);
+  return url;
+}
+
 async function request(method: "GET" | "PUT" | "POST", path: string, body?: unknown): Promise<unknown> {
+  const url = target(method, path);
   const init: RequestInit = { method, cache: "no-store", headers: { Accept: "application/json" } };
   if (body !== undefined) {
     init.headers = { Accept: "application/json", "Content-Type": "application/json" };
@@ -36,9 +54,10 @@ async function request(method: "GET" | "PUT" | "POST", path: string, body?: unkn
   }
   let res: Response;
   try {
-    res = await fetch(path, init);
+    res = await fetch(url, init);
   } catch (e) {
-    throw new ApiError(0, `Cannot reach the planner server (${e instanceof Error ? e.message : String(e)})`);
+    const where = READ_ONLY ? "the site" : "the planner server";
+    throw new ApiError(0, `Cannot reach ${where} (${e instanceof Error ? e.message : String(e)})`);
   }
   const text = await res.text();
   let data: unknown;
@@ -154,12 +173,12 @@ function sameVariant(layout: Layout, room: string, variant: string, what: string
   return layout;
 }
 
-/** Where the server serves an item photo (`item.images[i].file`). */
+/** Where an item photo is served (`item.images[i].file`): data/images/<file> under the site's base. */
 export function imageUrl(file: string): string {
-  return `/data/images/${encodeURIComponent(file)}`;
+  return `${import.meta.env.BASE_URL}data/images/${encodeURIComponent(file)}`;
 }
 
-/** Where the server serves a room sketch (`room.sketch`, a path relative to data/). */
+/** Where a room sketch is served (`room.sketch`, a path relative to data/): data/<sketch> under the site's base. */
 export function sketchUrl(sketch: string): string {
-  return `/data/${sketch.split("/").map(encodeURIComponent).join("/")}`;
+  return `${import.meta.env.BASE_URL}data/${sketch.split("/").map(encodeURIComponent).join("/")}`;
 }

@@ -1,6 +1,7 @@
 // The variant switcher under the toolbar's title: one pill per layout variant (A, the staged pick, then
 // the alternatives), the open one highlighted; in edit mode "Duplicate" (a copy under the next free
-// letter, opened at once) and, on an alternative, "Make staged" (swaps it with A).
+// letter, opened at once) and, on an alternative, "Make staged" (swaps it with A). The read-only copy
+// has the pills only.
 import { STAGED, routeHash } from "../route.ts";
 import { pillTooltip, variantLetter } from "../variants.ts";
 import type { Pill } from "../variants.ts";
@@ -12,6 +13,7 @@ type Props = {
   current: string;
   pills: Pill[];
   view: boolean;
+  readOnly: boolean;
   listError: string | null;
   busy: VariantAction | null;
   canDuplicate: boolean;
@@ -20,7 +22,7 @@ type Props = {
   onPromote: () => void;
 };
 
-export function VariantBar({ roomId, current, pills, view, listError, busy, canDuplicate, canPromote, onDuplicate, onPromote }: Props) {
+export function VariantBar({ roomId, current, pills, view, readOnly, listError, busy, canDuplicate, canPromote, onDuplicate, onPromote }: Props) {
   return (
     <div className="variant-bar">
       <nav className="variants" aria-label="Layout variants">
@@ -42,7 +44,7 @@ export function VariantBar({ roomId, current, pills, view, listError, busy, canD
           variants not listed
         </span>
       )}
-      {!view && (
+      {!view && !readOnly && (
         <span className="variant-actions">
           <button type="button" onClick={onDuplicate} disabled={!canDuplicate} title="Copy this variant to the next free letter and open the copy">
             {busy === "duplicate" ? "Duplicating…" : "Duplicate"}
