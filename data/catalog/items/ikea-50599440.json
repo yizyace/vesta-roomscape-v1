@@ -1,0 +1,46 @@
+{
+  "id": "ikea-50599440",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/malm-underbed-storage-box-for-high-bed-dark-brown-veneer-50599440/",
+  "name": "MALM Underbed storage box for high bed, dark-brown veneer, Queen/King",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "bedroom",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 100,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 40.125,
+    "d": 24.375,
+    "h": 11.375,
+    "raw": "Height of drawer (inside): 5 7/8 \"; Width: 40 1/8 \"; Depth: 24 3/8 \"; Height: 11 3/8 \"; Drawer width (inside): 38 5/8 \"; Drawer depth (inside): 23 1/4 \"; Package quantity: 2 pack; Mattress length: 78 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-23; one box: Width -> w (along the bed's side), Depth -> d (how far it rolls out); the price is per 2 pack"
+  },
+  "images": [
+    {
+      "file": "ikea-50599440-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/malm-underbed-storage-box-for-high-bed-dark-brown-veneer__1364764_pe956020_s5.jpg",
+      "caption": "Two MALM underbed storage boxes, wood veneer, with castors."
+    },
+    {
+      "file": "ikea-50599440-2.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/malm-underbed-storage-box-for-high-bed-dark-brown-veneer__1364763_pe956019_s5.jpg",
+      "caption": "Open drawer under bed reveals folded blankets."
+    }
+  ],
+  "notes": "Andrew, 2026-10-23: \"have drawers available in case wife says so.\" Two boxes on casters per $100.00 pack, rolling under the MALM bed frame (ikea-49574365, whose page offers them); a pack fills one long side of a queen (2 x 40 1/8\" = 80 1/4\" of the 83 1/8\" frame). In master-bedroom b, one pack in the room list (it takes no floor of its own) under the bathroom side, where 36\" of open floor lets the 24 3/8\"-deep boxes roll fully out (F-32); the window side has 24.9\" to the heater's face and the nightstand at the head, too tight for a second pack. Last chance; in stock at IKEA Long Island, NY; Click and collect free; home delivery to our ZIP from $39.00. Popularity: 4.4 stars (901).",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

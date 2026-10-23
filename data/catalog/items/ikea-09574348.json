@@ -1,0 +1,34 @@
+{
+  "id": "ikea-09574348",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/malm-bed-frame-dark-brown-veneer-luroey-s09574348/",
+  "name": "MALM Bed frame, dark-brown veneer/Luröy, King",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 399,
+    "currency": "USD",
+    "asOf": "2026-10-23"
+  },
+  "dimensions": {
+    "w": 82.25,
+    "d": 83.125,
+    "h": 39.375,
+    "raw": "Length: 83 1/8 \"; Width: 82 1/4 \"; Footboard height: 15 \"; Headboard height: 39 3/8 \"; Mattress length: 79 1/2 \"; Mattress width: 76 \"; Height: 39 3/8 \"; Height under furniture: 8 1/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-23; Width -> w (headboard side), Length -> d"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-23: the bed Andrew linked (\"For master bed, I prefer simpler beds like https://www.ikea.com/us/en/p/malm-bed-frame-dark-brown-veneer-luroey-s09574348/ (no drawers), but have drawers available in case wife says so.\"), but this article is the King. At 82 1/4\" wide, with its headboard on the master bedroom's right wall, it leaves 44 3/4\" of the room's 133\" between the heater face and the bottom wall: less than 24\" on each side (F-34), let alone the bathroom door's 36\" landing (F-31). The same bed in Queen is ikea-49574365, staged instead. Last chance; in stock at IKEA Long Island, NY; Click and collect; home delivery to our ZIP from $39.00. Popularity: 3.9 stars (1236). King frame + Luröy set 095.743.48.",
+  "captured": {
+    "date": "2026-10-23",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

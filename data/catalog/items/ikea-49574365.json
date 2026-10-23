@@ -12,11 +12,11 @@
   "rooms": [
     "master-bedroom"
   ],
-  "status": "rejected",
+  "status": "candidate",
   "price": {
     "amount": 299,
     "currency": "USD",
-    "asOf": "2026-10-22"
+    "asOf": "2026-10-23"
   },
   "dimensions": {
     "w": 66.125,
@@ -25,8 +25,24 @@
     "raw": "Length: 83 1/8 \"; Width: 66 1/8 \"; Footboard height: 15 \"; Headboard height: 39 3/8 \"; Mattress length: 79 1/2 \"; Mattress width: 59 7/8 \"; Height: 39 3/8 \"; Height under furniture: 8 1/4 \"",
     "source": "IKEA Measurements section, read in Chrome 2026-10-22; Width -> w (headboard side), Length -> d"
   },
-  "images": [],
-  "notes": "Rejected 2026-10-22: Best seller (#3 on the Bed frames list sorted Most popular) but also Last chance, and the page showed 2 of 3 in stock in IKEA Long Island, NY, currently unavailable for delivery to our ZIP and for Click and collect. Queen frame + Luröy set 495.743.65 (URL with an s).",
+  "images": [
+    {
+      "file": "ikea-49574365-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/malm-bed-frame-dark-brown-veneer-luroey__1364772_pe956028_s5.jpg",
+      "caption": "Minimalist MALM bed in dark brown wood. Square shape, high headboard, sleek design."
+    },
+    {
+      "file": "ikea-49574365-2.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/malm-bed-frame-dark-brown-veneer-luroey__1364773_pe956029_s5.jpg",
+      "caption": "Modern bedroom with MALM bed, bamboo light, plants, mirror & dresser."
+    },
+    {
+      "file": "ikea-49574365-3.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/malm-bed-frame-dark-brown-veneer-luroey__1364771_pe956027_s5.jpg",
+      "caption": "Minimalist bed near window, with plush pillows and cosy blanket."
+    }
+  ],
+  "notes": "Andrew, 2026-10-23: \"For master bed, I prefer simpler beds like https://www.ikea.com/us/en/p/malm-bed-frame-dark-brown-veneer-luroey-s09574348/ (no drawers), but have drawers available in case wife says so.\" His link is the King (ikea-09574348, too wide for the room); this is the same bed in Queen, staged in master-bedroom a, and in b with the MALM underbed storage boxes (ikea-50599440). The page: \"If you need space for extra bedding, add MALM bed storage boxes on casters\" (8 1/4\" under the frame), so drawers can be added later without changing the bed. Stock 2026-10-23, as on 2026-10-22: Last chance; 2 of 3 in stock at IKEA Long Island, NY; currently unavailable for Click and collect and for delivery to our ZIP, so it is bought in the store. Rejected on 2026-10-22 for that stock alone; Andrew's preference brings it back as a candidate. Flat-pack, so F-22 does not flag it. Queen frame + Luröy set 495.743.65. Popularity: Best seller (#3 on the Bed frames list sorted Most popular, 2026-10-22); 3.9 stars (1236).",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",
