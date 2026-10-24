@@ -1,14 +1,15 @@
 // The placed furniture in three layers, bottom to top. Rugs: the photo at about half opacity, a thin
 // outline, no front tick, never red for overlapping (only for leaving the room), and a one-line label
 // where the furniture standing on them leaves it room. Floor pieces: the photo cropped to the footprint,
-// name and size on a label, a tick on the front edge. Top pieces (a TV on its console, a lamp, wall
+// name and size on a label, a tick on the front edge; an L-shaped piece (an L-desk) is outlined as an
+// L, with its photo, label and tick on the full-width back part. Top pieces (a TV on its console, a lamp, wall
 // art): dashed and slightly translucent, above the rest. A floor piece overlapping another floor piece,
 // or any piece leaving the room, has a red outline; a floor piece on a keep-out zone (the stairs, a
 // heater, a door's swing) an amber one, and the floor it takes is shaded amber over everything. The
 // number badges are for view mode and print (the Legend lists them).
 import type { PointerEvent } from "react";
-import { placementRect } from "../../../shared/geometry.ts";
-import type { Collisions, Rect } from "../../../shared/geometry.ts";
+import { footprintOutline, footprintRects, placementRect } from "../../../shared/geometry.ts";
+import type { Collisions, Pt, Rect } from "../../../shared/geometry.ts";
 import { dimensionsText, money } from "../../../shared/format.ts";
 import type { Item, Layer, Placement, Rotation } from "../../../shared/schema.ts";
 import { imageUrl } from "../../api.ts";
@@ -31,7 +32,8 @@ type Props = {
   onSelect: (id: string) => void;
 };
 
-type Drawn = { p: Placement; item: Item; dims: Dims; rect: Rect; number: number };
+/** rect: the whole footprint; rects: the floor it covers (two for an L-shaped piece); outline: its corners. */
+type Drawn = { p: Placement; item: Item; dims: Dims; rect: Rect; rects: Rect[]; outline: Pt[]; number: number };
 type Status = "bad" | "blocked" | null;
 
 export function Placements({ placements, itemsById, collisions, selectedId, highlightItemId, interactive, onPointerDown, onSelect }: Props) {
@@ -39,9 +41,12 @@ export function Placements({ placements, itemsById, collisions, selectedId, high
   placements.forEach((p, i) => {
     const item = itemsById.get(p.itemId);
     // An item missing from the catalog, or without dimensions, is listed under the plan as not drawn.
-    if (item?.dimensions) drawn.push({ p, item, dims: item.dimensions, rect: placementRect(item.dimensions, p), number: i + 1 });
+    const dims = item?.dimensions;
+    if (item && dims) {
+      drawn.push({ p, item, dims, rect: placementRect(dims, p), rects: footprintRects(dims, p), outline: footprintOutline(dims, p), number: i + 1 });
+    }
   });
-  const standing = drawn.filter((d) => d.p.layer !== "rug").map((d) => d.rect);
+  const standing = drawn.filter((d) => d.p.layer !== "rug").flatMap((d) => d.rects);
   const status = (p: Placement): Status =>
     collisions.overlapping.has(p.id) || collisions.outside.has(p.id) ? "bad" : collisions.blocked.has(p.id) ? "blocked" : null;
 
@@ -76,8 +81,10 @@ function KeepOutHits({ drawn, collisions }: { drawn: Drawn[]; collisions: Collis
   const hits: { key: string; rect: Rect; title: string }[] = [];
   for (const d of drawn) {
     collisions.blocked.get(d.p.id)?.forEach((zone, i) => {
-      const rect = intersectRect(d.rect, zone.rect);
-      if (rect) hits.push({ key: `${d.p.id}-${i}`, rect, title: `${d.number}. ${d.item.name}: ${keepOutReasons([zone])[0]?.toLowerCase()}` });
+      d.rects.forEach((part, j) => {
+        const rect = intersectRect(part, zone.rect);
+        if (rect) hits.push({ key: `${d.p.id}-${i}-${j}`, rect, title: `${d.number}. ${d.item.name}: ${keepOutReasons([zone])[0]?.toLowerCase()}` });
+      });
     });
   }
   if (hits.length === 0) return null;
@@ -105,7 +112,10 @@ type PieceProps = {
 };
 
 function Piece({ d, status, standing, selected, highlighted, interactive, onPointerDown, onSelect }: PieceProps) {
-  const { p, item, dims, rect: r, number } = d;
+  const { p, item, dims, rect: r, rects, outline, number } = d;
+  // An L-shaped piece's photo, label, tick and badge go on its full-width back part.
+  const main = rects[0] ?? r;
+  const shaped = outline.length > 4;
   const photo = item.images[0];
   const rug = p.layer === "rug";
   const className = ["piece", `layer-${p.layer}`, status, selected && "selected", highlighted && "highlighted"].filter(Boolean).join(" ");
@@ -135,21 +145,21 @@ function Piece({ d, status, standing, selected, highlighted, interactive, onPoin
       }}
     >
       <title>{`${number}. ${item.name} — ${dimensionsText(dims)}${price}. ${where}${item.url ? " Double-click opens the product page." : ""}`}</title>
-      <rect className="piece-fill" {...rectAttrs(r)} />
+      {shaped ? <polygon className="piece-fill" points={pointsAttr(outline)} /> : <rect className="piece-fill" {...rectAttrs(r)} />}
       {photo && (
         // A nested viewport clips the photo to the footprint; "slice" fills it edge to edge.
-        <svg className="piece-photo" {...rectAttrs(r)} overflow="hidden">
+        <svg className="piece-photo" {...rectAttrs(main)} overflow="hidden">
           <image href={imageUrl(photo.file)} width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
         </svg>
       )}
-      <rect className="piece-edge" {...rectAttrs(r)} />
+      {shaped ? <polygon className="piece-edge" points={pointsAttr(outline)} /> : <rect className="piece-edge" {...rectAttrs(r)} />}
       {rug ? (
         <RugLabel r={r} standing={standing ?? []} name={item.name} dims={dims} number={number} />
       ) : (
         <>
-          <polygon className="piece-front" points={pointsAttr(frontTick(r, p.rotation))} />
-          <PieceLabel r={r} name={item.name} dims={dims} />
-          <Badge x={r.x} y={r.y} radius={Math.min(3.5, r.w / 4, r.h / 4)} number={number} />
+          <polygon className="piece-front" points={pointsAttr(frontTick(main, p.rotation))} />
+          <PieceLabel r={main} name={item.name} dims={dims} />
+          <Badge x={main.x} y={main.y} radius={Math.min(3.5, main.w / 4, main.h / 4)} number={number} />
         </>
       )}
     </g>

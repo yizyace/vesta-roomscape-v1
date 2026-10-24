@@ -145,6 +145,55 @@ export function placementRect(dims: NonNullable<Dimensions>, p: Pick<Placement, 
   return { x: p.x, y: p.y, w: turned ? d : dims.w, h: turned ? dims.w : d };
 }
 
+/**
+ * A point (u across the item from its left, v from its back) in the item's own frame at rotation 0,
+ * turned clockwise with the item and offset to its placement.
+ */
+function turnPoint(dims: NonNullable<Dimensions>, p: Pick<Placement, "x" | "y" | "rotation">, u: number, v: number): Pt {
+  const d = depthOf(dims);
+  switch (p.rotation) {
+    case 0:
+      return { x: p.x + u, y: p.y + v };
+    case 90:
+      return { x: p.x + d - v, y: p.y + u };
+    case 180:
+      return { x: p.x + dims.w - u, y: p.y + d - v };
+    case 270:
+      return { x: p.x + v, y: p.y + dims.w - u };
+  }
+}
+
+/**
+ * The floor an item covers at a placement, as rectangles: its footprint, or for an L-shaped piece
+ * (`dims.notch`) two, the full-width back and the arm beside the notch. The first is the one to draw
+ * the photo, label and front tick in.
+ */
+export function footprintRects(dims: NonNullable<Dimensions>, p: Pick<Placement, "x" | "y" | "rotation">): Rect[] {
+  const n = dims.notch;
+  if (!n || dims.d === undefined) return [placementRect(dims, p)];
+  const back = { u: 0, v: 0, w: dims.w, h: dims.d - n.d };
+  const arm = { u: n.side === "right" ? 0 : n.w, v: dims.d - n.d, w: dims.w - n.w, h: n.d };
+  return [back, arm].map((r) => bounds([turnPoint(dims, p, r.u, r.v), turnPoint(dims, p, r.u + r.w, r.v + r.h)]));
+}
+
+/** The outline to draw: the footprint's four corners, or an L-shaped piece's six, clockwise from its back-left. */
+export function footprintOutline(dims: NonNullable<Dimensions>, p: Pick<Placement, "x" | "y" | "rotation">): Pt[] {
+  const w = dims.w;
+  const d = depthOf(dims);
+  const n = dims.notch;
+  const local: [number, number][] = !n
+    ? [[0, 0], [w, 0], [w, d], [0, d]]
+    : n.side === "right"
+      ? [[0, 0], [w, 0], [w, d - n.d], [w - n.w, d - n.d], [w - n.w, d], [0, d]]
+      : [[0, 0], [w, 0], [w, d], [n.w, d], [n.w, d - n.d], [0, d - n.d]];
+  return local.map(([u, v]) => turnPoint(dims, p, u, v));
+}
+
+/** True when some rect of one list overlaps some rect of the other. */
+export function footprintsOverlap(a: readonly Rect[], b: readonly Rect[]): boolean {
+  return a.some((ra) => b.some((rb) => rectsOverlap(ra, rb)));
+}
+
 /** True when the interiors overlap; rects that only share an edge do not. */
 export function rectsOverlap(a: Rect, b: Rect): boolean {
   return a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h;
@@ -261,7 +310,8 @@ type Placed = Pick<Placement, "id" | "itemId" | "x" | "y" | "rotation"> & { laye
 
 /**
  * Checks a layout. Only floor pieces collide with each other and with keep-out zones; rugs and
- * on-top pieces only have to stay inside the room. Items without dimensions are skipped.
+ * on-top pieces only have to stay inside the room. Items without dimensions are skipped. An L-shaped
+ * piece covers its two rectangles, so whatever stands in its notch (the chair at an L-desk) is clear.
  */
 export function findCollisions(
   placements: Placed[],
@@ -269,24 +319,24 @@ export function findCollisions(
   points: Pt[],
   keepOut: KeepOut[] = [],
 ): Collisions {
-  const rects: { id: string; rect: Rect; floor: boolean }[] = [];
+  const pieces: { id: string; rects: Rect[]; floor: boolean }[] = [];
   for (const p of placements) {
     const dims = itemsById.get(p.itemId)?.dimensions;
     if (!dims) continue;
-    rects.push({ id: p.id, rect: placementRect(dims, p), floor: (p.layer ?? "floor") === "floor" });
+    pieces.push({ id: p.id, rects: footprintRects(dims, p), floor: (p.layer ?? "floor") === "floor" });
   }
   const overlapping = new Set<string>();
   const outside = new Set<string>();
   const blocked = new Map<string, KeepOut[]>();
-  for (let i = 0; i < rects.length; i++) {
-    const a = rects[i]!;
-    if (!rectInsidePolygon(a.rect, points)) outside.add(a.id);
+  for (let i = 0; i < pieces.length; i++) {
+    const a = pieces[i]!;
+    if (!a.rects.every((r) => rectInsidePolygon(r, points))) outside.add(a.id);
     if (!a.floor) continue;
-    const hits = keepOut.filter((z) => rectsOverlap(a.rect, z.rect));
+    const hits = keepOut.filter((z) => footprintsOverlap(a.rects, [z.rect]));
     if (hits.length > 0) blocked.set(a.id, hits);
-    for (let j = i + 1; j < rects.length; j++) {
-      const b = rects[j]!;
-      if (b.floor && rectsOverlap(a.rect, b.rect)) {
+    for (let j = i + 1; j < pieces.length; j++) {
+      const b = pieces[j]!;
+      if (b.floor && footprintsOverlap(a.rects, b.rects)) {
         overlapping.add(a.id);
         overlapping.add(b.id);
       }

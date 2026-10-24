@@ -70,6 +70,7 @@ Ctrl-C.
   bathroom's things are in the catalog under the `bathroom` tag.
 - **The living room's stairs** run along its whole left side, drawn as a band with tread lines, 36" deep
   until the width is measured. Nothing stands on them.
+- **An L-shaped piece** (an L-desk) is drawn as an L, and the chair goes in its corner.
 - **Red** means a piece overlaps another piece standing on the floor, or sticks out of the room.
   **Amber** means it stands on the stairs, on a heater or in a door's or a closet's swing; the toolbar
   counts each kind.

@@ -89,6 +89,12 @@ export function placementRect(dims: NonNullable<Dimensions>, p: Pick<Placement, 
 }
 ```
 
+An L-shaped piece (an L-desk, a sectional) records the free rectangle at one front corner as
+`dimensions.notch` `{w, d, side}`, `side` being "left" or "right" as drawn at rotation 0. `placementRect`
+stays its whole footprint (dragging, clamping, turning in place); `footprintRects` returns the two
+rectangles it covers, the full-width back first (where the plan draws its photo, label and front tick)
+and then the arm beside the notch, and `footprintOutline` its six corners for drawing.
+
 `w` is the side that goes along a wall and `d` the projection into the room (`DimensionsSchema`). A
 feature's `at` runs from its wall's start in the direction of travel, or back from the wall's end with
 `anchor: "end"`; `measured` lists which of `at`, `length` and `depth` came from the tape. `walkWalls`
@@ -105,7 +111,8 @@ to 36", so nothing can stand on a swing's edge), and an `opening` walkway 30" de
 `{overlapping, outside, blocked}`: only `floor` pieces overlap each other or land in `blocked` (a map from
 placement id to the zones it touches); `rug` and `top` pieces only have to stay inside the room, which
 every layer does (`outside`). Rects that share only an edge do not overlap, and items without dimensions
-are skipped.
+are skipped. An L-shaped piece collides, and stays inside the room, by its two `footprintRects`, so the
+chair in an L-desk's notch is clear; `validate` names its overlaps the same way.
 
 ## The data contract
 
@@ -117,7 +124,8 @@ are skipped.
 - **taxonomy.json**: `{categories, tags}`, slugs.
 - **Item**: `id` `<vendor>-<sku>` starting with its `vendor`; `url` an http(s) URL, `null` only for
   `owned`; `rooms` each one of the six `ROOM_IDS`; `status` candidate/shortlisted/ordered/owned/rejected;
-  `price` `{amount, currency: "USD", asOf}` or `null`; `dimensions` `{w, d, h?, raw?, source?}` or `null`;
+  `price` `{amount, currency: "USD", asOf}` or `null`; `dimensions` `{w, d, h?, notch?, raw?, source?}` or
+  `null`, where `notch` `{w, d, side: "left" | "right"}` needs a `d` and is smaller than `w × d` both ways;
   `images[].file` exactly `<id>-<n>.jpg` and `sourceUrl` http(s); every date a real ISO date.
 - **Layout** (`layouts/<room>/<variant>.json`): `room` one of the six `ROOM_IDS`; `variant` a slug,
   default `a` (the staged pick; `view` is reserved for the hash routes); `name`, default `""`;
@@ -342,7 +350,7 @@ port (`startTestServer`) over a temporary data directory (`mkTempDataDir` copies
 
 ## Versioning
 
-`package.json` `version` (0.2.4 today: a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
+`package.json` `version` (0.2.5 today: L-shaped footprints, `dimensions.notch`, so the chair at an L-desk stands in its corner instead of on a rectangle drawn around it; 0.2.4 a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
 data-shape change goes from 0.x to 0.(x+1):
 
 - **patch**: a fix, with no change to any file's shape;

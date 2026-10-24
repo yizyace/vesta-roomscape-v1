@@ -4,7 +4,7 @@
 // closet or in the walkway along an opening). Errors make `ok` false; warnings do not.
 import path from "node:path";
 import type { z } from "zod";
-import { findCollisions, isClosed, keepOutZones, placementRect, rectsOverlap, walkWalls, type KeepOut } from "../shared/geometry.ts";
+import { findCollisions, footprintRects, footprintsOverlap, isClosed, keepOutZones, walkWalls, type KeepOut } from "../shared/geometry.ts";
 import { LayoutSchema, RoomsSchema, TaxonomySchema, issuesToLines, type Item, type Placement, type Room } from "../shared/schema.ts";
 import { itemReferenceIssues, parseItemFile } from "./catalog.ts";
 import { errorMessage } from "./errors.ts";
@@ -126,7 +126,7 @@ function layoutWarnings(room: Room, placements: Placement[], items: ReadonlyMap<
   const walk = walkWalls(room.walls);
   if (!isClosed(walk)) return []; // rooms.json already reports the open outline
   const { overlapping, outside, blocked } = findCollisions(placements, items, walk.points, keepOutZones(room.walls, room.features));
-  const rect = (p: Placement) => placementRect(items.get(p.itemId)!.dimensions!, p); // every overlapping piece has dimensions
+  const rects = (p: Placement) => footprintRects(items.get(p.itemId)!.dimensions!, p); // every overlapping piece has dimensions
   const warnings = new Set<string>();
   placements.forEach((p, i) => {
     if (outside.has(p.id)) warnings.add(`${p.id} is outside the room`);
@@ -134,7 +134,7 @@ function layoutWarnings(room: Room, placements: Placement[], items: ReadonlyMap<
     if (!overlapping.has(p.id)) return;
     // Only floor pieces are in `overlapping`, so any two of them whose footprints overlap are a finding.
     for (const q of placements.slice(i + 1)) {
-      if (overlapping.has(q.id) && rectsOverlap(rect(p), rect(q))) warnings.add(`${p.id} overlaps ${q.id}`);
+      if (overlapping.has(q.id) && footprintsOverlap(rects(p), rects(q))) warnings.add(`${p.id} overlaps ${q.id}`);
     }
   });
   return [...warnings];

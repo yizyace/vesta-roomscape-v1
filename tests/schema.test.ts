@@ -103,6 +103,18 @@ describe("ItemSchema", () => {
     ]);
   });
 
+  it("accepts an L-shaped piece's notch, and refuses one that is not inside its footprint or has no depth", () => {
+    const notch = { w: 52.5, d: 30, side: "right" };
+    expect(ItemSchema.parse({ ...WORKED, dimensions: { w: 80, d: 60, notch } }).dimensions?.notch).toEqual(notch);
+    expect(linesOf(ItemSchema, { ...WORKED, dimensions: { w: 80, d: 60, notch: { ...notch, d: 60 } } })).toEqual([
+      "dimensions.notch: notch 52.5 × 60 must be smaller than the footprint 80 × 60",
+    ]);
+    expect(linesOf(ItemSchema, { ...WORKED, dimensions: { w: 80, notch } })).toEqual(["dimensions.notch: a notch needs d: a flat item has no corner to cut"]);
+    expect(linesOf(ItemSchema, { ...WORKED, dimensions: { w: 80, d: 60, notch: { ...notch, side: "front" } } })).toEqual([
+      expect.stringMatching(/^dimensions\.notch\.side: /),
+    ]);
+  });
+
   it("accepts dimensions: null (the product page shows none)", () => {
     expect(ItemSchema.parse({ ...WORKED, dimensions: null }).dimensions).toBeNull();
   });

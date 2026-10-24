@@ -7,6 +7,8 @@ import {
   featureRect,
   featureSpan,
   findCollisions,
+  footprintOutline,
+  footprintRects,
   isClosed,
   keepOutZones,
   placementRect,
@@ -19,7 +21,7 @@ import {
 } from "../shared/geometry.ts";
 import type { Pt, Segment } from "../shared/geometry.ts";
 import { RoomsSchema } from "../shared/schema.ts";
-import type { Feature, Item, Placement, Room, Wall } from "../shared/schema.ts";
+import type { Dimensions, Feature, Item, Placement, Room, Wall } from "../shared/schema.ts";
 
 // A snapshot of the 2026-10-22 record, not the live file: the numbers below are pinned to it, and a
 // re-measured room must not fail the geometry tests (rooms-vs-csv.test.ts and data.test.ts read the
@@ -280,6 +282,56 @@ describe("placements and collisions", () => {
       outside: new Set(["dresser"]),
       blocked: new Map(),
     });
+  });
+
+  // An 80" × 60" L-desk: the main top 80 × 30 along its back and the return 27.5" wide down its left
+  // side, so the free notch where the chair goes is 52.5 × 30 at the front-right corner.
+  const lDesk = { w: 80, d: 60, notch: { w: 52.5, d: 30, side: "right" as const } };
+
+  it("footprintRects splits an L-shaped piece into its back and its arm at every rotation", () => {
+    const at = (rotation: Placement["rotation"], dims: Dimensions = lDesk) => footprintRects(dims!, { x: 10, y: 20, rotation });
+    expect(at(0)).toEqual([{ x: 10, y: 20, w: 80, h: 30 }, { x: 10, y: 50, w: 27.5, h: 30 }]);
+    expect(at(90)).toEqual([{ x: 40, y: 20, w: 30, h: 80 }, { x: 10, y: 20, w: 30, h: 27.5 }]); // the return toward the top
+    expect(at(180)).toEqual([{ x: 10, y: 50, w: 80, h: 30 }, { x: 62.5, y: 20, w: 27.5, h: 30 }]);
+    expect(at(270)).toEqual([{ x: 10, y: 20, w: 30, h: 80 }, { x: 40, y: 72.5, w: 30, h: 27.5 }]);
+    expect(at(0, { ...lDesk, notch: { ...lDesk.notch, side: "left" } })).toEqual([{ x: 10, y: 20, w: 80, h: 30 }, { x: 62.5, y: 50, w: 27.5, h: 30 }]);
+    expect(at(90, desk)).toEqual([placementRect(desk, { x: 10, y: 20, rotation: 90 })]);
+  });
+
+  it("footprintOutline draws an L-shaped piece's six corners, turned with it", () => {
+    expect(footprintOutline(lDesk, { x: 0, y: 0, rotation: 0 })).toEqual([
+      { x: 0, y: 0 },
+      { x: 80, y: 0 },
+      { x: 80, y: 30 },
+      { x: 27.5, y: 30 },
+      { x: 27.5, y: 60 },
+      { x: 0, y: 60 },
+    ]);
+    for (const rotation of [0, 90, 180, 270] as const) {
+      expect(Math.abs(signedArea(footprintOutline(lDesk, { x: 5, y: 7, rotation })))).toBe(80 * 60 - 52.5 * 30);
+    }
+    expect(footprintOutline(desk, { x: 0, y: 0, rotation: 0 })).toHaveLength(4);
+  });
+
+  it("findCollisions lets a chair stand in an L-desk's notch but not on its return", () => {
+    const items = new Map<string, Pick<Item, "dimensions">>([
+      ["other-l-desk", { dimensions: lDesk }],
+      ["ikea-chair", { dimensions: { w: 24, d: 24 } }],
+    ]);
+    const withChair = (x: number, y: number): Omit<Placement, "layer">[] => [
+      { id: "desk", itemId: "other-l-desk", x: 0, y: 0, rotation: 0 },
+      { id: "chair", itemId: "ikea-chair", x, y, rotation: 180 },
+    ];
+    expect(findCollisions(withChair(40, 32), items, points("master-bedroom")).overlapping).toEqual(new Set()); // in the notch
+    expect(findCollisions(withChair(15, 40), items, points("master-bedroom")).overlapping).toEqual(new Set(["desk", "chair"])); // on the return
+  });
+
+  it("findCollisions keeps an L-shaped piece inside the room by its two rects, not its whole footprint", () => {
+    // Its notch is exactly the corner Maddie's room is missing (x 103-118, y 87-122).
+    const items = new Map([["other-hug", { dimensions: { w: 40, d: 40, notch: { w: 15, d: 35, side: "right" as const } } }]]);
+    const at = (y: number): Omit<Placement, "layer">[] => [{ id: "l", itemId: "other-hug", x: 78, y, rotation: 0 }];
+    expect(findCollisions(at(82), items, points("maddie-room")).outside).toEqual(new Set());
+    expect(findCollisions(at(83), items, points("maddie-room")).outside).toEqual(new Set(["l"])); // an inch lower it runs into the missing corner and through the bottom wall
   });
 
   it("findCollisions uses the rotated footprint", () => {

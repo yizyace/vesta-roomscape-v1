@@ -136,8 +136,26 @@ export const DimensionsSchema = z
     // pegboard): it can hang on a wall (the "top" layer), drawn FLAT_DEPTH deep, never stand on the floor.
     d: z.number().positive().optional(),
     h: z.number().positive().optional(),
+    // An L-shaped piece (an L-desk, a sectional): w × d is its whole footprint and the notch the free
+    // rectangle at one front corner, "left" or "right" as drawn at rotation 0 (x 0 is left). An L-desk
+    // with its return on the user's left has its notch on the right.
+    notch: z
+      .object({
+        w: z.number().positive(),
+        d: z.number().positive(),
+        side: z.enum(["left", "right"]),
+      })
+      .optional(),
     raw: z.string().optional(),
     source: z.string().optional(),
+  })
+  .superRefine((dims, ctx) => {
+    if (!dims.notch) return;
+    if (dims.d === undefined) {
+      ctx.addIssue({ code: "custom", message: "a notch needs d: a flat item has no corner to cut", path: ["notch"] });
+    } else if (dims.notch.w >= dims.w || dims.notch.d >= dims.d) {
+      ctx.addIssue({ code: "custom", message: `notch ${dims.notch.w} × ${dims.notch.d} must be smaller than the footprint ${dims.w} × ${dims.d}`, path: ["notch"] });
+    }
   })
   .nullable();
 export type Dimensions = z.infer<typeof DimensionsSchema>;

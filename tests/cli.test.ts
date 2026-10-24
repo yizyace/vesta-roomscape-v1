@@ -133,6 +133,28 @@ describe("cli", { timeout: 30_000 }, () => {
     expect(warnings(r.stdout, "layouts/dining-room/b.json")).toEqual(["desk-open-side blocks the opening to the kitchen"]);
   });
 
+  it("validate lets a chair stand in an L-desk's notch, and flags one on its return", async () => {
+    // The master bedroom's middle (x 50-130, y 20-80) is clear of its doors, closet and heater.
+    const lDesk = await plantItem(data.dir, "amazon-TESTLDESK1", {
+      name: "Test L-desk",
+      category: "desk",
+      dimensions: { w: 80, d: 60, notch: { w: 52.5, d: 30, side: "right" } },
+    });
+    const chair = await plantItem(data.dir, "amazon-TESTCHAIR1", { name: "Test chair", category: "chair", dimensions: { w: 24, d: 24 } });
+    await plantLayout(data.dir, "master-bedroom", "b", {
+      room: "master-bedroom",
+      variant: "b",
+      placements: [
+        { id: "l-desk", itemId: lDesk, x: 50, y: 20 },
+        { id: "chair-notch", itemId: chair, x: 90, y: 52, rotation: 180 },
+        { id: "chair-return", itemId: chair, x: 60, y: 55, rotation: 180 },
+      ],
+    });
+    const r = await cli("validate");
+    expect(r.code).toBe(0);
+    expect(warnings(r.stdout, "layouts/master-bedroom/b.json")).toEqual(["l-desk overlaps chair-return"]);
+  });
+
   it("layout set refuses a flat item (no depth) anywhere but the top layer", async () => {
     const poster = await plantItem(data.dir, "amazon-TESTPOSTR1", { name: "Test poster", category: "decor", dimensions: { w: 22, h: 22 } });
     const file = path.join(data.dir, "flat.json");

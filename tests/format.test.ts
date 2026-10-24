@@ -60,6 +60,12 @@ describe("dimensionsText", () => {
   });
 });
 
+describe("dimensionsText for L-shaped items", () => {
+  it("marks a piece with a notch as L-shaped", () => {
+    expect(dimensionsText({ w: 80, d: 60, h: 50.9, notch: { w: 52.5, d: 30, side: "right" } })).toBe('80 × 60 × 50.9", L-shaped');
+  });
+});
+
 describe("dimensionsText for flat items", () => {
   it("shows width × height and says flat when there is no depth", () => {
     expect(dimensionsText({ w: 30, h: 22 })).toBe('30 × 22" flat');

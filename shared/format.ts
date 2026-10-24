@@ -36,10 +36,11 @@ export function money(amount: number, currency = "USD"): string {
 }
 
 /** `24.8 × 18.9 × 29.6"` (h omitted when unknown). */
-export function dimensionsText(d: { w: number; d?: number; h?: number } | null): string {
+export function dimensionsText(d: { w: number; d?: number; h?: number; notch?: object } | null): string {
   if (!d) return "no dimensions";
   // A flat item (no depth on its page): width × height, marked flat.
   if (d.d === undefined) return d.h !== undefined ? `${tenthsText(d.w)} × ${tenthsText(d.h)}" flat` : `${tenthsText(d.w)}" wide, flat`;
   const parts = [d.w, d.d, ...(d.h !== undefined ? [d.h] : [])].map(tenthsText);
-  return `${parts.join(" × ")}"`;
+  // An L-shaped piece: w × d is its whole footprint, so say it is an L.
+  return `${parts.join(" × ")}"${d.notch ? ", L-shaped" : ""}`;
 }
