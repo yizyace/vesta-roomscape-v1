@@ -1,0 +1,40 @@
+{
+  "id": "other-UPL934-walnut-lam-80MX60R",
+  "vendor": "other",
+  "url": "https://www.upliftdesk.com/l-shaped-standing-desk/?4116=4764&4114=4755&18781=17832&4115=36710&4588=5177&4060=11390&14932=11667",
+  "name": "UPLIFT L-Shaped Standing Desk, 3-Leg, Walnut Laminate 1\", 80\"Mx60\"R, Return on Left Side, V2 C-Frame White",
+  "brand": "UPLIFT Desk",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 1334,
+    "currency": "USD",
+    "asOf": "2026-10-24"
+  },
+  "dimensions": {
+    "w": 80,
+    "d": 60,
+    "h": 50.9,
+    "notch": {
+      "w": 52.5,
+      "d": 30,
+      "side": "right"
+    },
+    "raw": "Configurator: \"UPL934-walnut-lam-80MX60R\"; Desktop Size \"M = Main side desktop width. R = Return side desktop width. ... The Main side desktop depth is 30\" and the Return side desktop depth is 27.5\".\" with \"80\"Mx60\"R +$185\" selected; Return Side \"Return on Left Side\" selected. Specifications, L-Shaped Standing Desk SKU: UPL934: \"WIDTHS Main: 60\" to 80\" Return: 30\" or 48\"\"; \"DEPTH Main: 30\" Return: 27.5\"\"; \"HEIGHT RANGE Height range with 1\" thick desktop: V3 frame: 22.6\" to 48.7\" V2 frame: 25.3\" to 50.9\" V2-Comm frame: 22.6\" to 48.7\"\"",
+    "source": "upliftdesk.com configurator and Specs tab, read in Claude in Chrome 2026-10-24. w = M, 80 (the main top, along the wall); d = R, 60 (the return side overall: the main's 30\" depth plus the 30\" return top, since the spec table's Return is 30\" or 48\" against the configurator's 60\" or 78\" R); notch 52.5 x 30 = (80 - 27.5) x (60 - 30), on the right as drawn because the return is on the user's left; h = the V2 frame's maximum in the spec table, 50.9 (the frame section's own text says the V2 frame runs 24.5\" to 50.1\")"
+  },
+  "images": [],
+  "notes": "Andrew's link, 2026-10-24: \"add standing desks for consideration for the office, this is large but try to accommodate something like this\". As configured on the page: Walnut Laminate 1\"; 80\"Mx60\"R (+$185); Return on Left Side (reversible: \"You may choose to use the return on either side during assembly.\"); Grommets 2 Covers Black; Frame Color & Type V2 C-Frame White (V3 White is +$100 and runs 22.6\" to 48.7\"); Basic Display Angled Keypad Black. Price: $1334 regular; the page shows $1234 with \"Save $100\" and \"Sale ends 11/02/2026. Use coupon code FALL at checkout.\" \"Ships the same day, order by 3pm Central\"; free shipping in the contiguous USA, 1-4 business days; assembly service from $119 per L-shaped desk; 30-day returns; 15-year warranty. Three motors, 535 lb lifting capacity. 4.9 stars (2,322 reviews). Other sizes on the same page: 60\"Mx60\"R, 72\"Mx60\"R (+$120), 60\"Mx78\"R (+$170), 72\"Mx78\"R (+$290), 80\"Mx78\"R (+$355). No photos: the product images are on upliftdesk.com, which is not on the planner's image-host allowlist (widening it needs Andrew's word). Fit: back-bedroom/e, the main along the 152\" left wall (y 30-110) with the return at its south end, the four 32\" screens on it (three across the main, the outer two angled in about 30 degrees, about 77\"; the fourth on the return); the job desk stays a separate MITTZON on the right wall (F-62). It leaves no room for the guest chair bed: opened, the bed would run into the return. Flags: none (50.9\" is under F-23's 78\"; ships flat-packed, F-22). rooms: back-bedroom, from the brief.",
+  "captured": {
+    "date": "2026-10-24",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

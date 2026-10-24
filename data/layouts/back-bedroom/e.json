@@ -1,0 +1,149 @@
+{
+  "room": "back-bedroom",
+  "variant": "e",
+  "name": "Alt: the UPLIFT L-desk on the left wall for the four screens, MITTZON job desk on the right, no guest bed",
+  "updatedAt": "2026-10-24T21:53:24.835Z",
+  "notes": "Alternative for Andrew's UPLIFT link (2026-10-24: \"add standing desks for consideration for the office, this is large but try to accommodate something like this\"), meeting F-62. The usable floor is the 106 x 106 square as in a: furniture from y 12 and upholstery from y 18 off the hatched heater wall (F-33, heater-depth-assumed), nothing below y 116 in front of the wardrobe or below y 122 in front of the door (F-31: the 36\" landings, assumed-position:closet and assumed-position:door).\ndesk-l UPLIFT L-desk 80\"Mx60\"R, walnut laminate, electric sit/stand (22.6-50.9\"): rot 270, the main along the left wall (x 0-30, y 30-110), the return at its south end (x 30-60, y 82.5-110), on the user's left as configured. The personal station: four 32\" screens, three across the main on the HUANUO arms (the outer two angled in about 30 degrees, about 77\") and the fourth on the return; all of them face away from the window or across it, never toward it. F-38: it starts 30\" below the window wall, so nothing stands in front of the window; F-31: its south end 6\" above the wardrobe's landing; F-35: 44.5\" from the main's front to the job desk · fits.\nchair-1 FLINTAN: in the L's corner, x 31-59, y 52-80, facing the main; it swivels left to the return. chair-2 FLINTAN: the job desk's, x 46.5-74.5, y 22-50, 16\" from the heater wall; the two chairs sit 2\" apart in y, so both stations work at once · fits.\ndesk-1 MITTZON 55 1/8x31 1/2, electric sit/stand: right wall, rot 90, x 74.5-106, y 12-67.1, the separate job station: the laptop on the ELLOVEN beside one 32\" monitor, with room to spare (F-62); F-33 6\" from the heater face · fits.\nstorage-2 BESTÅ shelf unit with doors 47 1/4\" (top): hung above the job desk on two suspension rails, underside about 70\" up, as in c (F-63).\nThe right wall's lower half stays open as the way in from the door: 46\" between the return's end and the wall (F-30), then the 44.5\" aisle between the two desks.\nlamp-1 TÅGARP: bottom-left corner, left of the wardrobe's landing. plant-1 FEJKA: top-left corner, left of the window and above the L's north end.\nrug-1 LOHALS (rug): x 30-82, y 22-99, under both chairs. rug-2 KOLON (rug): x 31-70.4, y 40-87.25, the chair mat under chair-1 and the foot of chair-2.\nlamp-2 RÖDFLIK (top): on the L's return. lamp-3 RÖDFLIK (top): on the job desk's front corner. art-1 PJÄTTERYD (top): right wall above the way in, y 80-102.\nNo guest bed: opened, the chair bed would run into the L's return (at best 2.3\" short whichever way the room is arranged), so this variant trades the guest bed for the L, as c does. No BESTÅ on the floor either: the only free wall is the way in from the door.",
+  "placements": [
+    {
+      "id": "desk-l",
+      "itemId": "other-UPL934-walnut-lam-80MX60R",
+      "x": 0,
+      "y": 30,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "UPLIFT L-desk: the main along the left wall (x 0-30, y 30-110), the return at its south end (x 30-60, y 82.5-110); four 32\" screens, three across the main and one on the return (F-62); 30\" below the window wall (F-38); 6\" above the wardrobe's landing (F-31, assumed-position:closet)"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-49424465",
+      "x": 31,
+      "y": 52,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "FLINTAN in the L's corner, facing the main; swivels left to the return"
+    },
+    {
+      "id": "desk-1",
+      "itemId": "ikea-29528572",
+      "x": 74.5,
+      "y": 12,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "MITTZON 55 1/8, the job station: laptop on the ELLOVEN and one 32\" monitor (F-62); 6\" from the heater face (F-33, heater-depth-assumed)"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-49424465",
+      "x": 46.5,
+      "y": 22,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "FLINTAN at the job desk, 16\" from the heater wall (F-33); 2\" above chair-1"
+    },
+    {
+      "id": "storage-2",
+      "itemId": "ikea-79047429",
+      "x": 89.5,
+      "y": 16,
+      "rotation": 90,
+      "layer": "top",
+      "note": "BESTÅ cabinet hung above the job desk, underside about 70\" up, two suspension rails (F-63)"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-70486395",
+      "x": 0.5,
+      "y": 142,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "TÅGARP uplighter in the bottom-left corner, left of the wardrobe's landing (assumed-position:closet)"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-10615244",
+      "x": 1,
+      "y": 18,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA in the top-left corner, left of the window and above the L's north end"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-30511288",
+      "x": 30,
+      "y": 22,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "LOHALS flatweave under both chairs"
+    },
+    {
+      "id": "rug-2",
+      "itemId": "ikea-44881100",
+      "x": 31,
+      "y": 40,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "KOLON chair mat under chair-1 and the foot of chair-2"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-40584057",
+      "x": 50,
+      "y": 101,
+      "rotation": 0,
+      "layer": "top",
+      "note": "RÖDFLIK on the L's return"
+    },
+    {
+      "id": "lamp-3",
+      "itemId": "ikea-40584057",
+      "x": 76,
+      "y": 60,
+      "rotation": 0,
+      "layer": "top",
+      "note": "RÖDFLIK on the job desk's front corner"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-40602018",
+      "x": 105,
+      "y": 80,
+      "rotation": 90,
+      "layer": "top",
+      "note": "PJÄTTERYD on the right wall above the way in from the door"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-70431402",
+      "qty": 2,
+      "note": "HOPPVALS cordless cellular blinds, two side by side (68\") over the 67\" window; no floor-length curtains on the heater wall (F-33); check inside or outside mount (assumed-position:window)"
+    },
+    {
+      "itemId": "amazon-B0CTMHHJJC",
+      "qty": 2,
+      "note": "HUANUO dual monitor arms for the four 32\" screens on the L: three across the main, the fourth on the return (no-dimensions, so an extra)"
+    },
+    {
+      "itemId": "ikea-00573188",
+      "qty": 1,
+      "note": "FÖRSÄSONG cable tray under the MITTZON job desk; the UPLIFT comes with its own FlexMount cable manager and 10 cable wraps"
+    },
+    {
+      "itemId": "ikea-00556773",
+      "qty": 1,
+      "note": "FREIVID anti-fatigue mat, gray-green: for standing at the L (F-62)"
+    },
+    {
+      "itemId": "ikea-50474770",
+      "qty": 1,
+      "note": "ELLOVEN stand with drawer on the job desk: raises the job laptop beside the 32\" monitor"
+    },
+    {
+      "itemId": "ikea-70488318",
+      "qty": 2,
+      "note": "BESTÅ suspension rails for the wall-hung cabinet, fixed into studs"
+    }
+  ]
+}
