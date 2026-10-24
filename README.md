@@ -54,8 +54,8 @@ Ctrl-C.
 - **Place a piece** with "Add to plan", or by dragging its row onto the room, then drag it where you want
   it. With a piece selected, `r` rotates it a quarter turn, the arrow keys nudge it 1" (with Shift, 12"),
   Delete takes it out of the room, and Esc deselects it. ⌘Z undoes the last change.
-- **Layers.** Rugs lie under the furniture (drawn faded underneath), and a TV on its console, a table
-  lamp, wall art, decor and mirrors sit on top (drawn dashed above), so none of them counts as
+- **Layers.** Rugs lie under the furniture (drawn faded underneath), and a table lamp, wall art, decor
+  and mirrors sit on top (drawn dashed above), so none of them counts as
   overlapping what they share space with. Everything else stands on the floor. A new piece goes on the
   usual layer for its kind; a table lamp starts on the floor, so set its **Layer** to Top in the piece's
   details.

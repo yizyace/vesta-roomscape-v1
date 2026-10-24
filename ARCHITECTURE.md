@@ -404,7 +404,7 @@ itself: no enums, namespaces or parameter properties, and imports name their `.t
   any file has to change.
 - The editor clamps a piece to the room's bounding box, not its outline: in the living room and Maddie's
   room a piece can sit in the notch, and shows red.
-- A rug left on the `floor` layer collides with everything standing on it, and a TV with its console;
+- A rug left on the `floor` layer collides with everything standing on it, and a table lamp with its table;
   the fix is the layer, not the position.
 - `view` cannot be a variant id: `#/<room>/view` is the print view.
 
