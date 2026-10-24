@@ -11,7 +11,13 @@ import { imagesDir, itemFile } from "./paths.ts";
 import { listFileNames, withLock, writeFileAtomic } from "./store.ts";
 
 /** Image hosts, each allowing itself and its subdomains. */
-export const ALLOWED_IMAGE_HOSTS = ["ikea.com", "media-amazon.com", "ssl-images-amazon.com", "costco.com"] as const;
+export const ALLOWED_IMAGE_HOSTS = ["ikea.com", "media-amazon.com", "ssl-images-amazon.com", "costco.com", "upliftdesk.com"] as const;
+
+/**
+ * Folders on a shared image CDN, each one exact host and a path: a vendor whose photos live on its
+ * platform's CDN is allowed its own store's folder, not the platform (UPLIFT's BigCommerce store).
+ */
+export const ALLOWED_IMAGE_FOLDERS = ["cdn11.bigcommerce.com/s-l85bzww3lo/"] as const;
 
 const MAX_REDIRECTS = 5;
 
@@ -20,7 +26,10 @@ export type DownloadOptions = { fetchImpl?: FetchLike; timeoutMs?: number; maxBy
 export type AddImageOptions = DownloadOptions & { caption?: string };
 export type AddImageResult = { item: Item; image: ItemImage; created: boolean };
 
-/** https, no credentials, and a host that is an allowed entry or a subdomain of one (`ikea.com.evil.com` is not). */
+/**
+ * https, no credentials, and a host that is an allowed entry or a subdomain of one (`ikea.com.evil.com` is
+ * not), or a path inside an allowed folder on its exact host (the URL parser has already resolved `..`).
+ */
 export function isAllowedImageUrl(url: string): boolean {
   let u: URL;
   try {
@@ -29,11 +38,15 @@ export function isAllowedImageUrl(url: string): boolean {
     return false;
   }
   if (u.protocol !== "https:" || u.username !== "" || u.password !== "") return false;
-  return ALLOWED_IMAGE_HOSTS.some((host) => u.hostname === host || u.hostname.endsWith(`.${host}`));
+  if (ALLOWED_IMAGE_HOSTS.some((host) => u.hostname === host || u.hostname.endsWith(`.${host}`))) return true;
+  return ALLOWED_IMAGE_FOLDERS.some((folder) => `${u.hostname}${u.pathname}`.startsWith(folder));
 }
 
 function notAllowed(url: string): HttpError {
-  return new HttpError(403, `images are only downloaded over https from ${ALLOWED_IMAGE_HOSTS.join(", ")} or their subdomains, not ${url}`);
+  return new HttpError(
+    403,
+    `images are only downloaded over https from ${ALLOWED_IMAGE_HOSTS.join(", ")} or their subdomains, or from ${ALLOWED_IMAGE_FOLDERS.join(", ")}, not ${url}`,
+  );
 }
 
 async function discard(res: Response): Promise<void> {

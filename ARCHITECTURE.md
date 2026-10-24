@@ -327,7 +327,10 @@ resolved against the directory npm was started in (`INIT_CWD`).
 ## Images
 
 `server/images.ts`: https only, no credentials in the URL, and a host that is `ikea.com`,
-`media-amazon.com`, `ssl-images-amazon.com` or `costco.com`, or a subdomain of one (`ALLOWED_IMAGE_HOSTS`).
+`media-amazon.com`, `ssl-images-amazon.com`, `costco.com` or `upliftdesk.com`, or a subdomain of one
+(`ALLOWED_IMAGE_HOSTS`), or a path inside one vendor's folder on a shared CDN, on that exact host
+(`ALLOWED_IMAGE_FOLDERS`: UPLIFT's BigCommerce store, `cdn11.bigcommerce.com/s-l85bzww3lo/`, where its
+product photos live; Andrew, 2026-10-24).
 Redirects are followed by hand, each target checked again, at most five. The response must be `image/*`,
 at most 20 MB, within 20 seconds. sharp applies the EXIF orientation, flattens transparency onto white,
 fits the image inside 800 × 800 without enlarging it, and writes a quality-82 JPEG with no metadata as
@@ -350,7 +353,7 @@ port (`startTestServer`) over a temporary data directory (`mkTempDataDir` copies
 
 ## Versioning
 
-`package.json` `version` (0.2.5 today: L-shaped footprints, `dimensions.notch`, so the chair at an L-desk stands in its corner instead of on a rectangle drawn around it; 0.2.4 a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
+`package.json` `version` (0.2.6 today: UPLIFT's photos allowed, `upliftdesk.com` and its store's CDN folder; 0.2.5 L-shaped footprints, `dimensions.notch`, so the chair at an L-desk stands in its corner instead of on a rectangle drawn around it; 0.2.4 a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
 data-shape change goes from 0.x to 0.(x+1):
 
 - **patch**: a fix, with no change to any file's shape;
@@ -412,7 +415,7 @@ itself: no enums, namespaces or parameter properties, and imports name their `.t
 
 - Moving the data out of `data/`.
 - Adding, removing or renaming a room (`ROOM_IDS`).
-- Widening `ALLOWED_IMAGE_HOSTS`, or adding any other scripted access to a vendor site.
+- Widening `ALLOWED_IMAGE_HOSTS` or `ALLOWED_IMAGE_FOLDERS`, or adding any other scripted access to a vendor site.
 
 When a command, a field or a behaviour changes, update `README.md`, this file and the skill
 (`.claude/skills/furniture-planner/`, with a version bump) in the same pass (AGENTS.md §11).
