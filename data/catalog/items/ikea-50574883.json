@@ -14,7 +14,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 79.99,
     "currency": "USD",
@@ -34,7 +34,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: none. Anchoring: 23.5\" tall, under F-21's 27\" (no anchor-required tag), but the page says \"WARNING! Tipping hazard – this product must be securely anchored.\" and \"For safety reasons this furniture shall not be hung on the wall.\" Fit: living-room bottom wall (275.5\", F-20), 57.75\" of wall and 15.4\" deep, leaving 30\" or more in front for the walkway (F-30) · fits. Holds the Samsung 65\" amazon-B0GP9QN5SN: Max. TV weight 35 lb against the TV's 31.7 lb, and the TV's 39.6\" pedestal on the 57.75\" top (the 56.9\" panel nearly fills the width). Open cubbies, no glass, cable opening at the back (\"The opening at the back allows you to easily gather and organize all wires.\"); the budget console, $170 under IDANÄS ikea-70566052, which is wider (63.75\") with drawers and a 66 lb limit. Variant: white stained oak effect (the house style's light wood; also white 00574885, black-brown 90574881), article 505.748.83. Popularity: #1 under TV stands & benches sorted Most popular (the black-brown card); 4.6 stars (339). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief. Note 2026-10-22: first recorded as rejected for its 35 lb TV limit before the TV was chosen; the chosen 65\" weighs 31.7 lb, so it was restored to candidate the same day.",
+  "notes": "Rejected 2026-10-24: L01 has no TV (Andrew, 2026-10-24: \"we don't have a TV\"; rules.md F-65), so a TV unit is not staged; kept on file in case that changes. Flags: none. Anchoring: 23.5\" tall, under F-21's 27\" (no anchor-required tag), but the page says \"WARNING! Tipping hazard – this product must be securely anchored.\" and \"For safety reasons this furniture shall not be hung on the wall.\" Fit: living-room bottom wall (275.5\", F-20), 57.75\" of wall and 15.4\" deep, leaving 30\" or more in front for the walkway (F-30) · fits. Holds the Samsung 65\" amazon-B0GP9QN5SN: Max. TV weight 35 lb against the TV's 31.7 lb, and the TV's 39.6\" pedestal on the 57.75\" top (the 56.9\" panel nearly fills the width). Open cubbies, no glass, cable opening at the back (\"The opening at the back allows you to easily gather and organize all wires.\"); the budget console, $170 under IDANÄS ikea-70566052, which is wider (63.75\") with drawers and a 66 lb limit. Variant: white stained oak effect (the house style's light wood; also white 00574885, black-brown 90574881), article 505.748.83. Popularity: #1 under TV stands & benches sorted Most popular (the black-brown card); 4.6 stars (339). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief. Note 2026-10-22: first recorded as rejected for its 35 lb TV limit before the TV was chosen; the chosen 65\" weighs 31.7 lb, so it was restored to candidate the same day.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

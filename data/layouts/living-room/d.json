@@ -1,108 +1,81 @@
 {
   "room": "living-room",
   "variant": "d",
-  "name": "Play-first: sofa toward the stairs, soft ottoman, the biggest play floor by the BESTÅ drawers",
-  "updatedAt": "2026-10-23T15:08:45.915Z",
-  "notes": "Alternative, play-first: the living group moves 21\" toward the stairs and loses its hard corners: the soft KIVIK ottoman stands in for the coffee table, a low PERJOHAN bench backs the sofa, and the KALLAX TV unit's cubbies hold toy boxes. The right half of the room is one big play floor on a 67 x 94\" sage STOENSE, with BESTÅ toy drawers in the niche, a SMÅSTAD reading bench and a KALLAX 2x2 of toy drawers on the upper section, the LÄTT table, and Maddie's POÄNG with the FLISAT book display.\nsofa-1 KIVIK, x 84-173.75, y 47.5-84.875: back 41.5\" from the heater face (F-33); screen 103.9\" from the back-cushion line (F-37: 1.60x, the far end of the range: the sofa sits as far back as the rule allows to open the floor in front); delivery-path-unmeasured (F-22).\nbench-1 PERJOHAN bench with storage, x 109.188-148.562, y 36.5-47.5, against the sofa's back, 17 3/4\" tall: books and two GNABBAS baskets on the window side; 30.5\" route behind it along the window (F-39, 30\" needed).\nottoman-1 KIVIK ottoman with storage, x 111.188-146.562, y 98.875-126.375: 14\" in front of the sofa (F-39), 31.2\" from the TV unit (F-30); soft, no corners, machine-washable cover; drinks go on the side table or a tray.\ntv-stand-2 KALLAX TV unit, white stained oak effect, bottom wall x 100-157.75: four DRÖNA toy boxes in its four KALLAX-size lower cubbies, 24\" clear in front (F-32); its page says to fix it to the wall; tv-1 Samsung 65\" on it, 2\" from the wall (31.7 lb on a 35 lb limit: within it, 3.3 lb to spare).\nside-table-1 LACK side table with lamp-1 STORSEGEL, x 174.75-196.375, y 50-71.625, at the right arm; floor-lamp-2 TÅGARP at the left arm (x 74-83, y 50-59), 2\" past the stair strip: the living group now uses the floor by the stairs.\nrug-1 TIOKRONA 118 x 94\", x 72-190, y 72-166: under the sofa's front, the ottoman and the open floor to the TV; plant-1 FEJKA behind the sofa's right end.\nrug-4 STOENSE 67 x 94\" pale green, x 192-259, y 70-164: the play floor, continuous with the open floor in front of the sofa.\nsideboard-1 BESTÅ storage combination with drawers, the 77\" right-lower niche y 96.062-166.938, x 259-275.5: toy drawers and doors (F-63, F-61); anchor-required (F-21, 29 1/8\"); 24\" clear in front (F-32). art-1 PJÄTTERYD Waterlilies above it.\ntoy-bench-1 SMÅSTAD reading bench in the window corner, right-upper wall y 18-53.375: 12\" from the heater face (F-33); its boxes keep 24\" (F-32); wall-lamp-1 UPPLYST above it and the LÖVA canopy over it (an extra, 12\"+ off the heater face); art-2 RÖDALM on the window wall beside it. Check the heater's surface temperature before she reads there.\nbookcase-2 KALLAX 2x2 with four KALLAX drawer inserts (eight toy drawers), right-upper wall y 62.875-93: anchor-required (F-21, 30 1/8\"); 24\" clear in front (F-32).\nkids-table-1 LÄTT with its two chairs, x 205-229.75, y 100-118.875: 29.2\" from the BESTÅ fronts and below the KALLAX's 24\" (F-32).\nkid-chair-1 POÄNG kid's armchair against the far wall, x 196-214.5, y 151-173, facing the play floor; book-display-1 FLISAT beside it (x 215.5-234.75, y 162-173), 24.2\" left of the BESTÅ's drawer zone.\nshoe-cabinet-1 BISSA, bottom wall x 76-95.25: anchor-required (F-21); 12\" for its tilt-out; hooks-1 HÖVOLM at coat height and hooks-2 FLISAT at Maddie's height above it; mirror-1 LILJETRÄD by the top landing.\nFree wall: the bottom wall x 157.75-196 (38.2\") stays clear and reachable by a 30\" path (assumed-position:door); the play corner fills the rest.\nRight side (F-61): the 77\" right-lower wall carries the BESTÅ (70 7/8\"), the 93\" right-upper wall the SMÅSTAD and the KALLAX 2x2 (65 1/2\" of 81\").\nNot placed: the LACK coffee table and console (the ottoman and the PERJOHAN replace them), the chaise sofa and IDANÄS (c), the BESTÅ TV unit (a, b), TROFAST (a, b), KALLAX 2x4 (c), LEN and VALLABY rugs (a, b, c), the grown-up POÄNG (the ottoman is the extra seat), LAUTERS.\nStairs: nothing on the x 0-36 band (F-40, assumed-position:stairs); both 36\" landings stay clear, and the 36\" strip beside the band (x 36-72) is kept as a walkway joining them, so each landing meets the open floor with at least 30\" (F-30). Nothing she can climb stands against the stair side, whose edge (wall, half wall or railing) is unknown.\nHeater: every clearance is measured from the drawn 6\" heater face (heater-depth-assumed): floor pieces start at y 12 or more and upholstery at y 18 or more (F-33). Window: its place on the top wall is eyeballed (assumed-position:window); curtains and rod hang there and nothing stands under it (F-38).\nKid safety (F-21): no glass anywhere; every TV unit is fixed to the wall as its page says, and the TV gets an anti-tip strap; tall storage is anchored.\nExtras: GINSTMOTT curtains x2 pairs, HUGAD rod x1 (no-dimensions, an extra), SVARTPOPPEL covers x2, VALLKRASSING covers x2, FJÄDRAR inserts x4, VALLKRASSING throw x1, KALLAX insert with 2 drawers x4, DRÖNA boxes x4 (TV unit cubbies), GNABBAS baskets x2 (PERJOHAN shelf), LÖVA canopy x1.",
+  "name": "Play-first: sofa and ottoman tucked by the stairs facing the window, the biggest play floor on the STOENSE",
+  "updatedAt": "2026-10-24T21:47:47.093Z",
+  "notes": "Alternative, play-first: No TV (F-65); the bottom side is open to the kitchen and dining area, so its 30-inch walkway (y 143-173) stays clear (F-42): nothing stands against it or hangs on it, and it is the route from the stairs to the kitchen and dining room.\nThe living group shrinks into the room's left-hand corner by the stairs: the KIVIK faces the window with its back to the open side, and the soft KIVIK ottoman stands in for the coffee table and seats the fourth person. Everything in front of and east of the sofa is open play floor on the TIOKRONA and the 67 x 94\" sage STOENSE side by side (75\" wide east of the sofa), with the SMÅSTAD reading bench and a KALLAX 2x2 of toy drawers on the upper section, the low BESTÅ toy cabinet and its FLISAT book display in the 50\" left of the open side's walkway, the LÄTT table, and Maddie's POÄNG facing her books.\nsofa-1 KIVIK, rot 180, x 94-183.75, y 102-139.375: its front 96\" from the heater face (F-33, 12\" needed); its back 3.6\" short of the open side's 30\" walkway (F-39, F-42); delivery-path-unmeasured (F-22).\nottoman-1 KIVIK ottoman with storage, x 121.188-156.562, y 58.5-86: 16\" in front of the sofa (F-39), 52.5\" from the heater face (F-33); soft, no corners, machine-washable cover; drinks go on a tray or the side table.\nside-table-1 LACK side table with lamp-1 STORSEGEL at the sofa's left arm, x 72.375-94, y 117.75-139.375; floor-lamp-2 TÅGARP at the right arm (x 184.75-193.75, y 128-137); plant-1 FEJKA by the stair strip (x 74-83, y 100-109).\nrug-1 TIOKRONA 118 x 94\", x 74-192, y 46-140: under the sofa's front, the ottoman and the open floor in front of them, which is play floor too.\nrug-4 STOENSE 67 x 94\" pale green, x 193-260, y 42-136: the play floor, continuous with the TIOKRONA.\ntoy-bench-1 SMÅSTAD reading bench in the window corner, right-upper wall x 240.5-261, y 18-53.375: 12\" from the heater face (F-33); its boxes keep 24\" (F-32); wall-lamp-1 UPPLYST above it and the LÖVA canopy over it (an extra, 12\"+ off the heater face); art-2 RÖDALM on the window wall beside it. Check the heater's surface temperature before she reads there.\nbookcase-2 KALLAX 2x2 with four KALLAX drawer inserts (eight toy drawers), right-upper wall x 245.625-261, y 62.875-93: anchor-required (F-21, 30 1/8\"); 24\" clear in front (F-32).\ntoy-cabinet-1 BESTÅ shelf unit with doors 47 1/4 x 16 1/2 x 15\", standing on the floor against the right-lower wall, x 259-275.5, y 94.75-142 (F-63): push-open Lappviken doors at her height with DRÖNA boxes inside, no glass, 15\" tall; 24\" clear in front (F-32); 1\" short of the walkway (F-42). book-display-1 FLISAT stands on it (top layer); art-1 PJÄTTERYD above.\nkids-table-1 LÄTT with its two chairs, x 196-220.75, y 92-110.875: outside the KALLAX's 24\" (its upper chair stops at x 220.75, the zone starts at 221.6) and the BESTÅ's (F-32).\nkid-chair-1 POÄNG kid's armchair facing east to her books, x 212-234, y 124-142.5: 1\" outside the BESTÅ's 24\" (F-32), 0.5\" short of the walkway (F-42), 2\" below the LÄTT's lower chair.\nRight side (F-61): the right-lower wall carries the BESTÅ (47 1/4\" of the 50\" left of the walkway), the 93\" right-upper wall the SMÅSTAD and the KALLAX 2x2.\nNot placed: the TV and every TV unit (F-65); the 70 7/8\" BESTÅ drawer combination (it would reach into the open side's walkway); the PERJOHAN bench that backed the sofa (the sofa's back is on the open side now); the LACK coffee table and console (the ottoman replaces the table; a console would stand in the walkway); the POÄNG armchair (the ottoman is the fourth seat); the chaise sofa (c); TROFAST (a, b); KALLAX 2x4 (c); LEN and VALLABY rugs (a, b, c); the BISSA and hooks (the bottom wall is open); LAUTERS.\nStairs: nothing on the x 0-36 band (F-40, assumed-position:stairs); both 36\" landings stay clear, and the 36\" strip beside the band (x 36-72) is kept as a walkway joining them: the bottom landing opens onto the open side's walkway, the top one onto the strip (F-30). Nothing she can climb stands against the stair side, whose edge (wall, half wall or railing) is unknown.\nHeater: every clearance is measured from the drawn 6\" heater face (heater-depth-assumed): floor pieces start at y 12 or more and upholstery at y 18 or more (F-33). Window: its place on the top wall is eyeballed (assumed-position:window); curtains and rod hang there and nothing stands under it (F-38).\nEntry: the old shoe cabinet, hooks and mirror hung on the bottom wall, which is open; the hooks are gone, and the LILJETRÄD mirror hangs on the window wall above the top landing.\nKid safety (F-21): no glass anywhere; storage over 27\" is anchored.\nExtras: GINSTMOTT curtains x2 pairs, HUGAD rod x1 (no-dimensions, an extra), SVARTPOPPEL covers x2, VALLKRASSING covers x2, FJÄDRAR inserts x4, VALLKRASSING throw x1, KALLAX insert with 2 drawers x4, DRÖNA boxes x3 (inside the BESTÅ), LÖVA canopy x1.",
   "placements": [
     {
       "id": "sofa-1",
       "itemId": "ikea-39440593",
-      "x": 84,
-      "y": 47.5,
-      "rotation": 0,
-      "layer": "floor",
-      "note": "KIVIK, shifted toward the stairs, facing the TV"
-    },
-    {
-      "id": "bench-1",
-      "itemId": "ikea-60485339",
-      "x": 109.1875,
-      "y": 36.5,
+      "x": 94,
+      "y": 102,
       "rotation": 180,
       "layer": "floor",
-      "note": "PERJOHAN against the sofa's back: books and baskets on the window side"
+      "note": "KIVIK by the stairs, back to the open side, facing the window"
     },
     {
-      "id": "floor-lamp-2",
-      "itemId": "ikea-70486395",
-      "x": 74,
-      "y": 50,
+      "id": "ottoman-1",
+      "itemId": "ikea-89440500",
+      "x": 121.1875,
+      "y": 58.5,
       "rotation": 0,
       "layer": "floor",
-      "note": "reading arm over the sofa's left end"
+      "note": "soft KIVIK ottoman in place of a coffee table, the fourth seat"
     },
     {
       "id": "side-table-1",
       "itemId": "ikea-70319028",
-      "x": 174.75,
-      "y": 50,
+      "x": 72.375,
+      "y": 117.75,
       "rotation": 0,
       "layer": "floor",
-      "note": "at the sofa's right arm"
+      "note": "at the sofa's left arm"
     },
     {
       "id": "lamp-1",
       "itemId": "ikea-60573576",
-      "x": 182.0625,
-      "y": 57.3125,
+      "x": 79.6875,
+      "y": 125.0625,
       "rotation": 0,
       "layer": "top",
       "note": "on the side table"
     },
     {
-      "id": "ottoman-1",
-      "itemId": "ikea-89440500",
-      "x": 111.1875,
-      "y": 98.875,
+      "id": "floor-lamp-2",
+      "itemId": "ikea-70486395",
+      "x": 184.75,
+      "y": 128,
       "rotation": 0,
       "layer": "floor",
-      "note": "soft KIVIK ottoman in place of a coffee table"
-    },
-    {
-      "id": "tv-stand-2",
-      "itemId": "ikea-50574883",
-      "x": 100,
-      "y": 157.625,
-      "rotation": 180,
-      "layer": "floor",
-      "note": "KALLAX TV unit: DRÖNA toy boxes in its cubbies; anchored"
-    },
-    {
-      "id": "tv-1",
-      "itemId": "amazon-B0GP9QN5SN",
-      "x": 100.425,
-      "y": 162.3,
-      "rotation": 180,
-      "layer": "top",
-      "note": "on the KALLAX TV unit, 2\" from the wall"
-    },
-    {
-      "id": "rug-1",
-      "itemId": "ikea-90628228",
-      "x": 72,
-      "y": 72,
-      "rotation": 0,
-      "layer": "rug",
-      "note": "under the sofa's front, the ottoman and the open floor to the TV"
+      "note": "reading arm over the sofa's right end"
     },
     {
       "id": "plant-1",
       "itemId": "ikea-70610601",
-      "x": 160,
-      "y": 38,
+      "x": 74,
+      "y": 100,
       "rotation": 0,
       "layer": "floor",
-      "note": "behind the sofa's right end"
+      "note": "by the stair strip, above the side table"
     },
     {
-      "id": "sideboard-1",
-      "itemId": "ikea-39412689",
-      "x": 259,
-      "y": 96.0625,
-      "rotation": 90,
-      "layer": "floor",
-      "note": "BESTÅ toy drawers in the niche, anchored"
+      "id": "rug-1",
+      "itemId": "ikea-90628228",
+      "x": 74,
+      "y": 46,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "under the sofa's front, the ottoman and the open floor"
+    },
+    {
+      "id": "rug-4",
+      "itemId": "ikea-20629151",
+      "x": 193,
+      "y": 42,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "the big sage play rug"
     },
     {
       "id": "toy-bench-1",
@@ -114,51 +87,6 @@
       "note": "reading bench with toy boxes in the window corner"
     },
     {
-      "id": "bookcase-2",
-      "itemId": "ikea-20631639",
-      "x": 245.625,
-      "y": 62.875,
-      "rotation": 90,
-      "layer": "floor",
-      "note": "KALLAX 2x2 with four drawer inserts: eight toy drawers"
-    },
-    {
-      "id": "rug-4",
-      "itemId": "ikea-20629151",
-      "x": 192,
-      "y": 70,
-      "rotation": 0,
-      "layer": "rug",
-      "note": "the big sage play rug"
-    },
-    {
-      "id": "kids-table-1",
-      "itemId": "ikea-50178411",
-      "x": 205,
-      "y": 100,
-      "rotation": 0,
-      "layer": "floor",
-      "note": "LÄTT with its two chairs on the long sides"
-    },
-    {
-      "id": "kid-chair-1",
-      "itemId": "ikea-29401436",
-      "x": 196,
-      "y": 151,
-      "rotation": 180,
-      "layer": "floor",
-      "note": "Maddie's reading chair against the far wall"
-    },
-    {
-      "id": "book-display-1",
-      "itemId": "ikea-80614566",
-      "x": 215.5,
-      "y": 162,
-      "rotation": 180,
-      "layer": "floor",
-      "note": "FLISAT book display beside her chair"
-    },
-    {
       "id": "wall-lamp-1",
       "itemId": "ikea-40440832",
       "x": 258,
@@ -168,57 +96,76 @@
       "note": "cloud light over the reading bench"
     },
     {
+      "id": "bookcase-2",
+      "itemId": "ikea-20631639",
+      "x": 245.625,
+      "y": 62.875,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "KALLAX 2x2 with four drawer inserts: eight toy drawers"
+    },
+    {
+      "id": "toy-cabinet-1",
+      "itemId": "ikea-79047429",
+      "x": 259,
+      "y": 94.75,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "low BESTÅ toy cabinet on the floor, push-open doors at her height"
+    },
+    {
+      "id": "book-display-1",
+      "itemId": "ikea-80614566",
+      "x": 264.5,
+      "y": 96,
+      "rotation": 90,
+      "layer": "top",
+      "note": "FLISAT book display standing on the BESTÅ"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-00578906",
+      "x": 274.5,
+      "y": 116,
+      "rotation": 90,
+      "layer": "top",
+      "note": "right-lower wall above the BESTÅ"
+    },
+    {
+      "id": "kids-table-1",
+      "itemId": "ikea-50178411",
+      "x": 196,
+      "y": 92,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LÄTT with its two chairs on the long sides"
+    },
+    {
+      "id": "kid-chair-1",
+      "itemId": "ikea-29401436",
+      "x": 212,
+      "y": 124,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "Maddie's POÄNG facing her books on the BESTÅ"
+    },
+    {
       "id": "art-2",
       "itemId": "ikea-70624014",
       "x": 217,
       "y": 0,
       "rotation": 0,
       "layer": "top",
-      "note": "window wall over the reading corner"
-    },
-    {
-      "id": "art-1",
-      "itemId": "ikea-00578906",
-      "x": 274.5,
-      "y": 118,
-      "rotation": 90,
-      "layer": "top",
-      "note": "right-lower wall above the BESTÅ drawers"
-    },
-    {
-      "id": "shoe-cabinet-1",
-      "itemId": "ikea-70530256",
-      "x": 76,
-      "y": 162,
-      "rotation": 180,
-      "layer": "floor"
-    },
-    {
-      "id": "hooks-1",
-      "itemId": "ikea-10500059",
-      "x": 74.375,
-      "y": 171,
-      "rotation": 180,
-      "layer": "top",
-      "note": "coat hooks over the BISSA, about 62\" up"
-    },
-    {
-      "id": "hooks-2",
-      "itemId": "ikea-40614568",
-      "x": 76.375,
-      "y": 172,
-      "rotation": 180,
-      "layer": "top",
-      "note": "Maddie's hooks over the BISSA, about 40\" up"
+      "note": "window wall beside the reading corner"
     },
     {
       "id": "mirror-1",
       "itemId": "ikea-80592102",
-      "x": 74,
+      "x": 48.125,
       "y": 0,
       "rotation": 0,
       "layer": "top",
-      "note": "window wall by the top landing"
+      "note": "window wall above the top landing"
     }
   ],
   "extras": [
@@ -259,13 +206,8 @@
     },
     {
       "itemId": "ikea-30574006",
-      "qty": 4,
-      "note": "DRÖNA boxes in the KALLAX TV unit's cubbies (toys at the TV wall)"
-    },
-    {
-      "itemId": "ikea-60400298",
-      "qty": 2,
-      "note": "GNABBAS seagrass baskets on the PERJOHAN's lower shelf"
+      "qty": 3,
+      "note": "DRÖNA boxes inside the BESTÅ cabinet (sorting toys)"
     },
     {
       "itemId": "ikea-20542129",

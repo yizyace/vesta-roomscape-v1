@@ -14,7 +14,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 225,
     "currency": "USD",
@@ -34,7 +34,7 @@
       "caption": "BESTÅ tv bench in light oak, 4 doors, modern design, adjustable shelves, cable management."
     }
   ],
-  "notes": "Flags: none (15\" tall, under F-21's 27\"), but Safety and compliance says \"A floor-standing TV bench must be fixed to the wall with the included wall fasteners.\" and \"WARNING! Tipping hazard – this product must be securely anchored.\", so anchor it. Fit: living-room bottom wall (275.5\", F-20) or the 93\" upper right wall: 70.875\" of wall, 16.5\" deep; holds the Samsung 65\" amazon-B0GP9QN5SN (Max. TV weight 66 lb against the TV's 31.7 lb; the 56.9\" panel on the 70.875\" top, 7\" to spare each side) · fits. The media-wall piece Andrew's BESTÅ link points to (F-63): solid Lappviken doors, no glass (the main photo's alt: \"BESTÅ tv bench in light oak, 4 doors, modern design, adjustable shelves, cable management.\"); \"there are several cord outlets at the back of the TV bench\" and \"The cable outlet at the top lets cords run down smoothly into the TV bench.\"; it can also hang on the wall (\"A wall-mounted TV unit creates a clean, airy look\"; BESTÅ suspension rail must not be used). Price: regular $225.00; IKEA Family price $184.00, valid Oct 7, 2026 - Nov 11, 2026. Popularity: #1 under BESTÅ TV benches sorted Most popular (the black-brown card); 3.8 stars (390). Stock 2026-10-23: in stock at IKEA Long Island, NY; click and collect from $2.00; home delivery to our ZIP from $49.00. Assembly service $65.00. Variant: white stained oak effect/Lappviken white stained oak effect (the house style's light wood), article 295.680.54. rooms: living-room, from the brief (F-63).",
+  "notes": "Rejected 2026-10-24: L01 has no TV (Andrew, 2026-10-24: \"we don't have a TV\"; rules.md F-65), so a TV unit is not staged; kept on file in case that changes. Flags: none (15\" tall, under F-21's 27\"), but Safety and compliance says \"A floor-standing TV bench must be fixed to the wall with the included wall fasteners.\" and \"WARNING! Tipping hazard – this product must be securely anchored.\", so anchor it. Fit: living-room bottom wall (275.5\", F-20) or the 93\" upper right wall: 70.875\" of wall, 16.5\" deep; holds the Samsung 65\" amazon-B0GP9QN5SN (Max. TV weight 66 lb against the TV's 31.7 lb; the 56.9\" panel on the 70.875\" top, 7\" to spare each side) · fits. The media-wall piece Andrew's BESTÅ link points to (F-63): solid Lappviken doors, no glass (the main photo's alt: \"BESTÅ tv bench in light oak, 4 doors, modern design, adjustable shelves, cable management.\"); \"there are several cord outlets at the back of the TV bench\" and \"The cable outlet at the top lets cords run down smoothly into the TV bench.\"; it can also hang on the wall (\"A wall-mounted TV unit creates a clean, airy look\"; BESTÅ suspension rail must not be used). Price: regular $225.00; IKEA Family price $184.00, valid Oct 7, 2026 - Nov 11, 2026. Popularity: #1 under BESTÅ TV benches sorted Most popular (the black-brown card); 3.8 stars (390). Stock 2026-10-23: in stock at IKEA Long Island, NY; click and collect from $2.00; home delivery to our ZIP from $49.00. Assembly service $65.00. Variant: white stained oak effect/Lappviken white stained oak effect (the house style's light wood), article 295.680.54. rooms: living-room, from the brief (F-63).",
   "captured": {
     "date": "2026-10-23",
     "by": "claude",

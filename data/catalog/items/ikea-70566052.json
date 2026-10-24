@@ -14,7 +14,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 249.99,
     "currency": "USD",
@@ -34,7 +34,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: none. Fit: living-room bottom wall (the far wall, 275.5\", F-20), centered on the sofa: 63.75\" of wall, 15.75\" deep, leaving 30\" or more in front for the walkway (F-30) · fits. Holds a 65\" TV: Max. TV weight 66 lb and 63.75\" wide. Two drawers with solid fronts and an open shelf, four legs, no glass (the image alt reads \"White IDANÄS tv stand: 4 legs, 2 drawers, open shelf\"); cable outlets at the back. Safety and compliance: \"WARNING! Tipping hazard – this product must be securely anchored.\" (24.75\" tall, under F-21's 27\", so no anchor-required tag, but anchor it as the page says). Article 705.660.52. Popularity: not badged; #21 under TV stands & benches sorted Most popular; 4.6 stars (105). The staged console: wider than the #1 KALLAX TV unit ikea-50574883 (57.75\", 35 lb limit, $79.99, the budget option) and without the glass drawer fronts of BRIMNES ikea-20569487 (rejected); holds the Samsung 65\" amazon-B0GP9QN5SN (31.7 lb). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "notes": "Rejected 2026-10-24: L01 has no TV (Andrew, 2026-10-24: \"we don't have a TV\"; rules.md F-65), so a TV unit is not staged; kept on file in case that changes. Flags: none. Fit: living-room bottom wall (the far wall, 275.5\", F-20), centered on the sofa: 63.75\" of wall, 15.75\" deep, leaving 30\" or more in front for the walkway (F-30) · fits. Holds a 65\" TV: Max. TV weight 66 lb and 63.75\" wide. Two drawers with solid fronts and an open shelf, four legs, no glass (the image alt reads \"White IDANÄS tv stand: 4 legs, 2 drawers, open shelf\"); cable outlets at the back. Safety and compliance: \"WARNING! Tipping hazard – this product must be securely anchored.\" (24.75\" tall, under F-21's 27\", so no anchor-required tag, but anchor it as the page says). Article 705.660.52. Popularity: not badged; #21 under TV stands & benches sorted Most popular; 4.6 stars (105). The staged console: wider than the #1 KALLAX TV unit ikea-50574883 (57.75\", 35 lb limit, $79.99, the budget option) and without the glass drawer fronts of BRIMNES ikea-20569487 (rejected); holds the Samsung 65\" amazon-B0GP9QN5SN (31.7 lb). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

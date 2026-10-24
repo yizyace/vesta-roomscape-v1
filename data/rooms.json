@@ -13,16 +13,18 @@
         { "name": "step", "dir": "right", "length": 14.5, "kind": "measured", "note": "steps outward; the room is wider below it" },
         { "name": "right-lower", "dir": "down", "length": 77, "kind": "measured" },
         { "name": "right-blocker", "dir": "down", "length": 3, "kind": "derived", "note": "173 - (93 + 77): the small blocker in a corner on the right side (Andrew, 2026-10-22); which corner and its width are not recorded, so it is drawn as 3 inches of wall at the bottom-right" },
-        { "name": "bottom", "dir": "left", "length": 275.5, "kind": "derived", "note": "261 + 14.5; the wall opposite the windows was not measured" },
+        { "name": "bottom", "dir": "left", "length": 275.5, "kind": "derived", "note": "no wall: the side opposite the windows is open to the kitchen and dining area (Andrew, 2026-10-24); its length is 261 + 14.5, not measured" },
         { "name": "left", "dir": "up", "length": 173, "kind": "measured" }
       ],
       "features": [
         { "type": "heater", "wall": "top", "at": 0, "length": 261, "depth": 6, "measured": [], "note": "hatched along the whole wall, unlabeled; on the bedroom sketches the same hatching marks the heater; depth not measured" },
         { "type": "window", "wall": "top", "at": 110, "length": 102, "measured": ["length"], "note": "drawn right of center; distance from the corners not measured" },
-        { "type": "stairs", "wall": "left", "at": 0, "length": 173, "depth": 36, "measured": ["length"], "label": "stairs", "note": "the whole left side is the staircase (Andrew, 2026-10-22: \"that entire thing is elevated (stairs)\"); its width is not measured, so the band is drawn 36 inches deep; which end people step off is unknown" }
+        { "type": "stairs", "wall": "left", "at": 0, "length": 173, "depth": 36, "measured": ["length"], "label": "stairs", "note": "the whole left side is the staircase (Andrew, 2026-10-22: \"that entire thing is elevated (stairs)\"); its width is not measured, so the band is drawn 36 inches deep; which end people step off is unknown" },
+        { "type": "opening", "wall": "bottom", "at": 0, "length": 275.5, "measured": [], "label": "opening to the kitchen and dining room", "note": "the whole bottom side, opposite the windows, is open to the kitchen and dining area, with no wall (Andrew, 2026-10-24: \"the BOTTOM of the living room edge is actualy OPEN FLOOR PLAN  that connects to the KITCEN / DINING area\"); its length is the derived 275.5; a 30-inch walkway along it stays clear (rules.md F-42)" }
       ],
       "notes": [
         "No door is drawn on the sketch; the staircase along the left wall is the way in.",
+        "The bottom side, opposite the windows, is open to the kitchen and dining area; nothing stands against it (rules.md F-42).",
         "Positions along walls are eyeballed from the sketch until measured."
       ]
     },

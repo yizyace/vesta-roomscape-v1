@@ -1,77 +1,86 @@
 {
   "room": "living-room",
   "variant": "b",
-  "name": "TV on the upper right wall, sofa backing an entry hall by the stairs, toys in the 77-inch niche",
-  "updatedAt": "2026-10-23T15:11:27.793Z",
-  "notes": "Alternative: the TV moves to the 93\" right-upper wall, perpendicular to the window (no glare), and the KIVIK faces it with its back to the stairs side. A LACK console behind the sofa makes the floor by the stairs an entry hall on a LOHALS jute rug (drop zone, bench, shoes, a reading chair by the window); the play corner takes the whole 77\" niche with two TROFAST, the LEN rug and the LÄTT table.\ntv-stand-3 BESTÅ TV unit with doors, white stained oak effect, 70 7/8 x 16 1/2 x 15\", right-upper wall y 22.125-93, x 244.5-261: 16.1\" from the heater face (F-33), fixed to the wall per its page (F-63); tv-1 Samsung 65\" on it, 2\" from the wall.\nsofa-1 KIVIK facing east, x 141-178.375, y 18-107.75: its north arm 12\" from the heater face (F-33: upholstery 12\"), so the gap between sofa and window is gone; screen 98.4\" from the back-cushion line (F-37: 1.51x); the TV's center is 5.3\" north of the sofa's center (the right-upper wall ends at the step); the arm end stands inside the window's span 18\" from the wall (assumed-position:window); delivery-path-unmeasured (F-22).\ncoffee-table-1 LACK turned 90 degrees, x 192.375-214, y 45.188-80.562: 14\" in front of the sofa (F-39), 30.5\" from the TV unit (F-30).\nconsole-1 LACK console, x 125.625-141, y 35.312-90.438, against the sofa's back: the entry's drop zone (lamp-2 STORSEGEL, three GNABBAS baskets for keys, mail, hats); 53.6\" of hall between it and the stair strip (F-30).\nside-table-1 LACK side table with lamp-1 STORSEGEL at the sofa's south arm, x 148.875-170.5, y 108.75-130.375.\nfloor-lamp-2 TÅGARP in the TV corner, x 250-259, y 12-21, 6\" off the heater face (F-33).\nrug-1 TIOKRONA 118 x 94\", x 141-259, y 8-102: the whole sofa, the coffee table and the TV unit's front stand on it.\nrug-5 LOHALS jute rug 52 x 77\", x 73-125, y 56-133: it fills the 53.6\" between the stair strip and the console and marks the hall as the entry, its natural fiber taking the grit from shoes.\nchair-1 POÄNG at the top of the hall, x 80-106.75, y 18-50.25, facing south: 12\" from the heater face (F-33), 8\" past the stair strip; floor-lamp-3 TÅGARP beside it (x 108-117, y 40-49); art-1 PJÄTTERYD Waterlilies on the window wall above it.\nbench-1 PERJOHAN bench with storage, bottom wall x 73-112.375, beside the bottom landing: sit to put shoes on, baskets underneath; hooks-1 HÖVOLM above it at coat height and hooks-2 FLISAT at Maddie's height (about 32\").\nshoe-cabinet-1 BISSA, bottom wall x 114.5-133.75: anchor-required (F-21); 12\" for its tilt-out; mirror-1 LILJETRÄD above it.\nplant-1 FEJKA at the console's south end, x 128-137, y 92-101.\ntoy-storage-1 and toy-storage-2 TROFAST, the 77\" right-lower niche 96.375-169.625 (73.2\" of bins), x 258.125-275.5: 24\" clear in front (F-32); 20 1/2\" tall, no anchoring needed; their tops are her display shelf.\nrug-3 LEN play rug, x 206-258, y 103-166; kids-table-1 LÄTT with its two chairs, x 209-233.75, y 112-130.875: 24.4\" from the TROFAST fronts (F-32), 30.6\" from the sofa's corner and 31.4\" south of the coffee table, so the 30\" way into the TV corner stays open (F-30). art-2 RÖDALM on the far wall in the play corner.\nFree wall: the bottom wall x 133.75-275.5 (141.8\") stays clear and reachable by a 30\" path (assumed-position:door).\nRight side (F-61): the 77\" right-lower wall carries two TROFAST (73 1/4\"); the 93\" upper section carries the TV, as the brief allows (play on the 77\" only).\nNot placed: the BESTÅ toy drawers, SMÅSTAD bench and kid's POÄNG (no room for a reading corner in front of the TROFAST's 24\" without closing the way into the TV corner; a BESTÅ sideboard on the free bottom wall would close the play corner's 30\" access too), the chaise sofa and IDANÄS (c), KALLAX units (c, d), KIVIK ottoman and STOENSE (d), LAUTERS.\nStairs: nothing on the x 0-36 band (F-40, assumed-position:stairs); both 36\" landings stay clear, and the 36\" strip beside the band (x 36-72) is kept as a walkway joining them, so each landing meets the open floor with at least 30\" (F-30). Nothing she can climb stands against the stair side, whose edge (wall, half wall or railing) is unknown.\nHeater: every clearance is measured from the drawn 6\" heater face (heater-depth-assumed): floor pieces start at y 12 or more and upholstery at y 18 or more (F-33). Window: its place on the top wall is eyeballed (assumed-position:window); curtains and rod hang there and nothing stands under it (F-38).\nKid safety (F-21): no glass anywhere; every TV unit is fixed to the wall as its page says, and the TV gets an anti-tip strap; tall storage is anchored.\nExtras: GINSTMOTT curtains x2 pairs, HUGAD rod x1 (no-dimensions, an extra), SVARTPOPPEL covers x2, VALLKRASSING covers x2, FJÄDRAR inserts x4, VALLKRASSING throw x1, GNABBAS baskets x3 (console shelf).",
+  "name": "Sofa facing the play area, console drop zone by the stairs, two TROFAST and the LÄTT on the play floor",
+  "updatedAt": "2026-10-24T21:47:46.648Z",
+  "notes": "Alternative: No TV (F-65); the bottom side is open to the kitchen and dining area, so its 30-inch walkway (y 143-173) stays clear (F-42): nothing stands against it or hangs on it, and it is the route from the stairs to the kitchen and dining room.\nThe KIVIK faces east across the coffee table to Maddie's play area, so the grown-ups watch her play; its back is to the stair side, with the LACK console behind it as the drop zone at the top of the stairs and a BISSA for shoes at its end. A POÄNG at the coffee table's south end faces the window, closing an L, and the floor lamp stands in the L's corner. The play area takes the right half of the room: the SMÅSTAD reading bench and a TROFAST on the upper section, a second TROFAST in the 50\" left of the open side's walkway, the LEN rug and the LÄTT table in the sofa's view.\nsofa-1 KIVIK facing east, rot 270, x 87.375-124.75, y 40-129.75: its north arm 34\" from the heater face (F-33), so a 34\" route runs along the window from the stair strip; the console and the 36\" stair strip behind it (F-39); delivery-path-unmeasured (F-22).\nconsole-1 LACK console, x 72-87.375, y 57.312-112.438, against the sofa's back and facing the stair strip: lamp-2 STORSEGEL on top, three GNABBAS baskets for keys, mail and hats on its shelf; plant-1 FEJKA at its north end (x 74-83, y 46-55).\nshoe-cabinet-1 BISSA, x 72-83, y 114.5-133.75, at the console's south end, its tilt-out compartments facing the stair strip (12\" to open): shoes off at the top of the stairs; anchor-required (F-21, 36 5/8\"); 9.3\" short of the open side's walkway (F-42).\ncoffee-table-1 LACK turned 90 degrees, x 140.75-162.375, y 60.875-96.25: 16\" in front of the sofa (F-39).\nchair-1 POÄNG facing north at the coffee table's south end, x 138.188-164.938, y 110.25-142.5: 14\" from the coffee table, its back 0.5\" short of the open side's walkway (F-42); side-table-1 LACK with lamp-1 STORSEGEL beside it (x 166-187.625, y 120.875-142.5); floor-lamp-2 TÅGARP in the L's corner (x 126-135, y 131-140).\nrug-1 TIOKRONA turned 90 degrees, 94 x 118\", x 78-172, y 24-142: under the sofa, the coffee table and the POÄNG's front legs.\ntoy-bench-1 SMÅSTAD, right-upper wall x 240.5-261, y 18-53.375, 12\" from the heater face (F-33), its boxes keep 24\" (F-32); wall-lamp-1 UPPLYST above it. Check the heater's surface temperature before she reads there.\ntoy-storage-1 TROFAST, right-upper wall x 243.625-261, y 56.375-93; toy-storage-2 TROFAST, right-lower wall x 258.125-275.5, y 96-132.625, 10.4\" short of the open side's walkway (F-42): 24\" clear in front of each (F-32); 20 1/2\" tall, no anchoring needed; art-1 PJÄTTERYD above the lower one.\nrug-3 LEN play rug, x 186-238, y 56-119; kids-table-1 LÄTT with its two chairs, x 192-216.75, y 100-118.875: outside both TROFAST's 24\" (F-32), 4.4\" past the side table, in the sofa's line of sight. art-2 RÖDALM on the window wall over the reading corner.\nRight side (F-61): the 93\" right-upper wall carries the SMÅSTAD and a TROFAST, the right-lower wall the second TROFAST (36 5/8\" of the 50\" left of the walkway).\nNot placed: the TV and every TV unit (F-65); the PERJOHAN entry bench, hooks and LOHALS hall rug (the bottom wall the entry stood on is open; the console and the BISSA by the stairs are the entry now); the BESTÅ cabinets (a, d), the KALLAX units (c, d), the chaise sofa (c), the KIVIK ottoman and STOENSE (d), the kid's POÄNG (c, d) and the FLISAT (a, c, d), the LAUTERS.\nStairs: nothing on the x 0-36 band (F-40, assumed-position:stairs); both 36\" landings stay clear, and the 36\" strip beside the band (x 36-72) is kept as a walkway joining them: the bottom landing opens onto the open side's walkway, the top one onto the strip (F-30). Nothing she can climb stands against the stair side, whose edge (wall, half wall or railing) is unknown.\nHeater: every clearance is measured from the drawn 6\" heater face (heater-depth-assumed): floor pieces start at y 12 or more and upholstery at y 18 or more (F-33). Window: its place on the top wall is eyeballed (assumed-position:window); curtains and rod hang there and nothing stands under it (F-38).\nEntry: the old shoe cabinet, hooks and mirror hung on the bottom wall, which is open; the hooks are gone, and the LILJETRÄD mirror hangs on the window wall above the top landing.\nKid safety (F-21): no glass anywhere; storage over 27\" is anchored.\nExtras: GINSTMOTT curtains x2 pairs, HUGAD rod x1 (no-dimensions, an extra), SVARTPOPPEL covers x2, VALLKRASSING covers x2, FJÄDRAR inserts x4, VALLKRASSING throw x1, GNABBAS baskets x3 (console shelf).",
   "placements": [
-    {
-      "id": "tv-stand-3",
-      "itemId": "ikea-29568054",
-      "x": 244.5,
-      "y": 22.125,
-      "rotation": 90,
-      "layer": "floor",
-      "note": "BESTÅ TV unit on the 93\" right-upper wall, anchored"
-    },
-    {
-      "id": "tv-1",
-      "itemId": "amazon-B0GP9QN5SN",
-      "x": 250.3,
-      "y": 29.1,
-      "rotation": 90,
-      "layer": "top",
-      "note": "on the BESTÅ, 2\" from the wall"
-    },
-    {
-      "id": "sofa-1",
-      "itemId": "ikea-39440593",
-      "x": 141,
-      "y": 18,
-      "rotation": 270,
-      "layer": "floor",
-      "note": "KIVIK facing the TV, back to the stairs side"
-    },
-    {
-      "id": "coffee-table-1",
-      "itemId": "ikea-50319029",
-      "x": 192.375,
-      "y": 45.1875,
-      "rotation": 90,
-      "layer": "floor"
-    },
     {
       "id": "console-1",
       "itemId": "ikea-30574351",
-      "x": 125.625,
-      "y": 35.3125,
+      "x": 72,
+      "y": 57.3125,
       "rotation": 90,
       "layer": "floor",
-      "note": "LACK console behind the sofa: the entry drop zone"
+      "note": "LACK console behind the sofa, facing the stair strip: the drop zone at the top of the stairs"
     },
     {
       "id": "lamp-2",
       "itemId": "ikea-60573576",
-      "x": 129.8125,
-      "y": 40,
+      "x": 76.1875,
+      "y": 60,
       "rotation": 0,
       "layer": "top",
       "note": "on the console"
     },
     {
-      "id": "side-table-1",
-      "itemId": "ikea-70319028",
-      "x": 148.875,
-      "y": 108.75,
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 74,
+      "y": 46,
       "rotation": 0,
       "layer": "floor",
-      "note": "at the sofa's south arm"
+      "note": "at the console's north end"
+    },
+    {
+      "id": "shoe-cabinet-1",
+      "itemId": "ikea-70530256",
+      "x": 72,
+      "y": 114.5,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "BISSA at the console's south end, facing the stair strip; anchored"
+    },
+    {
+      "id": "sofa-1",
+      "itemId": "ikea-39440593",
+      "x": 87.375,
+      "y": 40,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "KIVIK facing east to the play area, back to the stair side"
+    },
+    {
+      "id": "coffee-table-1",
+      "itemId": "ikea-50319029",
+      "x": 140.75,
+      "y": 60.875,
+      "rotation": 90,
+      "layer": "floor"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-59305928",
+      "x": 138.1875,
+      "y": 110.25,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "POÄNG at the coffee table's south end, facing the window"
+    },
+    {
+      "id": "side-table-1",
+      "itemId": "ikea-70319028",
+      "x": 166,
+      "y": 120.875,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "beside the POÄNG"
     },
     {
       "id": "lamp-1",
       "itemId": "ikea-60573576",
-      "x": 156.1875,
-      "y": 116.0625,
+      "x": 173.3125,
+      "y": 128.1875,
       "rotation": 0,
       "layer": "top",
       "note": "on the side table"
@@ -79,115 +88,44 @@
     {
       "id": "floor-lamp-2",
       "itemId": "ikea-70486395",
-      "x": 250,
-      "y": 12,
+      "x": 126,
+      "y": 131,
       "rotation": 0,
       "layer": "floor",
-      "note": "TV corner uplighter, 6\" off the heater face"
+      "note": "in the corner of the L between the sofa and the POÄNG"
     },
     {
       "id": "rug-1",
       "itemId": "ikea-90628228",
-      "x": 141,
-      "y": 8,
-      "rotation": 0,
+      "x": 78,
+      "y": 24,
+      "rotation": 90,
       "layer": "rug",
-      "note": "under the sofa, the coffee table and the front of the TV unit"
+      "note": "under the sofa, the coffee table and the POÄNG's front legs"
     },
     {
-      "id": "chair-1",
-      "itemId": "ikea-59305928",
-      "x": 80,
+      "id": "toy-bench-1",
+      "itemId": "ikea-19389152",
+      "x": 240.5,
       "y": 18,
-      "rotation": 0,
+      "rotation": 90,
       "layer": "floor",
-      "note": "reading chair by the window at the top of the hall"
+      "note": "reading bench with toy boxes in the window corner"
     },
     {
-      "id": "rug-5",
-      "itemId": "ikea-30511288",
-      "x": 73,
-      "y": 56,
-      "rotation": 0,
-      "layer": "rug",
-      "note": "jute runner-size rug marking the entry hall"
-    },
-    {
-      "id": "floor-lamp-3",
-      "itemId": "ikea-70486395",
-      "x": 108,
-      "y": 40,
-      "rotation": 0,
-      "layer": "floor",
-      "note": "reading light beside the POÄNG"
-    },
-    {
-      "id": "art-1",
-      "itemId": "ikea-00578906",
-      "x": 80,
-      "y": 0,
-      "rotation": 0,
+      "id": "wall-lamp-1",
+      "itemId": "ikea-40440832",
+      "x": 258,
+      "y": 29.6875,
+      "rotation": 90,
       "layer": "top",
-      "note": "window wall above the POÄNG"
-    },
-    {
-      "id": "mirror-1",
-      "itemId": "ikea-80592102",
-      "x": 118.25,
-      "y": 172,
-      "rotation": 180,
-      "layer": "top",
-      "note": "far wall over the BISSA"
-    },
-    {
-      "id": "bench-1",
-      "itemId": "ikea-60485339",
-      "x": 73,
-      "y": 162,
-      "rotation": 180,
-      "layer": "floor",
-      "note": "entry bench by the bottom landing"
-    },
-    {
-      "id": "shoe-cabinet-1",
-      "itemId": "ikea-70530256",
-      "x": 114.5,
-      "y": 162,
-      "rotation": 180,
-      "layer": "floor"
-    },
-    {
-      "id": "hooks-1",
-      "itemId": "ikea-10500059",
-      "x": 81.4375,
-      "y": 171,
-      "rotation": 180,
-      "layer": "top",
-      "note": "coat hooks over the bench, about 62\" up"
-    },
-    {
-      "id": "hooks-2",
-      "itemId": "ikea-40614568",
-      "x": 74,
-      "y": 172,
-      "rotation": 180,
-      "layer": "top",
-      "note": "Maddie's hooks over the bench, about 32\" up"
-    },
-    {
-      "id": "plant-1",
-      "itemId": "ikea-70610601",
-      "x": 128,
-      "y": 92,
-      "rotation": 0,
-      "layer": "floor",
-      "note": "at the console's south end"
+      "note": "cloud light over the reading bench"
     },
     {
       "id": "toy-storage-1",
       "itemId": "ikea-39574865",
-      "x": 258.125,
-      "y": 96.375,
+      "x": 243.625,
+      "y": 56.375,
       "rotation": 90,
       "layer": "floor"
     },
@@ -195,15 +133,24 @@
       "id": "toy-storage-2",
       "itemId": "ikea-39574865",
       "x": 258.125,
-      "y": 133,
+      "y": 96,
       "rotation": 90,
       "layer": "floor"
     },
     {
+      "id": "art-1",
+      "itemId": "ikea-00578906",
+      "x": 274.5,
+      "y": 100.5,
+      "rotation": 90,
+      "layer": "top",
+      "note": "right-lower wall above the TROFAST"
+    },
+    {
       "id": "rug-3",
       "itemId": "ikea-40625109",
-      "x": 206,
-      "y": 103,
+      "x": 186,
+      "y": 56,
       "rotation": 0,
       "layer": "rug",
       "note": "play rug"
@@ -211,8 +158,8 @@
     {
       "id": "kids-table-1",
       "itemId": "ikea-50178411",
-      "x": 209,
-      "y": 112,
+      "x": 192,
+      "y": 100,
       "rotation": 0,
       "layer": "floor",
       "note": "LÄTT with its two chairs on the long sides"
@@ -220,11 +167,20 @@
     {
       "id": "art-2",
       "itemId": "ikea-70624014",
-      "x": 211.75,
-      "y": 172,
-      "rotation": 180,
+      "x": 217,
+      "y": 0,
+      "rotation": 0,
       "layer": "top",
-      "note": "far wall in the play corner"
+      "note": "window wall over the reading corner"
+    },
+    {
+      "id": "mirror-1",
+      "itemId": "ikea-80592102",
+      "x": 48.125,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "window wall above the top landing"
     }
   ],
   "extras": [
