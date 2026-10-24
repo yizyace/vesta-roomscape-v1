@@ -1,126 +1,126 @@
 {
   "room": "dining-room",
   "variant": "b",
-  "name": "ÅLHULT across the room, bench on the top wall, BESTÅ sideboard on the bottom wall",
-  "updatedAt": "2026-10-23T15:06:23.899Z",
-  "notes": "Bench against the top wall: the ÅLHULT (ash veneer) turned across the room with its matching bench, which needs no pull-out room, so the table sits against it and the bottom half of the room stays open; the BESTÅ sideboard takes the bottom wall. Set for six as placed with the table closed: the bench (2), three SANDSBERG and Maddie's URBAN. Nothing stands in the 30\" walkway (F-42).\nFlags: tight:32.3 (F-36, the table's right end to the right wall; Maddie's URBAN takes that end, since a parent pushes her in and she never needs an adult's 36\"); assumed-position:door; anchor-required (storage-1, F-21).\ntable-1 ÅLHULT extendable, beige/brown (ikea-60597921), rot 0 at x 48.5, y 14.125, closed 47 1/4 x 31 1/2\" along the 128\" width: F-36 48.5\" from its left end to the kitchen line (passing, met), 56.9\" from its open side to the sideboard (passing, met), 32.25\" from its right end to the right wall (tight:32.3). The leaf stays out here: opened in place (66 7/8\") the right end would come within 12.6\" of the wall.\nbench-1 ÅLHULT bench (ikea-60603093), top wall, centered under the table: two seats with the wall behind them (F-36's 36\" is for chairs; a bench backed to a wall needs none).\nchair-1, chair-2 SANDSBERG white (ikea-10605424), open side at the quarter points: 38.4\" behind them to the sideboard. chair-3 SANDSBERG, kitchen end: back at x 30, on the walkway's edge; pulled out it borrows the walkway (48.5\" from the table end to the kitchen line, F-36 passing).\njunior-chair-1 URBAN (ikea-00165213), right end: 13.4\" behind it (the tight:32.3 end).\nstorage-1 BESTÅ storage combination with drawers, white stained oak effect (ikea-39412689), bottom wall centered on the table (x 36.7 to 107.6): F-32 38.4\" from the drawer fronts to the seated chairs' backs (36\" preferred, met), 56.9\" to the table; push-open drawers and doors, no knobs; anchor-required (F-21: 29 1/8\").\nart-1 BLODFLÄDER (ikea-20601915), top layer, right wall centered on the table's long axis (y 6.25 to 53.5): seen down the length of the table from the kitchen, above Maddie's seat.\nlamp-1, lamp-2 VARPTROSS (ikea-20610854), top layer, bottom wall above the sideboard's outer sections, centers about 58\" up; plug-in. plant-1 FEJKA monstera, 7 1/2\" pot, 35 1/2\" tall (ikea-10615244), top layer, centered on the sideboard between them.\npendant-1 GULLSUDARE (ikea-90603869), top layer over the table's center (72.1, 29.9) on the HAVSRIS swag cord: 8\" right of and 30\" above the room's center, so the hook, not a center box, places it.\nrug-1 LYDERSHOLM (ikea-50495409), rug layer turned across the room (x 9.5 to 127.5, y 0.5 to 79.5): under the bench, 33.9\" past the table's open side, 39\" and 31.75\" past its ends, so every chair stays on it pulled out; its left 20.5\" runs under the walkway (F-42 allows rugs there) to keep the kitchen-end chair on it; 23\" of tile before the sideboard.\nExtras: HAVSRIS x 1; STOPP FILT x 2; SVARTSENAP runner x 1; placemats x 6; BLANDA MATT bowl x 1. No chair pads: the MALINDA overhangs the SANDSBERG seat by 1 5/8\".\nNot placed: a fourth SANDSBERG (bench 2 + 3 chairs + URBAN = 6). No window is drawn, so no window treatments (F-41). The kitchen line is unmeasured (wall, counter or open floor): the clearances treat it as the edge of a 30\" walkway that stays clear (F-42). Prices: items captured today as of 2026-10-23; reused catalog items as of 2026-10-22 are price-stale (F-02) except the BESTÅ pieces read on 2026-10-23. Not in the catalog, so not summed: light bulbs (E26 LED for the pendant, E12 LED for each VARPTROSS).",
+  "name": "ÅLHULT with its bench against the bottom wall, BESTÅ floating on the right wall",
+  "updatedAt": "2026-10-24T22:20:47.749Z",
+  "notes": "The top side is open to the living room (Andrew, 2026-10-24) as well as the left side to the kitchen, so both 30-inch walkways stay clear (F-42): every floor piece stands at x 30 or more and y 30 or more, nothing hangs on either open side, and rugs run under the walkways.\nThe bench moves from the top wall, which is now open, to the bottom wall: the ÅLHULT (ash veneer) turned across the room against its matching bench, which needs no pull-out room. Set for six as placed with the table closed: the bench (two, Maddie and a parent can share it with the wall behind them), two SANDSBERG on the living-room side, one at the kitchen end and Maddie's URBAN at the right end.\nF-36: the living-room side has 73.4\" to the living-room line, the kitchen end 48.5\" to the kitchen line (both passing sides), the right end 32.25\" to the right wall (tight:32.3, the URBAN's end), and the bench side needs none. Leaf in (66 7/8\"), the table opens 9.8\" at each end: 22.4\" from its right end to the wall (tight:22.4), and the kitchen-end chair stands 9.8\" into the walkway while it is in.\nDiners on the bench face the living room across the table; the BLODFLÄDER on the right wall is seen down the room from the kitchen.",
   "placements": [
     {
       "id": "table-1",
       "itemId": "ikea-60597921",
       "x": 48.5,
-      "y": 14.125,
+      "y": 73.375,
       "rotation": 0,
       "layer": "floor",
-      "note": "ALHULT closed, across the room against the bench; F-36: 48.5\" from the left end to the kitchen line, 56.9\" to the sideboard, 32.25\" from the right end to the wall (tight:32.3); the leaf stays out (12.6\" from the wall if opened in place)"
+      "note": "ÅLHULT closed, across the room against the bench; F-36: 73.4\" to the living-room line and 48.5\" to the kitchen line (passing sides), 32.25\" from the right end to the wall (tight:32.3); leaf in, 22.4\" (tight:22.4)"
     },
     {
       "id": "bench-1",
       "itemId": "ikea-60603093",
       "x": 51.875,
-      "y": 0,
-      "rotation": 0,
+      "y": 104.875,
+      "rotation": 180,
       "layer": "floor",
-      "note": "ALHULT bench against the top wall, centered under the table: two seats with the wall behind them"
+      "note": "ÅLHULT bench against the bottom wall, centered under the table: two seats with the wall behind them"
     },
     {
       "id": "chair-1",
       "itemId": "ikea-10605424",
       "x": 52.625,
-      "y": 45.625,
-      "rotation": 180,
+      "y": 54.875,
+      "rotation": 0,
       "layer": "floor",
-      "note": "open side, left; 38.4\" behind it to the sideboard"
+      "note": "living-room side, left; 24.9\" inside the walkway's edge"
     },
     {
       "id": "chair-2",
       "itemId": "ikea-10605424",
       "x": 76.25,
-      "y": 45.625,
-      "rotation": 180,
+      "y": 54.875,
+      "rotation": 0,
       "layer": "floor",
-      "note": "open side, right; as chair-1"
+      "note": "living-room side, right; as chair-1"
     },
     {
       "id": "chair-3",
       "itemId": "ikea-10605424",
       "x": 30,
-      "y": 22.1875,
+      "y": 81.4375,
       "rotation": 270,
       "layer": "floor",
-      "note": "kitchen end; back at x 30, on the walkway's edge; pulled out it borrows the walkway (F-36 passing, 48.5\")"
+      "note": "kitchen end; its back on the walkway's edge (x 30); pulled out it borrows the walkway (F-36 passing side)"
     },
     {
       "id": "junior-chair-1",
       "itemId": "ikea-00165213",
       "x": 95.75,
-      "y": 21,
+      "y": 80.25,
       "rotation": 90,
       "layer": "floor",
       "note": "Maddie's URBAN at the right end (the tight end: a parent pushes her in); 13.4\" behind it"
     },
     {
       "id": "storage-1",
-      "itemId": "ikea-39412689",
-      "x": 36.6875,
-      "y": 102.5,
-      "rotation": 180,
-      "layer": "floor",
-      "note": "BESTÅ sideboard with push-open drawers on the bottom wall, centered on the table; F-32: 38.4\" to the seated chairs' backs; anchor it (F-21)"
+      "itemId": "ikea-99623151",
+      "x": 119.375,
+      "y": 48.125,
+      "rotation": 90,
+      "layer": "top",
+      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, floated on the right wall with its underside about 33\" up, above the URBAN's back; push-open doors, on its suspension rails into studs (F-63)"
     },
     {
       "id": "art-1",
       "itemId": "ikea-20601915",
       "x": 126.75,
-      "y": 6.25,
+      "y": 59.9375,
       "rotation": 90,
       "layer": "top",
-      "note": "BLODFLÄDER on the right wall, centered on the table's long axis: seen down the table from the kitchen"
+      "note": "BLODFLÄDER on the right wall, centered above the cabinet: seen down the room from the kitchen"
     },
     {
       "id": "lamp-1",
       "itemId": "ikea-20610854",
-      "x": 45,
-      "y": 114,
-      "rotation": 180,
+      "x": 123,
+      "y": 50,
+      "rotation": 90,
       "layer": "top",
-      "note": "VARPTROSS above the sideboard's left section, center about 58\" up, plug-in"
+      "note": "VARPTROSS on the right wall above the cabinet's upper end, center about 60\" up, plug-in"
     },
     {
       "id": "lamp-2",
       "itemId": "ikea-20610854",
-      "x": 92.25,
+      "x": 68.625,
       "y": 114,
       "rotation": 180,
       "layer": "top",
-      "note": "VARPTROSS above the sideboard's right section; as lamp-1"
+      "note": "VARPTROSS on the bottom wall, centered above the bench, center about 58\" up: a reading light for the bench"
     },
     {
       "id": "plant-1",
       "itemId": "ikea-10615244",
-      "x": 68.375,
-      "y": 107,
+      "x": 120,
+      "y": 110.5,
       "rotation": 0,
       "layer": "top",
-      "note": "FEJKA monstera centered on the sideboard between the lamps"
+      "note": "FEJKA monstera on the cabinet's lower end, beside the art"
     },
     {
       "id": "pendant-1",
       "itemId": "ikea-90603869",
       "x": 63.25,
-      "y": 21,
+      "y": 80.25,
       "rotation": 0,
       "layer": "top",
-      "note": "GULLSUDARE on the HAVSRIS swag cord over the table's center (72.1, 29.9)"
+      "note": "GULLSUDARE on the HAVSRIS swag cord over the table's center (72.1, 89.1)"
     },
     {
       "id": "rug-1",
       "itemId": "ikea-50495409",
-      "x": 9.5,
-      "y": 0.5,
+      "x": 5,
+      "y": 40,
       "rotation": 90,
       "layer": "rug",
-      "note": "LYDERSHOLM turned across: under the bench, 33.9\" past the open side, 39\" and 31.75\" past the ends; its left 20.5\" under the walkway (F-42 allows rugs)"
+      "note": "LYDERSHOLM turned across, from the bottom wall: under the bench, 33.4\" past the table's living-room side, 43.5\" past the kitchen end and 27.25\" past the right end; its left 25\" under the kitchen walkway (F-42 allows rugs)"
     }
   ],
   "extras": [

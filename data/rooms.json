@@ -34,15 +34,16 @@
       "sketch": "sources/2026-10-22-dining-kitchen-sketch-user.jpg",
       "floor": "tile",
       "walls": [
-        { "name": "top", "dir": "right", "length": 128, "kind": "measured", "note": "from the side open to the kitchen to the right wall" },
+        { "name": "top", "dir": "right", "length": 128, "kind": "measured", "note": "no wall: the side open to the living room (Andrew, 2026-10-24); 128 from the side open to the kitchen to the right wall" },
         { "name": "right", "dir": "down", "length": 119, "kind": "derived", "note": "assumed equal to the left side; whether this wall has a doorway is not recorded" },
         { "name": "bottom", "dir": "left", "length": 128, "kind": "derived", "note": "assumed equal to the top wall" },
         { "name": "left", "dir": "up", "length": 119, "kind": "measured", "note": "no wall: the side open to the kitchen (Andrew, 2026-10-23)" }
       ],
       "features": [
-        { "type": "opening", "wall": "left", "at": 0, "length": 119, "measured": ["length"], "label": "opening to the kitchen", "note": "the whole left side is open to the kitchen, with no wall (Andrew, 2026-10-23: \"the left side of the room is actually a no-wall line to the ktichen! no point puttin gfurniture there and cutting off the open space\"); a 30-inch walkway along it stays clear (rules.md F-42)" }
+        { "type": "opening", "wall": "left", "at": 0, "length": 119, "measured": ["length"], "label": "opening to the kitchen", "note": "the whole left side is open to the kitchen, with no wall (Andrew, 2026-10-23: \"the left side of the room is actually a no-wall line to the ktichen! no point puttin gfurniture there and cutting off the open space\"); a 30-inch walkway along it stays clear (rules.md F-42)" },
+        { "type": "opening", "wall": "top", "at": 0, "length": 128, "measured": ["length"], "label": "opening to the living room", "note": "the whole top side is open to the living room, whose bottom side is open to the kitchen and dining area, with no wall (Andrew, 2026-10-24: \"The bottom of the living room (with stairs on the left) is where it connects to the dining room / kitchen.\"); the plans share the living room's orientation, so the dining room's top faces it; a 30-inch walkway along it stays clear (rules.md F-42)" }
       ],
-      "notes": ["The left side is open to the kitchen; nothing stands against it (rules.md F-42).", "Positions along walls are eyeballed from the sketch until measured."]
+      "notes": ["The left side is open to the kitchen and the top side to the living room; nothing stands against either (rules.md F-42).", "Positions along walls are eyeballed from the sketch until measured."]
     },
     {
       "id": "kitchen",

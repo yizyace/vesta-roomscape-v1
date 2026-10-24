@@ -1,69 +1,69 @@
 {
   "room": "dining-room",
   "variant": "c",
-  "name": "Round for six: ROSENTORP with the leaf, BESTÅ tower in the corner",
-  "updatedAt": "2026-10-23T15:06:24.130Z",
-  "notes": "Round for six: the ROSENTORP round extendable in white, the no-corners option for a 4-year-old. Closed it seats four, the everyday table (three VIHALS and the URBAN). It seats six only with the leaf in: the butterfly leaf makes a 61 x 43 1/4\" oval along the room's depth, and two more VIHALS chairs (in extras, stacked away; VIHALS stacks six) join the long sides. Nothing stands in the 30\" walkway (F-42).\nFlags: tight:29 (F-36, the oval's ends with the leaf in); tight:33.1 (F-36, the round's edge to the BESTÅ tower's corner on the diagonal; 27.8\" with the leaf in, where no chair pulls out); assumed-position:door; anchor-required (storage-1, F-21).\ntable-1 ROSENTORP extendable, white (ikea-80568239), rot 0 at x 48.5, y 37.875, center (70.1, 59.5): closed, F-36 48.5\" to the kitchen line (passing, met), 36.25\" to the right wall, 37.9\" to the top and bottom walls (fits). Leaf in, the oval runs y 29 to 90: 29\" at its ends (tight:29), the sides as closed.\nchair-1 VIHALS (ikea-50569103), kitchen side (west): back at x 30, on the walkway's edge. chair-3 VIHALS, right side (east): 17.75\" behind it. chair-5 VIHALS, bottom (south): 19.4\" behind it.\njunior-chair-1 URBAN (ikea-00165213), top (north): 19\" behind it.\nLeaf-in clearances: the URBAN and chair-5 move out to the oval's ends with 10.1\" and 10.5\" behind them; chair-1 and chair-3 shift up and the two stored VIHALS join below them, two a side at 48.5\" from the kitchen line and 36.25\" from the right wall: six seats.\nstorage-1 BESTÅ shelf unit with doors, white Lappviken/white, 23 5/8 x 16 1/2 x 76\" (ikea-39429699), top-right corner against the right wall (x 111.5 to 128, y 0 to 23.6): a round table leaves the corners free; its three doors open toward the kitchen, clear of every chair; 33.1\" from the round on the diagonal (tight:33.1), 27.8\" from the oval; anchor-required (F-21: 76\", under F-23's 78\"; the page: 'shall not be hung on the wall').\nart-1 BLODFLÄDER (ikea-20601915), top layer, right wall centered on the table (y 35.9 to 83.1), above the east chair. lamp-1 VARPTROSS (ikea-20610854), top layer, right wall below the art (y 86.6 to 93.6), center about 58\" up, plug-in: one lamp, the tower balances the art's other side.\npendant-1 GULLSUDARE (ikea-90603869), top layer over the table's center on the HAVSRIS swag cord, 6\" right of the room's center.\nplant-1 FEJKA bird of paradise (ikea-70610601), floor, bottom-right corner (x 117 to 126, y 106 to 115), 44.4\" from the table.\nrug-1 LYDERSHOLM (ikea-50495409), rug layer (x 30.5 to 109.5, y 0.5 to 118.5), stopping 2\" short of the tower: 37.4\" past the round north and south but only 17.9\" west and east (the 24\" rule wants 24\"). The seated west and east chairs stand on its edges, and their back legs come off it, 1/4\" down, when pulled out. The right-size kid-proof rug for a round table (FULLMAKT 7'10\" x 9'10\", ikea-20573111) is clearance and cannot be delivered to our ZIP, and the jute TIOKRONA cannot be washed. For a round table on tile with a 4-year-old I would skip the rug; F-41 asks for one, so this is the closest fit.\nExtras: VIHALS chair x 2 (the fifth and sixth seats, stacked away until the leaf goes in); HAVSRIS x 1; STOPP FILT x 2; runner x 1; placemats x 6; BLANDA MATT x 1; MALINDA chair pads x 5.\nNo window is drawn, so no window treatments (F-41). The kitchen line is unmeasured (wall, counter or open floor): the clearances treat it as the edge of a 30\" walkway that stays clear (F-42). Prices: items captured today as of 2026-10-23; reused catalog items as of 2026-10-22 are price-stale (F-02) except the BESTÅ pieces read on 2026-10-23. Not in the catalog, so not summed: light bulbs (E26 LED for the pendant, E12 LED for each VARPTROSS).",
+  "name": "Round for six: ROSENTORP in the open corner, the BESTÅ tower in the far corner",
+  "updatedAt": "2026-10-24T22:20:47.972Z",
+  "notes": "The top side is open to the living room (Andrew, 2026-10-24) as well as the left side to the kitchen, so both 30-inch walkways stay clear (F-42): every floor piece stands at x 30 or more and y 30 or more, nothing hangs on either open side, and rugs run under the walkways.\nRound for six: the ROSENTORP round extendable in white, the no-corners option for a 4-year-old. Closed it seats four, the everyday table: three VIHALS (kitchen side, living-room side, right side) and Maddie's URBAN on the wall side. With the butterfly leaf in, it is a 61 x 43 1/4\" oval across the room and seats six with the two stacked VIHALS from the extras.\nF-36, closed: 48.5\" to the kitchen line and 48.5\" to the living-room line (passing sides), 36.25\" to the right wall, 27.25\" to the bottom wall (tight:27.3, Maddie's side: a parent pushes the URBAN in), and 26.8\" on the diagonal to the BESTÅ tower (tight:26.8). Leaf in, the oval grows 8.9\" each way along the room's width: 27.4\" from its right end to the wall (tight:27.4), and its kitchen-end chair stands 8.9\" into the walkway while it is in.\nThe tower stands in the far corner, away from both openings, so it walls off no view; its doors open toward the table. During a meal it is reached past the right chair (17.75\" between that chair and the wall, walkway-narrow:17.8); with the chairs pushed in under the round it is an easy step.",
   "placements": [
     {
       "id": "table-1",
       "itemId": "ikea-80568239",
       "x": 48.5,
-      "y": 37.875,
+      "y": 48.5,
       "rotation": 0,
       "layer": "floor",
-      "note": "ROSENTORP round, closed, center (70.1, 59.5); F-36: 48.5\" to the kitchen line, 36.25\" to the right wall, 37.9\" top and bottom; leaf in (61\" oval along the depth), 29\" at the ends (tight:29)"
+      "note": "ROSENTORP round, closed, center (70.1, 70.1); F-36: 48.5\" to both open sides, 36.25\" to the right wall, 27.25\" to the bottom wall (tight:27.3), 26.8\" to the tower on the diagonal (tight:26.8); leaf in, a 61\" oval across the room, 27.4\" from its right end to the wall (tight:27.4)"
     },
     {
       "id": "chair-1",
       "itemId": "ikea-50569103",
       "x": 30,
-      "y": 50.625,
+      "y": 61.25,
       "rotation": 270,
       "layer": "floor",
-      "note": "kitchen side (west); back at x 30, on the walkway's edge"
+      "note": "kitchen side (west); its back on the walkway's edge (x 30)"
     },
     {
       "id": "chair-3",
       "itemId": "ikea-50569103",
       "x": 91.75,
-      "y": 50.625,
+      "y": 61.25,
       "rotation": 90,
       "layer": "floor",
-      "note": "right side (east); 17.75\" behind it"
+      "note": "right side (east); 17.75\" behind it to the wall"
     },
     {
       "id": "chair-5",
       "itemId": "ikea-50569103",
       "x": 61.25,
-      "y": 81.125,
-      "rotation": 180,
+      "y": 30,
+      "rotation": 0,
       "layer": "floor",
-      "note": "bottom (south); 19.4\" behind it"
+      "note": "living-room side (north); its back on the walkway's edge (y 30)"
     },
     {
       "id": "junior-chair-1",
       "itemId": "ikea-00165213",
       "x": 61.25,
-      "y": 19,
-      "rotation": 0,
+      "y": 91.75,
+      "rotation": 180,
       "layer": "floor",
-      "note": "Maddie's URBAN on the top (north); 19\" behind it"
+      "note": "Maddie's URBAN on the wall side (south); 8.4\" behind it (the tight side: a parent pushes her in)"
     },
     {
       "id": "storage-1",
       "itemId": "ikea-39429699",
       "x": 111.5,
-      "y": 0,
+      "y": 95.375,
       "rotation": 90,
       "layer": "floor",
-      "note": "BESTÅ shelf unit with doors, 76\", in the top-right corner; doors open toward the kitchen, clear of every chair; 33.1\" from the round on the diagonal (tight:33.1), 27.8\" from the oval; anchor it (F-21)"
+      "note": "BESTÅ shelf unit with doors, 76\", in the bottom-right corner, the far corner from both openings; doors open toward the table; anchor it (F-21)"
     },
     {
       "id": "art-1",
       "itemId": "ikea-20601915",
       "x": 126.75,
-      "y": 35.875,
+      "y": 46.5,
       "rotation": 90,
       "layer": "top",
       "note": "BLODFLÄDER on the right wall, centered on the table, above the east chair"
@@ -71,17 +71,17 @@
     {
       "id": "lamp-1",
       "itemId": "ikea-20610854",
-      "x": 123,
-      "y": 86.625,
-      "rotation": 90,
+      "x": 66.625,
+      "y": 114,
+      "rotation": 180,
       "layer": "top",
-      "note": "VARPTROSS on the right wall below the art, center about 58\" up, plug-in"
+      "note": "VARPTROSS on the bottom wall behind Maddie's seat, center about 58\" up, plug-in"
     },
     {
       "id": "pendant-1",
       "itemId": "ikea-90603869",
       "x": 61.25,
-      "y": 50.625,
+      "y": 61.25,
       "rotation": 0,
       "layer": "top",
       "note": "GULLSUDARE on the HAVSRIS swag cord over the table's center"
@@ -89,20 +89,20 @@
     {
       "id": "plant-1",
       "itemId": "ikea-70610601",
-      "x": 117,
-      "y": 106,
+      "x": 31,
+      "y": 109,
       "rotation": 0,
       "layer": "floor",
-      "note": "FEJKA bird of paradise in the bottom-right corner, 44.4\" from the table"
+      "note": "FEJKA bird of paradise in the bottom-left corner, against the bottom wall where the kitchen side opens: it closes the corner without standing in the kitchen walkway"
     },
     {
       "id": "rug-1",
       "itemId": "ikea-50495409",
-      "x": 30.5,
+      "x": 30.625,
       "y": 0.5,
       "rotation": 0,
       "layer": "rug",
-      "note": "LYDERSHOLM, 2\" short of the tower: 37.4\" past the round north and south, only 17.9\" west and east (the seated chairs stand on its edges)"
+      "note": "LYDERSHOLM along the depth, centered on the round: 48\" past it on the living-room side (30\" of that under the walkway, F-42 allows rugs), 26.75\" on the wall side, 17.9\" east and west (the seated chairs stand on its edges); 1.9\" short of the tower"
     }
   ],
   "extras": [
