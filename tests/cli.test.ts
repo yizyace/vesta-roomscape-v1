@@ -90,7 +90,7 @@ describe("cli", { timeout: 30_000 }, () => {
       room: "living-room",
       variant: "b",
       placements: [
-        { id: "sofa-stairs", itemId: sofa, x: 0, y: 60, rotation: 270 },
+        { id: "sofa-stairs", itemId: sofa, x: 0, y: 40, rotation: 270 }, // y 40-124, above the open side's walkway
         { id: "rug", itemId: rug, x: 100, y: 80, layer: "rug" },
         { id: "sofa", itemId: sofa, x: 106, y: 100 },
         { id: "lamp", itemId: lamp, x: 110, y: 105, layer: "top" },
@@ -131,6 +131,22 @@ describe("cli", { timeout: 30_000 }, () => {
     const r = await cli("validate");
     expect(r.code).toBe(0);
     expect(warnings(r.stdout, "layouts/dining-room/b.json")).toEqual(["desk-open-side blocks the opening to the kitchen"]);
+  });
+
+  it("validate warns about a floor piece in the walkway along the living room's open bottom side", async () => {
+    // The live rooms.json: the living room's whole bottom side is open to the kitchen and dining area
+    // (F-42; Andrew, 2026-10-24), so the walkway is y 143-173 along it.
+    await plantLayout(data.dir, "living-room", "b", {
+      room: "living-room",
+      variant: "b",
+      placements: [
+        { id: "desk-open-side", itemId: DESK_ID, x: 120, y: 150 },
+        { id: "desk-clear", itemId: DESK_ID, x: 120, y: 100 },
+      ],
+    });
+    const r = await cli("validate");
+    expect(r.code).toBe(0);
+    expect(warnings(r.stdout, "layouts/living-room/b.json")).toEqual(["desk-open-side blocks the opening to the kitchen and dining room"]);
   });
 
   it("validate lets a chair stand in an L-desk's notch, and flags one on its return", async () => {

@@ -134,4 +134,16 @@ describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
     );
     expect(problems).toEqual([]);
   });
+
+  // The household has no TV (Andrew, 2026-10-24; vesta rules.md F-65): no layout stages one, or a
+  // unit made for one. If that changes, F-65 changes first and this test with it.
+  it("no layout places a TV or a TV unit", () => {
+    const catalog = new Map(items.parsed.map(({ value }) => [value.id, value]));
+    const problems = layouts.parsed.flatMap(({ file, value }) =>
+      value.placements
+        .filter((p) => ["tv", "tv-stand"].includes(catalog.get(p.itemId)?.category ?? ""))
+        .map((p) => `${file}: placement "${p.id}" is ${catalog.get(p.itemId)?.category} "${p.itemId}"`),
+    );
+    expect(problems).toEqual([]);
+  });
 });
