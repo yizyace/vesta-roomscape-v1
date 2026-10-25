@@ -1,0 +1,153 @@
+{
+  "room": "dining-room",
+  "variant": "e",
+  "name": "No rugs: VIHALS set for six under the pendant, the BESTÅ buffet and art as the wall anchor",
+  "updatedAt": "2026-10-24T23:48:07.324Z",
+  "notes": "Rug-free (F-66): the staged arrangement (a) with the LYDERSHOLM rug and its two STOPP FILT underlays taken out; every other piece stands where it does in a. Nothing replaces the rug on the floor. The tile wipes clean, and designers often leave a dining table bare anyway: chairs catch on a rug's edge, and with a 4-year-old at the table spills come off tile, not out of a flatweave.\nWhat ties the room together instead:\n(1) The table is the anchor, its six seats tight around it.\n(2) The GULLSUDARE pendant hangs over the table's center (72.1, 68.4) and marks the dining zone the rug used to mark; the two VARPTROSS wall lamps frame the buffet.\n(3) The wall anchor is the BLODFLÄDER, 47 1/4\" wide, centered over the 70 7/8\" BESTÅ buffet (two thirds of its width): the focal point from the living room.\n(4) The rug's natural tone moves up onto the table and chairs: the washable SVARTSENAP runner and placemats and the MALINDA chair pads in natural and light beige, repeated in the bamboo of the VARPTROSS shades and the BLANDA MATT bowl, with the white of the VIHALS set and the buffet. The same natural, white and green run through the living room, so the open plan still reads as one space.\n(5) The FEJKA bird of paradise in the far corner carries the green of the painting. An artificial plant gathers dust, so it is wiped with the dusting.\nClearances are as in a. Both 30-inch walkways stay clear (F-42). F-36: 48.5\" to the kitchen line and 53.9\" to the living-room line (the passing sides), 36\" from the bottom edge to the bottom wall, 32.25\" from the right end to the right wall (tight:32.3, Maddie's end). Leaf in, 20.4\" at the right end (tight:20.4), and the kitchen-end chair stands 11.8\" into the walkway while guests are over.\nOn bare tile the chairs scrape, so put felt pads under their legs (not in the catalog).",
+  "placements": [
+    {
+      "id": "table-1",
+      "itemId": "ikea-20589777",
+      "x": 48.5,
+      "y": 53.875,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "VIHALS extendable, closed 47 1/4 x 29 1/8\", across the room; F-36: 48.5\" to the kitchen line and 53.9\" to the living-room line (passing sides), 36\" to the bottom wall, 32.25\" to the right wall (tight:32.3); leaf in, 20.4\" (tight:20.4)"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-50569103",
+      "x": 51.4375,
+      "y": 35.375,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "living-room side, left; its back 5.4\" inside the walkway's edge (F-42)"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-50569103",
+      "x": 75.0625,
+      "y": 35.375,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "living-room side, right; as chair-1"
+    },
+    {
+      "id": "chair-3",
+      "itemId": "ikea-50569103",
+      "x": 51.4375,
+      "y": 83,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "bottom side, left; 17.5\" behind it to the wall, and its back slides under the floating buffet"
+    },
+    {
+      "id": "chair-4",
+      "itemId": "ikea-50569103",
+      "x": 75.0625,
+      "y": 83,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "bottom side, right; as chair-3"
+    },
+    {
+      "id": "chair-5",
+      "itemId": "ikea-50569103",
+      "x": 30,
+      "y": 59.5625,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "kitchen end; its back on the walkway's edge (x 30); pulled out it borrows the walkway (F-36 passing side)"
+    },
+    {
+      "id": "junior-chair-1",
+      "itemId": "ikea-00165213",
+      "x": 95.75,
+      "y": 59.5625,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "Maddie's URBAN at the right end, the sixth seat; 13.4\" behind it to the wall (the tight end: a parent pushes her in)"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-99623151",
+      "x": 36.6875,
+      "y": 110.375,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, centered on the table on the bottom wall and floated as a buffet with its underside about 33\" up (top about 48\"), above the chairs' 31 1/8\" backs; push-open doors, on its suspension rails into studs (F-63)"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-20601915",
+      "x": 48.5,
+      "y": 117.75,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BLODFLÄDER centered above the buffet, about 54 to 85 1/2\" up: the focal point from the living room"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-20610854",
+      "x": 40.5,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's left end, center about 60\" up, plug-in, cord in a cover"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 96.75,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's right end; as lamp-1"
+    },
+    {
+      "id": "pendant-1",
+      "itemId": "ikea-90603869",
+      "x": 63.25,
+      "y": 59.5625,
+      "rotation": 0,
+      "layer": "top",
+      "note": "GULLSUDARE on the HAVSRIS swag cord, hooked over the table's center (72.1, 68.4)"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 117,
+      "y": 108,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise in the bottom-right corner, the far corner from both openings, so it walls off nothing"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80490052",
+      "qty": 1,
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the 15'5\" cord along the ceiling to an outlet (the ceiling box is unknown); E26 LED bulb not in the catalog"
+    },
+    {
+      "itemId": "ikea-40533063",
+      "qty": 1,
+      "note": "SVARTSENAP runner, natural cotton, machine washable"
+    },
+    {
+      "itemId": "ikea-70527961",
+      "qty": 6,
+      "note": "SVARTSENAP placemats, one per seat, machine washable (online minimum 4)"
+    },
+    {
+      "itemId": "ikea-60214343",
+      "qty": 1,
+      "note": "BLANDA MATT 11\" bamboo bowl, the centerpiece (fruit), unbreakable"
+    },
+    {
+      "itemId": "ikea-90586983",
+      "qty": 5,
+      "note": "MALINDA chair pads, one per VIHALS chair (5), light beige cotton, the whole pad machine washable"
+    }
+  ]
+}

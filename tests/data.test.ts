@@ -146,4 +146,20 @@ describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
     );
     expect(problems).toEqual([]);
   });
+
+  // The family may go without rugs, for dust and dust mites (Andrew, 2026-10-24; vesta rules.md F-66):
+  // every room but the kitchen has a variant named "No rugs: …", and it places no rug that isn't wipeable.
+  it("every room but the kitchen has a rug-free variant, and it places no rug that isn't wipeable", () => {
+    const catalog = new Map(items.parsed.map(({ value }) => [value.id, value]));
+    const rugFree = layouts.parsed.filter(({ value }) => value.name.startsWith("No rugs"));
+    const missing = ROOM_IDS.filter((r) => r !== "kitchen" && !rugFree.some(({ value }) => value.room === r)).map(
+      (r) => `${r}: no "No rugs" variant`,
+    );
+    const rugs = rugFree.flatMap(({ file, value }) =>
+      value.placements
+        .filter((p) => catalog.get(p.itemId)?.category === "rug" && !catalog.get(p.itemId)?.tags.includes("wipeable"))
+        .map((p) => `${file}: placement "${p.id}" is the rug "${p.itemId}"`),
+    );
+    expect([...missing, ...rugs]).toEqual([]);
+  });
 });

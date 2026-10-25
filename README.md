@@ -42,7 +42,8 @@ Ctrl-C.
   window and door positions, the width of the living room's stairs) is dashed and marked "≈".
 - **Layouts A, B, C, D.** Every room but the kitchen has **layout A, the staged pick**: the room as it
   would be staged for you to walk into. B, C and D are alternatives, each a different arrangement or a
-  different key piece. The letters under the room's name switch between them (hover one for how many
+  different key piece, and one more letter in each room, named "No rugs", is the staged room without a
+  textile rug, for less dust (staging.md totals the apartment both ways). The letters under the room's name switch between them (hover one for how many
   pieces it has), and a room's tab always opens A. To compare two side by side, open each in its own
   browser tab, for example `#/living-room` and `#/living-room/c`. With nothing selected, the right-hand
   panel shows the layout's name, which you can change there.

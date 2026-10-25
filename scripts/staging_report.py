@@ -93,6 +93,8 @@ def build() -> str:
     md: list[str] = []
     summary: list[str] = []
     grand = 0.0
+    rugfree: list[str] = []  # each room's first "No rugs" variant (rules.md F-66)
+    rugfree_total = 0.0
     body: list[str] = []
     for rid in ROOM_ORDER:
         vs = variants(rid)
@@ -106,6 +108,9 @@ def build() -> str:
             if v == "a":
                 grand += total
                 summary.append(f"| [{name}]({APP}#/{rid}) | {lay.get('name','')} | {len(lay.get('placements', []))} placed, {len(lay.get('extras', []))} on the list | {money(total)} |")
+            if lay.get("name", "").startswith("No rugs") and not any(f"#/{rid}/" in r for r in rugfree):
+                rugfree_total += total
+                rugfree.append(f"| [{name}]({APP}#/{rid}/{v}) | {v.upper()} · {lay.get('name','')} | {len(lay.get('placements', []))} placed, {len(lay.get('extras', []))} on the list | {money(total)} |")
             body += [f"### {v.upper()} · {lay.get('name','')}" + ("  (staged)" if v == "a" else ""), "",
                      f"Open: {APP}#/{rid}/{v} · printable: {APP}#/{rid}/{v}/view", "",
                      "| Item | Qty | Each | Subtotal |", "|---|---|---|---|", *rows, "",
@@ -132,6 +137,13 @@ def build() -> str:
            f"| Kitchen essentials | list | {kn} core items | {money(ktot)} |",
            f"| Bathroom | list | {bn} core items | {money(btot)} |",
            f"| **Apartment** | | | **{money(grand + ktot + btot)}** |", ""]
+    if rugfree:
+        md += ["## Without rugs (the \"No rugs\" layout in every room, rules.md F-66)", "",
+               "The same rooms with no textile rug, for less dust and fewer dust mites; the staged layouts above keep theirs.", "",
+               "| Room | Layout | Pieces | Total |", "|---|---|---|---|", *rugfree,
+               f"| Kitchen essentials | list | {kn} core items | {money(ktot)} |",
+               f"| Bathroom | list | {bn} core items | {money(btot)} |",
+               f"| **Apartment** | | | **{money(rugfree_total + ktot + btot)}** |", ""]
     md += body + ksec + bsec
     return "\n".join(md).rstrip() + "\n"
 
