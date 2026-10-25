@@ -80,7 +80,9 @@ Ctrl-C.
   swing; the toolbar counts each kind.
 - **Click a piece** (or a catalog row) for its photos, its store link, its price and the date that price
   was read, and its size; you can change its status (shortlisted, ordered…) and its notes there.
-  Double-click a piece to open its product page.
+  Double-click a piece to open its product page. The × or Esc closes the details.
+- **Zoom** with − Fit + in the plan's top-right corner; the plan then scrolls, and Fit shows the whole
+  room again. Switching between a room's layouts keeps the zoom, for comparing them.
 - A piece without dimensions (the store's page showed none) is listed but can't be placed.
 - **Your changes save by themselves** to `data/layouts/<room>/<letter>.json`, for
   example `layouts/maddie-room/a.json` for A. When an agent changes a layout, click back into the window
@@ -98,6 +100,12 @@ built. Click a piece or a catalog row for its photos, its price with the date it
 its store link. Nothing in it saves, so it has no Edit mode (the switch reads Browse and View), no Add to
 plan, no dragging, rotating or deleting, and no Duplicate or Make staged; statuses, notes and names show
 as text. The toolbar says "Read-only copy", with the date of the newest price in the catalog.
+
+**On a phone** (or a tablet) the page is one column: the room's plan, sized to fill the screen's width,
+then its pieces, room list and total, with the layout notes and the catalog folded at the bottom. Swipe
+the room tabs and the layout letters sideways for the rest. Tap a piece for its photo, price and store
+link, in a panel that slides up over the bottom of the screen (× closes it), and use − Fit + under the plan
+to zoom in on a busy corner; the plan then scrolls inside its frame.
 
 Build it with `npm run build:pages`: the site lands in `dist/`, for
 `https://yizyace.github.io/vesta-roomscape-v1/` (`PAGES_BASE=/another/path/ npm run build:pages` builds it

@@ -3,9 +3,13 @@
 // category/tags/rooms, and the editable status and notes; for a placement also its layer, why it is
 // flagged (overlap, outside, on the stairs, the heater or a swing), rotate/remove and its note. With
 // nothing selected: the open variant's name, its numbered pieces, its room list (the extras, with qty)
-// and total, the layout's notes and the room's notes. A room without walls (the kitchen) never gets a
-// layout (rules.md F-41): no add buttons, no name, no room list to edit. The read-only copy shows the
-// same facts with nothing to change: the layer, the status, the notes and the name as text.
+// and total, the layout's notes (folded on a phone) and the room's notes. A room without walls (the
+// kitchen) never gets a layout (rules.md F-41): no add buttons, no name, no room list to edit. The
+// read-only copy shows the same facts with nothing to change: the layer, the status, the notes and the
+// name as text.
+// App renders the summary always and a second panel for a selection, with a close button: beside the
+// plan the selection takes the summary's place, and below 1180px, where the details are not a side
+// pane, it opens as a sheet over the bottom of the screen (styles.css) while the summary stays put.
 import { useRef, useState } from "react";
 import { dimensionsText, inchesText, money } from "../../shared/format.ts";
 import type { KeepOut } from "../../shared/geometry.ts";
@@ -13,6 +17,7 @@ import { ITEM_STATUSES, LAYERS } from "../../shared/schema.ts";
 import type { Extra, Item, ItemStatus, Layer, Placement, Room } from "../../shared/schema.ts";
 import { errorText, imageUrl } from "../api.ts";
 import { BACK_TO, hostOf, keepOutReasons } from "../edit.ts";
+import { isOneColumn } from "../screen.ts";
 import { variantLetter } from "../variants.ts";
 import { StatusChip } from "./Chips.tsx";
 import { RoomList, TotalBlock } from "./RoomList.tsx";
@@ -32,6 +37,10 @@ export type DetailsActions = {
 };
 
 type Props = {
+  /** The room's summary (nothing selected), or a selected piece or catalog item. */
+  kind: "summary" | "selection";
+  /** Deselects; a selection panel shows a close button for it. */
+  onClose?: () => void;
   room: Room | undefined;
   rooms: Room[];
   variant: string;
@@ -63,9 +72,16 @@ const LAYER_TEXT: Record<Layer, string> = {
 };
 
 export function DetailsPanel(props: Props) {
-  const { item, placement, actions } = props;
+  const { kind, onClose, item, placement, actions } = props;
   return (
-    <aside className="details pane" aria-label="Details">
+    <aside className={`details pane ${kind}`} aria-label={kind === "selection" ? "Selected item" : "Details"}>
+      {onClose && (
+        <div className="close-row">
+          <button type="button" className="close" onClick={onClose} aria-label="Close the details" title="Close (Esc)">
+            ×
+          </button>
+        </div>
+      )}
       {placement && (
         <PlacementBar
           placement={placement}
@@ -355,6 +371,8 @@ const LAYER_TAG: Record<Layer, string | null> = { floor: null, rug: "rug", top: 
 
 function RoomSummary(props: Props) {
   const { room, variant, variantName, placements, extras, itemsById, layoutNotes, editable, readOnly, measured, catalogReady, actions } = props;
+  // The notes run to several screens on a phone, between the room list and the catalog: folded there.
+  const [notesOpen] = useState(() => !isOneColumn());
   if (!measured) return <NoLayoutSummary {...props} />;
   return (
     <section className="room-summary">
@@ -366,7 +384,7 @@ function RoomSummary(props: Props) {
       ) : (
         <VariantName key={`${room?.id}/${variant}`} name={variantName} variant={variant} editable={editable} onRename={actions.onRename} />
       )}
-      <p className="muted">Click a piece on the plan, or an item in the catalog, for its photos, price and product page.</p>
+      <p className="muted">Tap or click a piece on the plan, or an item in the catalog, for its photos, price and product page.</p>
       <h3>In this room</h3>
       {placements.length === 0 ? (
         <p className="muted small">Nothing on the plan yet.</p>
@@ -405,10 +423,10 @@ function RoomSummary(props: Props) {
       )}
       {catalogReady && (placements.length > 0 || extras.length > 0) && <TotalBlock placements={placements} extras={extras} itemsById={itemsById} />}
       {layoutNotes && (
-        <>
-          <h3>Layout notes</h3>
+        <details className="layout-notes-fold" open={notesOpen}>
+          <summary>Layout notes</summary>
           <p className="pre">{layoutNotes}</p>
-        </>
+        </details>
       )}
       {room && room.notes.length > 0 && (
         <>

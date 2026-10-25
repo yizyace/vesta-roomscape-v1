@@ -44,8 +44,10 @@ vesta-roomscape-v1/
 │   ├── totals.ts           a variant's total and the kitchen list's, in cents; the newest price's date (pure)
 │   ├── edit.ts             pure layout edits: placement ids, a category's layer, moves kept in the room's box, rotation, room-list lines, keep-out reasons
 │   ├── filters.ts          catalog filters and sorts (pure)
-│   ├── hooks/              useRooms, useCatalog, useLayout (one variant: autosave, undo), useVariants, useHashRoute, useWindowFocus
-│   └── components/         RoomTabs, Toolbar, VariantBar, CatalogPanel, RoomPlan (plan/: Walls, Features, Placements), DetailsPanel, RoomList, Legend, Thumb, Chips
+│   ├── zoom.ts             the plan's zoom levels, keeping the view's middle on a zoom, centring a strip's open entry (pure)
+│   ├── screen.ts           the one-column (phone and touch tablet) media query, as styles.css writes it
+│   ├── hooks/              useRooms, useCatalog, useLayout (one variant: autosave, undo), useVariants, useHashRoute, useWindowFocus, useCenterCurrent
+│   └── components/         RoomTabs, Toolbar, VariantBar, CatalogPanel, PlanZoom, RoomPlan (plan/: Walls, Features, Placements), DetailsPanel, RoomList, Legend, Thumb, Chips
 ├── tests/                  vitest; helpers.ts (temp data dir, test server, plantItem, plantLayout); fixtures/ (two items, one layout variant, the geometry tests' rooms.json snapshot)
 ├── scripts/
 │   ├── check-node.mjs      refuses a Node outside package.json "engines" (runs before dev, test, validate and build:pages)
@@ -287,6 +289,24 @@ resolved against the directory npm was started in (`INIT_CWD`).
 - **Keys** (`App.tsx`): arrows nudge 1", Shift-arrows 12", `r` rotates about the center, Delete or
   Backspace removes, Esc deselects, ⌘Z or Ctrl-Z undoes the last change to the plan or the room list;
   none of them in view mode or while typing in a field.
+- **Zoom** (`PlanZoom`, `src/zoom.ts`): − Fit + on every plan, in the pane's top-right corner (under the
+  plan on a phone, beside a tip). The plan sits in a frame that scrolls, sized to the drawing's shape
+  (`--plan-ratio`, from `planFrame`) times `--zoom`, and never smaller than the frame, which it
+  letterboxes; a zoom step keeps the middle of the view in place (`keepCenter`). On a phone the frame
+  keeps the fit's height, so the plan scrolls inside it and the buttons stay under the thumb. A room opens
+  at the fit; its variants share the zoom, for comparing them.
+- **Phones and touch tablets** (`src/screen.ts`: up to 760px wide, or a touch screen up to 1180px; a desktop
+  window that narrow keeps the catalog beside the plan): one column, the plan at the room's own shape
+  (the fit fills the width or 72% of the screen's height), the room's summary under it with the layout
+  notes folded, then the catalog folded under a button with its count. The room tabs and the variant
+  pills scroll sideways and keep the open one in view (`useCenterCurrent`). Below 1180px, wherever the
+  details are not a side pane, a selection opens in a sheet over the bottom of the screen, product first,
+  with a close button, and the summary stays under the plan: App renders the summary and the selection as
+  two `DetailsPanel`s (`kind`), and styles.css places them. Where nothing edits, a piece is selected by a
+  click rather than a press, and the plan's `touch-action` is `manipulation`, so a swipe that starts on it
+  scrolls the page; only a piece in the editor takes the touch (`none`), for dragging. On a touch screen
+  the fields are 16px (iOS zooms into smaller ones) and the targets bigger. `tests/styles.test.ts` pins
+  these rules.
 
 ## The read-only copy
 
@@ -315,8 +335,9 @@ resolved against the directory npm was started in (`INIT_CWD`).
   switch reads Browse and View, and a note says "Read-only copy · prices as of <date>", the newest
   `price.asOf` in the catalog (`latestPriceDate`); the switcher has no Duplicate or Make staged; the
   catalog and the details panel have no add buttons; the details panel shows the layer, the status, the
-  notes and the variant's name as text. A click on a piece or a catalog row still selects it (photos,
-  price, size, store link), and the filters, the room lists, view mode and print work as in the editor.
+  notes and the variant's name as text. A tap or click on a piece or a catalog row still selects it (photos,
+  price, size, store link; in a sheet on a phone), and the filters, the room lists, view mode, the zoom
+  and print work as in the editor.
 - `index.html` asks search engines not to index the site (`robots: noindex, nofollow`); the site and the
   repo are public all the same.
 - **Publishing** (`.github/workflows/pages.yml`), on a push to `main` or by hand (`workflow_dispatch`): a
@@ -358,9 +379,17 @@ port (`startTestServer`) over a temporary data directory (`mkTempDataDir` copies
 `node server/cli.ts`, which also proves that the pinned Node strips the types. A test never writes under
 `data/`. Before reporting, `test`, `typecheck`, `build`, `build:pages` and `validate` all pass.
 
+A change to the client is also looked at on a phone's width before it ships, since the published copy is
+mostly opened from links on phones: a local page of `<iframe>`s 375 and 390 wide (and 844 by 390, a phone
+on its side) over the built copy, opened in Chrome, shows each room, a tap on a piece (the sheet), the
+zoom, view mode and the folded catalog. An iframe in desktop Chrome has a fine pointer, so the touch-only
+rules (`pointer: coarse`: the one column on a tablet, 16px fields) need the same width check on a real
+phone after the deploy. To drag in the editor without touching `data/`, run `npm run dev` with
+`FURNITURE_DATA_DIR` pointing at a copy.
+
 ## Versioning
 
-`package.json` `version` (0.2.9 today: `landing` on a door or closet, a landing shallower than 36" where Andrew agreed to one, the master bedroom's bathroom door at 30"; 0.2.8 `railing` on stairs, so the floor along the living room's railing stays clear its whole length; 0.2.7 stairs that run beyond their wall, `side: "out"`, so the living room's measured floor is whole and only a 36" landing at each end of its stairs is kept clear; 0.2.6 UPLIFT's photos allowed, `upliftdesk.com` and its store's CDN folder; 0.2.5 L-shaped footprints, `dimensions.notch`, so the chair at an L-desk stands in its corner instead of on a rectangle drawn around it; 0.2.4 a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
+`package.json` `version` (0.2.10 today: the phone layout, a selection's sheet and the plan's zoom, after Andrew found the published copy hard to use on a phone; 0.2.9 `landing` on a door or closet, a landing shallower than 36" where Andrew agreed to one, the master bedroom's bathroom door at 30"; 0.2.8 `railing` on stairs, so the floor along the living room's railing stays clear its whole length; 0.2.7 stairs that run beyond their wall, `side: "out"`, so the living room's measured floor is whole and only a 36" landing at each end of its stairs is kept clear; 0.2.6 UPLIFT's photos allowed, `upliftdesk.com` and its store's CDN folder; 0.2.5 L-shaped footprints, `dimensions.notch`, so the chair at an L-desk stands in its corner instead of on a rectangle drawn around it; 0.2.4 a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
 data-shape change goes from 0.x to 0.(x+1):
 
 - **patch**: a fix, with no change to any file's shape;
@@ -417,6 +446,9 @@ itself: no enums, namespaces or parameter properties, and imports name their `.t
 - A rug left on the `floor` layer collides with everything standing on it, and a table lamp with its table;
   the fix is the layer, not the position.
 - `view` cannot be a variant id: `#/<room>/view` is the print view.
+- `touch-action: none` on the plan (as before 0.2.10) traps a phone's swipe: the page cannot scroll past
+  the plan. Only an editable piece takes the touch, and a read-only piece selects on click, not on press,
+  or the start of a scroll selects it.
 
 ## Never without Andrew's dated word
 

@@ -4,6 +4,8 @@
 // sort (so they survive room switches), the variant actions (duplicate, make staged) and keyboard
 // dispatch. In the published read-only copy (READ_ONLY) nothing edits: every room, variant, piece and
 // catalog item can be looked at, filtered, viewed and printed, and nothing that would save is offered.
+// On a phone the panes stack (plan, the room's summary, then the folded catalog) and a selection opens
+// in a sheet over the bottom of the screen; styles.css decides, from the classes set here.
 import { useEffect, useEffectEvent, useMemo, useState } from "react";
 import { bounds, depthOf, findCollisions, isClosed, keepOutZones, walkWalls } from "../shared/geometry.ts";
 import type { KeepOut, Pt } from "../shared/geometry.ts";
@@ -14,6 +16,8 @@ import { DetailsPanel } from "./components/DetailsPanel.tsx";
 import type { DetailsActions } from "./components/DetailsPanel.tsx";
 import { Essentials } from "./components/Essentials.tsx";
 import { Legend } from "./components/Legend.tsx";
+import { PlanZoom } from "./components/PlanZoom.tsx";
+import { planFrame } from "./components/plan/drawing.ts";
 import { RoomPlan } from "./components/RoomPlan.tsx";
 import { RoomTabs } from "./components/RoomTabs.tsx";
 import { Toolbar } from "./components/Toolbar.tsx";
@@ -43,6 +47,9 @@ const ARROWS: Record<string, Pt> = {
 };
 
 const NO_ZONES: KeepOut[] = [];
+
+/** Beside the zoom buttons on a phone, where the toolbar's hint is hidden. */
+const PLAN_TIP = READ_ONLY ? "Tap a piece for its photo, price and store link." : "Tap a piece for its details; drag it to move it.";
 
 /** Keys typed into a field belong to the field (Backspace, arrows, ⌘Z). */
 function isTyping(target: EventTarget | null): boolean {
@@ -85,6 +92,10 @@ export function App() {
   const box = useMemo(() => bounds(walk.points), [walk]);
   const keepOut = useMemo(() => (room ? keepOutZones(room.walls, room.features) : NO_ZONES), [room]);
   const measured = walk.points.length >= 3;
+  const planRatio = useMemo(() => {
+    const frame = room && measured ? planFrame(room, walk) : null;
+    return frame ? frame.w / frame.h : 1;
+  }, [room, walk, measured]);
   const itemsById = useMemo(() => new Map(catalog.items.map((i) => [i.id, i])), [catalog.items]);
   const collisions = useMemo(() => findCollisions(layout.placements, itemsById, walk.points, keepOut), [layout.placements, itemsById, walk, keepOut]);
   // Nothing on a wall-less room's tab writes (see useLayout above), nor in the read-only copy, in view
@@ -113,6 +124,8 @@ export function App() {
   const selectedPlacement = selection?.kind === "placement" ? layout.placements.find((p) => p.id === selection.id) : undefined;
   const selectedItem =
     selection?.kind === "item" ? itemsById.get(selection.id) : selectedPlacement ? itemsById.get(selectedPlacement.itemId) : undefined;
+  // A placement id from another variant, or an item gone from the catalog, selects nothing.
+  const hasSelection = selectedItem !== undefined || selectedPlacement !== undefined;
 
   const change = (id: string, fn: (p: Placement, dims: Dims) => Placement) =>
     layout.setPlacements((ps) =>
@@ -268,8 +281,24 @@ export function App() {
     layout.loaded ? { variant: route.variant, name: layout.name, placements: layout.placements.length, extras: layout.extras.length } : null,
   );
 
+  const details = {
+    room,
+    rooms: rooms.data.rooms,
+    variant: route.variant,
+    variantName: layout.name,
+    editable,
+    readOnly: READ_ONLY,
+    measured,
+    catalogReady: !catalog.loading,
+    layoutNotes: layout.notes,
+    placements: layout.placements,
+    extras: layout.extras,
+    itemsById,
+    actions,
+  };
+
   return (
-    <div className={route.view ? "app view" : "app edit"}>
+    <div className={`app ${route.view ? "view" : "edit"}${hasSelection ? " has-selection" : ""}`}>
       <div className="screen">
         <header className="top">
           <RoomTabs rooms={rooms.data.rooms} current={route.roomId} view={route.view} />
@@ -355,48 +384,43 @@ export function App() {
                 onSelect={route.view ? undefined : (id) => setSelection({ kind: "item", id })}
               />
             ) : (
-              <RoomPlan
-                room={room}
-                walk={walk}
-                box={box}
-                placements={layout.placements}
-                itemsById={itemsById}
-                collisions={collisions}
-                selectedId={selectedPlacement?.id ?? null}
-                highlightItemId={selection?.kind === "item" ? selection.id : null}
-                editable={editable}
-                onSelect={(id) => setSelection(id ? { kind: "placement", id } : null)}
-                onChange={layout.setPlacements}
-                onCommit={layout.flush}
-                onDropItem={(itemId, at) => {
-                  const item = itemsById.get(itemId);
-                  if (item) addItem(item, at);
-                }}
-              />
+              <PlanZoom key={room.id} ratio={planRatio} tip={route.view ? null : PLAN_TIP} onBackground={() => setSelection(null)}>
+                <RoomPlan
+                  room={room}
+                  walk={walk}
+                  box={box}
+                  placements={layout.placements}
+                  itemsById={itemsById}
+                  collisions={collisions}
+                  selectedId={selectedPlacement?.id ?? null}
+                  highlightItemId={selection?.kind === "item" ? selection.id : null}
+                  editable={editable}
+                  onSelect={(id) => setSelection(id ? { kind: "placement", id } : null)}
+                  onChange={layout.setPlacements}
+                  onCommit={layout.flush}
+                  onDropItem={(itemId, at) => {
+                    const item = itemsById.get(itemId);
+                    if (item) addItem(item, at);
+                  }}
+                />
+              </PlanZoom>
             )}
             <NotDrawn placements={layout.placements} itemsById={itemsById} catalogLoaded={!catalog.loading && !catalog.error} />
           </section>
           {!route.view && (
+            <DetailsPanel {...details} kind="summary" item={undefined} placement={undefined} number={null} overlapping={false} outside={false} blocked={NO_ZONES} />
+          )}
+          {!route.view && hasSelection && (
             <DetailsPanel
-              room={room}
-              rooms={rooms.data.rooms}
-              variant={route.variant}
-              variantName={layout.name}
+              {...details}
+              kind="selection"
+              onClose={() => setSelection(null)}
               item={selectedItem}
               placement={selectedPlacement}
               number={selectedPlacement ? layout.placements.indexOf(selectedPlacement) + 1 : null}
               overlapping={selectedPlacement ? collisions.overlapping.has(selectedPlacement.id) : false}
               outside={selectedPlacement ? collisions.outside.has(selectedPlacement.id) : false}
               blocked={(selectedPlacement && collisions.blocked.get(selectedPlacement.id)) || NO_ZONES}
-              editable={editable}
-              readOnly={READ_ONLY}
-              measured={measured}
-              catalogReady={!catalog.loading}
-              layoutNotes={layout.notes}
-              placements={layout.placements}
-              extras={layout.extras}
-              itemsById={itemsById}
-              actions={actions}
             />
           )}
         </main>

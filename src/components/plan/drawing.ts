@@ -80,6 +80,12 @@ export function drawingExtent(room: Room, walk: Walk, k = 1): Rect {
 
 export const padRect = (r: Rect, pad: number): Rect => ({ x: r.x - pad, y: r.y - pad, w: r.w + 2 * pad, h: r.h + 2 * pad });
 
+/** The plan's viewBox: everything drawn around the room, plus the margin, both grown with the labels. */
+export function planFrame(room: Room, walk: Walk): Rect {
+  const k = labelScale(walk);
+  return padRect(drawingExtent(room, walk, k), PAD * k);
+}
+
 /** SVG path of a quarter-circle swing, from the closed edge to the open leaf. */
 export function arcPath(arc: Arc): string {
   const v1 = { x: arc.from.x - arc.center.x, y: arc.from.y - arc.center.y };

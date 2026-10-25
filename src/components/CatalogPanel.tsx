@@ -3,7 +3,8 @@
 // and "Add to plan" drops the item in the middle of the room on its category's layer; bedding,
 // curtains, textiles, bath and kitchenware get "Add to room list" instead (they take no floor space).
 // A room without walls (the kitchen) takes neither: it never gets a layout. Files the server could not
-// parse are listed in a dismissible banner.
+// parse are listed in a dismissible banner. On a phone the catalog comes last, folded under a button
+// with its count (styles.css shows the button only there), so the page is the plan and its room first.
 import { useMemo, useState } from "react";
 import type { DragEvent } from "react";
 import { dimensionsText, money } from "../../shared/format.ts";
@@ -50,9 +51,14 @@ export function CatalogPanel(props: Props) {
   const { items, taxonomy, errors, loading, error, rooms, filters, sort, onFilters, onSort } = props;
   const shown = useMemo(() => sortItems(applyFilters(items, filters), sort), [items, filters, sort]);
   const set = (patch: Partial<Filters>) => onFilters({ ...filters, ...patch });
+  const [open, setOpen] = useState(false);
 
   return (
-    <aside className="catalog pane" aria-label="Catalog">
+    <aside className={open ? "catalog pane open" : "catalog pane"} aria-label="Catalog">
+      <button type="button" className="catalog-toggle" aria-expanded={open} onClick={() => setOpen(!open)}>
+        <span>{open ? "Hide the catalog" : "The catalog"}</span>
+        <span className="muted">{loading ? "loading…" : `${items.length} items`}</span>
+      </button>
       <ErrorsBanner errors={errors} />
       <div className="filters">
         <input

@@ -1,7 +1,9 @@
 // The variant switcher under the toolbar's title: one pill per layout variant (A, the staged pick, then
 // the alternatives), the open one highlighted; in edit mode "Duplicate" (a copy under the next free
 // letter, opened at once) and, on an alternative, "Make staged" (swaps it with A). The read-only copy
-// has the pills only.
+// has the pills only. On a phone the pills are one row that scrolls sideways, with the open one in view.
+import { useRef } from "react";
+import { useCenterCurrent } from "../hooks/useCenterCurrent.ts";
 import { STAGED, routeHash } from "../route.ts";
 import { pillTooltip, variantLetter } from "../variants.ts";
 import type { Pill } from "../variants.ts";
@@ -23,9 +25,11 @@ type Props = {
 };
 
 export function VariantBar({ roomId, current, pills, view, readOnly, listError, busy, canDuplicate, canPromote, onDuplicate, onPromote }: Props) {
+  const strip = useRef<HTMLElement>(null);
+  useCenterCurrent(strip, `${roomId}/${current}:${pills.length}`);
   return (
     <div className="variant-bar">
-      <nav className="variants" aria-label="Layout variants">
+      <nav className="variants" aria-label="Layout variants" ref={strip}>
         {pills.map((p) => (
           <a
             key={p.variant}

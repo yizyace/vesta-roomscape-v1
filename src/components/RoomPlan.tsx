@@ -3,7 +3,8 @@
 // layers (rugs, floor pieces, pieces on top) with the keep-out overlaps shaded, and the door swings
 // above it all. Editing: drag a piece of any layer (pointer capture, snapped to 1", kept inside the
 // room's box; the topmost piece under the pointer wins) or drop a catalog row on the plan. Keyboard
-// editing is dispatched by App.
+// editing is dispatched by App. Where nothing edits (the read-only copy, view mode) a piece is selected
+// by a click, not a press, so a swipe that starts on the plan scrolls the page on a phone instead.
 import { useMemo, useRef } from "react";
 import type { CSSProperties, DragEvent, PointerEvent } from "react";
 import { snap } from "../../shared/geometry.ts";
@@ -12,7 +13,7 @@ import type { Item, Placement, Room } from "../../shared/schema.ts";
 import { ITEM_DRAG_TYPE, isDragStart, moveTo, updatePlacement } from "../edit.ts";
 import type { Dims } from "../edit.ts";
 import type { HistoryMode, PlacementsUpdate } from "../hooks/useLayout.ts";
-import { PAD, drawingExtent, labelScale, padRect, pointsAttr } from "./plan/drawing.ts";
+import { labelScale, planFrame, pointsAttr } from "./plan/drawing.ts";
 import { FeatureLabels, FeatureShapes, FeatureSwings } from "./plan/Features.tsx";
 import { Placements } from "./plan/Placements.tsx";
 import { WallLabels, Walls } from "./plan/Walls.tsx";
@@ -47,7 +48,7 @@ export function RoomPlan(props: Props) {
   const svgRef = useRef<SVGSVGElement>(null);
   const drag = useRef<Drag | null>(null);
   const k = useMemo(() => labelScale(walk), [walk]);
-  const frame = useMemo(() => padRect(drawingExtent(room, walk, k), PAD * k), [room, walk, k]);
+  const frame = useMemo(() => planFrame(room, walk), [room, walk]);
 
   // The room itself only changes when rooms.json does; keep its elements across drags.
   const floor = useMemo(
@@ -75,12 +76,12 @@ export function RoomPlan(props: Props) {
   };
 
   const startDrag = (e: PointerEvent<SVGGElement>, p: Placement) => {
-    if (e.button !== 0) return;
+    if (!editable || e.button !== 0) return; // read-only: Placements selects on click
     e.stopPropagation(); // not a click on the background
     onSelect(p.id);
     const dims = itemsById.get(p.itemId)?.dimensions;
     const at = toPlan(e.clientX, e.clientY);
-    if (!editable || !dims || !at) return;
+    if (!dims || !at) return;
     e.currentTarget.setPointerCapture(e.pointerId);
     drag.current = { id: p.id, pointerId: e.pointerId, press: { x: e.clientX, y: e.clientY }, start: at, origin: { x: p.x, y: p.y }, dims, moved: false };
   };
@@ -134,10 +135,13 @@ export function RoomPlan(props: Props) {
       className={editable ? "plan editable" : "plan"}
       viewBox={`${frame.x} ${frame.y} ${frame.w} ${frame.h}`}
       preserveAspectRatio="xMidYMid meet"
-      style={{ "--plan-aspect": `${frame.w} / ${frame.h}` } as CSSProperties}
+      // The stylesheet sizes the plan to the drawing's shape (styles.css, svg.plan): the ratio as a
+      // fraction for aspect-ratio, and as a number to multiply lengths by.
+      style={{ "--plan-aspect": `${frame.w} / ${frame.h}`, "--plan-ratio": frame.w / frame.h } as CSSProperties}
       role="group"
       aria-label={`${room.name}, drawn to scale`}
-      onPointerDown={() => onSelect(null)}
+      onPointerDown={editable ? () => onSelect(null) : undefined}
+      onClick={editable ? undefined : () => onSelect(null)}
       onPointerMove={moveDrag}
       onPointerUp={endDrag}
       onPointerCancel={endDrag}

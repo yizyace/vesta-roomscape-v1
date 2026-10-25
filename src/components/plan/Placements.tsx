@@ -134,6 +134,15 @@ function Piece({ d, status, standing, selected, highlighted, interactive, onPoin
       role={interactive ? "button" : undefined}
       aria-label={`${number}. ${item.name}, ${dimensionsText(dims)}${rug ? ", rug" : p.layer === "top" ? ", on top" : ""}`}
       onPointerDown={(e) => onPointerDown(e, p)}
+      // Where nothing edits, a click selects (RoomPlan's press only starts a drag in the editor).
+      onClick={
+        interactive
+          ? undefined
+          : (e) => {
+              e.stopPropagation(); // not a click on the background, which deselects
+              onSelect(p.id);
+            }
+      }
       onDoubleClick={() => {
         if (item.url) window.open(item.url, "_blank", "noopener,noreferrer");
       }}

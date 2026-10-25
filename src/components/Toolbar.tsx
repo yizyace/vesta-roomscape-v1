@@ -58,7 +58,12 @@ export function Toolbar({ roomId, room, variant, variantName, showVariant, box, 
       <div className="toolbar-row">
         <h1>
           {room?.name ?? roomId}
-          {showVariant && <span className="variant-title"> · {variantTitle(variant, variantName)}</span>}
+          {showVariant && (
+            <span className="variant-title">
+              <span className="sep"> · </span>
+              {variantTitle(variant, variantName)}
+            </span>
+          )}
         </h1>
         <span className="size">{measured ? `${lengthLabel(box.w)} × ${lengthLabel(box.h)}` : "not measured yet"}</span>
         {room?.sketch && (
