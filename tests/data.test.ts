@@ -148,8 +148,9 @@ describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
   });
 
   // The family may go without rugs, for dust and dust mites (Andrew, 2026-10-24; vesta rules.md F-66):
-  // every room but the kitchen has a variant named "No rugs: …", and it places no rug that isn't wipeable.
-  it("every room but the kitchen has a rug-free variant, and it places no rug that isn't wipeable", () => {
+  // every room but the kitchen has a variant named "No rugs: …", and the only floor coverings it places
+  // are mats that wipe clean and aren't plastic (Andrew, 2026-10-25: "something that isn't literally plastic").
+  it("every room but the kitchen has a rug-free variant, and it places no rug that isn't a wipeable, plastic-free mat", () => {
     const catalog = new Map(items.parsed.map(({ value }) => [value.id, value]));
     const rugFree = layouts.parsed.filter(({ value }) => value.name.startsWith("No rugs"));
     const missing = ROOM_IDS.filter((r) => r !== "kitchen" && !rugFree.some(({ value }) => value.room === r)).map(
@@ -157,9 +158,33 @@ describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
     );
     const rugs = rugFree.flatMap(({ file, value }) =>
       value.placements
-        .filter((p) => catalog.get(p.itemId)?.category === "rug" && !catalog.get(p.itemId)?.tags.includes("wipeable"))
+        .filter((p) => {
+          const item = catalog.get(p.itemId);
+          return item?.category === "rug" && !(item.tags.includes("wipeable") && item.tags.includes("plastic-free"));
+        })
         .map((p) => `${file}: placement "${p.id}" is the rug "${p.itemId}"`),
     );
     expect([...missing, ...rugs]).toEqual([]);
+  });
+
+  // The living room's sofa has a chaise, at least 3 seats, on open legs (Andrew, 2026-10-25; vesta
+  // rules.md F-67): every variant places a chaise and a sofa piece it joins, and every sofa piece there
+  // stands on an open base.
+  it("every living-room variant has a chaise sofa on an open base", () => {
+    const catalog = new Map(items.parsed.map(({ value }) => [value.id, value]));
+    const living = layouts.parsed.filter(({ value }) => value.room === "living-room");
+    expect(living.length).toBeGreaterThan(0);
+    const problems = living.flatMap(({ file, value }) => {
+      const sofas = value.placements.filter((p) => catalog.get(p.itemId)?.category === "sofa");
+      const chaises = sofas.filter((p) => catalog.get(p.itemId)?.tags.includes("chaise"));
+      return [
+        ...(chaises.length === 0 ? [`${file}: no chaise`] : []),
+        ...(sofas.length - chaises.length === 0 ? [`${file}: no sofa piece for the chaise to join`] : []),
+        ...sofas
+          .filter((p) => !catalog.get(p.itemId)?.tags.includes("open-base"))
+          .map((p) => `${file}: placement "${p.id}" ("${p.itemId}") has no open base`),
+      ];
+    });
+    expect(problems).toEqual([]);
   });
 });
