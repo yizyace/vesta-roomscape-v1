@@ -1,0 +1,52 @@
+{
+  "id": "ikea-90607985",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/grejsimojs-mat-storage-box-foldable-beige-90607985/",
+  "name": "GREJSIMOJS Mat/storage box, foldable/beige",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "kids",
+    "living-room",
+    "wipeable"
+  ],
+  "rooms": [
+    "living-room",
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 39.99,
+    "currency": "USD",
+    "asOf": "2026-10-24"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 47.25,
+    "raw": "Length: 47 1/4 \"; Width: 47 1/4 \"; Area: 16 sq feet",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-24; Width -> w, Length -> d (a mat lies like a rug); no thickness row"
+  },
+  "images": [
+    {
+      "file": "ikea-90607985-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/grejsimojs-mat-storage-box-foldable-beige__1430968_pe982197_s5.jpg",
+      "caption": "main: the quilted mat laid flat"
+    },
+    {
+      "file": "ikea-90607985-2.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/grejsimojs-mat-storage-box-foldable-beige__1430967_pe982198_s5.jpg",
+      "caption": "folded up into a storage bin with handles"
+    },
+    {
+      "file": "ikea-90607985-3.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/grejsimojs-mat-storage-box-foldable-beige__1582816_ph209201_s5.jpg",
+      "caption": "third: in use"
+    }
+  ],
+  "notes": "Flags: none. The play mat for the rug-free variants (F-61 asks for 'a play rug or mat'; the family may skip rugs for dust and mites, 2026-10-24). 47 1/4\" square, 16 sq feet, smaller than the 70-79 x 50-71\" the brief asked for. Materials and care: 'Fabric: 100% polyester (min. 90% recycled)', 'Surface coating: 100 % Polyurethane', 'Filling: 100% polyester (min. 60% recycled)', 'Button: ABS plastic'; care 'Hand wash warm water.', 'Do not tumble dry.'. The page does not say it wipes clean; the wipeable tag rests on the polyurethane surface coating. Quilted, beige. Its eyelet fastenings fold the edges up into a toy box ('A mat, play area and storage box – three functions in the same product!'). Designer Lukas Bazle. 4.6 stars (9). In stock in IKEA Long Island, NY; click and collect free (2026-10-24). Amazon's search for a foam play mat hit a bot wall on 2026-10-24, so no foam mat was read. rooms: living-room, maddie-room, from the rug-free brief.",
+  "captured": {
+    "date": "2026-10-24",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

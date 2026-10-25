@@ -1,0 +1,40 @@
+{
+  "id": "ikea-40511853",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/valevag-pocket-spring-mattress-medium-firm-white-40511853/",
+  "name": "VALEVÅG Pocket spring mattress, medium firm/white, King",
+  "brand": "IKEA",
+  "category": "mattress",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 499,
+    "currency": "USD",
+    "asOf": "2026-10-24"
+  },
+  "dimensions": {
+    "w": 76,
+    "d": 79.5,
+    "h": 9.5,
+    "raw": "Length: 79 1/2 \"; Width: 76 \"; Thickness: 9 1/2 \"",
+    "source": "IKEA Measurements section, King selected, read in Chrome 2026-10-24; Width -> w, Length -> d, Thickness -> h"
+  },
+  "images": [
+    {
+      "file": "ikea-40511853-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/valevag-pocket-spring-mattress-medium-firm-white__1142895_pe881392_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. King, medium firm, the king version of the staged queen (ikea-50511857); the king frames read on 2026-10-24 all take a 76\"-wide mattress. Ships rolled: one package 82 3/4\" long, 16 1/2\" in diameter, 92 lb 10 oz (Packaging rows), so F-22's rolled-mattress exception applies. 4 stars (3720). 10 year limited warranty; try at home for 90 days. In stock in IKEA Long Island, NY; click and collect free; home delivery to our ZIP from $39.00 (2026-10-24). Sizes: Twin $349.00, Full $379.00, Queen $399.00, King $499.00. rooms: master-bedroom, from the king brief.",
+  "captured": {
+    "date": "2026-10-24",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

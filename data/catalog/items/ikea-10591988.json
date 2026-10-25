@@ -1,0 +1,39 @@
+{
+  "id": "ikea-10591988",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/aengslilja-duvet-cover-and-pillowcase-s-natural-10591988/",
+  "name": "ÄNGSLILJA Duvet cover and pillowcase(s), natural, King",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-24"
+  },
+  "dimensions": {
+    "w": 102,
+    "d": 86,
+    "raw": "Pillowcase quantity: 2 pack; Duvet cover length: 86 \"; Duvet cover width: 102 \"; Pillowcase length: 20 \"; Pillowcase width: 36 \"; Thread count: 125 /inch²",
+    "source": "IKEA Measurements section, King selected, read in Chrome 2026-10-24; Duvet cover width -> w, Duvet cover length -> d; bedding, a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "ikea-10591988-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/aengslilja-duvet-cover-and-pillowcase-s-natural__1356022_pe953256_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, covers the SMÅSPORRE King insert ikea-40457021 (both 102 x 86\"), with two 20 x 36\" king pillowcases · fits. 100% pre-washed cotton ('Cuddle up in soft pre-washed cotton') in natural, thread count 125: the house's oatmeal, like the Full/Queen ikea-30591987. 4.1 stars (1643). Sizes: Twin $29.99, Full/Queen (Double/Queen) $39.99, King $49.99. In stock in IKEA Long Island, NY (2026-10-24). rooms: master-bedroom, from the king brief.",
+  "captured": {
+    "date": "2026-10-24",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

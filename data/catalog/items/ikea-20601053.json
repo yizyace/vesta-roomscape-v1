@@ -1,0 +1,34 @@
+{
+  "id": "ikea-20601053",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/radmansoe-bed-frame-brown-walnut-effect-20601053/",
+  "name": "RÅDMANSÖ Bed frame, brown walnut effect, King",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 339,
+    "currency": "USD",
+    "asOf": "2026-10-24"
+  },
+  "dimensions": {
+    "w": 79.125,
+    "d": 87.375,
+    "h": 40.5,
+    "raw": "Width: 79 1/8 \"; Length: 87 3/8 \"; Max. headboard height: 40 1/2 \"; Min. headboard height: 38 5/8 \"; Footboard height: 15 3/4 \"; Mattress width: 76 \"; Mattress length: 79 1/2 \"; Free height under bed: 7 7/8 \"",
+    "source": "IKEA Measurements section, King selected, read in Chrome 2026-10-24; Width -> w, Length -> d, h the maximum headboard height"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-24 (the king brief): as wide as the TARVA King and 4 1/4\" longer. Slats are not included ('Slatted bed base and mattress sold separately'; LURÖY King $60.00). Its brown walnut effect is IKEA's nearest look to the staged MALM, but the Yaheetech dark-walnut platform amazon-B0DWMSPBMZ is 5/8\" narrower. 3.6 stars (69). In stock in IKEA Long Island, NY (2026-10-24).",
+  "captured": {
+    "date": "2026-10-24",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ikea-09418584",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s09418584/",
+  "name": "TARVA Bed frame, pine/Luröy, King",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 249,
+    "currency": "USD",
+    "asOf": "2026-10-24"
+  },
+  "dimensions": {
+    "w": 79.125,
+    "d": 83.125,
+    "h": 36.25,
+    "raw": "Length: 82 1/4 \"; Width: 63 \"; Footboard height: 12 5/8 \"; Headboard height: 36 1/4 \"; Mattress length: 79 1/2 \"; Mattress width: 76 \"; measurement drawing: 211 cm (83 1/8 \"), 201 cm (79 1/8 \"), 92 cm (36 1/4 \"), 32 cm (12 5/8 \"), 20 cm (7 7/8 \")",
+    "source": "IKEA Measurements section on the King page, read in Chrome 2026-10-24. Its Length and Width rows repeat the Queen's (82 1/4 x 63\", ikea-29007794) and contradict the same section's Mattress width (76\"), so w and d come from the section's measurement drawing: 201 cm (79 1/8\") wide -> w, 211 cm (83 1/8\") long -> d; h is the headboard height"
+  },
+  "images": [
+    {
+      "file": "ikea-09418584-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tarva-bed-frame-pine-luroey__1102036_pe866857_s5.jpg",
+      "caption": "main: TARVA bed in a blue bedroom with patterned bedding"
+    },
+    {
+      "file": "ikea-09418584-2.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tarva-bed-frame-pine-luroey__0637611_pe698421_s5.jpg",
+      "caption": "Wooden TARVA bed frame with pine slats and white mattress"
+    },
+    {
+      "file": "ikea-09418584-3.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tarva-bed-frame-pine-luroey__1102038_pe866859_s5.jpg",
+      "caption": "TARVA pine bed with a bedside table and black wall lights"
+    }
+  ],
+  "notes": "Flags: none (flat-pack, so F-22 does not apply). The page's Width row (63\") cannot hold its own 76\" mattress; the drawing's 79 1/8\" is the King's width, and the rows look like the Queen's left on the King page. Fit (the king brief, master-bedroom): with the headboard on the right wall and the window-side edge at the bathroom door's landing (y 97), the frame's window-side edge falls at y 17.875, 11.875\" from the heater's drawn face (F-33: 6\" for furniture). The 76\" mattress sits 1 9/16\" in from each side rail, so its edge is 13.4\" from the face (F-33: 12\" for bedding). F-34: 17.875\" on the window side, from the wall. That is 1/8\" over the 79\" the brief allows. 83 1/8\" long, so it leaves 93 7/8\" of the room's 177\". Luröy slatted base included (the set's article 094.185.84; its URL carries the s). 3.9 stars (786). Assembly service $63.70. In stock in IKEA Long Island, NY; click and collect free; home delivery to our ZIP from $39.00 (2026-10-24). Sizes: Full $179.00, Queen $199.00 (ikea-29007794), King $249.00. rooms: master-bedroom, from the king brief.",
+  "captured": {
+    "date": "2026-10-24",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

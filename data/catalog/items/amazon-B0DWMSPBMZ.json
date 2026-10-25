@@ -1,0 +1,50 @@
+{
+  "id": "amazon-B0DWMSPBMZ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DWMSPBMZ",
+  "name": "Yaheetech King Size Solid Wood Platform Bed Frame Low-Profile Dark Walnut",
+  "brand": "Yaheetech",
+  "category": "bed",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 113.95,
+    "currency": "USD",
+    "asOf": "2026-10-24"
+  },
+  "dimensions": {
+    "w": 78.5,
+    "d": 82,
+    "h": 12,
+    "raw": "Product Dimensions 82\"L x 78.5\"W x 12\"H; Item Dimensions L x W x H 82\"L x 78.5\"W x 12\"H; Item Dimensions 81.98 x 78.35 x 12.01 inches; Ground To Item Distance 12 inches; Item Weight 60 pounds",
+    "source": "#productOverview_feature_div row 'Product Dimensions' and the technical-details rows, read in Chrome 2026-10-24; a bed: L -> d, W -> w, H -> h"
+  },
+  "images": [
+    {
+      "file": "amazon-B0DWMSPBMZ-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/8125wSAhGNL._AC_SL1500_.jpg",
+      "caption": "main: dark walnut-finish wooden platform bed frame in a bedroom"
+    },
+    {
+      "file": "amazon-B0DWMSPBMZ-2.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71KBbApLFzL._AC_SL1500_.jpg",
+      "caption": "dimension annotations, at an angle"
+    },
+    {
+      "file": "amazon-B0DWMSPBMZ-3.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81CFpJ2J9cL._AC_SL1500_.jpg",
+      "caption": "tapered legs and low-profile design"
+    }
+  ],
+  "notes": "Flags: none (flat-pack, 'Assembly Instructions Description Included', so F-22 does not apply). 'Maximum Weight Recommendation 800 pounds'. 'Ground To Item Distance 12 inches', while a bullet says 'The 7.3-inch space under the bed' lets robot vacuums pass. Rubberwood frame with 12 plywood slats in a painted dark-walnut finish, the nearest to the staged MALM's dark-brown veneer. Fit (the king brief, master-bedroom): with the headboard side on the right wall and the window-side edge at y 97, the window-side edge falls at y 18.5, 12.5\" from the heater's drawn face. The mattress sits 1 1/4\" inside each side rail, 13.75\" from the face. F-34: 18.5\" on the window side. 82\" long, so it leaves 95\" of the room's 177\". 4.2 stars (1,223). In Stock (2026-10-24). rooms: master-bedroom, from the king brief.",
+  "captured": {
+    "date": "2026-10-24",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

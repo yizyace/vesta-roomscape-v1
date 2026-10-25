@@ -1,0 +1,50 @@
+{
+  "id": "amazon-B07DZWWJ92",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B07DZWWJ92",
+  "name": "Mellow Naturalista Classic - 12 Inch Solid Wood Platform Bed with Wooden Slats, No Box Spring Needed, Easy Assembly, King, Natural Pine",
+  "brand": "Mellow",
+  "category": "bed",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 169.99,
+    "currency": "USD",
+    "asOf": "2026-10-24"
+  },
+  "dimensions": {
+    "w": 75.5,
+    "d": 79.5,
+    "h": 12,
+    "raw": "Product Dimensions 79.5\"L x 75.5\"W x 12\"H; Item Dimensions: 79.5\"L 75.5\"W x 12\"H; Item Dimensions L x W x H 79.5\"L x 75.5\"W x 12\"H; Ground To Item Distance 8.5 inches; Item Depth 12 inches; Item Weight 61.5 pounds",
+    "source": "#productOverview_feature_div row 'Product Dimensions', a feature bullet and the technical-details rows, read in Chrome 2026-10-24; a bed: L -> d, W -> w, H -> h"
+  },
+  "images": [
+    {
+      "file": "amazon-B07DZWWJ92-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81f2fjYAryL._AC_SL1500_.jpg",
+      "caption": "main: low-profile solid wood platform bed frame in natural pine"
+    },
+    {
+      "file": "amazon-B07DZWWJ92-2.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61FTW0vhh6L._AC_SL1500_.jpg",
+      "caption": "dimension annotations: 75.5 in wide, 79.5 in long, 12 in tall"
+    },
+    {
+      "file": "amazon-B07DZWWJ92-3.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81YE1ln8xjL._AC_SL1500_.jpg",
+      "caption": "third: a robot vacuum and a box beneath the open frame"
+    }
+  ],
+  "notes": "Flags: none (boxed for home assembly, 'Effortless Assembly', so F-22 does not apply). A headboard-less platform the size of the mattress: the 76\" King mattress overhangs the 75.5\" frame by 1/4\" on each side. 'Ground To Item Distance 8.5 inches', and one photo shows a robot vacuum underneath. 'Maximum Weight Recommendation 1000 pounds'. Natural pine with a 3.5\" solid wood frame and wooden slats, no box spring needed; care 'Spot cleaning with a damp cloth'. Fit (the king brief, master-bedroom): with the headboard side on the right wall and the window-side edge at the bathroom door's landing (y 97), the frame's window-side edge falls at y 21.5 and the mattress's at y 21.25, 15.25\" from the heater's drawn face (F-33: 12\" for bedding). It is the narrowest frame read. F-34: 21.25\" on the window side, from the wall. 79.5\" long, so it leaves 97.5\" of the room's 177\". 4.6 stars (22,813). In Stock (2026-10-24). Brand Mellow (manufacturer Best Price Mattress), part BPM-CSWPB-12KN. Mellow also sells it in Espresso (search result B07DZW2PNH, $200.16, not opened). rooms: master-bedroom, from the king brief.",
+  "captured": {
+    "date": "2026-10-24",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

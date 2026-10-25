@@ -1,0 +1,40 @@
+{
+  "id": "ikea-40457021",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/smasporre-duvet-insert-light-warm-40457021/",
+  "name": "SMÅSPORRE Duvet insert, light warm, King",
+  "brand": "IKEA",
+  "category": "bedding",
+  "tags": [
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 54.99,
+    "currency": "USD",
+    "asOf": "2026-10-24"
+  },
+  "dimensions": {
+    "w": 102,
+    "d": 86,
+    "raw": "Thread count: 186 /inch²; Length: 86 \"; Width: 102 \"; Filling weight: 30 oz; Total weight: 71 oz",
+    "source": "IKEA Measurements section, King selected, read in Chrome 2026-10-24; Width -> w, Length -> d; bedding, a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "ikea-40457021-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/smasporre-duvet-insert-light-warm__0776667_pe758187_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: none. Fit: master-bedroom, 102 x 86\", the same size as the ÄNGSLILJA King cover ikea-10591988 · fits. Filling weight 30 oz, total 71 oz, thread count 186. The page's care text: 'set your washer on delicate cycle at 60°C – a temperature that eliminates dust mites' (the household's dust and mite concern, 2026-10-24). 4.5 stars (1543). Sizes: Twin $39.99, Full/Queen $44.99 (ikea-80457019), King $54.99. In stock in IKEA Long Island, NY (2026-10-24). rooms: master-bedroom, from the king brief.",
+  "captured": {
+    "date": "2026-10-24",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
