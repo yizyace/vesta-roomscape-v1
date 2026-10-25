@@ -67,7 +67,7 @@
       ],
       "features": [
         { "type": "window", "wall": "top", "at": 55, "length": 67, "measured": ["length"], "note": "distance from the corners not measured" },
-        { "type": "heater", "wall": "top", "at": 0, "length": 177, "depth": 6, "measured": [], "note": "runs the whole window wall (Andrew, 2026-10-24: \"heater runs whole fall\"), where the sketch writes 'heater' at its right end; its depth is not measured" },
+        { "type": "heater", "wall": "top", "at": 0, "length": 177, "depth": 3, "measured": ["depth"], "note": "runs the whole window wall (Andrew, 2026-10-24: \"heater runs whole fall\"), where the sketch writes 'heater' at its right end; 3\" deep, from the wall to its face (Andrew, 2026-10-25)" },
         { "type": "door", "wall": "bottom", "at": 8, "length": 30, "swing": "out", "hinge": "start", "landing": 30, "measured": [], "label": "bathroom", "note": "at the right end of the bottom wall, swings into the bathroom; width not measured. Its landing is 30\", not 36\": the door opens away from the room, and the 6\" let the king's window side clear the heater (Andrew, 2026-10-25: \"ok\")" },
         { "type": "clear", "wall": "bottom", "at": 38, "length": 70, "measured": ["length"], "note": "the 70 inches of wall between the walk-in closet and the bathroom door" },
         { "type": "closet", "wall": "bottom", "at": 110, "length": 42, "depth": 24, "doors": "single", "swing": "out", "measured": [], "label": "walk-in closet", "note": "opens off the left end of the bottom wall (also labeled 'wardrobe'); not measured" },

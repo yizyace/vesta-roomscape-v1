@@ -14,6 +14,7 @@ dining-room,open to the kitchen along the left side (its whole length),left,119,
 dining-room,open to the living room along the top side (its whole length),top,128,10'8",measured,"Andrew, 2026-10-24",,"Andrew: ""The bottom of the living room (with stairs on the left) is where it connects to the dining room / kitchen."" Read in the plans' shared orientation, the dining room's top side faces it. No wall; nothing stands against it (rules.md F-42)",
 kitchen,all dimensions,,,,not-measured,,measure,Tile. Only the line dividing it from the dining room is drawn,sources/2026-10-22-dining-kitchen-sketch-user.jpg
 master-bedroom,window wall: corner to corner,top,177,14'9",measured,3 of 3,,"Hatched, with ""heater"" at its right end; the heater runs the whole wall (Andrew, 2026-10-24: ""heater runs whole fall"")",sources/2026-10-22-master-bedroom-sketch-user.jpg
+master-bedroom,heater depth: the wall to its face,top,3,3",measured,"Andrew, 2026-10-25",,"The heater along the whole window wall; Andrew answered 3 inches when asked how far it sticks out from the wall. Drawn 6"" deep until then",
 master-bedroom,window width,top,67,5'7",measured,3 of 3,,Distance from the corners not measured,sources/2026-10-22-master-bedroom-sketch-user.jpg
 master-bedroom,left wall: corner to corner,left,133,11'1",measured,3 of 3,,,sources/2026-10-22-master-bedroom-sketch-user.jpg
 master-bedroom,bottom wall: walk-in closet to the bathroom door,bottom,70,5'10",measured,3 of 3,,,sources/2026-10-22-master-bedroom-sketch-user.jpg

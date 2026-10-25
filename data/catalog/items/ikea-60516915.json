@@ -11,7 +11,8 @@
     "lighting"
   ],
   "rooms": [
-    "maddie-room"
+    "maddie-room",
+    "master-bedroom"
   ],
   "status": "candidate",
   "price": {
@@ -33,7 +34,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: none. Fit: on a dresser, nightstand or shelf (top layer). Battery operated (\"Batteries are sold separately; 2 pcs AA required.\"), so no cord at the bed. Built-in timer: off after 30 minutes or 8 hours; she can turn it on and off and change the color by pressing the cat; 5 colors (red, yellow, orange, green, white). Variant: cat. Popularity: #11 under Kids lighting sorted Most popular, the first night light there; not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "notes": "Flags: none. Fit: on a dresser, nightstand or shelf (top layer). Battery operated (\"Batteries are sold separately; 2 pcs AA required.\"), so no cord at the bed. Built-in timer: off after 30 minutes or 8 hours; she can turn it on and off and change the color by pressing the cat; 5 colors (red, yellow, orange, green, white). Variant: cat. Popularity: #11 under Kids lighting sorted Most popular, the first night light there; not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief. master-bedroom (2026-10-25): on the bathroom-side LACK shelf in the king layouts (a, h), the glow for the night walk to the bathroom.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",
