@@ -35,7 +35,8 @@ export type FeatureType = (typeof FEATURE_TYPES)[number];
 
 // A feature sits on a named wall. `at` is the offset along the wall from its start (its end when
 // anchor is "end"). `measured` lists which of at/length/depth came from the tape; the rest is drawn
-// dashed as "≈" until Andrew measures it.
+// dashed as "≈" until Andrew measures it. A door or closet keeps a 36" landing in front of it, or
+// `landing` inches where Andrew has agreed to less.
 export const FeatureSchema = z.object({
   type: z.enum(FEATURE_TYPES),
   wall: slug,
@@ -48,6 +49,7 @@ export const FeatureSchema = z.object({
   hinge: z.enum(["start", "end"]).optional(),
   side: z.enum(["in", "out"]).optional(), // stairs only; in the room unless "out"
   railing: z.boolean().optional(), // stairs only: the stair side is a railing, not a wall
+  landing: z.number().positive().optional(), // doors and closets only: the landing's depth, when not 36"
   measured: z.array(z.enum(["at", "length", "depth"])).default([]),
   label: z.string().optional(),
   note: z.string().optional(),
@@ -81,6 +83,9 @@ export const RoomSchema = z
       }
       if (f.railing !== undefined && f.type !== "stairs") {
         ctx.addIssue({ code: "custom", message: "railing applies only to stairs", path: ["features", i, "railing"] });
+      }
+      if (f.landing !== undefined && f.type !== "door" && f.type !== "closet") {
+        ctx.addIssue({ code: "custom", message: "landing applies only to doors and closets", path: ["features", i, "landing"] });
       }
       const wall = room.walls.find((w) => w.name === f.wall);
       if (!wall) {

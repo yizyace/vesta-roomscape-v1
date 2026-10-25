@@ -431,6 +431,25 @@ describe("landings", () => {
     expect(c.blocked.get("dresser")?.map((z) => z.label)).toEqual(["walk-in closet"]);
   });
 
+  it("keeps a door's landing as deep as its own `landing`, so the master's king can end where the 30 inches start", () => {
+    // Andrew, 2026-10-25: "ok", to a 30" landing at the bathroom door for the king.
+    const master = room("master-bedroom");
+    const zones = (landing?: number) =>
+      keepOutZones(
+        master.walls,
+        master.features.map((f) => (f.label === "bathroom" && landing !== undefined ? { ...f, landing } : f)),
+      );
+    const bathroomFront = (landing?: number) => zones(landing).find((z) => z.kind === "front" && z.label === "bathroom")?.rect;
+    expect(bathroomFront()).toEqual({ x: 139, y: 97, w: 30, h: 36 });
+    expect(bathroomFront(30)).toEqual({ x: 139, y: 103, w: 30, h: 30 });
+    const items = new Map<string, Pick<Item, "dimensions">>([["amazon-king", { dimensions: { w: 75.5, d: 79.5 } }]]);
+    const king = (y: number, landing?: number) =>
+      findCollisions([{ id: "bed", itemId: "amazon-king", x: 97.5, y, rotation: 90 }], items, points("master-bedroom"), zones(landing)).blocked;
+    expect(king(27.5, 30).size).toBe(0); // y 27.5-103, up to the landing
+    expect(king(28.5, 30).get("bed")?.map((z) => [z.kind, z.label])).toEqual([["front", "bathroom"]]); // 1" into it
+    expect(king(27.5).get("bed")?.map((z) => [z.kind, z.label])).toEqual([["front", "bathroom"]]); // 6" into a 36" one
+  });
+
   it("flags a piece backed against a door's or a closet's swing, where there is no room to stand", () => {
     // Andrew, 2026-10-23, of the TROFAST standing on the closet doors' arc in Maddie's room: "why would a
     // storage be put right in front of the door like this?"

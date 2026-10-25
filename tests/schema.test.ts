@@ -210,6 +210,14 @@ describe("RoomSchema", () => {
     ]);
   });
 
+  it("takes landing on a door or a closet and refuses it on any other feature", () => {
+    expect(RoomSchema.safeParse(room({ features: [{ type: "door", wall: "top", at: 0, length: 30, landing: 30 }] })).success).toBe(true);
+    expect(RoomSchema.safeParse(room({ features: [{ type: "closet", wall: "top", at: 0, length: 42, landing: 30 }] })).success).toBe(true);
+    expect(linesOf(RoomSchema, room({ features: [{ type: "window", wall: "top", at: 0, length: 30, landing: 30 }] }))).toEqual([
+      "features.0.landing: landing applies only to doors and closets",
+    ]);
+  });
+
   it("rejects features in a room with walls: [] (not measured yet), but accepts the empty room", () => {
     expect(linesOf(RoomSchema, room({ walls: [], features: [{ type: "door", wall: "top", at: 0, length: 30 }] }))).toContain(
       "features: a room without walls (not measured yet) cannot have features",

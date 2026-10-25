@@ -262,7 +262,8 @@ export const DEFAULT_HEATER_DEPTH = 6;
 /**
  * The landing kept clear in front of every door and closet, whichever way it opens (rules.md F-31): room to
  * step through a door and turn, or to stand at a closet with its doors open and reach in. It holds every
- * leaf up to 36" wide, so a piece can no longer stand on a swing's edge with no room in front.
+ * leaf up to 36" wide, so a piece can no longer stand on a swing's edge with no room in front. A door's own
+ * `landing` replaces it where Andrew has agreed to less.
  */
 export const FRONT_CLEARANCE = 36;
 /** The walkway kept clear along a side with no wall, so the open space stays open (rules.md F-42, F-30). */
@@ -271,8 +272,8 @@ export const OPENING_CLEARANCE = 30;
 /**
  * The room's keep-out zones: each stair band (or, for stairs beyond the wall, a 36" landing at each end
  * of them, or a 36" strip along their whole length when a railing leaves them open), each heater strip, the square swept by every door or closet door that swings into the room
- * (one square per leaf), a 36" landing in front of every door and closet, and a 30" walkway along every
- * opening.
+ * (one square per leaf), a 36" landing in front of every door and closet (its `landing` deep when it has
+ * one), and a 30" walkway along every opening.
  */
 export function keepOutZones(walls: Wall[], features: Feature[]): KeepOut[] {
   const segments = new Map(walkWalls(walls).segments.map((s) => [s.name, s]));
@@ -298,7 +299,7 @@ export function keepOutZones(walls: Wall[], features: Feature[]): KeepOut[] {
         const far = { x: arc.from.x + arc.to.x - arc.center.x, y: arc.from.y + arc.to.y - arc.center.y };
         zones.push({ kind: "swing", label, rect: bounds([arc.center, arc.from, arc.to, far]) });
       }
-      zones.push({ kind: "front", label, rect: featureRect(seg, f, FRONT_CLEARANCE, "in") });
+      zones.push({ kind: "front", label, rect: featureRect(seg, f, f.landing ?? FRONT_CLEARANCE, "in") });
     } else if (f.type === "opening") {
       zones.push({ kind: "opening", label, rect: featureRect(seg, f, OPENING_CLEARANCE, "in") });
     }

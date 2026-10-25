@@ -196,7 +196,7 @@ they stay in Andrew's private vesta repo.
 | An agent's change doesn't show | Click into the window (it reloads on focus), or reload the page |
 | A piece won't go into the room | It has no dimensions; ask an agent to check its page or to record your tape measurement |
 | A piece is red | It overlaps another piece or leaves the room: drag it or rotate it. A rug that shows red only leaves the room |
-| A piece is amber | It stands on the stairs, on a heater, in a door's swing, in the 36" in front of a door or closet or in the walkway along the dining room's side open to the kitchen: move it off the shaded part |
+| A piece is amber | It stands on the stairs, on a heater, in a door's swing, in the 36" in front of a door or closet (30" at the master bedroom's bathroom door) or in the walkway along the dining room's side open to the kitchen: move it off the shaded part |
 | The page says the room has no variant B (or C…) | That letter was never saved, or Make staged swapped it with A: follow the link to A |
 | The read-only copy doesn't show a change | It shows what was pushed to `main`, a minute or two after the push: reload it. If the Pages run in the repo's Actions tab failed, the last copy stays up until a push passes the tests |
 
