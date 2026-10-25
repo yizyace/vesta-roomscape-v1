@@ -1,6 +1,6 @@
 {
   "name": "furniture-planner",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "private": true,
   "description": "Room planner for L01: rooms, a furniture catalog and layouts, all stored as JSON under data/.",
   "type": "module",

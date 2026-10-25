@@ -171,7 +171,7 @@ describe("reading rooms.csv", () => {
     expect(new Set(CSV_ROOM_IDS)).toEqual(new Set(ROOM_IDS));
     expect(ROWS.filter((r) => !KINDS.includes(r.kind))).toEqual([]);
     const windowWall = ROWS.find((r) => r.room === "master-bedroom" && r.item === "window wall: corner to corner");
-    expect(windowWall?.note).toBe('Hatched, with "heater" at its right end');
+    expect(windowWall?.note).toBe('Hatched, with "heater" at its right end; the heater runs the whole wall (Andrew, 2026-10-24: "heater runs whole fall")');
   });
 
   it("writes feet_inches as toFeetInches(inches) on every row with a number", () => {

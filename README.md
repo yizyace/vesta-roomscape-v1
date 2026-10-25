@@ -71,8 +71,9 @@ Ctrl-C.
   bathroom's things are in the catalog under the `bathroom` tag.
 - **The living room's stairs** run along its whole left side, outside the room as measured: they are drawn
   beyond the left wall as a band with tread lines, 36" deep until the width is measured, so the room's
-  261" are all floor. The floor at each end of the stairs, 36" square, is kept clear for stepping on and
-  off.
+  261" are all floor. They come up from the building's entrance behind a railing, so the 36" of floor
+  along the railing is kept clear its whole length: it is the way between the two ends of the stairs, and
+  nothing stands where Maddie could climb over the railing.
 - **An L-shaped piece** (an L-desk) is drawn as an L, and the chair goes in its corner.
 - **Red** means a piece overlaps another piece standing on the floor, or sticks out of the room.
   **Amber** means it stands at the foot or head of the stairs, on a heater or in a door's or a closet's

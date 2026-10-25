@@ -179,7 +179,7 @@ function FeatureLabel({ w, inset, k }: { w: OnWall; inset: number; k: number }) 
       break;
     case "stairs":
       // In the middle of the band, with its depth (the length runs the whole wall): "stairs ≈36"".
-      lines = [`${name} ${approx(has(f, "depth"))}${inchesText(stairsDepth(f))}`];
+      lines = [`${name} ${approx(has(f, "depth"))}${inchesText(stairsDepth(f))}${f.railing ? " · railing" : ""}`];
       at = add(mid, f.side === "out" ? outward(seg) : seg.inward, stairsDepth(f) / 2);
       break;
     case "door": {

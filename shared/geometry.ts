@@ -270,7 +270,7 @@ export const OPENING_CLEARANCE = 30;
 
 /**
  * The room's keep-out zones: each stair band (or, for stairs beyond the wall, a 36" landing at each end
- * of them), each heater strip, the square swept by every door or closet door that swings into the room
+ * of them, or a 36" strip along their whole length when a railing leaves them open), each heater strip, the square swept by every door or closet door that swings into the room
  * (one square per leaf), a 36" landing in front of every door and closet, and a 30" walkway along every
  * opening.
  */
@@ -282,10 +282,12 @@ export function keepOutZones(walls: Wall[], features: Feature[]): KeepOut[] {
     if (!seg) continue;
     const label = f.label ?? f.type;
     if (f.type === "stairs" && f.side === "out") {
-      // Which end people step off is unknown, so both ends keep a landing.
+      // Behind a railing nothing stands along the stairs (a piece there is a step over it); behind a wall,
+      // which end people step off is unknown, so both ends keep a landing.
       const end = Math.min(FRONT_CLEARANCE, f.length);
-      for (const at of [f.at, f.at + f.length - end]) {
-        zones.push({ kind: "front", label, rect: featureRect(seg, { ...f, at, length: end }, FRONT_CLEARANCE, "in") });
+      const spans = f.railing ? [{ at: f.at, length: f.length }] : [{ at: f.at, length: end }, { at: f.at + f.length - end, length: end }];
+      for (const span of spans) {
+        zones.push({ kind: "front", label, rect: featureRect(seg, { ...f, ...span }, FRONT_CLEARANCE, "in") });
       }
     } else if (f.type === "stairs") {
       zones.push({ kind: "stairs", label, rect: featureRect(seg, f, f.depth ?? DEFAULT_STAIRS_DEPTH, "in") });

@@ -388,6 +388,12 @@ describe("keep-out zones and layers", () => {
     expect(c.outside).toEqual(new Set());
   });
 
+  it("keeps the floor along a railing clear the stairs' whole length, 36\" deep, when they run beyond the wall", () => {
+    const railing = { ...stairsRoom.features.at(-1)!, side: "out" as const, railing: true };
+    const zones = keepOutZones(living.walls, [...living.features, railing]);
+    expect(zones.filter((z) => z.label === "stairs").map((z) => [z.kind, z.rect])).toEqual([["front", { x: 0, y: 0, w: 36, h: 173 }]]);
+  });
+
   it("flags only floor pieces on a keep-out zone, and never lets a rug or an on-top piece collide", () => {
     const zones = keepOutZones(stairsRoom.walls, stairsRoom.features);
     const items = new Map<string, Pick<Item, "dimensions">>([

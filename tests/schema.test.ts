@@ -203,6 +203,13 @@ describe("RoomSchema", () => {
     ]);
   });
 
+  it("takes railing on stairs and refuses it on any other feature", () => {
+    expect(RoomSchema.safeParse(room({ features: [{ type: "stairs", wall: "top", at: 0, length: 100, side: "out", railing: true }] })).success).toBe(true);
+    expect(linesOf(RoomSchema, room({ features: [{ type: "opening", wall: "top", at: 0, length: 30, railing: true }] }))).toEqual([
+      "features.0.railing: railing applies only to stairs",
+    ]);
+  });
+
   it("rejects features in a room with walls: [] (not measured yet), but accepts the empty room", () => {
     expect(linesOf(RoomSchema, room({ walls: [], features: [{ type: "door", wall: "top", at: 0, length: 30 }] }))).toContain(
       "features: a room without walls (not measured yet) cannot have features",

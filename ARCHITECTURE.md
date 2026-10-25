@@ -104,7 +104,8 @@ complete for rectilinear rooms (the living room's step, Maddie's notch).
 `keepOutZones(walls, features)` returns the floor a standing piece may not use, each zone `{kind, label,
 rect}`: a `stairs` band (`depth` deep, `DEFAULT_STAIRS_DEPTH` 36 when left out), or for stairs with
 `side: "out"`, which run beyond the wall and take no floor, a `front` landing 36" square at each end of
-them labelled with the feature (F-40: which end people step off is unknown), a `heater` strip
+them labelled with the feature (F-40: which end people step off is unknown), or with `railing: true` one
+`front` strip 36" deep along their whole length, since a piece against a railing is a step over it, a `heater` strip
 (`DEFAULT_HEATER_DEPTH` 6), and a `swing` square per leaf of every door or closet with `swing: "in"`
 (`length` square for a single door, two `length / 2` squares for double doors), a `front` landing 36"
 deep before every door and closet whichever way it opens (`FRONT_CLEARANCE`, F-31: it holds every leaf up
@@ -122,7 +123,7 @@ chair in an L-desk's notch is clear; `validate` names its overlaps the same way.
 
 - **rooms.json**: `{units: "in", source, rooms}`; unique room ids; walls with unique names, `dir`
   right/down/left/up, `kind` measured/derived/assumed; features (`window`, `door`, `heater`, `closet`,
-  `opening`, `clear`, `stairs`) on a known wall, ending within it; `side` (`in` or `out`) on stairs only;
+  `opening`, `clear`, `stairs`) on a known wall, ending within it; `side` (`in` or `out`) and `railing` on stairs only;
   a room without walls has no features.
 - **taxonomy.json**: `{categories, tags}`, slugs.
 - **Item**: `id` `<vendor>-<sku>` starting with its `vendor`; `url` an http(s) URL, `null` only for
@@ -358,7 +359,7 @@ port (`startTestServer`) over a temporary data directory (`mkTempDataDir` copies
 
 ## Versioning
 
-`package.json` `version` (0.2.7 today: stairs that run beyond their wall, `side: "out"`, so the living room's measured floor is whole and only a 36" landing at each end of its stairs is kept clear; 0.2.6 UPLIFT's photos allowed, `upliftdesk.com` and its store's CDN folder; 0.2.5 L-shaped footprints, `dimensions.notch`, so the chair at an L-desk stands in its corner instead of on a rectangle drawn around it; 0.2.4 a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
+`package.json` `version` (0.2.8 today: `railing` on stairs, so the floor along the living room's railing stays clear its whole length; 0.2.7 stairs that run beyond their wall, `side: "out"`, so the living room's measured floor is whole and only a 36" landing at each end of its stairs is kept clear; 0.2.6 UPLIFT's photos allowed, `upliftdesk.com` and its store's CDN folder; 0.2.5 L-shaped footprints, `dimensions.notch`, so the chair at an L-desk stands in its corner instead of on a rectangle drawn around it; 0.2.4 a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
 data-shape change goes from 0.x to 0.(x+1):
 
 - **patch**: a fix, with no change to any file's shape;
