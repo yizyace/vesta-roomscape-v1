@@ -2,8 +2,8 @@
   "room": "dining-room",
   "variant": "e",
   "name": "No rugs: VIHALS set for six under the pendant, the BESTÅ buffet and art as the wall anchor",
-  "updatedAt": "2026-10-24T23:48:07.324Z",
-  "notes": "Rug-free (F-66): the staged arrangement (a) with the LYDERSHOLM rug and its two STOPP FILT underlays taken out; every other piece stands where it does in a. Nothing replaces the rug on the floor. The tile wipes clean, and designers often leave a dining table bare anyway: chairs catch on a rug's edge, and with a 4-year-old at the table spills come off tile, not out of a flatweave.\nWhat ties the room together instead:\n(1) The table is the anchor, its six seats tight around it.\n(2) The GULLSUDARE pendant hangs over the table's center (72.1, 68.4) and marks the dining zone the rug used to mark; the two VARPTROSS wall lamps frame the buffet.\n(3) The wall anchor is the BLODFLÄDER, 47 1/4\" wide, centered over the 70 7/8\" BESTÅ buffet (two thirds of its width): the focal point from the living room.\n(4) The rug's natural tone moves up onto the table and chairs: the washable SVARTSENAP runner and placemats and the MALINDA chair pads in natural and light beige, repeated in the bamboo of the VARPTROSS shades and the BLANDA MATT bowl, with the white of the VIHALS set and the buffet. The same natural, white and green run through the living room, so the open plan still reads as one space.\n(5) The FEJKA bird of paradise in the far corner carries the green of the painting. An artificial plant gathers dust, so it is wiped with the dusting.\nClearances are as in a. Both 30-inch walkways stay clear (F-42). F-36: 48.5\" to the kitchen line and 53.9\" to the living-room line (the passing sides), 36\" from the bottom edge to the bottom wall, 32.25\" from the right end to the right wall (tight:32.3, Maddie's end). Leaf in, 20.4\" at the right end (tight:20.4), and the kitchen-end chair stands 11.8\" into the walkway while guests are over.\nOn bare tile the chairs scrape, so put felt pads under their legs (not in the catalog).",
+  "updatedAt": "2026-10-25T01:02:19.914Z",
+  "notes": "Rug-free (F-66): the staged arrangement (a) with the LYDERSHOLM rug and its two STOPP FILT underlays taken out; every other piece stands where it does in a, except the two wall lamps, moved in the audit below. Nothing replaces the rug on the floor. The tile wipes clean, and designers often leave a dining table bare anyway: chairs catch on a rug's edge, and with a 4-year-old at the table spills come off tile, not out of a flatweave.\nWhat ties the room together instead:\n(1) The table is the anchor, its six seats tight around it.\n(2) The GULLSUDARE pendant hangs over the table's center (72.1, 68.4) and marks the dining zone the rug used to mark; the two VARPTROSS wall lamps frame the buffet.\n(3) The wall anchor is the BLODFLÄDER, 47 1/4\" wide, centered over the 70 7/8\" BESTÅ buffet (two thirds of its width): the focal point from the living room.\n(4) The rug's natural tone moves up onto the table and chairs: the washable SVARTSENAP runner and placemats and the MALINDA chair pads in natural and light beige, repeated in the bamboo of the VARPTROSS shades and the BLANDA MATT bowl, with the white of the VIHALS set and the buffet. The same natural, white and green run through the living room, so the open plan still reads as one space.\n(5) The FEJKA bird of paradise in the far corner carries the green of the painting. An artificial plant gathers dust, so it is wiped with the dusting.\nClearances are as in a. Both 30-inch walkways stay clear (F-42). F-36: 48.5\" to the kitchen line and 53.9\" to the living-room line (the passing sides); 36\" from the bottom edge to the bottom wall and 27.4\" to the buffet's face, which floats above the chair backs (tight:27.4: the chairs push back under it, but nobody passes behind them, so the buffet is reached from its ends); 32.25\" from the right end to the right wall (tight:32.3, Maddie's end). With the leaf in (70 7/8\"), seat three to a side and leave both ends empty: nothing stands in the kitchen walkway (F-42), nobody sits at the right end, 20.4\" from the wall (tight:20.4), and Maddie's URBAN goes on the living-room side, where a parent can stand behind her. Six placemats fit on the table only with the leaf in.\nOn bare tile the chairs scrape, so put felt pads under their legs (not in the catalog).\nAudit 2026-10-24: the wall lamps moved 1.4\" outward (lamp-1 to x 39.1, lamp-2 to x 98.2), each now centered between the canvas and the buffet's end with 2.4\" on either side; at 1\" from the frame they crowded the canvas. Guest evenings seat three to a side, where the old plan put the kitchen-end chair 11.8\" into the walkway. F-36 now gives the buffet's face as well as the wall, and the HAVSRIS cord drop goes in a cord cover, never across an open side or down the wall behind Maddie's seat.",
   "placements": [
     {
       "id": "table-1",
@@ -89,16 +89,16 @@
     {
       "id": "lamp-1",
       "itemId": "ikea-20610854",
-      "x": 40.5,
+      "x": 39.09375,
       "y": 114,
       "rotation": 180,
       "layer": "top",
-      "note": "VARPTROSS above the buffet's left end, center about 60\" up, plug-in, cord in a cover"
+      "note": "VARPTROSS above the buffet's left end, centered between the canvas and the buffet's end (2.4\" to each), center about 60\" up, plug-in, cord in a cover"
     },
     {
       "id": "lamp-2",
       "itemId": "ikea-20610854",
-      "x": 96.75,
+      "x": 98.15625,
       "y": 114,
       "rotation": 180,
       "layer": "top",
@@ -127,7 +127,7 @@
     {
       "itemId": "ikea-80490052",
       "qty": 1,
-      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the 15'5\" cord along the ceiling to an outlet (the ceiling box is unknown); E26 LED bulb not in the catalog"
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the shade's bottom about 30\" above the table top; the 15'5\" cord runs along the ceiling to the right or bottom wall, never across an open side, and down to an outlet in a cord cover (not in the catalog), not down the wall behind Maddie's seat: its page says to hang it out of children's reach. The ceiling box is unknown; E26 LED bulb not in the catalog"
     },
     {
       "itemId": "ikea-40533063",

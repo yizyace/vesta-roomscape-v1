@@ -2,8 +2,8 @@
   "room": "dining-room",
   "variant": "a",
   "name": "Staged: VIHALS set for six in the open corner, a floating BESTÅ buffet and art on the bottom wall",
-  "updatedAt": "2026-10-24T22:20:47.512Z",
-  "notes": "The top side is open to the living room (Andrew, 2026-10-24) as well as the left side to the kitchen, so both 30-inch walkways stay clear (F-42): every floor piece stands at x 30 or more and y 30 or more, nothing hangs on either open side, and rugs run under the walkways.\nStaged pick: the VIHALS / VIHALS white set for six (five VIHALS chairs and Maddie's URBAN), table closed and turned across the room (long side along the 128\" walls), the one way its six seats fit: along the depth the bottom end would keep only 23.3\" to the wall. The table sits in the open corner: its kitchen-end chair and its two living-room-side chairs stand just inside the walkways, so the walkways are the passing space behind them (F-36: 48.5\" from the left end to the kitchen line, 53.9\" from the top edge to the living-room line).\nF-36 to the walls: 36\" from the bottom edge to the bottom wall (the BESTÅ floats above the chairs' backs, so it is measured to the wall), 32.25\" from the right end to the right wall (tight:32.3, Maddie's end: a parent pushes the URBAN in). Leaf in (70 7/8\"), the table opens 11.8\" at each end: 20.4\" from its right end to the wall (tight:20.4), and the kitchen-end chair stands 11.8\" into the walkway while the guests are over, so the leaf is for an occasional evening.\nThe view: from the living room you look across the table to the BLODFLÄDER over the buffet; from the kitchen, along the table to the bird of paradise in the far corner.",
+  "updatedAt": "2026-10-25T01:04:29.714Z",
+  "notes": "The top side is open to the living room (Andrew, 2026-10-24) as well as the left side to the kitchen, so both 30-inch walkways stay clear (F-42): every floor piece stands at x 30 or more and y 30 or more, nothing hangs on either open side, and rugs run under the walkways.\nStaged pick: the VIHALS / VIHALS white set for six (five VIHALS chairs and Maddie's URBAN), table closed and turned across the room (long side along the 128\" walls), the one way its six seats fit: along the depth the bottom end would keep only 23.3\" to the wall. The table sits in the open corner: its kitchen-end chair and its two living-room-side chairs stand just inside the walkways, so the walkways are the passing space behind them (F-36: 48.5\" from the left end to the kitchen line, 53.9\" from the top edge to the living-room line).\nF-36 to the walls: 36\" from the bottom edge to the bottom wall (the BESTÅ floats above the chairs' backs, so it is measured to the wall), 32.25\" from the right end to the right wall (tight:32.3, Maddie's end: a parent pushes the URBAN in). Leaf in (70 7/8\"), the table opens 11.8\" at each end: 20.4\" from its right end to the wall (tight:20.4), and the kitchen-end chair stands 11.8\" into the walkway while the guests are over, so the leaf is for an occasional evening.\nThe view: from the living room you look across the table to the BLODFLÄDER over the buffet; from the kitchen, along the table to the bird of paradise in the far corner.\nAudit 2026-10-24 (from the rug-free E): the wall lamps moved 1.4\" outward (lamp-1 to x 39.1, lamp-2 to x 98.2), each centered between the canvas and the buffet's end; at 1\" from the frame they crowded the canvas. Guest evenings with the leaf in seat three to a side, both ends empty, so no chair stands in the kitchen walkway; the HAVSRIS cord drop goes in a cord cover, never across an open side or behind Maddie's seat.",
   "placements": [
     {
       "id": "table-1",
@@ -89,7 +89,7 @@
     {
       "id": "lamp-1",
       "itemId": "ikea-20610854",
-      "x": 40.5,
+      "x": 39.09375,
       "y": 114,
       "rotation": 180,
       "layer": "top",
@@ -98,7 +98,7 @@
     {
       "id": "lamp-2",
       "itemId": "ikea-20610854",
-      "x": 96.75,
+      "x": 98.15625,
       "y": 114,
       "rotation": 180,
       "layer": "top",
