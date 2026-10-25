@@ -1,0 +1,44 @@
+{
+  "id": "ikea-09318315",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/morabo-chaise-add-on-unit-gunnared-dark-gray-wood-s09318315/",
+  "name": "MORABO Chaise, add-on unit, Gunnared dark gray/wood",
+  "brand": "IKEA",
+  "category": "sofa",
+  "tags": [
+    "living-room",
+    "seating",
+    "chaise",
+    "open-base",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 450,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 30.75,
+    "d": 62.25,
+    "h": 31.875,
+    "raw": "Width: 30 3/4 \"; Depth: 62 1/4 \"; Height: 31 7/8 \"; Seat depth: 50 3/8 \"; Seat height: 18 1/2 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-25. Legs: \"Morabo 6 1/4 \" wood\" (the page's leg choice); the add-on's own rows give no height under it, the sofa's and the sectionals' give 6 1/4\". Its 30 3/4\" is its width with no armrest: the sofa's removable armrest moves to its outer end, so it adds 30 3/4\" to a MORABO's width (the loveseat's 65 3/8\" + 30 3/4\" = the Sofa with chaise's 96 1/8\"; the 5-seat corner's 111\" + 30 3/4\" = the 6-seat crn/chaise's 141 3/4\")"
+  },
+  "images": [
+    {
+      "file": "ikea-09318315-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/morabo-chaise-add-on-unit-gunnared-dark-gray-wood__0602635_pe680439_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: delivery-path-unmeasured (F-22: a sofa section; 2 packages, the chaise section frame 64 1/2 x 32 1/4 x 21 1/2\" at 69 lb 4 oz, and the legs). Andrew's link (2026-10-25), his example of the open base he wants under the sofa. It attaches to the end of a MORABO sofa, loveseat or corner sectional (\"Removable armrests make it easy to add on a chaise lounge\", on the sofa's page). The staged U (living-room a, e) is the 5-seat corner ikea-99318311 with this unit at its end, the same footprint as IKEA's 6-seat crn/chaise, which comes only in leather (ikea-09575866). Open base: \"Height under furniture: 6 1/4 \"\" on its 6 1/4\" wood legs, the open floor Andrew asked for (2026-10-25: \"Sofa must have empty space bettwen like\" the MORABO chaise add-on), high enough for a robot vacuum (design-review.md). Cover: Gunnared polyester. The MORABO sofa's page says its Gunnared cover is a \"Stationary cover.\" / \"Non-removable cover\", care \"Vacuum clean.\" and wipe clean (Materials and care, 2026-10-25); this piece's care section was not opened, so it is taken to be the same, vacuumed rather than washed (F-66). In stock at IKEA Long Island, NY; click and collect from $2.00; home delivery to 11361 from $49.00 (2026-10-25). 4.3 stars (10). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

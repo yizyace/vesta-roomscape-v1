@@ -1,0 +1,35 @@
+{
+  "id": "other-vari-402853",
+  "vendor": "other",
+  "url": "https://www.vari.com/electric-standing-desk-with-comfortedge-40x26/FD-ESDCE4026.html",
+  "name": "Electric Standing Desk with ComfortEdge™ 40x26, Reclaimed Wood/Slate",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 649,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 40,
+    "d": 26,
+    "h": 50.5,
+    "raw": "Dimensions: 25-50.5\" (H) x 40\"(W) x 26\"(D)",
+    "source": "vari.com product page's Dimensions row, read in Claude in Chrome 2026-10-25 (Reclaimed Wood/Slate, the default, SKU 402853)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: opened to finish the four-screen run of back-bedroom h at 100\" (the 60x30 plus this, 26\" deep, clear of the wardrobe's landing), but it comes in no Light Wood (Reclaimed Wood, Black, Walnut), so it wouldn't match; the run is two Light Wood 48x30s. $649.00; SKU 402853; \"In stock\" (2026-10-25); 32 reviews.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

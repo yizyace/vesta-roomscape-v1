@@ -1,0 +1,38 @@
+{
+  "id": "ikea-09575866",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/morabo-sectional-6-seat-crn-chaise-grann-bomstad-black-wood-s09575866/",
+  "name": "MORABO Sectional 6-seat crn/chaise, Grann/Bomstad black/wood",
+  "brand": "IKEA",
+  "category": "sofa",
+  "tags": [
+    "living-room",
+    "seating",
+    "chaise",
+    "open-base",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 3149,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 141.75,
+    "d": 95.25,
+    "h": 31.875,
+    "raw": "Depth chaise: 62 1/4 \"; Seat width, chaise lounge: 30 3/4 \"; Depth: 36 1/4 \"; Height: 31 7/8 \"; Seat depth, chaise lounge: 50 3/8 \"; Width right: 141 3/4 \"; Width left: 95 1/4 \"; Height under furniture: 6 1/4 \"; Armrest width: 5 1/8 \"; Seat depth: 24 \"; Seat height: 18 1/2 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-25. A U: the 95 1/4\" left arm and the 62 1/4\" chaise at the right end both reach forward from the 141 3/4\" back, so its footprint has two notches, which the planner can't draw in one piece (w x d is the outline only)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: opened as the largest MORABO (Andrew: \"choose the largest sofa / sectional / chaise that can fit\"). It is the 5-seat corner and the chaise section as one article (\"1 x Frame for corner sectional, 5-seat\"; \"1 x Chaise section frame\"), and comes only in Grann/Bomstad leather (black, golden brown, gray-green), $3,149.00, \"Not stocked at IKEA Long Island, NY\". The staged U is the same footprint from its two parts in the Gunnared fabric Andrew linked, ikea-99318311 + ikea-09318315 ($2,449.00), which the planner draws as an L and a rectangle. Worth a look if the fabric's fixed cover matters: leather wipes clean and holds no dust mites (F-66). 4 stars (8).",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

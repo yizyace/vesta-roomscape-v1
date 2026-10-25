@@ -1,0 +1,35 @@
+{
+  "id": "other-vari-403175",
+  "vendor": "other",
+  "url": "https://www.vari.com/solid-wood-electric-standing-desk-72x30/FD-ESDSW7230.html",
+  "name": "Solid Wood Electric Standing Desk 72x30, White Oak/White",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 1599,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 70,
+    "d": 30,
+    "h": 50.5,
+    "raw": "Dimensions: 25-50.5\" (H) x 70\"(W) x 30\"(D); Size: 72x30",
+    "source": "vari.com product page's Dimensions row, read in Claude in Chrome 2026-10-25: the row says 70\" wide although the name and Size say 72x30 (F-01: the row wins)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: no bamboo (White Oak or Heritage Walnut), $600 more than the ComfortEdge 72x30, \"Low inventory - act now\", and 70\" wide by its own Dimensions row. White oak is real wood and pale, the closest thing at Vari to a natural bamboo top, if laminate won't do. SKU 403175.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

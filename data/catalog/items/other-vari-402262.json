@@ -1,0 +1,35 @@
+{
+  "id": "other-vari-402262",
+  "vendor": "other",
+  "url": "https://www.vari.com/electric-standing-desk-with-comfortedge-72x30/FD-ESDCE7230.html",
+  "name": "Electric Standing Desk with ComfortEdge™ 72x30, Light Wood/Slate",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 999,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 72,
+    "d": 30,
+    "h": 50.5,
+    "raw": "Dimensions: 25-50.5\"(H) x 72\"(W) x 30\"(D); Size: 72x30",
+    "source": "vari.com product page's Dimensions row, read in Claude in Chrome 2026-10-25 with the Light Wood/Slate finish selected (SKU 402262); h = the top of the height range"
+  },
+  "images": [],
+  "notes": "Flags: none. The job desk on the left wall of back-bedroom h, opposite the four-screen run; Vari's longest straight ComfortEdge desk. In g it left 16.6\" between its end and the L's return, the way in from the door, so g has the 48x30 (other-vari-402258). Light Wood is Vari's nearest finish to the bamboo Andrew asked for (2026-10-25); Vari sells no bamboo top (vari.com's search finds nothing). SKU 402262; \"In stock, Free standard shipping\" (2026-10-25); 145 reviews. Photos on www.vari.com, not an allowed host yet. rooms: back-bedroom, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

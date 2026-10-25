@@ -1,0 +1,48 @@
+{
+  "id": "ikea-99318311",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/morabo-sectional-5-seat-corner-gunnared-dark-gray-wood-s99318311/",
+  "name": "MORABO Sectional, 5-seat corner, Gunnared dark gray/wood",
+  "brand": "IKEA",
+  "category": "sofa",
+  "tags": [
+    "living-room",
+    "seating",
+    "open-base",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 1999,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 111,
+    "d": 95.25,
+    "h": 31.875,
+    "notch": {
+      "w": 74.75,
+      "d": 59,
+      "side": "right"
+    },
+    "raw": "Depth: 36 1/4 \"; Height: 31 7/8 \"; Width right: 111 \"; Width left: 95 1/4 \"; Height under furniture: 6 1/4 \"; Armrest width: 5 1/8 \"; Seat depth: 24 \"; Seat height: 18 1/2 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-25. w = Width right, the back run with the corner, 111; d = Width left, the left arm from the back to its front, 95.25; notch (111 - 36.25) x (95.25 - 36.25) = 74.75 x 59 on the right, as sold: the arm on the left seen from the front, as in the 6-seat crn/chaise's photo"
+  },
+  "images": [
+    {
+      "file": "ikea-99318311-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/morabo-sectional-5-seat-corner-gunnared-dark-gray-wood__0602462_pe680373_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: delivery-path-unmeasured (F-22: a sofa; 5 packages, the frame in three, 78 1/2 x 36 3/4 x 20 1/4\" at 128 lb 14 oz, 62 3/4 x 36 3/4 x 20 1/2\" at 106 lb 9 oz and 36 1/2 x 36 1/4 x 20 3/4\" at 58 lb 10 oz, plus legs). The largest MORABO that fits the living room (F-67): with the chaise add-on ikea-09318315 at its right end it is IKEA's \"Sectional 6-seat crn/chaise\", 141 3/4 x 95 1/4\" with a 62 1/4\" chaise, the U staged in living-room a and e. That one article is sold only in Grann/Bomstad leather (ikea-09575866, $3,149.00); in this fabric the two parts come to $2,449.00. Leather wipes clean and gives dust mites nowhere to live, the one way to make the sofa itself low-dust. Open base: \"Height under furniture: 6 1/4 \"\" on its 6 1/4\" wood legs, the open floor Andrew asked for (2026-10-25: \"Sofa must have empty space bettwen like\" the MORABO chaise add-on), high enough for a robot vacuum (design-review.md). Cover: Gunnared polyester. The MORABO sofa's page says its Gunnared cover is a \"Stationary cover.\" / \"Non-removable cover\", care \"Vacuum clean.\" and wipe clean (Materials and care, 2026-10-25); this piece's care section was not opened, so it is taken to be the same, vacuumed rather than washed (F-66). Not stocked at IKEA Long Island, NY; order online, home delivery to 11361 from $49.00 (2026-10-25). Also in Gunnared light green. 4 stars (34). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "other-vari-402260",
+  "vendor": "other",
+  "url": "https://www.vari.com/electric-standing-desk-with-comfortedge-60x30/FD-ESDCE6030.html",
+  "name": "Electric Standing Desk with ComfortEdge™ 60x30, Light Wood/Slate",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 899,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 30,
+    "h": 50.5,
+    "raw": "Dimensions: 25-50.5\" (H) x 60\"(W) x 30\"(D)",
+    "source": "vari.com product page's Dimensions row, read in Claude in Chrome 2026-10-25 with Light Wood/Slate selected (SKU 402260); h = the top of the height range"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: opened for the four-screen run of back-bedroom h, but 60\" + 48\" from the heater line ends at y 120, 4\" into the wardrobe's 36\" landing (F-31: validate warned), and the 40x26 that would make 100\" comes in no Light Wood; the run is two 48x30s (other-vari-402258), 96\". Light Wood/Slate, $899.00; SKU 402260; \"In stock, Free standard shipping\" (2026-10-25); 194 reviews.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

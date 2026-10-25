@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B001PBEIHE",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B001PBEIHE",
+  "name": "Anji Mountain 48\" x 42\" Bamboo Office Chair Mat for Carpet & Hardwood Floor",
+  "brand": "Anji Mountain",
+  "category": "rug",
+  "tags": [
+    "office",
+    "wipeable",
+    "plastic-free"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 111.59,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 48,
+    "d": 42,
+    "h": 0.25,
+    "raw": "Product Dimensions: 48\"L x 42\"W x 0.25\"Th; Size: 48\" x 42\"; Material: Bamboo; Style: Without Lip; Color: Natural; Item Highlight: 5mm Thick, Non-Slip Felt Backing for Rolling Chairs",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-25; the long side, L, is w (along the desk, as for a table), W is d, Th is h"
+  },
+  "images": [
+    {
+      "file": "amazon-B001PBEIHE-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81cIUFlgd3L._AC_SL1500_.jpg",
+      "caption": "main: the natural bamboo chair mat under a mesh office chair"
+    }
+  ],
+  "notes": "Flags: none. The chair mat for the rug-free office and the Vari layouts (F-66; back-bedroom f, g, h), in place of the clear plastic KOLON (ikea-44881100). \"100% Moso bamboo\" slats on \"a felt backing featuring non-slip gripper dots\" (the page doesn't say what the felt or the dots are made of); no PVC, TPE or EVA named, so plastic-free. Wipes clean; hard, so casters roll well, and it does nothing for sound. Other sizes on the page: 48 x 36 ($102.67), 52 x 44, 52 x 48, 57 x 55, 60 x 48, 72 x 48; with or without a lip. Delivery Tue Oct 27 (2026-10-25). rooms: back-bedroom, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

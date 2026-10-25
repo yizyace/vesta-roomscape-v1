@@ -1,0 +1,35 @@
+{
+  "id": "other-vari-402452",
+  "vendor": "other",
+  "url": "https://www.vari.com/l-shape-corner-electric-standing-desk/FD-LSESD7960.html",
+  "name": "L-Shape Electric Standing Desk 80x60, Reclaimed Wood/Slate",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 1349,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 79.5,
+    "d": 60,
+    "h": 50.5,
+    "raw": "Dimensions: 25-50.5\"(H) x 79.5\"(W) x 60\"(D); Size: 79.5\"(W) x 60\"(D)",
+    "source": "vari.com product page's Dimensions row, read in Claude in Chrome 2026-10-25 (the desktops' depths were not read, so no notch)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: the Reclaimed Wood/Slate finish, the page's default; the same desk in Light Wood/Slate (other-vari-402451), the nearest Vari finish to the bamboo Andrew asked for, is the one staged (back-bedroom g). Finishes: Light Wood, Driftwood, Espresso, Walnut, Reclaimed Wood, Butcher Block, Black, White. SKU 402452; \"In stock\" (2026-10-25); 4.8 stars (141).",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

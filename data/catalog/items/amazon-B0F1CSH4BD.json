@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0F1CSH4BD",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0F1CSH4BD",
+  "name": "HAPBEAR Large Cork Yoga Mat - 72\"x36\" Wide Non-Slip for Home Workout, Yoga, Pilates & Stretching - 6mm Cushioned Support & Durable - Carry Bag Included",
+  "brand": "HAPBEAR",
+  "category": "rug",
+  "tags": [
+    "kids",
+    "living-room",
+    "wipeable"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 49.99,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 36,
+    "d": 72,
+    "h": 0.24,
+    "raw": "Product Dimensions: 72\"L x 36\"W x 0.24\"Th; Material: Cork, Thermoplastic Elastomers; Color: Yellow",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-25; W is w, L is d"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: 36\" wide, but backed with TPE (\"Material: Cork, Thermoplastic Elastomers\"), a plastic (F-66).",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,90 +1,81 @@
 {
   "room": "living-room",
   "variant": "c",
-  "name": "Chaise lounge facing the window, a reading corner left of the window, KALLAX play wall with Maddie's reading chair",
-  "updatedAt": "2026-10-25T01:10:10.430Z",
-  "notes": "Alternative: No TV (F-65); the bottom side is open to the kitchen and dining area, so its 30-inch walkway (y 143-173) stays clear (F-42): nothing stands against it or hangs on it, and it is the route from the stairs to the kitchen and dining room.\nA lounge layout: the KIVIK with chaise floats with its back to the open side and faces the window, the chaise on the right end toward the play area, with the LACK console behind it; no coffee table (the chaise is the footrest). The window's left corner is a grown-up reading corner (POÄNG and TÅGARP), and the play wall is KALLAX: a 2x4 on the upper section, a 2x2 with drawer inserts in the 50\" left of the open side's walkway, and Maddie's own reading corner in the window corner with her POÄNG and the FLISAT book display. The lounge sits on the strip the drawn stair band used to keep clear, so the play floor in front of the KALLAX wall is 77\" wide (41\" before), and the LÄTT stands 34.75\" from the chaise.\nsofa-2 KIVIK with chaise, rot 180, chaise on the right end (toward the play area), drawn as its 110.25 x 64.125\" bounding box, x 58-168.25, y 62.5-126.625: the chaise reaches y 62.5 and the three seats' front is at y 89.25 (the 3-seat KIVIK's 37 3/8\" depth); the chaise's tip 56.5\" from the heater face (F-33, 12\" needed); the console and the 30\" walkway behind it (F-39); delivery-path-unmeasured (F-22, 5 boxes).\nconsole-1 LACK console, x 85.562-140.688, y 126.625-142, against the sofa's back, facing the dining side, with lamp-2 STORSEGEL on its right end, behind the chaise, so the lounging seat has a light; plant-1 FEJKA at its left end (x 74-83, y 130-139); 1\" short of the walkway (F-42).\nside-table-1 LACK side table with lamp-1 STORSEGEL at the left arm, x 36.375-58, y 105-126.625, beside the walkway along the stairs: it holds the drinks in place of a coffee table.\nchair-1 POÄNG in the window's left corner facing into the room, x 46-72.75, y 18-50.25: 12\" from the heater face (F-33), left of the window (F-38); floor-lamp-2 TÅGARP at its east side (x 72.75-81.75, y 18-27), 18\" from the window wall, so its 3' 3\" cord reaches that wall without crossing a route, and 36.75\" from the strip along the railing; the corner by the top landing stays clear. 39\" of floor between the chair and the seats' front (y 50.25 to 89.25) is the way from the walkway along the stairs into the room.\nrug-1 TIOKRONA 118 x 94\", x 54-172, y 32.625-126.625: under the whole sofa, its far edge under the sofa's back, so the console and the plant stand off it, and under the reading chair's front 17.6\"; the side table at the left arm stands 4\" onto its edge (the sofa and the side table together are wider than the rug); two STOPP FILT underlays under it keep it from sliding.\nkid-chair-1 POÄNG kid's armchair facing west in the window corner, x 239-261, y 22-40.5: 16\" from the heater face (F-33); book-display-1 FLISAT beside it facing the room (x 250-261, y 42-61.25), with art-2 RÖDALM above it at her eye level; wall-lamp-1 UPPLYST over the chair. Check the heater's surface temperature before she reads there.\nbookcase-1 KALLAX 2x4 standing, right-upper wall x 245.625-261, y 62.875-93: books and display out of reach above, GNABBAS baskets in the four low cubes; anchor-required (F-21, 57 5/8\"); 24\" clear in front (F-32).\nbookcase-2 KALLAX 2x2, right-lower wall x 260.125-275.5, y 98-128.125: two KALLAX drawer inserts and two DRÖNA boxes; anchor-required (F-21, 30 1/8\"); 24\" clear in front (F-32); 14.9\" short of the open side's walkway (F-42). art-1 PJÄTTERYD Waterlilies above it, and wall-lamp-2 VARPTROSS centered above the picture (center about 66\" up, its cord in a cover down behind the KALLAX).\nrug-2 VALLABY 39 x 52\", x 196-235, y 86-138; kids-table-1 LÄTT with its two chairs, x 203-227.75, y 104-122.875: 34.75\" past the chaise, the way from the dining side onto the play floor (F-30), and 32.4\" from the KALLAX 2x2; outside both KALLAX units' 24\" (F-32), its lower chair 9\" above the walkway (F-42).\nRight side (F-61): the right-lower wall carries the KALLAX 2x2 (30 1/8\" of the 50\" left of the walkway), the 93\" right-upper wall her reading corner and the KALLAX 2x4.\nNot placed: the TV and every TV unit (F-65); the LILJETRÄD mirror (glass, F-21); the second KALLAX 2x2 (only 50\" of the right-lower wall is left of the walkway); the 3-seat KIVIK and LACK coffee table (the chaise replaces them); the BESTÅ pieces (a, d), TROFAST (a, b) and SMÅSTAD (a, b, d), KIVIK ottoman and STOENSE (d), the BISSA, hooks and PERJOHAN (the bottom wall is open), the LAUTERS (e).\nStairs: they run outside the left wall, beyond the measured 261\" (F-40; Andrew, 2026-10-24: the stairs add to the room, they are not cut from it), so the floor is whole up to that wall. The stair side is a railing (Andrew, 2026-10-24), so the 36\" strip along it (x 0-36) stays clear its whole length, landings included (y 0-36 and y 137-173): it is the walkway between the stairs' two ends, and nothing Maddie can climb stands at the railing (F-40, F-21). The bottom landing opens onto the open side's walkway, the top one onto the strip, which leads into the room south of the reading chair (F-30). Which end people step off is unknown (assumed-position:stairs).\nHeater: every clearance is measured from the drawn 6\" heater face (heater-depth-assumed): floor pieces start at y 12 or more and upholstery at y 18 or more (F-33). Window: its place on the top wall is eyeballed (assumed-position:window); curtains and rod hang there, nothing stands under it (F-38), and no art hangs on that wall, so the window is the focal point.\nEntry: the old shoe cabinet, hooks and mirror hung on the bottom wall, which is open, so they are gone; the console behind the sofa is the drop zone. The LILJETRÄD mirror that moved to the window wall above the top landing is off the plan too: it is glass (F-21).\nKid safety (F-21): no glass anywhere; both KALLAX units are anchored; no floor lamp stands at the top landing, where a bumped lamp could fall toward the railing.\nPower: the stair side is a railing and the bottom side is open, so outlets can only be on the window wall and the play wall, and where they are is not recorded. The UPPLYST and VARPTROSS cords run down the play wall in cord covers. The TÅGARP's cord reaches the window wall beside it. The side table's and the console's STORSEGEL need flat floor cord covers to one of those walls, never across the strip along the railing, the way in from it or the open side's walkway, and never under the rug.\nExtras: GINSTMOTT curtains x2 pairs, HUGAD rod x1 (no-dimensions, an extra), SVARTPOPPEL covers x2, VALLKRASSING covers x2, FJÄDRAR inserts x4, VALLKRASSING throw x1, KALLAX insert with 2 drawers x2, DRÖNA boxes x2, GNABBAS baskets x4 (the 2x4's low cubes), STOPP FILT underlays x2 (under the TIOKRONA).\nAudit 2026-10-24: the LILJETRÄD mirror is off the plan, because it is glass and F-21 allows none. The TÅGARP moved from beside the top landing, 0.5\" off the strip along the railing where people step off the stairs, to the POÄNG's other side. The LÄTT moved 11\" east and the VALLABY with it, so the way past the chaise is 34.75\", not 23.75\" (F-30). The TIOKRONA moved 7.4\" toward the window, so the console and the plant no longer stand across its edge, and two STOPP FILT underlays keep it from sliding, as in the dining room. The console's lamp moved behind the chaise, which had no light. A VARPTROSS wall lamp, the dining room's bamboo sconce, gives the play area its own light, and the RÖDALM left the window wall, where it hung over the heater beside the curtains' stack, for her reading corner. These notes now record the railing (F-40) and the lamp cords.",
+  "name": "MORABO chaise by the stairs, the sofa, and an armchair with its footstool by the play area, all facing the window",
+  "updatedAt": "2026-10-25T20:49:56.714Z",
+  "notes": "Alternative: Andrew's \"chaise addon to sofa + ... chair with foot rest\" (2026-10-25). No TV (F-65); the open side's walkway (y 143-173) stays clear (F-42).\nThe sofa (F-67, Andrew 2026-10-25: \"a chaise, i.e. at least 3 seats\", \"empty space between like\" the MORABO chaise add-on, \"the largest sofa / sectional / chaise that can fit\"): MORABO in Gunnared dark gray on 6 1/4\" wood legs, the open base he linked, high enough for a robot vacuum. Its cover is fixed (vacuum and wipe, not washable); the same pieces in Grann/Bomstad leather wipe clean and hold no dust mites (F-66). Every sofa piece is delivery-path-unmeasured (F-22).\nOne row facing the window, a lounger at each end: the chaise by the stairs and the armchair with its footstool by the play area, the sofa between them. Three seats, the chaise and the armchair.\nchaise-1 MORABO chaise add-on, rot 180, x 36-66.75, y 80.75-143: at the sofa's left end, on the edge of the railing's strip (F-40), its back on the walkway edge (F-42), its foot 74.75\" from the heater face (F-33); delivery-path-unmeasured (F-22).\nsofa-1 MORABO sofa, rot 180, x 66.75-147.875, y 106.75-143: facing the window, the walkway behind it (F-39, F-42); delivery-path-unmeasured (F-22).\narmchair-1 MORABO armchair, rot 180, x 148-183.875, y 106.75-143, 1/8\" from the sofa's arm; ottoman-1 MORABO ottoman in front of it, x 153.125-178.75, y 70.375-100.75, 6\" from its seat: the \"chair with foot rest\", the parent's spot next to the play floor.\ncoffee-table-1 VALNÄS, x 84.06-130.56, y 62.375-90.75: 16\" from the sofa (F-39), 17.3\" from the chaise's side, 22.6\" from the ottoman.\nfloor-lamp-2 TÅGARP, x 72-81, y 12-21: against the window wall left of the window (F-33); the top landing's exit stays 36\" wide beside it (x 36-72, F-40). plant-1 FEJKA, x 184.5-193.5, y 133-142: in the corner behind the armchair, at the walkway's edge, off every seat's view.\nrug-1 TIOKRONA, x 48.25-166.25, y 29.5-123.5: under the VALNÄS, the ottoman and the front legs of the chaise, the sofa and the armchair; STOPP FILT underlays.\nPlay area (F-61), as c staged it: kid-chair-1 kid's POÄNG in the window corner with the FLISAT book display beside it and the UPPLYST above; bookcase-1 KALLAX 2x4 (57 5/8\" tall) and bookcase-2 KALLAX 2x2 (30 1/8\"), both anchored (F-21), drawers and boxes in the extras; art-1 PJÄTTERYD, art-2 RÖDALM, wall-lamp-2 VARPTROSS; rug-2 VALLABY (x 196-235, y 86-138) with kids-table-1 LÄTT on it, 19.1\" clear of the armchair.\nWalkways: the open side's walkway (F-42); the route along the window, 56\" or more between the heater face and the VALNÄS or the ottoman (F-30); the play floor x 184-245.6.\nNot placed: the KIVIK sofa with chaise (rejected, F-67); the POÄNG; the LACK console, the side table and the STORSEGEL lamps (no wall for their cords); a second TÅGARP (right of the window it stood 6\" from Maddie's chair); the TV (F-65).\nStairs: beyond the left wall behind a railing (F-40), so the 36\" strip along it (x 0-36) stays clear its whole length, landings included; the bottom landing opens onto the open side's walkway, the top one onto the floor along the window (F-30). Which end people step off is unknown.\nHeater: clearances run from the drawn 6\" heater face (heater-depth-assumed): floor pieces from y 12, upholstery from y 18 (F-33). It runs the whole window wall, so the GINSTMOTT panels must stay off it: hem them to end above it once its height is known, or hang blinds as the office does. Window: eyeballed on the top wall (assumed-position:window); nothing stands under it (F-38).\nPower: outlets can only be on the window wall and the play wall, and where they are isn't recorded; the TÅGARP stands against the window wall so its 3' 3\" cord reaches it without crossing a walkway, and the UPPLYST and VARPTROSS cords on the play wall run down it in covers.\nKid safety (F-21): no glass; both KALLAX units are over 27\" (57 5/8\" and 30 1/8\"), so both are anchored to the wall (anchor-required).\nExtras: as c staged them (curtains, rod, cushion covers and inserts, throw, KALLAX drawer inserts and DRÖNA boxes, GNABBAS baskets in the KALLAX, STOPP FILT underlays).\nTotal $3,202.71, prices as of 2026-10-22 and 2026-10-23 and 2026-10-24 and 2026-10-25 (those before today are price-stale, F-02). Flags across the layout: delivery-path-unmeasured, anchor-required, assumed-position:window, heater-depth-assumed.",
   "placements": [
     {
-      "id": "sofa-2",
-      "itemId": "ikea-79440586",
-      "x": 58,
-      "y": 62.5,
+      "id": "chaise-1",
+      "itemId": "ikea-09318315",
+      "x": 36,
+      "y": 80.75,
       "rotation": 180,
       "layer": "floor",
-      "note": "chaise on the right end, toward the play area; drawn as its bounding box"
+      "note": "MORABO chaise add-on by the stairs, its lounger toward the window"
     },
     {
-      "id": "console-1",
-      "itemId": "ikea-30574351",
-      "x": 85.5625,
-      "y": 126.625,
+      "id": "sofa-1",
+      "itemId": "ikea-89318321",
+      "x": 66.75,
+      "y": 106.75,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "MORABO sofa on the walkway edge, facing the window"
+    },
+    {
+      "id": "armchair-1",
+      "itemId": "ikea-59318308",
+      "x": 148,
+      "y": 106.75,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "MORABO armchair beside the sofa, facing the window"
+    },
+    {
+      "id": "ottoman-1",
+      "itemId": "ikea-69318317",
+      "x": 153.125,
+      "y": 70.375,
       "rotation": 0,
       "layer": "floor",
-      "note": "LACK console against the sofa's back, facing the dining side"
+      "note": "MORABO ottoman, the armchair's footrest, 6\" in front of it"
     },
     {
-      "id": "lamp-2",
-      "itemId": "ikea-60573576",
-      "x": 133,
-      "y": 131,
-      "rotation": 0,
-      "layer": "top",
-      "note": "on the console's right end, behind the chaise"
-    },
-    {
-      "id": "plant-1",
-      "itemId": "ikea-70610601",
-      "x": 74,
-      "y": 130,
+      "id": "coffee-table-1",
+      "itemId": "ikea-20628038",
+      "x": 84.0625,
+      "y": 62.375,
       "rotation": 0,
       "layer": "floor",
-      "note": "at the console's left end"
-    },
-    {
-      "id": "side-table-1",
-      "itemId": "ikea-70319028",
-      "x": 36.375,
-      "y": 105,
-      "rotation": 0,
-      "layer": "floor",
-      "note": "at the sofa's left arm"
-    },
-    {
-      "id": "lamp-1",
-      "itemId": "ikea-60573576",
-      "x": 43.6875,
-      "y": 112.3125,
-      "rotation": 0,
-      "layer": "top",
-      "note": "on the side table"
-    },
-    {
-      "id": "chair-1",
-      "itemId": "ikea-59305928",
-      "x": 46,
-      "y": 18,
-      "rotation": 0,
-      "layer": "floor",
-      "note": "reading chair in the window's left corner, facing into the room"
+      "note": "VALNÄS centered on the sofa"
     },
     {
       "id": "floor-lamp-2",
       "itemId": "ikea-70486395",
-      "x": 72.75,
-      "y": 18,
+      "x": 72,
+      "y": 12,
       "rotation": 0,
       "layer": "floor",
-      "note": "reading light at the POÄNG's east side, away from the top landing"
+      "note": "against the window wall left of the window, 29\" short of it"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 184.5,
+      "y": 133,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "in the corner beside the armchair's back, at the walkway's edge"
     },
     {
       "id": "rug-1",
       "itemId": "ikea-90628228",
-      "x": 54,
-      "y": 32.625,
+      "x": 48.25,
+      "y": 29.5,
       "rotation": 0,
       "layer": "rug",
-      "note": "under the whole sofa and the reading chair's front legs; its far edge under the sofa's back"
+      "note": "under the VALNÄS and the front legs of the chaise, the sofa and the armchair"
     },
     {
       "id": "kid-chair-1",
@@ -165,7 +156,7 @@
       "y": 104,
       "rotation": 0,
       "layer": "floor",
-      "note": "LÄTT with its two chairs on the long sides, 34.75 in. past the chaise"
+      "note": "LÄTT with its two chairs on the long sides, 19.1 in. past the armchair"
     },
     {
       "id": "art-2",

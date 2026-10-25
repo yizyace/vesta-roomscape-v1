@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0GT9N7TCG",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GT9N7TCG",
+  "name": "Hatha Yoga Extra Large Natural Cork Yoga Mat - 78\" x 32\" or 72\" x 48\", 1/2\" Extra Thick Non-slip TPE Exercise Mat, Anti-tear Pilates Mat for Home, Gym, Hot Yoga, Stretching, Fitness & Workouts",
+  "brand": "Hatha yoga",
+  "category": "rug",
+  "tags": [
+    "kids",
+    "living-room",
+    "wipeable"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 89.99,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 48,
+    "d": 72,
+    "h": 0.5,
+    "raw": "Product Dimensions: 72\"L x 48\"W x 0.5\"Th; Size: Extra Large (6'x4'x1/2\"); Material: Cork, Thermoplastic Elastomer",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-25; W is w, L is d"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: a play-area size (72 x 48 x 1/2\") but its back is TPE (\"Material: Cork, Thermoplastic Elastomer\"), a plastic, and Andrew wants a mat that \"isn't literally plastic\" (F-66). The 78 x 32\" size is $79.99.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ikea-89318321",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/morabo-sofa-gunnared-dark-gray-wood-s89318321/",
+  "name": "MORABO Sofa, Gunnared dark gray/wood",
+  "brand": "IKEA",
+  "category": "sofa",
+  "tags": [
+    "living-room",
+    "seating",
+    "open-base",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 799,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 81.125,
+    "d": 36.25,
+    "h": 31.875,
+    "raw": "Width: 81 1/8 \"; Depth: 36 1/4 \"; Height: 31 7/8 \"; Height under furniture: 6 1/4 \"; Armrest width: 5 1/8 \"; Seat width: 70 7/8 \"; Seat depth: 24 \"; Seat height: 18 1/2 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-25"
+  },
+  "images": [
+    {
+      "file": "ikea-89318321-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/morabo-sofa-gunnared-dark-gray-wood__1576951_pe1032842_s5.jpg",
+      "caption": "main: the sofa with tufted cushions and wooden legs"
+    }
+  ],
+  "notes": "Flags: delivery-path-unmeasured (F-22: a sofa; 2 packages, the sofa frame 84 x 37 x 21\" at 133 lb 6 oz, and the legs). The 3-seat MORABO (\"Seat width 70 7/8\"); with the chaise add-on ikea-09318315 at one end it is IKEA's \"Sectional, 4-seat with chaise\" (the same $1,249.00 as the two parts). \"Removable armrests make it easy to add on a chaise lounge.\" Open base: \"Height under furniture: 6 1/4 \"\" on its 6 1/4\" wood legs, the open floor Andrew asked for (2026-10-25: \"Sofa must have empty space bettwen like\" the MORABO chaise add-on), high enough for a robot vacuum (design-review.md). Cover: Gunnared, \"100% polyester (min. 90% recycled)\", dope-dyed; \"Stationary cover.\" / \"Non-removable cover\"; care \"Vacuum clean.\" and wipe clean (Materials and care): it cannot go in a washer, so for dust and mites it is vacuumed, not washed (F-66). Legs \"Solid wood, Oak veneer, Clear lacquer\", Morabo 6 1/4 \" wood. In stock at IKEA Long Island, NY; click and collect (2026-10-25). Also with metal legs ($799.00) and in Gunnared light green. 4.1 stars (164). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

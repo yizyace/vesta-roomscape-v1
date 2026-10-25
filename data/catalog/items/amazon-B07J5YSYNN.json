@@ -1,0 +1,43 @@
+{
+  "id": "amazon-B07J5YSYNN",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B07J5YSYNN",
+  "name": "Luxury Cork Yoga Mat - Non Slip, Extra Thick Grip. Extra Large & Long. More Comfort and Support. Tough Enough For Hot Yoga. Cork + Natural Rubber, Non Toxic and Eco Friendly. Optional Alignment Lines.",
+  "brand": "Body By Yoga",
+  "category": "rug",
+  "tags": [
+    "kids",
+    "living-room",
+    "wipeable",
+    "plastic-free"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 89.99,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 26,
+    "d": 80,
+    "h": 0.25,
+    "raw": "Product Dimensions: 80\"L x 26\"W x 0.25\"Th; Size: Extra Thick 80\" x 26\" x 6.25mm; Material: Cork, Rubber; Color: Classic",
+    "source": "#productOverview_feature_div rows and the selected Size, read in Chrome 2026-10-25; a mat lies like a rug: W is w, L is d, Th is h"
+  },
+  "images": [
+    {
+      "file": "amazon-B07J5YSYNN-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91358kNM8YL._AC_SL1500_.jpg",
+      "caption": "main: the cork mat rolled and partly unrolled, cork top and black rubber underside"
+    }
+  ],
+  "notes": "Flags: none. The play mat for the rug-free living room (F-66, Andrew 2026-10-25: \"something that isn't literally plastic\"): two side by side make a 52 x 80\" mat on the play floor (living-room e). Cork on natural tree rubber (\"Cork + Natural Rubber\", Material \"Cork, Rubber\"), no PVC, TPE or EVA, so plastic-free; wipes clean (\"Hand Wash Only\"); the rubber grips the floor, so the pair stays put. No plastic-free cork or rubber mat came bigger on Amazon: the 72 x 48\" Hatha Yoga and the 72 x 36\" HAPBEAR have TPE backs (rejected). Natural rubber smells for a while at first, keep it out of direct sun, and it is latex: skip it if anyone is allergic. Too long for Maddie's 48 x 30\" play floor. Color Classic, plain cork; the Mini is 72 x 24 x 4.25mm. Ships from Amazon, sold by Body By Yoga; Prime delivery Tue Oct 27 (2026-10-25). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

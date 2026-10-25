@@ -1,0 +1,35 @@
+{
+  "id": "other-vari-403547",
+  "vendor": "other",
+  "url": "https://www.vari.com/l-shape-corner-electric-standing-desk-6060/FD-LSESD6060.html",
+  "name": "L-Shape Electric Standing Desk 60x60, Reclaimed Wood/Slate",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 1149,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 60,
+    "h": 50.5,
+    "raw": "Dimensions: 25\" - 50.5\"(H) x 60\"(W) x 60\"(D); Size: 60\"",
+    "source": "vari.com product page's Dimensions row, read in Claude in Chrome 2026-10-25 (desktop depths not read, so no notch)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: the smallest Vari L; Andrew asked for the largest that fits (the 80x80, other-vari-402764). Finishes Walnut, Reclaimed Wood and Black, no bamboo. SKU 403547; \"In stock\" (2026-10-25).",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

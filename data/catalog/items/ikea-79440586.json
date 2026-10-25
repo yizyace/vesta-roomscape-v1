@@ -15,7 +15,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 1199,
     "currency": "USD",
@@ -35,7 +35,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: delivery-path-unmeasured (F-22: a sofa; it ships flat in 5 boxes, the longest the chaise frame at 82 1/4 x 37 1/4 x 12 1/2\" and 107 lb 16 oz, the loveseat frame at 57 x 37 x 20 1/2\" and 36 1/2 x 21 x 19 1/4\", plus two covers). Fit: living-room, backed toward the window wall with its back 12\" or more from the heater's face (F-33) it uses 110.25\" of the 225\" between the stair band and the right wall (F-20, F-40) and 64.1\" of depth at the chaise · fits. A loveseat plus a chaise: \"You can place the chaise section to the left or right of the sofa, and switch whenever you like.\" The planner draws the L as its bounding box, so a coffee table drawn in front of the loveseat part counts as an overlap; layouts put it beyond the chaise's front and say so (F-39). Washable: \"Removable cover\", loveseat cover/chaise cover \"Machine wash warm, normal cycle.\" Variant: Tibbleby beige/gray, article 794.405.86, the same cover as the KIVIK sofa ikea-39440593. Popularity: Best seller; #1 under Sofas with chaise lounge sorted Most popular; 3.9 stars (369); \"Apartment Therapy: Best Sofa for Families\". Assembly service $80.60. Stock 2026-10-22: only 1 left in IKEA Long Island, NY; home delivery to our ZIP from $39.00. rooms: living-room, from the brief (the sectional/chaise alternative).",
+  "notes": "Rejected 2026-10-25 (F-67): Andrew wants the sofa on open legs: \"Sofa must have empty space bettwen like\" the MORABO chaise add-on, whose sofas stand 6 1/4\" off the floor. This KIVIK has its chaise, but its Measurements give no height under it; the living room is staged with MORABO pieces instead. Flags: delivery-path-unmeasured (F-22: a sofa; it ships flat in 5 boxes, the longest the chaise frame at 82 1/4 x 37 1/4 x 12 1/2\" and 107 lb 16 oz, the loveseat frame at 57 x 37 x 20 1/2\" and 36 1/2 x 21 x 19 1/4\", plus two covers). Fit: living-room, backed toward the window wall with its back 12\" or more from the heater's face (F-33) it uses 110.25\" of the 225\" between the stair band and the right wall (F-20, F-40) and 64.1\" of depth at the chaise · fits. A loveseat plus a chaise: \"You can place the chaise section to the left or right of the sofa, and switch whenever you like.\" The planner draws the L as its bounding box, so a coffee table drawn in front of the loveseat part counts as an overlap; layouts put it beyond the chaise's front and say so (F-39). Washable: \"Removable cover\", loveseat cover/chaise cover \"Machine wash warm, normal cycle.\" Variant: Tibbleby beige/gray, article 794.405.86, the same cover as the KIVIK sofa ikea-39440593. Popularity: Best seller; #1 under Sofas with chaise lounge sorted Most popular; 3.9 stars (369); \"Apartment Therapy: Best Sofa for Families\". Assembly service $80.60. Stock 2026-10-22: only 1 left in IKEA Long Island, NY; home delivery to our ZIP from $39.00. rooms: living-room, from the brief (the sectional/chaise alternative).",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

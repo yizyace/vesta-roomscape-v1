@@ -1,0 +1,43 @@
+{
+  "id": "ikea-59318308",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/morabo-armchair-gunnared-dark-gray-wood-s59318308/",
+  "name": "MORABO Armchair, Gunnared dark gray/wood",
+  "brand": "IKEA",
+  "category": "armchair",
+  "tags": [
+    "living-room",
+    "seating",
+    "open-base",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 399,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 35.875,
+    "d": 36.25,
+    "h": 31.875,
+    "raw": "Width: 35 7/8 \"; Depth: 36 1/4 \"; Height: 31 7/8 \"; Height under furniture: 6 1/4 \"; Armrest width: 5 1/8 \"; Seat width: 25 5/8 \"; Seat depth: 24 \"; Seat height: 18 1/2 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-25"
+  },
+  "images": [
+    {
+      "file": "ikea-59318308-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/morabo-armchair-gunnared-dark-gray-wood__0602087_pe680155_s5.jpg",
+      "caption": "main: the dark gray armchair on wooden legs"
+    }
+  ],
+  "notes": "Flags: none (an armchair, not a sofa: 2 packages, the frame 38 x 36 1/2 x 20 3/4\" at 80 lb 13 oz). With the MORABO ottoman ikea-69318317 it is the \"chair with foot rest\" Andrew offered (2026-10-25), staged in living-room c. Open base: \"Height under furniture: 6 1/4 \"\" on its 6 1/4\" wood legs, the open floor Andrew asked for (2026-10-25: \"Sofa must have empty space bettwen like\" the MORABO chaise add-on), high enough for a robot vacuum (design-review.md). Cover: Gunnared polyester. The MORABO sofa's page says its Gunnared cover is a \"Stationary cover.\" / \"Non-removable cover\", care \"Vacuum clean.\" and wipe clean (Materials and care, 2026-10-25); this piece's care section was not opened, so it is taken to be the same, vacuumed rather than washed (F-66). In stock at IKEA Long Island, NY; click and collect; home delivery to 11361 from $49.00 (2026-10-25). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

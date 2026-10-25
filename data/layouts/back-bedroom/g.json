@@ -1,0 +1,149 @@
+{
+  "room": "back-bedroom",
+  "variant": "g",
+  "name": "Alt: the largest Vari L that fits (80x60) on the left wall for the four screens, a Vari 48x30 job desk on the right, no guest bed",
+  "updatedAt": "2026-10-25T20:49:55.808Z",
+  "notes": "Alternative for Andrew's office brief (2026-10-25: \"add consifugraiton to office using vari L desk or multiple vari straight ones (bamboo), largest htat can fit\"), meeting F-62 as e does with UPLIFT. The usable floor as in a and e: furniture from y 12 off the hatched heater wall (F-33, heater-depth-assumed), nothing in front of the wardrobe below y 116 or the door below y 122 (F-31: the 36\" landings, assumed-position:closet and assumed-position:door). No desk stands along the window wall, so no screen faces the glass (F-38).\nWhy the 80x60 and not Vari's 80x80: an 80\" wing across this 106\" room leaves 26\" to the far wall, under a 30\" walkway (F-30), and that gap is the way in from the door; the only wall that takes a wing without it is the window wall, where the screens would face the glass (F-38). The 80x60's 60\" return leaves 46\". Vari sells no bamboo top (vari.com's own search for \"bamboo\" finds nothing); every desk here is in Light Wood, its nearest finish, pale like bamboo.\ndesk-l Vari L-Shape Electric Standing Desk 80x60, Light Wood/Slate (25-50 1/2\"): rot 270, the 80\" main along the left wall (x 0-27.5, y 36-116), the 60\" return at its south end (x 27.5-60, y 88.5-116), on the user's left. The personal station: three 32\" screens across the main on monitor arms (the outer two angled in, about 77\") and the fourth on the return; they face east and north, never the window. F-31: its south end on the wardrobe's 36\" landing line (y 116); F-38: it starts 36\" below the window wall, so nothing stands in front of the window · fits.\ndesk-1 Vari ComfortEdge 48x30, Light Wood/Slate: right wall, rot 90, x 76-106, y 12-60, the separate job station, the laptop on the ELLOVEN beside one 32\" monitor, with 7\" to spare (F-62); 6\" from the heater face (F-33) · fits. A 72\" here (as first staged) left 16.6\" between its end and the L's return, the only way in.\nchair-1 FLINTAN in the L's corner, x 31-59, y 56-84, facing the main; it swivels to the return. chair-2 FLINTAN at the job desk, x 46.5-74.5, y 22-50, 16\" from the heater wall; the chairs sit 6\" apart, so both stations work at once (F-35: 48.5\" from the main's front to the job desk). To reach the job desk you pass chair-1: 17\" with it pulled out, about 30\" with it tucked under the main.\nThe way in: up the right wall's lower half, 46\" between the return's end and the wall, then into the room between the return's corner (x 60, y 88.5) and the job desk's end (x 76, y 60), 32.7\" (F-30).\nstorage-2 BESTÅ shelf unit with doors 47 1/4\" (top): hung above the job desk on two suspension rails (F-63). lamp-2 RÖDFLIK (top): on the L's return. lamp-3 RÖDFLIK (top): on the job desk's front corner. art-1 PJÄTTERYD (top): right wall above the way in, y 90-112.\nlamp-1 TÅGARP: bottom-left corner, left of the wardrobe's landing. plant-1 FEJKA: top-left corner, above the L's north end.\nrug-1 LOHALS (rug): x 30-82, y 22-99, under both chairs. rug-2 Anji Mountain bamboo chair mat (rug): x 28-76, y 50-92, under chair-1, plastic-free in place of the KOLON.\nNo guest bed: the L's return takes the left wall's south end and the right wall's is the way in, as in e.\nNot placed: the Vari 80x80 L and the 72x30 job desk (above); the KOLON (plastic; Andrew wants mats that aren't).\nKid safety (F-21): the job desk stands by the window and its chair rolls, so Maddie could climb to the window: fit window stops there (not in the catalog; the sill is unmeasured, F-38).\nVari's photos are on www.vari.com, which isn't an allowed photo host yet, so its desks show without photos until Andrew allows it.\nExtras: the HOPPVALS blinds x2, two HUANUO dual arms, the FREIVID standing mat, the ELLOVEN, the FÖRSÄSONG cable tray under the job desk, two BESTÅ suspension rails.\nTotal $3,295.44, prices as of 2026-10-22 and 2026-10-23 and 2026-10-25 (those before today are price-stale, F-02). Flags across the layout: assumed-position:closet, assumed-position:door, heater-depth-assumed.",
+  "placements": [
+    {
+      "id": "desk-l",
+      "itemId": "other-vari-402451",
+      "x": 0,
+      "y": 36,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "Vari L 80x60: the 80\" main along the left wall, the 60\" return across at its south end"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-49424465",
+      "x": 31,
+      "y": 56,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "in the L's corner"
+    },
+    {
+      "id": "desk-1",
+      "itemId": "other-vari-402258",
+      "x": 76,
+      "y": 12,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "Vari ComfortEdge 48x30, the job desk on the right wall, ending at y 60 so the way in is 32.7\""
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-49424465",
+      "x": 46.5,
+      "y": 22,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "the job desk's chair"
+    },
+    {
+      "id": "storage-2",
+      "itemId": "ikea-79047429",
+      "x": 89.5,
+      "y": 12,
+      "rotation": 90,
+      "layer": "top",
+      "note": "BESTÅ wall cabinet above the job desk"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-70486395",
+      "x": 0.5,
+      "y": 142,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "bottom-left corner, left of the wardrobe's landing"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-10615244",
+      "x": 1,
+      "y": 20,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "top-left corner above the L's north end"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-30511288",
+      "x": 30,
+      "y": 22,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "under both chairs"
+    },
+    {
+      "id": "rug-2",
+      "itemId": "amazon-B001PBEIHE",
+      "x": 28,
+      "y": 50,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "bamboo chair mat under chair-1"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-40584057",
+      "x": 50,
+      "y": 101,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the L's return"
+    },
+    {
+      "id": "lamp-3",
+      "itemId": "ikea-40584057",
+      "x": 76,
+      "y": 52,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the job desk's front corner"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-40602018",
+      "x": 105,
+      "y": 90,
+      "rotation": 90,
+      "layer": "top",
+      "note": "right wall above the way in"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-70431402",
+      "qty": 2,
+      "note": "HOPPVALS cordless cellular blinds, two side by side (68\") over the 67\" window; no floor-length curtains on the heater wall (F-33); check inside or outside mount (assumed-position:window)"
+    },
+    {
+      "itemId": "amazon-B0CTMHHJJC",
+      "qty": 2,
+      "note": "HUANUO dual monitor arms for the four 32\" screens on the L: three across the main, the fourth on the return (no-dimensions, so an extra)"
+    },
+    {
+      "itemId": "ikea-00556773",
+      "qty": 1,
+      "note": "FREIVID anti-fatigue mat, gray-green: for standing at the L (F-62)"
+    },
+    {
+      "itemId": "ikea-50474770",
+      "qty": 1,
+      "note": "ELLOVEN stand with drawer on the job desk: raises the job laptop beside the 32\" monitor"
+    },
+    {
+      "itemId": "ikea-00573188",
+      "qty": 1,
+      "note": "FÖRSÄSONG cable tray under the job desk"
+    },
+    {
+      "itemId": "ikea-70488318",
+      "qty": 2,
+      "note": "BESTÅ suspension rails for the wall-hung cabinet, fixed into studs"
+    }
+  ]
+}

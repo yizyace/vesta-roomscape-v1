@@ -1,0 +1,40 @@
+{
+  "id": "other-vari-402451",
+  "vendor": "other",
+  "url": "https://www.vari.com/l-shape-corner-electric-standing-desk/FD-LSESD7960.html",
+  "name": "L-Shape Electric Standing Desk 80x60, Light Wood/Slate",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 1349,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 80,
+    "d": 60,
+    "h": 50.5,
+    "notch": {
+      "w": 52.5,
+      "d": 32.5,
+      "side": "right"
+    },
+    "raw": "Product page: \"Dimensions 25-50.5\"(H) x 79.5\"(W) x 60\"(D)\", \"Size 79.5\"(W) x 60\"(D)\". Spec sheet (L-shape_esdce_80x60_spec-sheet-2026): top view \"80\" (203.2 cm)\" by \"60\" (152.4 cm)\", each desktop \"27 ½\" (70 cm)\" deep, inside edges \"52\" (132 cm)\" and \"32 ¼\" (82 cm)\" (to the start of the inner curve); \"Dimensions: 80\" x 60\" x 27 ½\"\"; \"Lift Range: 25\" – 50 ½\"\"; \"Desktop Thickness: 1 ¼\"\"; \"Weight Capacity: 200 lb\"",
+    "source": "vari.com product page and its spec sheet PDF, read in Claude in Chrome 2026-10-25 with Light Wood/Slate selected (SKU 402451). w = 80, the spec sheet's drawing (the page's row says 79.5; the larger is kept); d = 60; h = the top of the lift range; notch (80 - 27.5) x (60 - 27.5) = 52.5 x 32.5, on the right as drawn: the short desktop on the user's left. \"configure the short desktop on the left or right to your preference\" (spec sheet)"
+  },
+  "images": [],
+  "notes": "Flags: none. The largest Vari L that fits the office (Andrew, 2026-10-25: \"vari L desk or multiple vari straight ones (bamboo), largest htat can fit\"), staged in back-bedroom g: its 80\" main along the left wall and the 60\" return across the room leave 46\" for the way in from the door (the 80x80, other-vari-402764, leaves 26\"). No bamboo at Vari (vari.com's search for \"bamboo\" finds nothing); Light Wood is its nearest finish, pale like bamboo. ComfortEdge front, \"reversible configuration\". SKU 402451; \"In stock, Free standard shipping\" (2026-10-25); 30-day returns, lifetime warranty; 4.8 stars (141). Photos are on www.vari.com, not an allowed photo host yet (needs Andrew's word), so none are downloaded. rooms: back-bedroom, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

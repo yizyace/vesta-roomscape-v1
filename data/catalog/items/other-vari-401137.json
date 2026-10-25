@@ -1,0 +1,35 @@
+{
+  "id": "other-vari-401137",
+  "vendor": "other",
+  "url": "https://www.vari.com/electric-standing-desk-72x30/FD-ESD7230.html",
+  "name": "Electric Standing Desk 72x30, Reclaimed Wood/Slate",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 929,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 72,
+    "d": 30,
+    "h": 50.5,
+    "raw": "Dimensions: 25-50.5\" (H) x 72\" (W) x 30\" (D); Size: 72x30\"",
+    "source": "vari.com product page's Dimensions row, read in Claude in Chrome 2026-10-25"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: the same size as the ComfortEdge 72x30 kept for the office ($70 less), but in Reclaimed Wood, Butcher Block or Walnut only, no Light Wood (the nearest to the bamboo Andrew asked for), and with a square front edge that doesn't match the L's ComfortEdge. SKU 401137; \"In stock\" (2026-10-25).",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "other-vari-402764",
+  "vendor": "other",
+  "url": "https://www.vari.com/l-shape-corner-electric-standing-desk-8080/FD-LSESD8080.html",
+  "name": "L-Shape Electric Standing Desk 80x80, Reclaimed Wood/Slate",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 1549,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 80,
+    "d": 80,
+    "h": 50.5,
+    "notch": {
+      "w": 52.5,
+      "d": 52.5,
+      "side": "right"
+    },
+    "raw": "Compare Models: \"Dimensions 25\" - 50.5\"(H) x 80\"(W) x 80\"(D)\", \"Size 80\"(W) x 80\"(D)\". Spec sheet (402764 ... 80x80 (Reclaimed Wood) SpecSheet): top view \"80\" (203 cm)\" by \"80\" (203 cm)\", each desktop \"27 ½\" (70 cm)\" deep, \"52 ½\" (133.5 cm)\" inside, a \"13\" (33 cm)\" cut at the outer corner; \"Height Settings: 25\" (63.5 cm) to 50 ½\" (128 cm)\"; \"Desk Top Thickness: 1 ¼\" (3 cm)\"; leg spread 58 ¼\" x 58 ¼\", 68\" across",
+    "source": "vari.com product page (Compare Models) and its spec sheet PDF, read in Claude in Chrome 2026-10-25. h = the top of the height range; notch 52.5 x 52.5 = 80 - 27.5 each way, on the right as drawn, the return on the user's left. \"Choose either left- or right-side orientations\" (spec sheet), so it can be built the other way round"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: it doesn't fit the office with room to walk. Its two 80\" wings leave 26\" (the room is 106\" wide) between the end of whichever wing points across the room and the far wall, under the 30\" walkway (F-30), and that gap is the way in from the door; the only wall that takes a wing without it is the window wall, where the screens would face the glass, which the office's layouts never do (F-38, back-bedroom e). The largest Vari L that fits is the 80x60 (other-vari-402451, back-bedroom g). No bamboo: vari.com's own search for \"bamboo\" finds nothing, and the 80x80 comes in Reclaimed Wood/Slate, Black/Slate, Walnut/Slate, Walnut/Black, Black/Black and Walnut/White; Reclaimed Wood/Slate, the page's default, is its lightest wood look. The 80x60 L and the ComfortEdge desks also come in Light Wood, nearer bamboo's pale tone. \"3D laminate-wrapped desktop\", ComfortEdge contoured front edge, three motors, lifts 200 lb, drop-stop sensor, four programmable heights; 257.5 lb; GreenGuard Gold, UL 962. SKU 402764. \"In stock, Free standard shipping\" (2026-10-25); 30-day returns, lifetime warranty; 4.5 stars (40). Photos are on www.vari.com, not an allowed photo host yet (needs Andrew's word), so none are downloaded. rooms: back-bedroom, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

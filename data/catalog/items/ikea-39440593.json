@@ -15,7 +15,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 799,
     "currency": "USD",
@@ -35,7 +35,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: delivery-path-unmeasured (F-22: a sofa; it ships flat in 3 boxes, the largest the frame at 72 1/2 x 37 1/2 x 19 3/4\" and 118 lb 7 oz, then 38 1/2 x 36 1/4 x 11\" at 52 lb 8 oz and the cover at 22 1/4 x 14 3/4 x 3 1/2\"). Fit: living-room, backed toward the window wall with its back 12\" or more from the heater's face (y 18 or more, F-33) it uses 89.75\" of the 225\" of floor between the stair band and the right wall (F-20, F-40) and 37.4\" of the room's 173\" depth · fits. The staged 3-seat sofa. Washable: \"Removable cover\", sofa cover \"Machine wash warm, normal cycle.\" (Materials and care). Variant: Tibbleby beige/gray cover, article 394.405.93. Popularity: Best seller; #1 under Sofas & sectionals and Three-seat sofas sorted Most popular; 4.1 stars (558); card badge \"Apartment Therapy: Best Sofa for Families\". 10-year limited warranty. Stock 2026-10-22: 1 of 2 in stock at IKEA Long Island, NY; home delivery to our ZIP from $39.00. rooms: living-room, from the brief.",
+  "notes": "Rejected 2026-10-25 (F-67): Andrew wants a chaise, at least 3 seats, on open legs: \"For the sofa, I want a chaise, i.e. at least 3 seats. Sofa must have empty space bettwen like\" the MORABO chaise add-on, whose sofas stand 6 1/4\" off the floor. This sofa has no chaise, and its Measurements give no height under it; the living room is staged with MORABO pieces instead. Flags: delivery-path-unmeasured (F-22: a sofa; it ships flat in 3 boxes, the largest the frame at 72 1/2 x 37 1/2 x 19 3/4\" and 118 lb 7 oz, then 38 1/2 x 36 1/4 x 11\" at 52 lb 8 oz and the cover at 22 1/4 x 14 3/4 x 3 1/2\"). Fit: living-room, backed toward the window wall with its back 12\" or more from the heater's face (y 18 or more, F-33) it uses 89.75\" of the 225\" of floor between the stair band and the right wall (F-20, F-40) and 37.4\" of the room's 173\" depth · fits. The staged 3-seat sofa. Washable: \"Removable cover\", sofa cover \"Machine wash warm, normal cycle.\" (Materials and care). Variant: Tibbleby beige/gray cover, article 394.405.93. Popularity: Best seller; #1 under Sofas & sectionals and Three-seat sofas sorted Most popular; 4.1 stars (558); card badge \"Apartment Therapy: Best Sofa for Families\". 10-year limited warranty. Stock 2026-10-22: 1 of 2 in stock at IKEA Long Island, NY; home delivery to our ZIP from $39.00. rooms: living-room, from the brief.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

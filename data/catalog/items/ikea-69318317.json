@@ -1,0 +1,43 @@
+{
+  "id": "ikea-69318317",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/morabo-ottoman-gunnared-dark-gray-wood-s69318317/",
+  "name": "MORABO Ottoman, Gunnared dark gray/wood",
+  "brand": "IKEA",
+  "category": "stool",
+  "tags": [
+    "living-room",
+    "seating",
+    "open-base",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 249,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 25.625,
+    "d": 30.375,
+    "h": 18.5,
+    "raw": "Length: 30 3/8 \"; Width: 25 5/8 \"; Height: 18 1/2 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-25. Width (25 5/8, the armchair's seat width) is w, along the chair's front; Length is d, out from it"
+  },
+  "images": [
+    {
+      "file": "ikea-69318317-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/morabo-ottoman-gunnared-dark-gray-wood__0602065_pe680129_s5.jpg",
+      "caption": "main: the square tufted footstool on wooden legs"
+    }
+  ],
+  "notes": "Flags: none (2 packages, the frame 32 x 26 1/2 x 13 1/2\" at 26 lb 7 oz). The footstool for the MORABO armchair ikea-59318308 (living-room c); upholstered, so no hard corner at a 4-year-old's head height. On the same Morabo 6 1/4\" wood legs as the sofas (its own rows give no height under it). Cover: Gunnared polyester. The MORABO sofa's page says its Gunnared cover is a \"Stationary cover.\" / \"Non-removable cover\", care \"Vacuum clean.\" and wipe clean (Materials and care, 2026-10-25); this piece's care section was not opened, so it is taken to be the same, vacuumed rather than washed (F-66). In stock at IKEA Long Island, NY; click and collect; home delivery to 11361 (2026-10-25). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

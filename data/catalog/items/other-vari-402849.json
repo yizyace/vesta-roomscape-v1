@@ -1,0 +1,35 @@
+{
+  "id": "other-vari-402849",
+  "vendor": "other",
+  "url": "https://www.vari.com/command-center-electric-standing-desk/FD-CCESD8430.html",
+  "name": "Command Center Electric Standing Desk, Walnut/Slate",
+  "brand": "Vari",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 1249,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 84.25,
+    "d": 30,
+    "h": 50.5,
+    "raw": "Compare Models (on the 80x80 page): \"Dimensions 25-50.5\" (H) x 84.25\"(W) x 30\"(D)\", \"Size 84.25\"(W) x 30\"(D)\"",
+    "source": "vari.com Compare Models table, read in Claude in Chrome 2026-10-25"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: not a straight desk. It is \"Designed to wrap around you\" (its photos show angled wings), and Andrew asked for an L or straight desks. Finishes Walnut, Black and Light Wood. SKU 402849 (Walnut/Slate); \"$749.00 - $1,249.00\" by size; \"In stock\" (2026-10-25).",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

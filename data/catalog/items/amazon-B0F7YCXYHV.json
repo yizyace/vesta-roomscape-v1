@@ -1,0 +1,37 @@
+{
+  "id": "amazon-B0F7YCXYHV",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0F7YCXYHV",
+  "name": "Cork Yoga Mat with Natural Rubber Base, Extra Size, Thickness and Support, Excellent Cushion & Grip, Non-Slip, Non-Toxic, Sweat-Resistant, Sustainable, Eco-friendly Exercise Mat",
+  "brand": "Satori Concept",
+  "category": "rug",
+  "tags": [
+    "kids",
+    "living-room",
+    "wipeable",
+    "plastic-free"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 85,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": {
+    "w": 26,
+    "d": 80,
+    "h": 0.24,
+    "raw": "Product Dimensions: 80\"L x 26\"W x 0.24\"Th; Size: XL 80 x 26 x 6mm; Material: Cork, Rubber; Color: Peaceful Mountain",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-25; W is w, L is d"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-25: plastic-free (cork on \"TREE RUBBER\") and the same size as the kept Body By Yoga mat (amazon-B07J5YSYNN), but printed with the \"Peaceful Mountain\" design; plain cork reads as part of the room. Also 72 x 26 x 4mm.",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

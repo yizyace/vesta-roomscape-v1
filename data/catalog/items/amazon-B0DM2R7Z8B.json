@@ -1,0 +1,29 @@
+{
+  "id": "amazon-B0DM2R7Z8B",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DM2R7Z8B",
+  "name": "Displays2go Interlocking Cork Floor Tiles, 10' x 10'",
+  "brand": "Displays2go",
+  "category": "rug",
+  "tags": [
+    "kids",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 370.99,
+    "currency": "USD",
+    "asOf": "2026-10-25"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-10-25: sold only as one 10' x 10' set of 8mm jigsaw cork tiles with edge strips, bigger than any play area, and the page has no size rows (no tile size), so dimensions: null (F-11). Material row \"Engineered Wood\"; FSC-certified cork; for \"trade show booths, yoga studios\".",
+  "captured": {
+    "date": "2026-10-25",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
