@@ -42,7 +42,7 @@ const BLOCKED_TEXT: Record<KeepOutKind, string> = {
   stairs: "on the stairs",
   heater: "on a heater",
   swing: "in a door's swing",
-  front: "in front of a door or closet",
+  front: "in front of a door, closet or the stairs",
   opening: "blocking an opening",
 };
 

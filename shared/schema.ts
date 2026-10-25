@@ -27,6 +27,8 @@ export const WallSchema = z.object({
 export type Wall = z.infer<typeof WallSchema>;
 
 // `stairs` is a band `depth` deep along its wall (the living room's staircase); nothing is placed on it.
+// With `side: "out"` the band runs beyond the wall and takes no floor; the floor at each end of it, where
+// people step on or off, stays clear instead.
 export const FEATURE_TYPES = ["window", "door", "heater", "closet", "opening", "clear", "stairs"] as const;
 export type FeatureType = (typeof FEATURE_TYPES)[number];
 
@@ -43,6 +45,7 @@ export const FeatureSchema = z.object({
   doors: z.enum(["single", "double"]).optional(),
   swing: z.enum(["in", "out"]).optional(),
   hinge: z.enum(["start", "end"]).optional(),
+  side: z.enum(["in", "out"]).optional(), // stairs only; in the room unless "out"
   measured: z.array(z.enum(["at", "length", "depth"])).default([]),
   label: z.string().optional(),
   note: z.string().optional(),
@@ -71,6 +74,9 @@ export const RoomSchema = z
       ctx.addIssue({ code: "custom", message: "a room without walls (not measured yet) cannot have features", path: ["features"] });
     }
     room.features.forEach((f, i) => {
+      if (f.side !== undefined && f.type !== "stairs") {
+        ctx.addIssue({ code: "custom", message: "side applies only to stairs", path: ["features", i, "side"] });
+      }
       const wall = room.walls.find((w) => w.name === f.wall);
       if (!wall) {
         ctx.addIssue({ code: "custom", message: `feature on unknown wall "${f.wall}"`, path: ["features", i, "wall"] });

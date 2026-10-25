@@ -62,7 +62,7 @@ export function labelScale(walk: Walk): number {
   return Math.min(1.6, Math.max(1, Math.max(b.w, b.h) / 180));
 }
 
-/** Everything drawn around the room line: wall bands, closet boxes and clear-dimension rows (k: labelScale). */
+/** Everything drawn around the room line: wall bands, closet boxes, stairs beyond a wall and clear-dimension rows (k: labelScale). */
 export function drawingExtent(room: Room, walk: Walk, k = 1): Rect {
   const pts: Pt[] = [...walk.points];
   const include = (r: Rect) => pts.push({ x: r.x, y: r.y }, { x: r.x + r.w, y: r.y + r.h });
@@ -72,6 +72,7 @@ export function drawingExtent(room: Room, walk: Walk, k = 1): Rect {
     if (!seg) continue;
     const { a, b } = featureSpan(seg, f);
     if (f.type === "closet") include(strip(seg, a, b, 0, closetDepth(f)));
+    if (f.type === "stairs" && f.side === "out") include(strip(seg, a, b, 0, stairsDepth(f)));
     if (f.type === "clear") include(strip(seg, a, b, 0, CLEAR_OFFSET * k));
   }
   return bounds(pts);

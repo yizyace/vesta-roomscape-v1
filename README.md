@@ -68,12 +68,14 @@ Ctrl-C.
 - **The kitchen** isn't measured yet, so it has no plan. Its tab shows the kitchen essentials instead:
   every product meant for the kitchen that hasn't been rejected, with its price, and their total. The
   bathroom's things are in the catalog under the `bathroom` tag.
-- **The living room's stairs** run along its whole left side, drawn as a band with tread lines, 36" deep
-  until the width is measured. Nothing stands on them.
+- **The living room's stairs** run along its whole left side, outside the room as measured: they are drawn
+  beyond the left wall as a band with tread lines, 36" deep until the width is measured, so the room's
+  261" are all floor. The floor at each end of the stairs, 36" square, is kept clear for stepping on and
+  off.
 - **An L-shaped piece** (an L-desk) is drawn as an L, and the chair goes in its corner.
 - **Red** means a piece overlaps another piece standing on the floor, or sticks out of the room.
-  **Amber** means it stands on the stairs, on a heater or in a door's or a closet's swing; the toolbar
-  counts each kind.
+  **Amber** means it stands at the foot or head of the stairs, on a heater or in a door's or a closet's
+  swing; the toolbar counts each kind.
 - **Click a piece** (or a catalog row) for its photos, its store link, its price and the date that price
   was read, and its size; you can change its status (shortlisted, ordered…) and its notes there.
   Double-click a piece to open its product page.

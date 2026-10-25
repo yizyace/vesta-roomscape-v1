@@ -369,6 +369,25 @@ describe("keep-out zones and layers", () => {
     expect(swings).toContainEqual({ x: 67.5, y: 94.5, w: 27.5, h: 27.5 }); // and its right leaf
   });
 
+  it("leaves the floor whole when the stairs run outside the wall, keeping a 36\" landing clear at each end", () => {
+    const outside = { ...stairsRoom.features.at(-1)!, side: "out" as const };
+    const zones = keepOutZones(living.walls, [...living.features, outside]);
+    expect(zones.some((z) => z.kind === "stairs")).toBe(false);
+    expect(zones.filter((z) => z.label === "stairs").map((z) => [z.kind, z.rect])).toEqual([
+      ["front", { x: 0, y: 137, w: 36, h: 36 }], // the bottom end of the left wall, where its walk starts
+      ["front", { x: 0, y: 0, w: 36, h: 36 }], // the window end
+    ]);
+    const items = new Map<string, Pick<Item, "dimensions">>([["ikea-sofa", { dimensions: { w: 90, d: 36 } }]]);
+    const placed = [
+      { id: "sofa-on-the-left-wall", itemId: "ikea-sofa", x: 0, y: 40, rotation: 270 as const }, // x 0-36, y 40-130: the old band
+      { id: "sofa-on-a-landing", itemId: "ikea-sofa", x: 0, y: 131, rotation: 0 as const }, // y 131-167
+    ];
+    const c = findCollisions(placed, items, walkWalls(living.walls).points, zones);
+    expect([...c.blocked.keys()]).toEqual(["sofa-on-a-landing"]);
+    expect(c.blocked.get("sofa-on-a-landing")?.map((z) => z.kind)).toEqual(["front"]);
+    expect(c.outside).toEqual(new Set());
+  });
+
   it("flags only floor pieces on a keep-out zone, and never lets a rug or an on-top piece collide", () => {
     const zones = keepOutZones(stairsRoom.walls, stairsRoom.features);
     const items = new Map<string, Pick<Item, "dimensions">>([

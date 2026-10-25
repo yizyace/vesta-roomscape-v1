@@ -82,18 +82,20 @@ function Shape({ w, layer, k }: { w: OnWall; layer: "floor" | "wall"; k: number 
       );
     }
     if (f.type === "stairs") {
-      // A band `depth` into the room, with a tread line across it every TREAD inches along the wall.
+      // A band `depth` into the room, or beyond the wall when side is "out", with a tread line across
+      // it every TREAD inches along the wall.
       const depth = stairsDepth(f);
+      const out = f.side === "out";
       const treads: string[] = [];
       for (let t = TREAD; t < f.length - 0.5; t += TREAD) {
         const p = add(a, seg.along, t);
-        treads.push(line(p, add(p, seg.inward, depth)));
+        treads.push(line(p, add(p, out ? outward(seg) : seg.inward, depth)));
       }
       const dashed = !(has(f, "at") && has(f, "length") && has(f, "depth"));
       return (
         <g className={cls("stairs", dashed)}>
           {title}
-          <rect className="stairs-band" {...rectAttrs(strip(seg, a, b, -depth, 0))} />
+          <rect className="stairs-band" {...rectAttrs(out ? strip(seg, a, b, 0, depth) : strip(seg, a, b, -depth, 0))} />
           <path className="treads" d={treads.join(" ")} />
         </g>
       );
@@ -178,7 +180,7 @@ function FeatureLabel({ w, inset, k }: { w: OnWall; inset: number; k: number }) 
     case "stairs":
       // In the middle of the band, with its depth (the length runs the whole wall): "stairs ≈36"".
       lines = [`${name} ${approx(has(f, "depth"))}${inchesText(stairsDepth(f))}`];
-      at = add(mid, seg.inward, stairsDepth(f) / 2);
+      at = add(mid, f.side === "out" ? outward(seg) : seg.inward, stairsDepth(f) / 2);
       break;
     case "door": {
       const radius = doorArc(seg, f)[0]?.radius;

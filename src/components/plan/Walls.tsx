@@ -5,7 +5,7 @@ import { featureSpan } from "../../../shared/geometry.ts";
 import type { Rect, Segment, Walk } from "../../../shared/geometry.ts";
 import { inchesText } from "../../../shared/format.ts";
 import type { Room } from "../../../shared/schema.ts";
-import { WALL_FONT, WALL_T, add, alongOf, closetDepth, isVertical, outward, pointsAttr, rectAttrs, segmentOf, strip, wallBand, wallLengthText } from "./drawing.ts";
+import { WALL_FONT, WALL_T, add, alongOf, closetDepth, isVertical, outward, pointsAttr, rectAttrs, segmentOf, stairsDepth, strip, wallBand, wallLengthText } from "./drawing.ts";
 import { textWidth } from "./text.ts";
 
 const CUTS_WALL = new Set(["door", "closet", "opening"]);
@@ -89,7 +89,7 @@ function layoutWallLabels(room: Room, walk: Walk, k: number): WallText[] {
   for (const { seg, i } of order) {
     const approx = seg.kind !== "measured";
     const note = room.walls[i]?.note;
-    const options = labelOptions(seg, approx, closetSpans(room, walk, seg), WALL_FONT * k);
+    const options = labelOptions(seg, approx, outsideSpans(room, walk, seg), WALL_FONT * k);
     const taken = [...bands, ...placed.map((p) => p.box)];
     let chosen: Placed | undefined;
     for (const option of options) {
@@ -126,40 +126,42 @@ function slide(seg: Segment, option: Option, taken: Rect[]): Placed | undefined 
   return undefined;
 }
 
-function closetSpans(room: Room, walk: Walk, seg: Segment): Span[] {
+/** What is drawn beyond the wall, where its label would go: closet boxes, and stairs that run outside it. */
+function outsideSpans(room: Room, walk: Walk, seg: Segment): Span[] {
   const spans: Span[] = [];
   for (const f of room.features) {
-    if (f.type !== "closet" || f.wall !== seg.name || !segmentOf(walk, f)) continue;
+    const outside = f.type === "closet" || (f.type === "stairs" && f.side === "out");
+    if (!outside || f.wall !== seg.name || !segmentOf(walk, f)) continue;
     const { a, b } = featureSpan(seg, f);
     const ta = alongOf(seg, a);
     const tb = alongOf(seg, b);
-    spans.push({ lo: Math.min(ta, tb), hi: Math.max(ta, tb), depth: closetDepth(f) });
+    spans.push({ lo: Math.min(ta, tb), hi: Math.max(ta, tb), depth: f.type === "closet" ? closetDepth(f) : stairsDepth(f) });
   }
   return spans;
 }
 
-function labelOptions(seg: Segment, approx: boolean, closets: Span[], font: number): Option[] {
+function labelOptions(seg: Segment, approx: boolean, beyond: Span[], font: number): Option[] {
   const weight = approx ? 500 : 600; // as styles.css draws them
   const prefix = approx ? "≈ " : "";
   const full = prefix + wallLengthText(seg.length);
   const inches = prefix + inchesText(seg.length);
   const small = font * 0.85;
   const options: Option[] = [];
-  if (textWidth(full, font, weight) <= seg.length - 4) options.push(alongWall(seg, full, font, weight, closets));
-  if (inches !== full && textWidth(inches, font, weight) <= seg.length - 2) options.push(alongWall(seg, inches, font, weight, closets));
-  options.push(isVertical(seg) ? besideWall(seg, inches, small, weight) : alongWall(seg, inches, small, weight, closets));
+  if (textWidth(full, font, weight) <= seg.length - 4) options.push(alongWall(seg, full, font, weight, beyond));
+  if (inches !== full && textWidth(inches, font, weight) <= seg.length - 2) options.push(alongWall(seg, inches, font, weight, beyond));
+  options.push(isVertical(seg) ? besideWall(seg, inches, small, weight) : alongWall(seg, inches, small, weight, beyond));
   return options;
 }
 
-/** One line along the wall (rotated on a vertical wall), past the band and any closet box under it. */
-function alongWall(seg: Segment, text: string, size: number, weight: number, closets: Span[]): Option {
+/** One line along the wall (rotated on a vertical wall), past the band and any closet box or stairs beyond it. */
+function alongWall(seg: Segment, text: string, size: number, weight: number, beyond: Span[]): Option {
   const width = textWidth(text, size, weight);
   const vertical = isVertical(seg);
   const n = outward(seg);
   return {
     extent: width,
     at: (t) => {
-      const clearance = closets.reduce((c, s) => (s.lo < t + width / 2 && s.hi > t - width / 2 ? Math.max(c, s.depth) : c), WALL_T);
+      const clearance = beyond.reduce((c, s) => (s.lo < t + width / 2 && s.hi > t - width / 2 ? Math.max(c, s.depth) : c), WALL_T);
       const c = add(add(seg.start, seg.along, t), n, clearance + 1.25 + size / 2);
       return {
         size,

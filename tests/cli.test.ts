@@ -78,11 +78,12 @@ describe("cli", { timeout: 30_000 }, () => {
     expect(lines(r.stdout).at(-1)).toMatch(/: 0 error\(s\), 2 warning\(s\)$/);
   });
 
-  it("validate warns about floor pieces on the stairs, the heater or in a swing, and not about a rug or a lamp on top", async () => {
-    // Positions from the live rooms.json: the living room's stairs are a 36" band along its whole left
-    // wall; Maddie's heater is a 6" strip along the upper right wall (x 112-118), her door swings
-    // through the 30" square in the bottom-left corner and the closet's double doors through x 40-95
-    // above the bottom wall.
+  it("validate warns about floor pieces in front of the stairs, on the heater or in a swing, and not about a rug or a lamp on top", async () => {
+    // Positions from the live rooms.json: the living room's stairs run outside its left wall (F-40,
+    // planner 0.2.7), so the floor is whole up to that wall and only the 36" landing at each end of the
+    // stairs stays clear (x 0-36, y 0-36 and y 137-173); Maddie's heater is a 6" strip along the upper
+    // right wall (x 112-118), her door swings through the 30" square in the bottom-left corner and the
+    // closet's double doors through x 40-95 above the bottom wall.
     const sofa = await plantItem(data.dir, "amazon-TESTSOFA01", { name: "Test sofa", category: "sofa", dimensions: { w: 84, d: 36 } });
     const rug = await plantItem(data.dir, "amazon-TESTRUG001", { name: "Test rug", category: "rug", dimensions: { w: 96, d: 60 } });
     const lamp = await plantItem(data.dir, "amazon-TESTLAMP01", { name: "Test lamp", category: "lamp", dimensions: { w: 10, d: 10 } });
@@ -90,7 +91,8 @@ describe("cli", { timeout: 30_000 }, () => {
       room: "living-room",
       variant: "b",
       placements: [
-        { id: "sofa-stairs", itemId: sofa, x: 0, y: 40, rotation: 270 }, // y 40-124, above the open side's walkway
+        { id: "sofa-left-wall", itemId: sofa, x: 0, y: 40 }, // y 40-76, against the wall the stairs run behind
+        { id: "sofa-landing", itemId: sofa, x: 0, y: 105 }, // y 105-141: into the bottom landing, above the open side's walkway
         { id: "rug", itemId: rug, x: 100, y: 80, layer: "rug" },
         { id: "sofa", itemId: sofa, x: 106, y: 100 },
         { id: "lamp", itemId: lamp, x: 110, y: 105, layer: "top" },
@@ -107,7 +109,7 @@ describe("cli", { timeout: 30_000 }, () => {
     });
     const r = await cli("validate");
     expect(r.code).toBe(0);
-    expect(warnings(r.stdout, "layouts/living-room/b.json")).toEqual(["sofa-stairs is on the stairs"]);
+    expect(warnings(r.stdout, "layouts/living-room/b.json")).toEqual(["sofa-landing is in front of the stairs"]);
     expect(warnings(r.stdout, "layouts/maddie-room/b.json")).toEqual([
       "desk-door is in the door's swing",
       "desk-door is in front of the door",
