@@ -223,6 +223,25 @@ describe("cli", { timeout: 30_000 }, () => {
     expect(JSON.parse(await fs.readFile(target, "utf8")).status).toBe("shortlisted");
   });
 
+  it("catalog add --update keeps the saved photos when the new file lists none (a file written before catalog image must not drop them)", async () => {
+    const photos = [{ file: "amazon-B0PHOTODSK-1.jpg", sourceUrl: "https://m.media-amazon.com/images/I/photo.jpg", caption: "main" }];
+    const item = { ...(await readFixtureItem(DESK_ID)), id: "amazon-B0PHOTODSK", url: "https://www.amazon.com/dp/B0PHOTODSK", images: photos };
+    const input = await writeInput("photo-item.json", item);
+    expect((await cli("catalog", "add", input)).code).toBe(0);
+
+    await writeInput("photo-item.json", { ...item, images: [], status: "shortlisted" });
+    const updated = await cli("catalog", "add", input, "--update");
+    expect(updated.code).toBe(0);
+    const saved = JSON.parse(await fs.readFile(path.join(data.dir, "catalog/items/amazon-B0PHOTODSK.json"), "utf8"));
+    expect(saved.status).toBe("shortlisted");
+    expect(saved.images).toEqual(photos);
+
+    await writeInput("photo-item.json", { ...item, images: [{ ...photos[0], file: "amazon-B0PHOTODSK-2.jpg" }] });
+    expect((await cli("catalog", "add", input, "--update")).code).toBe(0);
+    const replaced = JSON.parse(await fs.readFile(path.join(data.dir, "catalog/items/amazon-B0PHOTODSK.json"), "utf8"));
+    expect(replaced.images[0].file).toBe("amazon-B0PHOTODSK-2.jpg");
+  });
+
   it("catalog add exits 1 with one line per issue for an invalid item", async () => {
     const input = await writeInput("bad.json", { ...(await readFixtureItem(DESK_ID)), category: "spaceship", tags: ["zzz"] });
     const r = await cli("catalog", "add", input);

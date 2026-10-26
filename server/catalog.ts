@@ -114,6 +114,12 @@ export async function saveItem(dataDir: string, input: unknown, opts: { update?:
   if (!opts.update && (await exists(file))) {
     throw new HttpError(409, `catalog/items/${name} already exists (use --update to overwrite it)`);
   }
+  // An update written from a file that predates `catalog image` would drop the photos (2026-10-26, the
+  // UGGLERUM): when the new item lists none and the saved one has some, the saved photos stay.
+  if (opts.update && item.images.length === 0 && (await exists(file))) {
+    const prev = ItemSchema.safeParse(await readJson(file));
+    if (prev.success && prev.data.images.length > 0) item.images = prev.data.images;
+  }
   await writeJsonAtomic(file, item);
   return item;
 }
