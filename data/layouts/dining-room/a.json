@@ -1,10 +1,19 @@
 {
   "room": "dining-room",
   "variant": "a",
-  "name": "Staged, rugless: the LISABO 78 3/4 ash across the room, parallel to the living room, four LISABO chairs, the pendant over it, the buffet and art on the bottom wall",
-  "updatedAt": "2026-10-26T21:21:00.066Z",
-  "notes": "Staged 2026-10-26 (evening) on Andrew's word (\"flip it. remove the random kids chair, shes almost 5, can sit on a regular chair.\" and \"remove the circle table layouts I hate cirlce tabnles.\"): the LISABO 78 3/4\" ash turned across the room, parallel to the living room, x 30-108.75, y 62.25-93: its kitchen end on that walkway's edge (F-42), 19 1/4\" of dead floor at the right wall (no seat fits there), 32.25\" from its living-room side to that walkway's edge (the chairs there sit with their backs to the living room, 11\" inside the clearance, and push back into the walkway by about 9\" when someone stands up) and 26\" from its other side to the bottom wall (tight:26, F-36; those chairs push back under the floating buffet, 33\" up, and nobody passes behind them). Four LISABO ash/Tallmyra chairs, two a side; Maddie, almost 5, sits on a regular chair (no junior chair); six seats fit along the sides when more chairs come.\nAgainst j (the table along the room's depth, staged until he said flip it): 32 and 26\" on the chair sides instead of 33.6\" on both; the long side toward the living room, so the table reads wide from the sofa, instead of toward the kitchen; the cook steps from the kitchen to the table's end instead of its side; and the table runs across the oak floor's grain toward the kitchen's tile line instead of parallel to it. Both work; j keeps both walkways cleaner, this one reads wider from the sofa and he chose it.\nThe rest: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,443.88: placed $1,384.94 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:26 (the wall side, F-36). The round ROSENTORP layout (c) is gone: Andrew hates circle tables.\n",
+  "name": "Staged: the LISABO 78 3/4 ash across the room with four LISABO chairs on Tumble's Canyon Grey/Ivory 8x10 (washable, pad included), the pendant over it, the buffet and art on the bottom wall",
+  "updatedAt": "2026-10-26T23:16:03.922Z",
+  "notes": "Staged on Andrew's word (2026-10-26, night: \"Pick correct color and size and add it to the app, show me locally. also push up deploy\"): the Tumble set is in the staged room; the rugless room is kept as the Rugless variant. Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing.\" Layout L with the two-piece system in place of IKEA's one-piece LOKALTÅG: Tumble's Canyon Grey/Ivory 8x10 ($399, cushioned pad included), spillproof face, washable at home. Same footprint across the room, x 8 to 128, y 23 to 119 (rot 90): the table and both chair rows on it pushed back, 7\" into the living-room walkway and 22\" into the kitchen's, which a rug may do (F-42). Color (F-68): a cool gray ground gives the pale ash LISABO its contrast and matches the gray seats; ivory motifs keep it light on the oak. Ruggable's flatwoven Cambria Abalone 8x10 is $579 with its pad; Tumble's Canyon Oatmeal/Grey is the warmer alternative. The staged A stays rugless until Eutine chooses. Andrew, later that night: \"tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\": the rug placed is the Amazon listing amazon-B0HCMZMMD5 ($399, ships in 4 to 5 days, free delivery November 9, as read 2026-10-26), the same set at the same price; Ruggable's flatwoven is judged not clearly better (thinner cover, $180 more per 8x10, made to order, the same robot-vacuum caveat), so Tumble it is (F-69).",
   "placements": [
+    {
+      "id": "rug-1",
+      "itemId": "amazon-B0HCMZMMD5",
+      "x": 8,
+      "y": 23,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "a cool gray ground gives the pale ash table its contrast and matches the gray seats (F-68); in both walkways, which a rug may be (F-42)"
+    },
     {
       "id": "table-1",
       "itemId": "ikea-10563773",

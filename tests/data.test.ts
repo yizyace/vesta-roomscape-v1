@@ -147,12 +147,13 @@ describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
     expect(problems).toEqual([]);
   });
 
-  // The family goes without rugs, for Eutine's allergy concern (Andrew, 2026-10-26: "we are going with
-  // rugless for allergy conerns, wife wins."; before that a "No rugs" variant per room, 2026-10-24; vesta
-  // rules.md F-66): every room but the kitchen stages its rug-free room as `a`, and the only floor coverings
-  // `a` places are mats that wipe clean and aren't plastic (Andrew, 2026-10-25: "something that isn't
-  // literally plastic"). The room with its rugs is kept as the variant named "With rugs: …".
-  it("every room but the kitchen stages a rug-free a, placing no rug that isn't a wipeable, plastic-free mat", () => {
+  // Rugs in the staged rooms are the two-piece washable sets Andrew picked (2026-10-26, night: "Pick correct
+  // color and size and add it to the app"; vesta rules.md F-66 and F-69): a `rug` item in `a` is tagged `washable`
+  // (a thin cover that lifts off its pad and fits a household washer), or it is a wipeable, plastic-free mat (cork,
+  // natural rubber; never "literally plastic"). The rug-free room, staged from the evening of 2026-10-26 for Eutine's
+  // allergy concern ("wife wins") until that night, is kept as the variant named "Rugless: …", and the room with its
+  // old jute and wool rugs as "With rugs: …".
+  it("every room but the kitchen stages an a whose rugs are washable two-piece sets or wipeable, plastic-free mats", () => {
     const catalog = new Map(items.parsed.map(({ value }) => [value.id, value]));
     const rugFree = layouts.parsed.filter(({ value }) => value.variant === "a");
     const missing = ROOM_IDS.filter((r) => r !== "kitchen" && !rugFree.some(({ value }) => value.room === r)).map(
@@ -162,7 +163,7 @@ describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
       value.placements
         .filter((p) => {
           const item = catalog.get(p.itemId);
-          return item?.category === "rug" && !(item.tags.includes("wipeable") && item.tags.includes("plastic-free"));
+          return item?.category === "rug" && !(item.tags.includes("washable") || (item.tags.includes("wipeable") && item.tags.includes("plastic-free")));
         })
         .map((p) => `${file}: placement "${p.id}" is the rug "${p.itemId}"`),
     );

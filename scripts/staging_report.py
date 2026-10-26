@@ -93,7 +93,7 @@ def build() -> str:
     md: list[str] = []
     summary: list[str] = []
     grand = 0.0
-    rugfree: list[str] = []  # each room's rug alternative: its two-piece washable set (F-69), else its washable rug, else its old rugs (F-66)
+    rugfree: list[str] = []  # each room the other way on rugs: its Rugless variant where a is on a Tumble set (F-69), else its washable or old-rug variant (F-66)
     rugfree_total = 0.0
     body: list[str] = []
     for rid in ROOM_ORDER:
@@ -110,7 +110,7 @@ def build() -> str:
                 grand += total
                 summary.append(f"| [{name}]({APP}#/{rid}) | {lay.get('name','')} | {len(lay.get('placements', []))} placed, {len(lay.get('extras', []))} on the list | {money(total)} |")
             nm = lay.get("name", "")
-            rank = 0 if nm.startswith("With a two-piece washable rug") else 1 if nm.startswith("With a washable rug") else 2 if nm.startswith("With rugs") else None
+            rank = (0 if nm.startswith("Rugless") else 1 if nm.startswith("With a two-piece washable rug") else 2 if nm.startswith("With a washable rug") else 3 if nm.startswith("With rugs") else None) if v != "a" else None
             if rank is not None:
                 cands.append((rank, v, nm, len(lay.get("placements", [])), len(lay.get("extras", [])), total))
             body += [f"### {v.upper()} · {lay.get('name','')}" + ("  (staged)" if v == "a" else ""), "",
@@ -147,8 +147,8 @@ def build() -> str:
            f"| Bathroom | list | {bn} core items | {money(btot)} |",
            f"| **Apartment** | | | **{money(grand + ktot + btot)}** |", ""]
     if rugfree:
-        md += ["## With rugs (the alternative in every room, rules.md F-66 and F-69)", "",
-               "The same rooms with a rug: Tumble's two-piece washable set from Amazon where one is drawn (F-69, the night of 2026-10-26), else the room with the rugs it had until that evening, when Andrew settled on rugless for Eutine's allergy concern (\"wife wins\"); the staged layouts above are the rug-free rooms.", "",
+        md += ["## The other way on rugs (each room's alternative, rules.md F-66 and F-69)", "",
+               "Each room the other way: rugless where the staged room carries its Tumble two-piece washable set (the four rooms Andrew picked on the night of 2026-10-26), and with its old rugs where the staged room is rugless (the office); the kitchen and bathroom lists repeat.", "",
                "| Room | Layout | Pieces | Total |", "|---|---|---|---|", *rugfree,
                f"| Kitchen essentials | list | {kn} core items | {money(ktot)} |",
                f"| Bathroom | list | {bn} core items | {money(btot)} |",
