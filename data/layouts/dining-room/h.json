@@ -2,8 +2,8 @@
   "room": "dining-room",
   "variant": "h",
   "name": "SKANSNÄS brown beech, extendable 59 to 80 3/4, closed, four LISABO chairs",
-  "updatedAt": "2026-10-26T21:17:21.494Z",
-  "notes": "Alternative, 2026-10-26, for Andrew's larger table: a's room with the SKANSNÄS extendable table, brown beech veneer on curved legs (ikea-00565758, $799.99), drawn closed at 59 x 35.375\" (x 61.3125-96.688, y 30-89): 30\" to the bottom wall, so Maddie's URBAN sits at the end (x 70.1-89, y 90-108.9), and 31.31\" on each long side with two LISABO ash/Tallmyra chairs a side (x 40.1875 and 97.6875; tight:31.31, F-36). open to 80 3/4\" its end reaches the floating buffet's face, under it; the warm brown of the living room's UGGLERUM and the bedroom's RÅDMANSÖ, the one table here in the floor's own warm family, a shade darker than the oak. In stock at Long Island. Everything else as in a: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,955.86: placed $1,894.93 + extras $60.93; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:31.31 (F-36).\n",
+  "updatedAt": "2026-10-26T21:21:01.390Z",
+  "notes": "Alternative, 2026-10-26, for Andrew's larger table: j's room (the table along the room's depth; a has it across) with the SKANSNÄS extendable table, brown beech veneer on curved legs (ikea-00565758, $799.99), drawn closed at 59 x 35.375\" (x 61.3125-96.688, y 30-89): 30\" to the bottom wall, so Maddie's URBAN sits at the end (x 70.1-89, y 90-108.9), and 31.31\" on each long side with two LISABO ash/Tallmyra chairs a side (x 40.1875 and 97.6875; tight:31.31, F-36). open to 80 3/4\" its end reaches the floating buffet's face, under it; the warm brown of the living room's UGGLERUM and the bedroom's RÅDMANSÖ, the one table here in the floor's own warm family, a shade darker than the oak. In stock at Long Island. Everything else as in j: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,893.88: placed $1,834.94 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:31.31 (F-36).\n",
   "placements": [
     {
       "id": "table-1",
@@ -49,15 +49,6 @@
       "rotation": 270,
       "layer": "floor",
       "note": "LISABO ash/Tallmyra chair on the kitchen side, 1in off the table"
-    },
-    {
-      "id": "junior-chair-1",
-      "itemId": "ikea-00165213",
-      "x": 70.125,
-      "y": 90,
-      "rotation": 180,
-      "layer": "floor",
-      "note": "Maddie's URBAN at the table's bottom end, which the closed table leaves room for"
     },
     {
       "id": "pendant-1",
@@ -127,8 +118,8 @@
     },
     {
       "itemId": "ikea-70527961",
-      "qty": 5,
-      "note": "SVARTSENAP placemats, one per seat with Maddie's, machine washable (online minimum 4)"
+      "qty": 4,
+      "note": "SVARTSENAP placemats, one per chair, machine washable (online minimum 4)"
     },
     {
       "itemId": "ikea-60214343",

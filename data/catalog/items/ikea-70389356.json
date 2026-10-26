@@ -12,7 +12,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 199.99,
     "currency": "USD",
@@ -32,7 +32,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: none. Fit: living-room, a 27.5\" round table between the sofa and two armchairs, 14\" to 18\" from each seat (F-39), with 30\" walkways around the group (F-30) · fits. Round, birch veneer, no glass: no corners at a 4-year-old's head height, the reason it is the conversation layout's table. Max load 44 lb, 22 lb on the shelf. Article 703.893.56. Popularity: not badged; #8 under Coffee tables sorted Most popular; 4.4 stars (401). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "notes": "Rejected 2026-10-26 (Andrew: \"I hate cirlce tabnles\"): round. Flags: none. Fit: living-room, a 27.5\" round table between the sofa and two armchairs, 14\" to 18\" from each seat (F-39), with 30\" walkways around the group (F-30) · fits. Round, birch veneer, no glass: no corners at a 4-year-old's head height, the reason it is the conversation layout's table. Max load 44 lb, 22 lb on the shelf. Article 703.893.56. Popularity: not badged; #8 under Coffee tables sorted Most popular; 4.4 stars (401). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

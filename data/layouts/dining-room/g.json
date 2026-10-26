@@ -2,8 +2,8 @@
   "room": "dining-room",
   "variant": "g",
   "name": "TARSELE oak/black, extendable 59 to 78 3/4, closed for the day with a seat at the end, four LISABO chairs",
-  "updatedAt": "2026-10-26T21:09:37.254Z",
-  "notes": "Alternative, 2026-10-26, for Andrew's larger table: a's room with the TARSELE extendable table, oak veneer on black legs (ikea-70581359, $699.99), drawn closed at 59 x 31.5\" (x 63.25-94.75, y 30-89): 30\" to the bottom wall, so Maddie's URBAN sits at the end (x 70.1-89, y 90-108.9), and 33.25\" on each long side with two LISABO ash/Tallmyra chairs a side (x 42.125 and 95.75; tight:33.25, F-36). open to 78 3/4\" for guests it stands like the LISABO, its end 10 1/4\" from the bottom wall (the leaf stores inside); the oak top is the tone of the honey-oak floor and the maple kitchen, the black legs the sofa's note; twice the LISABO's price. Not stocked at Long Island, an online order. Everything else as in a: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,855.86: placed $1,794.93 + extras $60.93; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:33.25 (F-36).\n",
+  "updatedAt": "2026-10-26T21:21:01.168Z",
+  "notes": "Alternative, 2026-10-26, for Andrew's larger table: j's room (the table along the room's depth; a has it across) with the TARSELE extendable table, oak veneer on black legs (ikea-70581359, $699.99), drawn closed at 59 x 31.5\" (x 63.25-94.75, y 30-89): 30\" to the bottom wall, so Maddie's URBAN sits at the end (x 70.1-89, y 90-108.9), and 33.25\" on each long side with two LISABO ash/Tallmyra chairs a side (x 42.125 and 95.75; tight:33.25, F-36). open to 78 3/4\" for guests it stands like the LISABO, its end 10 1/4\" from the bottom wall (the leaf stores inside); the oak top is the tone of the honey-oak floor and the maple kitchen, the black legs the sofa's note; twice the LISABO's price. Not stocked at Long Island, an online order. Everything else as in j: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,793.88: placed $1,734.94 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:33.25 (F-36).\n",
   "placements": [
     {
       "id": "table-1",
@@ -49,15 +49,6 @@
       "rotation": 270,
       "layer": "floor",
       "note": "LISABO ash/Tallmyra chair on the kitchen side, 1in off the table"
-    },
-    {
-      "id": "junior-chair-1",
-      "itemId": "ikea-00165213",
-      "x": 70.125,
-      "y": 90,
-      "rotation": 180,
-      "layer": "floor",
-      "note": "Maddie's URBAN at the table's bottom end, which the closed table leaves room for"
     },
     {
       "id": "pendant-1",
@@ -127,8 +118,8 @@
     },
     {
       "itemId": "ikea-70527961",
-      "qty": 5,
-      "note": "SVARTSENAP placemats, one per seat with Maddie's, machine washable (online minimum 4)"
+      "qty": 4,
+      "note": "SVARTSENAP placemats, one per chair, machine washable (online minimum 4)"
     },
     {
       "itemId": "ikea-60214343",

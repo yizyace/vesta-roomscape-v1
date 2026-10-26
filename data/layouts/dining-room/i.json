@@ -2,8 +2,8 @@
   "room": "dining-room",
   "variant": "i",
   "name": "TONSTAD oak, extendable 55 1/8 to 77 1/8, closed, four LISABO chairs",
-  "updatedAt": "2026-10-26T21:09:37.698Z",
-  "notes": "Alternative, 2026-10-26, for Andrew's larger table: a's room with the TONSTAD extendable table, oak veneer (ikea-40593882, $379.99), drawn closed at 55.125 x 33.5\" (x 62.25-95.75, y 30-85.125): 33.9\" to the bottom wall, so Maddie's URBAN sits at the end (x 70.1-89, y 86.125-105.0), and 32.25\" on each long side with two LISABO ash/Tallmyra chairs a side (x 41.125 and 96.75; tight:32.25, F-36). open to 77 1/8\" its end is 11.9\" from the bottom wall; the budget extendable, plain and close to the kitchen's maple in tone; 4.2 stars, the lowest of the four. In stock at Long Island. Everything else as in a: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,535.86: placed $1,474.93 + extras $60.93; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:32.25 (F-36).\n",
+  "updatedAt": "2026-10-26T21:21:01.608Z",
+  "notes": "Alternative, 2026-10-26, for Andrew's larger table: j's room (the table along the room's depth; a has it across) with the TONSTAD extendable table, oak veneer (ikea-40593882, $379.99), drawn closed at 55.125 x 33.5\" (x 62.25-95.75, y 30-85.125): 33.9\" to the bottom wall, so Maddie's URBAN sits at the end (x 70.1-89, y 86.125-105.0), and 32.25\" on each long side with two LISABO ash/Tallmyra chairs a side (x 41.125 and 96.75; tight:32.25, F-36). open to 77 1/8\" its end is 11.9\" from the bottom wall; the budget extendable, plain and close to the kitchen's maple in tone; 4.2 stars, the lowest of the four. In stock at Long Island. Everything else as in j: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,473.88: placed $1,414.94 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:32.25 (F-36).\n",
   "placements": [
     {
       "id": "table-1",
@@ -49,15 +49,6 @@
       "rotation": 270,
       "layer": "floor",
       "note": "LISABO ash/Tallmyra chair on the kitchen side, 1in off the table"
-    },
-    {
-      "id": "junior-chair-1",
-      "itemId": "ikea-00165213",
-      "x": 70.125,
-      "y": 86.125,
-      "rotation": 180,
-      "layer": "floor",
-      "note": "Maddie's URBAN at the table's bottom end, which the closed table leaves room for"
     },
     {
       "id": "pendant-1",
@@ -127,8 +118,8 @@
     },
     {
       "itemId": "ikea-70527961",
-      "qty": 5,
-      "note": "SVARTSENAP placemats, one per seat with Maddie's, machine washable (online minimum 4)"
+      "qty": 4,
+      "note": "SVARTSENAP placemats, one per chair, machine washable (online minimum 4)"
     },
     {
       "itemId": "ikea-60214343",

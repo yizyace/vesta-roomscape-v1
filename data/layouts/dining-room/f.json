@@ -2,8 +2,8 @@
   "room": "dining-room",
   "variant": "f",
   "name": "The LISABO in black: the same table and four black LISABO chairs",
-  "updatedAt": "2026-10-26T21:17:21.273Z",
-  "notes": "Alternative, 2026-10-26: a's room with the LISABO table in black/ash veneer (ikea-20563782, $349.99, in stock at Long Island) and four black LISABO chairs (ikea-60446786, $80, wooden seats 17 3/4\" high), the same footprint and clearances as a (tight:33.6, F-36). Black on the honey-oak floor anchors the room and matches the sofa's dark gray, but it shows every crumb and scratch on a table that is also a desk and a play surface; its wooden seats are the wipe-clean ones. Everything else as in a: Maddie's URBAN on the kitchen side, the pendant, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,465.86: placed $1,404.93 + extras $60.93; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:33.6 (F-36).\n",
+  "updatedAt": "2026-10-26T21:21:00.948Z",
+  "notes": "Alternative, 2026-10-26: j's room (the table along the room's depth; a has it across) with the LISABO table in black/ash veneer (ikea-20563782, $349.99, in stock at Long Island) and four black LISABO chairs (ikea-60446786, $80, wooden seats 17 3/4\" high), the same footprint and clearances as a (tight:33.6, F-36). Black on the honey-oak floor anchors the room and matches the sofa's dark gray, but it shows every crumb and scratch on a table that is also a desk and a play surface; its wooden seats are the wipe-clean ones. Everything else as in j: the pendant, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,403.88: placed $1,344.94 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:33.6 (F-36).\n",
   "placements": [
     {
       "id": "table-1",
@@ -49,15 +49,6 @@
       "rotation": 270,
       "layer": "floor",
       "note": "LISABO black chair (wooden seat) on the kitchen side, 1in off the table, 12.5in behind it to the walkway's edge"
-    },
-    {
-      "id": "junior-chair-1",
-      "itemId": "ikea-00165213",
-      "x": 43.75,
-      "y": 60.5,
-      "rotation": 270,
-      "layer": "floor",
-      "note": "Maddie's URBAN between the kitchen-side chairs, where a parent in the walkway can reach her; the fifth seat, if she needs one at this table"
     },
     {
       "id": "pendant-1",
@@ -127,8 +118,8 @@
     },
     {
       "itemId": "ikea-70527961",
-      "qty": 5,
-      "note": "SVARTSENAP placemats, one per seat with Maddie's, machine washable (online minimum 4)"
+      "qty": 4,
+      "note": "SVARTSENAP placemats, one per chair, machine washable (online minimum 4)"
     },
     {
       "itemId": "ikea-60214343",

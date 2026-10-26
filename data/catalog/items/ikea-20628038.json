@@ -11,7 +11,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 299.99,
     "currency": "USD",
@@ -41,7 +41,7 @@
       "caption": "third"
     }
   ],
-  "notes": "Flags: none (no glass, F-21). The anchor for the rug-free living room's conversation group (2026-10-24). In 'natural, light-oak veneer' with a 'soft elliptical shape with a raised edge, sturdy cross-base and elegant brass-colored feet' (Overview), so it has no corners at Maddie's height. 'Max. load 44 lb'. At 46 1/2\" it is about half the KIVIK sofa's 89 3/4\" (designers aim for half to two thirds of the sofa's length). Designer Nike Karlsson. 3 stars (4). In stock in IKEA Long Island, NY; click and collect free; home delivery to our ZIP (2026-10-24). The LACK 46 1/2x30 3/4\" in white stained oak effect ($49.99, ikea-40431535) is the cheaper, square-cornered size up from the staged LACK; it was seen in the search and not opened. rooms: living-room, from the rug-free brief.",
+  "notes": "Rejected 2026-10-26: oval, and Andrew wants rectangles (\"FOr the coffee table I want a rectangular one\"; \"I hate cirlce tabnles\"); the UGGLERUM took its place in the living room's a; the older living-room alternatives b, c, d and f still draw it and predate the rule. Flags: none (no glass, F-21). The anchor for the rug-free living room's conversation group (2026-10-24). In 'natural, light-oak veneer' with a 'soft elliptical shape with a raised edge, sturdy cross-base and elegant brass-colored feet' (Overview), so it has no corners at Maddie's height. 'Max. load 44 lb'. At 46 1/2\" it is about half the KIVIK sofa's 89 3/4\" (designers aim for half to two thirds of the sofa's length). Designer Nike Karlsson. 3 stars (4). In stock in IKEA Long Island, NY; click and collect free; home delivery to our ZIP (2026-10-24). The LACK 46 1/2x30 3/4\" in white stained oak effect ($49.99, ikea-40431535) is the cheaper, square-cornered size up from the staged LACK; it was seen in the search and not opened. rooms: living-room, from the rug-free brief.",
   "captured": {
     "date": "2026-10-24",
     "by": "claude",

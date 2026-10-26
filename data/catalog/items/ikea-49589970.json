@@ -11,7 +11,7 @@
   "rooms": [
     "dining-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 109.99,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: none (F-21 to F-26 do not apply). Fit: F-36 in the 128 x 119\" dining room: centered it leaves 42.9\" on each side across and 38.4\" top and bottom (fits); with an 18.5\"-deep sideboard on a side wall it leaves 33.7\" on that axis (tight:33.7), so the round layout pairs it with a 30\" storage unit in a corner instead (layout b). Round: no corners at a 4-year-old's head height, and it seats four. Melamine foil top with plastic edging on a powder-coated steel underframe; wipe clean. The URL carries an s (a combination article, tabletop 905.691.01 + underframe 505.935.70); the id is the Article Number 495.899.70 without dots. Not badged; #2 on Round dining tables sorted Most popular (15 items), 4.5 stars (88), the cheapest of the popular round tables, and it matches the white VIHALS sideboard (ikea-90491720). The page's 'Complete with' offers the VIHALS chair at $30.00. In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
+  "notes": "Rejected 2026-10-26 (Andrew: \"I hate cirlce tabnles\"): round. Flags: none (F-21 to F-26 do not apply). Fit: F-36 in the 128 x 119\" dining room: centered it leaves 42.9\" on each side across and 38.4\" top and bottom (fits); with an 18.5\"-deep sideboard on a side wall it leaves 33.7\" on that axis (tight:33.7), so the round layout pairs it with a 30\" storage unit in a corner instead (layout b). Round: no corners at a 4-year-old's head height, and it seats four. Melamine foil top with plastic edging on a powder-coated steel underframe; wipe clean. The URL carries an s (a combination article, tabletop 905.691.01 + underframe 505.935.70); the id is the Article Number 495.899.70 without dots. Not badged; #2 on Round dining tables sorted Most popular (15 items), 4.5 stars (88), the cheapest of the popular round tables, and it matches the white VIHALS sideboard (ikea-90491720). The page's 'Complete with' offers the VIHALS chair at $30.00. In stock in IKEA Long Island, NY on 2026-10-22. rooms: dining-room, from the staging brief.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",
