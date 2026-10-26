@@ -25,7 +25,23 @@
     "raw": "Dimensions: 25-50.5\"(H) x 72\"(W) x 30\"(D); Size: 72x30",
     "source": "vari.com product page's Dimensions row, read in Claude in Chrome 2026-10-25 with the Light Wood/Slate finish selected (SKU 402262); h = the top of the height range"
   },
-  "images": [],
+  "images": [
+    {
+      "file": "other-vari-402262-1.jpg",
+      "sourceUrl": "https://www.vari.com/dw/image/v2/bdft_PRD/on/demandware.static/-/Sites-vari-master-catalog/default/dw9e0ae280/images/large/FD-ESDCE7230/402262/vari-electric-standing_402262_light-wood_raised.jpg",
+      "caption": "raised desk in a home office setting"
+    },
+    {
+      "file": "other-vari-402262-2.jpg",
+      "sourceUrl": "https://www.vari.com/dw/image/v2/bdft_PRD/on/demandware.static/-/Sites-vari-master-catalog/default/dw6cf9eec9/images/large/FD-ESDCE7230/402262/vari-electric-standing_402262_light-wood_lowered.jpg",
+      "caption": "lowered desk in a home office setting"
+    },
+    {
+      "file": "other-vari-402262-3.jpg",
+      "sourceUrl": "https://www.vari.com/dw/image/v2/bdft_PRD/on/demandware.static/-/Sites-vari-master-catalog/default/dw8893c2cb/images/large/FD-ESDCE7230/402262/vari-electric-standing_402262_light-wood_closeup-edge_model.jpg",
+      "caption": "wrist resting comfortably on the slope of desk"
+    }
+  ],
   "notes": "Flags: none. The job desk on the left wall of back-bedroom h, opposite the four-screen run; Vari's longest straight ComfortEdge desk. In g it left 16.6\" between its end and the L's return, the way in from the door, so g has the 48x30 (other-vari-402258). Light Wood is Vari's nearest finish to the bamboo Andrew asked for (2026-10-25); Vari sells no bamboo top (vari.com's search finds nothing). SKU 402262; \"In stock, Free standard shipping\" (2026-10-25); 145 reviews. Photos on www.vari.com, not an allowed host yet. rooms: back-bedroom, from the brief.",
   "captured": {
     "date": "2026-10-25",
