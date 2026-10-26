@@ -30,7 +30,7 @@ The same rooms with no textile rug, for less dust and fewer dust mites; the stag
 
 | Room | Layout | Pieces | Total |
 |---|---|---|---|
-| [Living room](https://yizyace.github.io/vesta-roomscape-v1/#/living-room/e) | E · No rugs: the MORABO U around the VALNÄS, a TÅGARP by the window, two cork mats on the play floor | 17 placed, 6 on the list | $3,895.77 |
+| [Living room](https://yizyace.github.io/vesta-roomscape-v1/#/living-room/e) | E · No rugs: the MORABO U around the VALNÄS, a wall lamp by the window, two cork mats on the play floor | 17 placed, 6 on the list | $3,895.77 |
 | [Dining room](https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/e) | E · No rugs: VIHALS set for six under the pendant, the BESTÅ buffet and art as the wall anchor | 13 placed, 5 on the list | $1,147.80 |
 | [Master bedroom](https://yizyace.github.io/vesta-roomscape-v1/#/master-bedroom/h) | H · No rugs: the king on the bathroom wall, a nightstand and a floating shelf under matching wall lamps, a pine bench at its foot | 13 placed, 11 on the list | $1,745.78 |
 | [Back bedroom (office)](https://yizyace.github.io/vesta-roomscape-v1/#/back-bedroom/f) | F · No rugs: four-screen run as the anchor, a lamp at each station, art over the chair bed | 14 placed, 11 on the list | $3,093.12 |
@@ -269,7 +269,7 @@ Final audit 2026-10-26: the plant moved from the top landing's exit to the chais
 
 </details>
 
-### E · No rugs: the MORABO U around the VALNÄS, a TÅGARP by the window, two cork mats on the play floor
+### E · No rugs: the MORABO U around the VALNÄS, a wall lamp by the window, two cork mats on the play floor
 
 Open: https://yizyace.github.io/vesta-roomscape-v1/#/living-room/e · printable: https://yizyace.github.io/vesta-roomscape-v1/#/living-room/e/view
 
