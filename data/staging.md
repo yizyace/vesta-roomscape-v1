@@ -467,6 +467,45 @@ Total $3,305.76: placed $3,057.86 + extras $247.90; prices as of 2026-10-22 to 2
 
 </details>
 
+### I · With a washable rug: the Homemate 9x12 vintage, cream and taupe, under the whole sofa group
+
+Open: https://yizyace.github.io/vesta-roomscape-v1/#/living-room/i · printable: https://yizyace.github.io/vesta-roomscape-v1/#/living-room/i/view
+
+| Item | Qty | Each | Subtotal |
+|---|---|---|---|
+| [Homemate Washable Rug 9x12 Area Rugs - Vintage Rugs for Living Room](https://www.amazon.com/dp/B0G2Z4LMY8) | 1 | $105.99 | $105.99 |
+| [MORABO Sofa](https://www.ikea.com/us/en/p/morabo-sofa-with-chaise-gunnared-dark-gray-wood-s49318323/) | 1 | $1,199.00 | $1,199.00 |
+| [UGGLERUM Coffee table](https://www.ikea.com/us/en/p/ugglerum-coffee-table-walnut-veneer-60627980/) | 1 | $199.99 | $199.99 |
+| [POÄNG Armchair](https://www.ikea.com/us/en/p/poaeng-armchair-birch-veneer-knisa-light-beige-s59305928/) | 2 | $149.00 | $298.00 |
+| [POÄNG Ottoman](https://www.ikea.com/us/en/p/poaeng-ottoman-birch-veneer-knisa-light-beige-s19305954/) | 2 | $80.00 | $160.00 |
+| [VARPTROSS Wall lamp](https://www.ikea.com/us/en/p/varptross-wall-lamp-bamboo-20610854/) | 3 | $29.99 | $89.97 |
+| [FEJKA Artificial potted plant](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-bird-of-paradise-70610601/) | 1 | $89.99 | $89.99 |
+| [IKEA PS LÖMSK Children's swivel armchair](https://www.ikea.com/us/en/p/ikea-ps-loemsk-childrens-swivel-armchair-white-beige-red-30609237/) | 1 | $129.99 | $129.99 |
+| [UPPLYST LED wall lamp](https://www.ikea.com/us/en/p/upplyst-led-wall-lamp-cloud-white-40440832/) | 1 | $19.99 | $19.99 |
+| [TROFAST Storage combination with boxes](https://www.ikea.com/us/en/p/trofast-storage-combination-with-boxes-light-white-stained-pine-white-s39574865/) | 1 | $149.99 | $149.99 |
+| [BESTÅ Shelf unit with doors](https://www.ikea.com/us/en/p/besta-shelf-unit-with-doors-white-lappviken-white-s79047429/) | 1 | $125.00 | $125.00 |
+| [FLISAT Book display](https://www.ikea.com/us/en/p/flisat-book-display-80614566/) | 1 | $29.99 | $29.99 |
+| [PJÄTTERYD Picture](https://www.ikea.com/us/en/p/pjaetteryd-picture-waterlilies-1916-19-00578906/) | 1 | $29.99 | $29.99 |
+| [RÖDALM Frame with poster](https://www.ikea.com/us/en/p/roedalm-frame-with-poster-leaf-cat-70624014/) | 1 | $34.99 | $34.99 |
+| [LÄTT Children's table and 2 chairs](https://www.ikea.com/us/en/p/laett-childrens-table-and-2-chairs-white-pine-50178411/) | 1 | $49.99 | $49.99 |
+| [GINSTMOTT Curtains](https://www.ikea.com/us/en/p/ginstmott-curtains-1-pair-beige-with-heading-tape-80597171/) *(room list)* | 2 | $34.99 | $69.98 |
+| [HUGAD Curtain rod combination](https://www.ikea.com/us/en/p/hugad-curtain-rod-combination-with-wall-ceiling-brackets-with-finials-white-s49634091/) *(room list)* | 1 | $25.00 | $25.00 |
+| [SVARTPOPPEL Cushion cover](https://www.ikea.com/us/en/p/svartpoppel-cushion-cover-off-white-60543004/) *(room list)* | 2 | $9.99 | $19.98 |
+| [VALLKRASSING Cushion cover](https://www.ikea.com/us/en/p/vallkrassing-cushion-cover-gray-green-50570955/) *(room list)* | 2 | $9.99 | $19.98 |
+| [FJÄDRAR Inner cushion](https://www.ikea.com/us/en/p/fjaedrar-inner-cushion-off-white-60262188/) *(room list)* | 4 | $12.00 | $48.00 |
+| [VALLKRASSING Throw](https://www.ikea.com/us/en/p/vallkrassing-throw-off-white-20570928/) *(room list)* | 1 | $19.99 | $19.99 |
+| [IKEA PS LÖMSK Slipcover f children's swiv armchr](https://www.ikea.com/us/en/p/ikea-ps-loemsk-slipcover-f-childrens-swiv-armchr-blue-shark-50636211/) *(room list)* | 1 | $30.00 | $30.00 |
+
+**Total: $2,945.80**
+
+<details><summary>Why it's laid out this way</summary>
+
+Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the Homemate washable 9x12 (amazon-B0G2Z4LMY8, $105.99, 4.4 stars from 453), rot 90, x 33-177, y 35-143: every leg of the sofa with chaise, the UGGLERUM and both POÄNG chairs stands on it, the designers' rule for a conversation group; its south edge lies on the open side's walkway edge and its west edge 3" onto the railing strip, both fine for a rug (people walk on it; F-42 keeps floor pieces off the walkway), 29" from the heater's drawn face (F-33). Color: cream with a soft taupe wash, lighter than the honey-oak floor, so the dark gray Gunnared sofa and the walnut UGGLERUM sit on a pale field instead of sinking into the warm floor, and the birch POÄNG chairs and sage cushions read against it; the dining room's gray-and-ivory rug (l) is its cousin, so the open plan stays one palette. Washable: the listing says machine washable; 26 lb, so a laundromat machine. The colorful option is the Yarooge 9x12 floral (amazon-B0GR4X82S8, $129.99, 4.6 from 262): ivory with blue, coral and green flowers and a blue border, a lot of pattern for a room that also has the red LÖMSK; it would pick up the dining painting's blues. No IKEA washable rug comes this size (LOKALTÅG stops at 5'3" x 7'7"); Ruggable's 9x12 costs several times more and its page says robot vacuums are not recommended. Everything else as in a.
+Total $2,945.80: placed $2,712.87 + extras $232.93; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
+
+
+</details>
+
 ## Dining room
 
 ### A · Staged, rugless: the LISABO 78 3/4 ash across the room, parallel to the living room, four LISABO chairs, the pendant over it, the buffet and art on the bottom wall  (staged)
@@ -782,6 +821,35 @@ Open: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/k · printable:
 Alternative, 2026-10-26, for Andrew's "compar with [the VOXLÖV], what's diff": a's room with the VOXLÖV dining table in light bamboo (ikea-40434322, $499.99, in stock at Long Island) in the LISABO's place, across the room, x 30-100.875, y 57.625-93, with a's four LISABO ash/Tallmyra chairs (a VOXLÖV chair exists; not opened). 7 7/8" shorter and 4 5/8" wider than the LISABO (about the same surface): the width comes off the chair sides, 27.6" on the living-room side (the chairs there push back into the walkway by about 14"; the LISABO leaves 32.25") and 26" under the buffet (tight:27.6, tight:26, F-36); its inset legs leave the short ends free for a seat, and the right end has 27" of floor, enough to sit but short to push back, so no fifth chair is drawn. Rounded corners (no corner guards needed, F-21) and a smooth, wipeable bamboo top are its kid points; bamboo is a yellow-blond close to the honey-oak floor, so it blends where the gray-blond ash contrasts, and its plain, fine grain is a quieter look than the LISABO's bold ash and tapered birch legs, which match the living room's UGGLERUM and POÄNG. $150 more; 4.7 stars (226) against the LISABO's 4.6 (117); one 79 lb package. Everything else as in a: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).
 Total $1,593.88: placed $1,534.94 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
 Flags across the layout: tight:27.6 (the living-room side), tight:26 (the wall side).
+
+
+</details>
+
+### L · With a washable rug: the LIVELYGLOW 8x10 distressed, ivory and gray, across the room under the LISABO and its chairs
+
+Open: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/l · printable: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/l/view
+
+| Item | Qty | Each | Subtotal |
+|---|---|---|---|
+| [LIVELYGLOW 8x10 Washable Distressed Area Rug](https://www.amazon.com/dp/B0G5K3KZKY) | 1 | $51.29 | $51.29 |
+| [LISABO Table](https://www.ikea.com/us/en/p/lisabo-table-ash-veneer-10563773/) | 1 | $349.99 | $349.99 |
+| [LISABO Chair](https://www.ikea.com/us/en/p/lisabo-chair-ash-tallmyra-white-black-90561044/) | 4 | $90.00 | $360.00 |
+| [GULLSUDARE Pendant lamp shade](https://www.ikea.com/us/en/p/gullsudare-pendant-lamp-shade-white-handmade-90603869/) | 1 | $4.99 | $4.99 |
+| [BESTÅ Wall-mounted cabinet combination](https://www.ikea.com/us/en/p/besta-wall-mounted-cabinet-combination-white-bjoerkoeviken-ash-veneer-s99623151/) | 1 | $420.00 | $420.00 |
+| [BLODFLÄDER Picture](https://www.ikea.com/us/en/p/blodflaeder-picture-the-seine-at-giverny-20601915/) | 1 | $99.99 | $99.99 |
+| [VARPTROSS Wall lamp](https://www.ikea.com/us/en/p/varptross-wall-lamp-bamboo-20610854/) | 2 | $29.99 | $59.98 |
+| [FEJKA Artificial potted plant](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-bird-of-paradise-70610601/) | 1 | $89.99 | $89.99 |
+| [HAVSRIS Cord set with switch](https://www.ikea.com/us/en/p/havsris-cord-set-with-switch-white-80490052/) *(room list)* | 1 | $20.00 | $20.00 |
+| [SVARTSENAP Table runner](https://www.ikea.com/us/en/p/svartsenap-table-runner-natural-40533063/) *(room list)* | 1 | $5.99 | $5.99 |
+| [SVARTSENAP Placemat](https://www.ikea.com/us/en/p/svartsenap-placemat-natural-70527961/) *(room list)* | 4 | $1.99 | $7.96 |
+| [BLANDA MATT Serving bowl](https://www.ikea.com/us/en/p/blanda-matt-serving-bowl-bamboo-60214343/) *(room list)* | 1 | $24.99 | $24.99 |
+
+**Total: $1,495.17**
+
+<details><summary>Why it's laid out this way</summary>
+
+Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the LIVELYGLOW washable 8x10 (amazon-B0G5K3KZKY, $51.29, 4.8 stars from 213; ultra-thin low pile on a TPE non-slip backing, machine washable, doors glide over it), rot 90, x 8-128, y 23-119: the table (x 30-108.75, y 62.25-93) sits 22" from its kitchen end and 19" from its right end, and both chair rows stay on it pushed back (the living-room chairs to y 31, the wall chairs to y 114), the dining rule of 24" beyond the table on the chair sides; its top edge lies 7" into the living-room walkway and its kitchen end 22" into the kitchen walkway, which is what a dining rug must do here (a rug is walked on; F-42 keeps floor pieces off). Color: ivory with a soft gray distressed wash, cool against the honey oak, so the pale ash LISABO reads on it instead of blending into the floor, the gray Tallmyra seats match it and the blues of the BLODFLÄDER sit above it; dirt-hiding. The gray AMADA 8x10 (not opened, $115.99) is the pricier version of the same idea; the beige AMADA (amazon-B0H41NQC8S) would blend with the floor and the table here. Everything else as in a.
+Total $1,495.17: placed $1,436.23 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
 
 
 </details>
@@ -1255,6 +1323,43 @@ Total $1,799.74: placed $1,056.88 + extras $742.86; prices as of 2026-10-22 to 2
 Flags across the layout: assumed-position:door, assumed-position:closet, assumed-position:window, anchor-required (storage-1). The tight:15.5 on the window side and heater-depth-assumed are gone (2026-10-25).
 Audit 2026-10-24: the king stays on the bathroom wall, the only arrangement every rule allows (on the left wall it would mirror this with its head beside the room door); bamboo wall lamps hang above both sides, the hamper left the entry, and the reading chair gained a side table. 2026-10-25: with the heater measured at 3" and a 30" bathroom landing, the bed moved 5.75" toward the bathroom, its window side went from 15.5" (tight) to 24.25" (24" to the mattress), and the window-side shelf became the VIHALS. That day's audit took the glass mirror off the bathroom path (F-21, F-30), moved the hamper into the walk-in closet, put a battery night light by the bathroom door, stood the bench 2" off the bed, moved the rug 6" toward the head and centered it on the bed, and noted that the wall lamps are a glow, not reading lights. Window stops: the bed's foot end lies beside the window (assumed-position:window), and Maddie climbs. New York City's window-guard rule covers buildings with three or more apartments, not this two-family house, so ask the landlord for window stops on the upstairs windows.
 Final audit 2026-10-26: the BESTÅ column moved from the bottom wall to the left wall below the side table, since the walk to the bathroom had to turn its corner 14" from the king's foot (the 31.8" and 30" above were measured along the walls, not through the turn, F-30); the art hangs higher, on security hangers; the lamp's outlet is named. The king's slot has no slack (133 - 3 - 24 - 76 - 30 = 0), the right wall's 133" is derived from the left wall, not measured, and Andrew can't tape it before the move (2026-10-26: "I don't have any other info than what I gave you so far and the photos. Do your best.", F-07): the king is ordered on the measured 133" and placed by the tape on move-in day, before its boxes are opened. At 133" or more it goes in as drawn; down to 131" it slides toward the heater by the shortfall (the window side 22" at least, the VIHALS still 6 5/8" off the heater's face, F-33); down to 129" the bathroom walk takes the rest (28" at least, walkway-narrow); under 129" the Mellow and the VALEVÅG go back unopened and g, the MALM queen (63", 13" of slack), is the plan.
+
+</details>
+
+### J · With a washable rug: the AMADA 8x10 vintage, cream and taupe with ochre, under the king and the bench
+
+Open: https://yizyace.github.io/vesta-roomscape-v1/#/master-bedroom/j · printable: https://yizyace.github.io/vesta-roomscape-v1/#/master-bedroom/j/view
+
+| Item | Qty | Each | Subtotal |
+|---|---|---|---|
+| [AMADA 8x10 Washable Area Rug for Living Room](https://www.amazon.com/dp/B0H41NQC8S) | 1 | $72.99 | $72.99 |
+| [RÅDMANSÖ Bed frame](https://www.ikea.com/us/en/p/radmansoe-bed-frame-brown-walnut-effect-luroey-s69598638/) | 1 | $399.00 | $399.00 |
+| [RÅDMANSÖ Nightstand](https://www.ikea.com/us/en/p/radmansoe-nightstand-brown-walnut-effect-80593597/) | 2 | $99.99 | $199.98 |
+| [TÖVÄDER LED night light](https://www.ikea.com/us/en/p/toevaeder-led-night-light-cat-battery-operated-60516915/) | 1 | $19.99 | $19.99 |
+| [VARPTROSS Wall lamp](https://www.ikea.com/us/en/p/varptross-wall-lamp-bamboo-20610854/) | 2 | $29.99 | $59.98 |
+| [PJÄTTERYD Picture](https://www.ikea.com/us/en/p/pjaetteryd-picture-endless-tide-30623460/) | 1 | $69.99 | $69.99 |
+| [PERJOHAN Bench with storage](https://www.ikea.com/us/en/p/perjohan-bench-with-storage-pine-60485339/) | 1 | $79.99 | $79.99 |
+| [FEJKA Artificial potted plant](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-areca-palm-00615225/) | 1 | $24.99 | $24.99 |
+| [BESTÅ Shelf unit with doors](https://www.ikea.com/us/en/p/besta-shelf-unit-with-doors-white-lappviken-white-s39429699/) | 1 | $270.00 | $270.00 |
+| [Zinus Memory Foam 12 Inch Green Tea Mattress](https://www.amazon.com/dp/B0CKZ1CK1H) *(room list)* | 1 | $392.99 | $392.99 |
+| [DVALA Sheet set](https://www.ikea.com/us/en/p/dvala-sheet-set-white-90577530/) *(room list)* | 1 | $39.99 | $39.99 |
+| [SMÅSPORRE Duvet insert](https://www.ikea.com/us/en/p/smasporre-duvet-insert-light-warm-40457021/) *(room list)* | 1 | $54.99 | $54.99 |
+| [ÄNGSLILJA Duvet cover and pillowcase(s)](https://www.ikea.com/us/en/p/aengslilja-duvet-cover-and-pillowcase-s-natural-10591988/) *(room list)* | 1 | $49.99 | $49.99 |
+| [VILDKORN Pillow](https://www.ikea.com/us/en/p/vildkorn-pillow-side-back-sleeper-80460583/) *(room list)* | 2 | $12.99 | $25.98 |
+| [FJÄDRAR Inner cushion](https://www.ikea.com/us/en/p/fjaedrar-inner-cushion-off-white-60262188/) *(room list)* | 2 | $12.00 | $24.00 |
+| [VALLKRASSING Cushion cover](https://www.ikea.com/us/en/p/vallkrassing-cushion-cover-gray-green-50570955/) *(room list)* | 2 | $9.99 | $19.98 |
+| [VALLKRASSING Throw](https://www.ikea.com/us/en/p/vallkrassing-throw-gray-green-00570934/) *(room list)* | 1 | $19.99 | $19.99 |
+| [BENGTA Block-out curtain](https://www.ikea.com/us/en/p/bengta-block-out-curtain-1-piece-beige-with-heading-tape-20602137/) *(room list)* | 2 | $14.99 | $29.98 |
+| [HUGAD Curtain rod combination](https://www.ikea.com/us/en/p/hugad-curtain-rod-combination-with-wall-ceiling-brackets-with-finials-white-s49634091/) *(room list)* | 1 | $25.00 | $25.00 |
+| [PURRPINGLA Laundry bag with stand](https://www.ikea.com/us/en/p/purrpingla-laundry-bag-with-stand-beige-40609406/) *(room list)* | 1 | $29.99 | $29.99 |
+
+**Total: $1,909.79**
+
+<details><summary>Why it's laid out this way</summary>
+
+Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the AMADA washable 8x10 (amazon-B0H41NQC8S, $72.99, 4.9 stars from 35; machine washable, non-slip backing, low-profile pile, 13 lb), rot 90, x 40-160, y 22-118: under the king's lower 70" (80% of its length), 8" out on each side of the frame, 50" past the foot with the bench on it, 19" off the heater's face (F-33: 12" for textiles), its bathroom-side edge at y 118 in the walk to the bathroom (walked on). Color: cream and warm taupe with ochre flecks, lighter than the honey oak, so the dark walnut RÅDMANSÖ and its nightstands sit on a pale field, and the oatmeal ÄNGSLILJA bedding and the sage throw carry it; the ochre picks up the floor without matching it. The LIVELYGLOW ivory-gray (dining l) is the cooler alternative if the room should read grayer. Everything else as in a.
+Total $1,909.79: placed $1,196.91 + extras $712.88; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
+
 
 </details>
 
@@ -1950,6 +2055,45 @@ Extras: VIMSIG mattress and BARNDRÖM fitted sheet in the frame, SMÅSPORRE inse
 Total $1,204.30: placed $832.88 + extras $371.42; prices as of 2026-10-22 (price-stale, F-02) except the BESTÅ pieces, read 2026-10-23. Flags across the layout: assumed-position:door, assumed-position:closet, assumed-position:window, heater-depth-assumed, walkway-narrow:25.7 (the way into the bed's side), delivery-path-unmeasured (the VIMSIG mattress ships flat, F-22).
 Audit 2026-10-24 (from the rug-free E): two safety lines. The desk ends 12" from the window wall beside the window and her chair is a step onto it, so fit window stops or guards before move-in (not in the catalog; the sill is unmeasured, F-38). Standing on the desk she can open the BESTÅ cabinet hung above it, so give it a child lock or keep only washable, non-toxic supplies in it.
 Final audit 2026-10-26: the way into the bed's open side measured 18.2" between the desk's front-left corner and the TROFAST's top corner, narrower than the 24" it led into (the notes' 41" ran past that corner), so the TROFAST moved 8.5" toward the foot, its end on the landings' edge: the way in is 25.7" and the side 32.5"; the art hangs 4" higher, above the footboard, to clear a door up to 35.5"; a RÖDFLIK at the desk's left end is her task light, with the window on her right; the VIMSIG's delivery flag is listed. The MINNEN's page gives 50 to 77 1/2" (the catalog, read 2026-10-22): re-read it before buying.
+
+</details>
+
+### G · With a washable rug: the SAFAVIEH Kids Playhouse road rug, pale blue and gray, on the play floor
+
+Open: https://yizyace.github.io/vesta-roomscape-v1/#/maddie-room/g · printable: https://yizyace.github.io/vesta-roomscape-v1/#/maddie-room/g/view
+
+| Item | Qty | Each | Subtotal |
+|---|---|---|---|
+| [SAFAVIEH Kids Playhouse 200 Washable Area Rug 4x6](https://www.amazon.com/dp/B096466NHT) | 1 | $64.71 | $64.71 |
+| [KURA Reversible bed](https://www.ikea.com/us/en/p/kura-reversible-bed-white-pine-80253814/) | 1 | $299.99 | $299.99 |
+| [GODISHUS 3-drawer dresser](https://www.ikea.com/us/en/p/godishus-3-drawer-dresser-white-40598097/) | 1 | $99.99 | $99.99 |
+| [FLISAT Children's desk](https://www.ikea.com/us/en/p/flisat-childrens-desk-height-adjustable-green-30609181/) | 1 | $99.99 | $99.99 |
+| [SUNDVIK Children's chair](https://www.ikea.com/us/en/p/sundvik-childrens-chair-white-60196358/) | 1 | $24.99 | $24.99 |
+| [BESTÅ Shelf unit with doors](https://www.ikea.com/us/en/p/besta-shelf-unit-with-doors-white-lappviken-white-s79047429/) | 1 | $125.00 | $125.00 |
+| [TROFAST Storage combination with boxes](https://www.ikea.com/us/en/p/trofast-storage-combination-with-boxes-light-white-stained-pine-white-s39574865/) | 1 | $149.99 | $149.99 |
+| [LÖVA Bed canopy](https://www.ikea.com/us/en/p/loeva-bed-canopy-leaf-green-20542129/) | 1 | $14.99 | $14.99 |
+| [UPPLYST LED wall lamp](https://www.ikea.com/us/en/p/upplyst-led-wall-lamp-cloud-white-40440832/) | 1 | $19.99 | $19.99 |
+| [TÖVÄDER LED night light](https://www.ikea.com/us/en/p/toevaeder-led-night-light-cat-battery-operated-60516915/) | 1 | $19.99 | $19.99 |
+| [FEJKA Artificial potted plant](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-monstera-60615232/) | 1 | $12.99 | $12.99 |
+| [BLODFLÄDER Picture](https://www.ikea.com/us/en/p/blodflaeder-picture-two-birds-00601921/) | 1 | $39.99 | $39.99 |
+| [RÖDFLIK Desk lamp](https://www.ikea.com/us/en/p/roedflik-desk-lamp-light-beige-40584057/) | 1 | $44.99 | $44.99 |
+| [Zinus 5 Inch Twin Green Tea Memory Foam Mattress](https://www.amazon.com/dp/B0CP1LR1PW) *(room list)* | 1 | $83.80 | $83.80 |
+| [DVALA Fitted sheet](https://www.ikea.com/us/en/p/dvala-fitted-sheet-white-10357240/) *(room list)* | 1 | $9.99 | $9.99 |
+| [SMÅSPORRE Duvet insert](https://www.ikea.com/us/en/p/smasporre-duvet-insert-light-warm-00457023/) *(room list)* | 1 | $39.99 | $39.99 |
+| [BARNDRÖM Duvet cover and pillowcase](https://www.ikea.com/us/en/p/barndroem-duvet-cover-and-pillowcase-multicolor-flower-pattern-10622697/) *(room list)* | 1 | $24.99 | $24.99 |
+| [VILDKORN Pillow](https://www.ikea.com/us/en/p/vildkorn-pillow-stomach-sleeper-60460602/) *(room list)* | 1 | $9.99 | $9.99 |
+| [SKOGSDUVA Cushion](https://www.ikea.com/us/en/p/skogsduva-cushion-flower-shaped-white-00576790/) *(room list)* | 2 | $14.99 | $29.98 |
+| [BENGTA Block-out curtain](https://www.ikea.com/us/en/p/bengta-block-out-curtain-1-piece-beige-with-heading-tape-20602137/) *(room list)* | 1 | $14.99 | $14.99 |
+| [HUGAD Curtain rod combination](https://www.ikea.com/us/en/p/hugad-curtain-rod-combination-with-wall-ceiling-brackets-with-finials-white-s19634078/) *(room list)* | 1 | $18.50 | $18.50 |
+| [BESTÅ Suspension rail](https://www.ikea.com/us/en/p/besta-suspension-rail-silver-color-70488318/) *(room list)* | 2 | $10.00 | $20.00 |
+
+**Total: $1,269.83**
+
+<details><summary>Why it's laid out this way</summary>
+
+Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the SAFAVIEH Kids Playhouse 200 washable 4'4" x 6' (amazon-B096466NHT, $64.71, 4.5 stars from 160; polyamide, 4.5 lb), rot 0, x 48-100, y 40-112: the play floor between the TROFAST's boxes (its front 10.75" on the rug, which the boxes slide over), the desk chair's zone (clear above y 55.6) and the door's and closet's landings (its lower 26" lies in them, walked on, clear of the door's swing at the bottom-left corner), 12" off the heater's face (F-33). Color: pale blue and gray with a road and a hopscotch, white and green trees: with the white KURA, the green FLISAT desk, the white GODISHUS and the multicolor BARNDRÖM bedding it adds the one cool color the room lacks, and the hopscotch is a game. Washable per its listing; IKEA's own VALLABY road rug (ikea-10548216, e) is the non-washable version of the idea. Everything else as in a.
+Total $1,269.83: placed $1,017.60 + extras $252.23; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
+
 
 </details>
 

@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0GR4X82S8",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GR4X82S8",
+  "name": "Yarooge 9x12 Area Rugs, Machine Washable Low Pile Floral Rugs for Living Room, Bedroom, Large Boho Area Rug with Non-Slip Backing",
+  "brand": "Yarooge",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 129.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 108,
+    "d": 144,
+    "raw": "Size 9' x 12' (Rectangular); Material Polypropylene; Weave Type Machine Made; Item Weight 15.11 pounds",
+    "source": "the listing's rows, read in Chrome 2026-10-26 (the size as sold; a rug: the short side is w only by convention here, placed by rotation)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GR4X82S8-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91cPzBDWw8L._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew, 2026-10-26: \"Relatives are trying to tell my wife that rugs are necessary ... Let's show her ruggables / washable rugs. Start with ikea first, but also alternatives that are low pile / machine washable / easily vacuumable without getting stuck\"; \"rugs that fit CORRECTLY for the dining room, living room, master bedroom and kids room\"; \"Make sure COLOR is appropriate for the floor and furniture\". A 9x12 for the living room's sofa group. Machine washable, low pile, non-slip backing per its title; 15 lb. 4.6 stars (262). Color judged from its photo (below).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

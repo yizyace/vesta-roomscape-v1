@@ -1,0 +1,41 @@
+{
+  "id": "amazon-B096466NHT",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B096466NHT",
+  "name": "SAFAVIEH Kids Playhouse 200 Washable Area Rug 4x6, Gray & Blue KPH226F",
+  "brand": "SAFAVIEH",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "kids",
+    "bedroom"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 64.71,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 52,
+    "d": 72,
+    "raw": "Size 4'4\" x 6' (Rectangular); Material 100% Polyamide; Weave Type Machine Made; Item Weight 4.5 pounds",
+    "source": "the listing's rows, read in Chrome 2026-10-26 (the size as sold; a rug: the short side is w only by convention here, placed by rotation)"
+  },
+  "images": [
+    {
+      "file": "amazon-B096466NHT-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/9149yRFOiZL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew, 2026-10-26: \"Relatives are trying to tell my wife that rugs are necessary ... Let's show her ruggables / washable rugs. Start with ikea first, but also alternatives that are low pile / machine washable / easily vacuumable without getting stuck\"; \"rugs that fit CORRECTLY for the dining room, living room, master bedroom and kids room\"; \"Make sure COLOR is appropriate for the floor and furniture\". A 4'4\" x 6' for Maddie's play floor (x 48-100, y 40-112, 12\" off the heater's face, F-33). Washable per its title; polyamide; 4.5 lb. 4.5 stars (160). Color judged from its photo (below).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ikea-10623220",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lokaltag-rug-low-pile-beige-gray-10623220/",
+  "name": "LOKALTÅG Rug, low pile, beige/gray, 5 ' 3 \"x7 ' 7 \"",
+  "brand": "LOKALTÅG",
+  "category": "rug",
+  "tags": [
+    "washable"
+  ],
+  "rooms": [],
+  "status": "candidate",
+  "price": {
+    "amount": 79.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 63,
+    "d": 91,
+    "raw": "Area 39.61 sq feet; Length 7 ' 7 \"; Surface density 3.01 oz/sq ft; Width 5 ' 3 \"",
+    "source": "the listing's rows, read in Chrome 2026-10-26 (the size as sold; a rug: the short side is w only by convention here, placed by rotation)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-10-26: \"Relatives are trying to tell my wife that rugs are necessary ... Let's show her ruggables / washable rugs. Start with ikea first, but also alternatives that are low pile / machine washable / easily vacuumable without getting stuck\"; \"rugs that fit CORRECTLY for the dining room, living room, master bedroom and kids room\"; \"Make sure COLOR is appropriate for the floor and furniture\". IKEA's machine-washable rug (Materials and care: 100% recycled polyester surface, a synthetic rubber middle, polyester back; \"Machine wash warm, normal cycle\", tumble dry low, \"provided it fits in your washing machine\"): the largest washable size IKEA sells is this 5'3\" x 7'7\", plus a 2'7\" x 8'2\" runner, so no IKEA washable rug fits the living room (9x12), the dining room or the master bedroom (8x10); for Maddie's play floor it is 11\" too wide. Out of stock at IKEA Long Island, NY (2026-10-26). New; 4.6 stars (74).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

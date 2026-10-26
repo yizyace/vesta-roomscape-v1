@@ -1,0 +1,36 @@
+{
+  "id": "other-ruggable-cyrus-8x10",
+  "vendor": "other",
+  "url": "https://www.ruggable.com/products/cyrus-beige-ivory-tufted-rug",
+  "name": "Ruggable Cyrus Beige Ivory Tufted All-in-One Rug, 8x10",
+  "brand": "Ruggable",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "living-room",
+    "bedroom"
+  ],
+  "rooms": [
+    "living-room",
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 499,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 96,
+    "d": 120,
+    "raw": "8x10 (the size shown with the $499.00 price); Pile Height: 7 mm (medium); Material: 100% polyester",
+    "source": "the listing's rows, read in Chrome 2026-10-26 (the size as sold; a rug: the short side is w only by convention here, placed by rotation)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-10-26: \"Relatives are trying to tell my wife that rugs are necessary ... Let's show her ruggables / washable rugs. Start with ikea first, but also alternatives that are low pile / machine washable / easily vacuumable without getting stuck\"; \"rugs that fit CORRECTLY for the dining room, living room, master bedroom and kids room\"; \"Make sure COLOR is appropriate for the floor and furniture\". Ruggable's best seller, read on ruggable.com (no photo: the host is off the image allowlist; a screenshot was looked at): a one-piece tufted washable rug with a built-in non-slip backing and a waterproof barrier, \"home machine washable up to 8'x10'\", 7 mm medium pile; Ruggable's original 2-piece Flatwoven system is 2 mm (~1/16\") low pile on a separate pad. Its page: \"Robot vacuums are not recommended, as they may damage rug edges or corners\", which fails Andrew's vacuum test. Beige and ivory bordered Persian pattern; 9 colors. Made to order, free shipping in 1 to 2 weeks. $499.00 for the 8x10; 4 to 5 times the printed washable rugs on Amazon.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

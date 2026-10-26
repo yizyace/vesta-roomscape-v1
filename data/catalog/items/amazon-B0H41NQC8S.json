@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0H41NQC8S",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0H41NQC8S",
+  "name": "AMADA 8x10 Washable Area Rug for Living Room, Beige, Vintage & Abstract",
+  "brand": "AMADA",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "bedroom",
+    "dining"
+  ],
+  "rooms": [
+    "master-bedroom",
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 72.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 96,
+    "d": 120,
+    "raw": "Size 8' x 10' (Rectangular); Material Polyester; Weave Type Machine Made; Item Weight 13.1 pounds",
+    "source": "the listing's rows, read in Chrome 2026-10-26 (the size as sold; a rug: the short side is w only by convention here, placed by rotation)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0H41NQC8S-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81edh12MxrL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew, 2026-10-26: \"Relatives are trying to tell my wife that rugs are necessary ... Let's show her ruggables / washable rugs. Start with ikea first, but also alternatives that are low pile / machine washable / easily vacuumable without getting stuck\"; \"rugs that fit CORRECTLY for the dining room, living room, master bedroom and kids room\"; \"Make sure COLOR is appropriate for the floor and furniture\". An 8x10 for the master bedroom (under the king, x 40-160, y 22-118) or the dining room (across, x 8-128, y 23-119). Its title: machine washable, non-slip backing, low-profile pile, edge binding; 13 lb. 4.9 stars (35, few). Color judged from its photo (below).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "room": "dining-room",
+  "variant": "l",
+  "name": "With a washable rug: the LIVELYGLOW 8x10 distressed, ivory and gray, across the room under the LISABO and its chairs",
+  "updatedAt": "2026-10-26T22:23:14.619Z",
+  "notes": "Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the LIVELYGLOW washable 8x10 (amazon-B0G5K3KZKY, $51.29, 4.8 stars from 213; ultra-thin low pile on a TPE non-slip backing, machine washable, doors glide over it), rot 90, x 8-128, y 23-119: the table (x 30-108.75, y 62.25-93) sits 22\" from its kitchen end and 19\" from its right end, and both chair rows stay on it pushed back (the living-room chairs to y 31, the wall chairs to y 114), the dining rule of 24\" beyond the table on the chair sides; its top edge lies 7\" into the living-room walkway and its kitchen end 22\" into the kitchen walkway, which is what a dining rug must do here (a rug is walked on; F-42 keeps floor pieces off). Color: ivory with a soft gray distressed wash, cool against the honey oak, so the pale ash LISABO reads on it instead of blending into the floor, the gray Tallmyra seats match it and the blues of the BLODFLÄDER sit above it; dirt-hiding. The gray AMADA 8x10 (not opened, $115.99) is the pricier version of the same idea; the beige AMADA (amazon-B0H41NQC8S) would blend with the floor and the table here. Everything else as in a.\nTotal $1,495.17: placed $1,436.23 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\n",
+  "placements": [
+    {
+      "id": "rug-1",
+      "itemId": "amazon-B0G5K3KZKY",
+      "x": 8,
+      "y": 23,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "LIVELYGLOW 8x10 washable distressed rug, ivory and gray, across the room under the LISABO and all four chairs pushed back; its top edge 7in into the living-room walkway and its kitchen end 22in into the kitchen walkway, both fine for a thin rug"
+    },
+    {
+      "id": "table-1",
+      "itemId": "ikea-10563773",
+      "x": 30,
+      "y": 62.25,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO 78 3/4 x 30 3/4in ash turned across the room, parallel to the living room: its kitchen end on that walkway's edge, 19 1/4in of dead floor at the right wall, 32.25in from its living-room side to that walkway's edge, 26in from its other side to the bottom wall under the buffet (tight:26)"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-90561044",
+      "x": 40.9375,
+      "y": 41.125,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the living-room side, its back to the walkway 11in behind it; pushing back enters the walkway by about 9in"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-90561044",
+      "x": 79.9375,
+      "y": 41.125,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the living-room side, its back to the walkway 11in behind it; pushing back enters the walkway by about 9in"
+    },
+    {
+      "id": "chair-3",
+      "itemId": "ikea-90561044",
+      "x": 40.9375,
+      "y": 94,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table, its back under the floating buffet when pushed back; nobody passes behind"
+    },
+    {
+      "id": "chair-4",
+      "itemId": "ikea-90561044",
+      "x": 79.9375,
+      "y": 94,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table, its back under the floating buffet when pushed back; nobody passes behind"
+    },
+    {
+      "id": "pendant-1",
+      "itemId": "ikea-90603869",
+      "x": 60.5,
+      "y": 68.75,
+      "rotation": 0,
+      "layer": "top",
+      "note": "GULLSUDARE on the HAVSRIS swag cord, hooked over the table's center (69.4, 77.6)"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-99623151",
+      "x": 36.6875,
+      "y": 110.375,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, centered on the table on the bottom wall and floated as a buffet with its underside about 33\" up (top about 48\"), above the chairs' 31 1/8\" backs; push-open doors, on its suspension rails into studs (F-63)"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-20601915",
+      "x": 48.5,
+      "y": 117.75,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BLODFLÄDER centered above the buffet, about 54 to 85 1/2\" up: the focal point from the living room"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-20610854",
+      "x": 39.09375,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's left end, centered between the canvas and the buffet's end (2.4\" to each), center about 60\" up, plug-in, cord in a cover"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 98.15625,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's right end; as lamp-1"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 117,
+      "y": 108,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise in the bottom-right corner, the far corner from both openings, so it walls off nothing"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80490052",
+      "qty": 1,
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the shade's bottom about 30in above the top; the cord along the ceiling to the right or bottom wall and down in a cover, never across an open side; the ceiling box is unknown"
+    },
+    {
+      "itemId": "ikea-40533063",
+      "qty": 1,
+      "note": "SVARTSENAP runner, natural cotton, machine washable"
+    },
+    {
+      "itemId": "ikea-70527961",
+      "qty": 4,
+      "note": "SVARTSENAP placemats, one per chair, machine washable (online minimum 4)"
+    },
+    {
+      "itemId": "ikea-60214343",
+      "qty": 1,
+      "note": "BLANDA MATT 11in bamboo bowl, the centerpiece, unbreakable"
+    }
+  ]
+}

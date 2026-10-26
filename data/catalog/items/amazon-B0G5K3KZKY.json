@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0G5K3KZKY",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0G5K3KZKY",
+  "name": "LIVELYGLOW 8x10 Washable Distressed Area Rug, Neutral Living Room Carpet",
+  "brand": "LIVELYGLOW",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "bedroom",
+    "dining"
+  ],
+  "rooms": [
+    "master-bedroom",
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 51.29,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 96,
+    "d": 120,
+    "raw": "Size 8' x 10' (Rectangular); Material Polyester; Weave Type Knitted; Item Weight 12.96 pounds",
+    "source": "the listing's rows, read in Chrome 2026-10-26 (the size as sold; a rug: the short side is w only by convention here, placed by rotation)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0G5K3KZKY-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91RqA2P5rlL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew, 2026-10-26: \"Relatives are trying to tell my wife that rugs are necessary ... Let's show her ruggables / washable rugs. Start with ikea first, but also alternatives that are low pile / machine washable / easily vacuumable without getting stuck\"; \"rugs that fit CORRECTLY for the dining room, living room, master bedroom and kids room\"; \"Make sure COLOR is appropriate for the floor and furniture\". An 8x10 for the master bedroom or the dining room. Its bullets: machine washable, water-repellent surface, ultra-thin low pile on a TPE non-slip backing (\"doors glide over\"), dirt-hiding tones; 13 lb. 4.8 stars (213). Color judged from its photo (below).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

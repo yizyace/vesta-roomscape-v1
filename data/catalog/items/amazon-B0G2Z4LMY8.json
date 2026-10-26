@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0G2Z4LMY8",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0G2Z4LMY8",
+  "name": "Homemate Washable Rug 9x12 Area Rugs - Vintage Rugs for Living Room",
+  "brand": "Homemate",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 105.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 108,
+    "d": 144,
+    "raw": "Size 9x12 ft; Material Fabric; Weave Type Machine Made; Item Weight 26.2 pounds",
+    "source": "the listing's rows, read in Chrome 2026-10-26 (the size as sold; a rug: the short side is w only by convention here, placed by rotation)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0G2Z4LMY8-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81iMFP89b2L._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew, 2026-10-26: \"Relatives are trying to tell my wife that rugs are necessary ... Let's show her ruggables / washable rugs. Start with ikea first, but also alternatives that are low pile / machine washable / easily vacuumable without getting stuck\"; \"rugs that fit CORRECTLY for the dining room, living room, master bedroom and kids room\"; \"Make sure COLOR is appropriate for the floor and furniture\". A 9x12 for the living room's sofa group (x 33-177, y 35-143 needs 144 x 108). Washable per its title; 26 lb, heavier than the thin printed rugs. 4.4 stars (453). Color judged from its photo (below).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

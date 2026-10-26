@@ -1,0 +1,165 @@
+{
+  "room": "master-bedroom",
+  "variant": "j",
+  "name": "With a washable rug: the AMADA 8x10 vintage, cream and taupe with ochre, under the king and the bench",
+  "updatedAt": "2026-10-26T22:23:14.847Z",
+  "notes": "Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the AMADA washable 8x10 (amazon-B0H41NQC8S, $72.99, 4.9 stars from 35; machine washable, non-slip backing, low-profile pile, 13 lb), rot 90, x 40-160, y 22-118: under the king's lower 70\" (80% of its length), 8\" out on each side of the frame, 50\" past the foot with the bench on it, 19\" off the heater's face (F-33: 12\" for textiles), its bathroom-side edge at y 118 in the walk to the bathroom (walked on). Color: cream and warm taupe with ochre flecks, lighter than the honey oak, so the dark walnut RÅDMANSÖ and its nightstands sit on a pale field, and the oatmeal ÄNGSLILJA bedding and the sage throw carry it; the ochre picks up the floor without matching it. The LIVELYGLOW ivory-gray (dining l) is the cooler alternative if the room should read grayer. Everything else as in a.\nTotal $1,909.79: placed $1,196.91 + extras $712.88; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\n",
+  "placements": [
+    {
+      "id": "rug-1",
+      "itemId": "amazon-B0H41NQC8S",
+      "x": 40,
+      "y": 22,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "AMADA 8x10 washable vintage rug, cream and taupe with ochre flecks, under the king's lower 70in and 8in out on each side, 50in past the foot under the bench, 19in off the heater's face"
+    },
+    {
+      "id": "bed-1",
+      "itemId": "ikea-69598638",
+      "x": 89.625,
+      "y": 30.25,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "RÅDMANSÖ king with the LURÖY base (Andrew's cart), headboard on the right wall, slid 6 3/8in toward the bathroom so a RÅDMANSÖ nightstand fits on each side (Andrew, 2026-10-26); its bathroom side is the 23 5/8in walk to the bathroom"
+    },
+    {
+      "id": "nightstand-1",
+      "itemId": "ikea-80593597",
+      "x": 161.875,
+      "y": 9,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "RÅDMANSÖ nightstand on the window side of the head, Andrew's: 6in off the heater's face (F-33), against the frame"
+    },
+    {
+      "id": "nightstand-2",
+      "itemId": "ikea-80593597",
+      "x": 161.875,
+      "y": 109.375,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "RÅDMANSÖ nightstand on the bathroom side of the head, Eutine's: against the frame, 2 3/8in from the bottom wall; at the sketch's door position 7in of it stands in the doorway's hinge corner (the door opens into the bathroom, Andrew 2026-10-26); clear if the door starts 16in or more from the corner"
+    },
+    {
+      "id": "night-light-1",
+      "itemId": "ikea-60516915",
+      "x": 168,
+      "y": 112,
+      "rotation": 90,
+      "layer": "top",
+      "note": "TÖVÄDER battery night light on the bathroom-side nightstand: the glow for the night walk to the bathroom, on its 8-hour timer; no cord"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-20610854",
+      "x": 172,
+      "y": 16.875,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS bamboo wall lamp on the head wall above the window-side nightstand, about 24in above the mattress; its cord in a cover along the head wall to an outlet, away from the heater"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 172,
+      "y": 115.75,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS bamboo wall lamp on the head wall above the bathroom-side nightstand, mirroring lamp-1 about the bed's center line; its cord in a cover along the head wall to an outlet"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-30623460",
+      "x": 176,
+      "y": 42.3125,
+      "rotation": 90,
+      "layer": "top",
+      "note": "PJÄTTERYD endless tide centered over the bed (flat, on the right wall): 55in over the 79 1/8in frame, 12in from each lamp; its bottom edge about 50in off the floor, 9 1/2in above the RÅDMANSÖ's 40 1/2in headboard, on two closed security hangers into anchors, since Maddie climbs on the bed"
+    },
+    {
+      "id": "bench-1",
+      "itemId": "ikea-60485339",
+      "x": 76.625,
+      "y": 50.125,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "PERJOHAN pine bench across the foot of the bed, 2in off it so the duvet hangs free; pine reads orange on the honey-oak floor (the video), so it can wait or go"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-00615225",
+      "x": 1.5,
+      "y": 15,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA areca palm on the floor in the window-side corner where the reading chair stood, 12in off the heater's face"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-39429699",
+      "x": 0,
+      "y": 71.375,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "BESTÅ 76in door column on the left wall between the corner and the door's swing: linens and towels; anchor it (F-21). Drawn, not ordered: Andrew will see the storage units in person on Saturday (2026-10-26)"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "amazon-B0CKZ1CK1H",
+      "qty": 1,
+      "note": "Zinus Green Tea 12in king (Amazon, Andrew's pick 2026-10-26) in place of the VALEVÅG: compressed in a box, 24 to 72 hours to expand, so have it arrive before move-in day; 76 x 80in on a frame cut for 79 1/2in, which the foam gives up"
+    },
+    {
+      "itemId": "ikea-90577530",
+      "qty": 1,
+      "note": "DVALA King sheet set, white: fitted, flat and 2 king pillowcases (20x36)"
+    },
+    {
+      "itemId": "ikea-40457021",
+      "qty": 1,
+      "note": "SMÅSPORRE King duvet insert, light warm; washes at 60°C, which the page says eliminates dust mites"
+    },
+    {
+      "itemId": "ikea-10591988",
+      "qty": 1,
+      "note": "ÄNGSLILJA King duvet cover set, natural (oatmeal)"
+    },
+    {
+      "itemId": "ikea-80460583",
+      "qty": 2,
+      "note": "VILDKORN Queen sleeping pillows, one each; the DVALA King's cases are 20x36, king pillows (none in the catalog)"
+    },
+    {
+      "itemId": "ikea-60262188",
+      "qty": 2,
+      "note": "FJÄDRAR 20x20 inner cushions for the two accent cushions"
+    },
+    {
+      "itemId": "ikea-50570955",
+      "qty": 2,
+      "note": "VALLKRASSING 20x20 cushion covers, gray-green (sage accent)"
+    },
+    {
+      "itemId": "ikea-00570934",
+      "qty": 1,
+      "note": "VALLKRASSING throw, gray-green, across the foot of the bed"
+    },
+    {
+      "itemId": "ikea-20602137",
+      "qty": 2,
+      "note": "BENGTA block-out panels (sold singly), one each side of the 67in window; cut the drop to end above the heater (F-33)"
+    },
+    {
+      "itemId": "ikea-49634091",
+      "qty": 1,
+      "note": "HUGAD rod set to about 107in, centered on the window (assumed-position:window)"
+    },
+    {
+      "itemId": "ikea-40609406",
+      "qty": 1,
+      "note": "PURRPINGLA laundry bag in the walk-in closet, with the clothes (its catalog fit: a bathroom or closet floor), so the bed wall shows the nightstands and the art, not the laundry"
+    }
+  ]
+}
