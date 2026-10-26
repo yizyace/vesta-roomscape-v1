@@ -25,7 +25,18 @@
     "raw": "Height 16 7/8 \"; Length 51 1/8 \"; Max. load 44 lb; Width 25 5/8 \"",
     "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Length -> w, the side along the sofa; Width -> d; Height -> h)"
   },
-  "images": [],
+  "images": [
+    {
+      "file": "ikea-60627980-3.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ugglerum-coffee-table-walnut-veneer__1489735_pe1003955_s5.jpg",
+      "caption": "main"
+    },
+    {
+      "file": "ikea-60627980-4.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ugglerum-coffee-table-walnut-veneer__1517521_pe1012366_s5.jpg",
+      "caption": "second"
+    }
+  ],
   "notes": "In Andrew's IKEA cart (2026-10-26, evening: \"added ugglerum\"): shortlisted on that. Flags: none (no glass, F-21; its corners sit at a 4-year-old's head height, so corner guards on the play-side end). Andrew wants a rectangular coffee table (2026-10-26: \"FOr the coffee table I want a rectangular one\"): staged in living-room a, e, g and h in place of the oval VALNÄS ikea-20628038. Fit: in front of the MORABO sofa with chaise's seat section (65 3/8\" between the chaise and the sofa's end), x 80.75-131.875: 14\" from the chaise (F-39), its far end flush with the sofa's end, 16\" from the seats; 51 1/8\" is 78% of the seat section, and 16 7/8\" tall it sits 1 5/8\" under the 18 1/2\" seat. Mid-century look: walnut veneer top on particleboard, solid rubberwood tapered legs; max. load 44 lb; wipe clean. New, 3.8 stars (15). Out of stock at IKEA Long Island, NY and unavailable for click and collect; home delivery available (2026-10-26). One package 52 ¼ x 29 x 3\", 34 lb 8 oz. The budget rectangle is the LACK 46 1/2 x 30 3/4\" ikea-40431535 ($49.99, 4.4 stars); LISTERBY (55 1/8\") and STOCKHOLM (70 7/8\") run past the seat section, TONSTAD (33 1/8 x 32 1/4\") and TRANERED (35 3/8\" square) are squares, HOLMERUD 35 3/8\" is small (search pages, not opened).",
   "captured": {
     "date": "2026-10-26",
