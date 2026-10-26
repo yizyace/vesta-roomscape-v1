@@ -580,6 +580,43 @@ Kept for comparison when Andrew wrote (2026-10-26, night): "hmm we had the sofa 
 
 </details>
 
+### L · With the Lisa Taupe/Multi 9x12 instead of the Olivia: the same centered room on a warmer, patterned Persian with a fringe (Andrew's question, 2026-10-26, night)
+
+Open: https://yizyace.github.io/vesta-roomscape-v1/#/living-room/l · printable: https://yizyace.github.io/vesta-roomscape-v1/#/living-room/l/view
+
+| Item | Qty | Each | Subtotal |
+|---|---|---|---|
+| [Tumble Lisa Washable Area Rug | 9x12 Living Room Bedroom Area Rug](https://www.amazon.com/dp/B0HCMZGWDH) | 1 | $549.00 | $549.00 |
+| [MORABO Sofa](https://www.ikea.com/us/en/p/morabo-sofa-with-chaise-gunnared-dark-gray-wood-s49318323/) | 1 | $1,199.00 | $1,199.00 |
+| [UGGLERUM Coffee table](https://www.ikea.com/us/en/p/ugglerum-coffee-table-walnut-veneer-60627980/) | 1 | $199.99 | $199.99 |
+| [POÄNG Armchair](https://www.ikea.com/us/en/p/poaeng-armchair-birch-veneer-knisa-light-beige-s59305928/) | 2 | $149.00 | $298.00 |
+| [POÄNG Ottoman](https://www.ikea.com/us/en/p/poaeng-ottoman-birch-veneer-knisa-light-beige-s19305954/) | 2 | $80.00 | $160.00 |
+| [VARPTROSS Wall lamp](https://www.ikea.com/us/en/p/varptross-wall-lamp-bamboo-20610854/) | 3 | $29.99 | $89.97 |
+| [FEJKA Artificial potted plant](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-bird-of-paradise-70610601/) | 1 | $89.99 | $89.99 |
+| [IKEA PS LÖMSK Children's swivel armchair](https://www.ikea.com/us/en/p/ikea-ps-loemsk-childrens-swivel-armchair-white-beige-red-30609237/) | 1 | $129.99 | $129.99 |
+| [UPPLYST LED wall lamp](https://www.ikea.com/us/en/p/upplyst-led-wall-lamp-cloud-white-40440832/) | 1 | $19.99 | $19.99 |
+| [TROFAST Storage combination with boxes](https://www.ikea.com/us/en/p/trofast-storage-combination-with-boxes-light-white-stained-pine-white-s39574865/) | 1 | $149.99 | $149.99 |
+| [BESTÅ Shelf unit with doors](https://www.ikea.com/us/en/p/besta-shelf-unit-with-doors-white-lappviken-white-s79047429/) | 1 | $125.00 | $125.00 |
+| [FLISAT Book display](https://www.ikea.com/us/en/p/flisat-book-display-80614566/) | 1 | $29.99 | $29.99 |
+| [PJÄTTERYD Picture](https://www.ikea.com/us/en/p/pjaetteryd-picture-waterlilies-1916-19-00578906/) | 1 | $29.99 | $29.99 |
+| [RÖDALM Frame with poster](https://www.ikea.com/us/en/p/roedalm-frame-with-poster-leaf-cat-70624014/) | 1 | $34.99 | $34.99 |
+| [LÄTT Children's table and 2 chairs](https://www.ikea.com/us/en/p/laett-childrens-table-and-2-chairs-white-pine-50178411/) | 1 | $49.99 | $49.99 |
+| [GINSTMOTT Curtains](https://www.ikea.com/us/en/p/ginstmott-curtains-1-pair-beige-with-heading-tape-80597171/) *(room list)* | 2 | $34.99 | $69.98 |
+| [HUGAD Curtain rod combination](https://www.ikea.com/us/en/p/hugad-curtain-rod-combination-with-wall-ceiling-brackets-with-finials-white-s49634091/) *(room list)* | 1 | $25.00 | $25.00 |
+| [SVARTPOPPEL Cushion cover](https://www.ikea.com/us/en/p/svartpoppel-cushion-cover-off-white-60543004/) *(room list)* | 2 | $9.99 | $19.98 |
+| [VALLKRASSING Cushion cover](https://www.ikea.com/us/en/p/vallkrassing-cushion-cover-gray-green-50570955/) *(room list)* | 2 | $9.99 | $19.98 |
+| [FJÄDRAR Inner cushion](https://www.ikea.com/us/en/p/fjaedrar-inner-cushion-off-white-60262188/) *(room list)* | 4 | $12.00 | $48.00 |
+| [VALLKRASSING Throw](https://www.ikea.com/us/en/p/vallkrassing-throw-off-white-20570928/) *(room list)* | 1 | $19.99 | $19.99 |
+| [IKEA PS LÖMSK Slipcover f children's swiv armchr](https://www.ikea.com/us/en/p/ikea-ps-loemsk-slipcover-f-childrens-swiv-armchr-blue-shark-50636211/) *(room list)* | 1 | $30.00 | $30.00 |
+
+**Total: $3,388.81**
+
+<details><summary>Why it's laid out this way</summary>
+
+Andrew, 2026-10-26 (night): "would this work colorwise for livingroom or no?" The answer, drawn: the staged room with Tumble's Lisa Taupe/Multi 9x12 (amazon-B0HCMZGWDH, $549) in the Olivia's place. Colorwise it works (F-68): a pale warm field of cream, sand and taupe with a little clay and gold, its warm gray border echoing the dark gray MORABO, the walnut UGGLERUM and the birch POÄNG both at home on it; warmer and more patterned than the Olivia, so it hides crumbs and reads traditional where the Olivia reads modern and lifts the sofa more. With it the dining room takes the Canyon Oatmeal/Grey (dining N) rather than the cool Grey/Ivory, so the two rooms in one sightline stay one family. Caveat: the fringe, an edge for a robot vacuum and a four-year-old. Andrew, 2026-10-26 (night): "hmm we had the sofa facing window / centered, can we accommodate that again?" The sofa is back where the first staged rooms had it (10-23, 10-24), centered on the window and facing it: the 96 1/8in MORABO with chaise at x 112.9 to 209.1 under the 102in window (110 to 212), the chaise on the stairs side, the UGGLERUM flush with its right end (F-39), the two POÄNG sets on the stairs side (one beside the chaise facing the window, one at the window end facing the sofa and the play floor), the plant at the chaise foot, the Olivia 9x12 from x 80 to 224 under the whole group. The play floor is the right side beside the sofa (F-61): the LÄTT table 2in from the sofa end, the TROFAST and BESTÅ on the wall; the BESTÅ doors get 23in (F-32, tight:23.2). The stairs strip stays clear with 77in of floor beside it (F-40); nothing stands in the walkway along the open side (F-42). The stairs-end room is kept as K. Staged on Andrew's word (2026-10-26, night: "Pick correct color and size and add it to the app, show me locally. also push up deploy"): the Tumble set is in the staged room; the rugless room is kept as the Rugless variant. Andrew, 2026-10-26 (night): "I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing." Layout I with the two-piece system in place of the one-piece Homemate: Tumble's Olivia Ivory/Neutral 9x12 ($549, the 1/4" cushioned pad included), a 1/8" polyester rug that comes off its pad and goes in a household washer. Same footprint, x 33 to 177, y 35 to 143 (rot 90): every leg of the MORABO, the UGGLERUM and both POÄNG sets on it, 2" past the chaise end, 29" of walkway to the stairs band. Color (F-68): a pale cool-ivory field under the dark gray sofa and the walnut table; sibling of the dining room's gray Canyon in the same sightline. Ruggable's flatwoven Impasto Taupe 9x12 is $729 with its pad. The staged A stays rugless until Eutine chooses. Andrew, later that night: "tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something": the rug placed is the Amazon listing amazon-B0HCN6RMWS ($549, in stock, free delivery November 3, as read 2026-10-26), the same set at the same price; Ruggable's flatwoven is judged not clearly better (thinner cover, $180 more per 8x10, made to order, the same robot-vacuum caveat), so Tumble it is (F-69).
+
+</details>
+
 ## Dining room
 
 ### A · Staged: the LISABO 78 3/4 ash across the room with four LISABO chairs on Tumble's Canyon Grey/Ivory 8x10 (washable, pad included), the pendant over it, the buffet and art on the bottom wall  (staged)
@@ -952,6 +989,33 @@ The rest: the pendant over the table's center, the buffet drawn but not ordered,
 Total $1,443.88: placed $1,384.94 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
 Flags across the layout: tight:26 (the wall side, F-36). The round ROSENTORP layout (c) is gone: Andrew hates circle tables.
 
+
+</details>
+
+### N · With the Canyon Oatmeal/Grey 8x10 instead of the Grey/Ivory: the warm pairing for the living room's Lisa, one family across the open plan (F-68)
+
+Open: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/n · printable: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/n/view
+
+| Item | Qty | Each | Subtotal |
+|---|---|---|---|
+| [Tumble Canyon Washable Area Rug | 8x10 Living Room Bedroom Area Rug](https://www.amazon.com/dp/B0HCN8GC3W) | 1 | $399.00 | $399.00 |
+| [LISABO Table](https://www.ikea.com/us/en/p/lisabo-table-ash-veneer-10563773/) | 1 | $349.99 | $349.99 |
+| [LISABO Chair](https://www.ikea.com/us/en/p/lisabo-chair-ash-tallmyra-white-black-90561044/) | 4 | $90.00 | $360.00 |
+| [GULLSUDARE Pendant lamp shade](https://www.ikea.com/us/en/p/gullsudare-pendant-lamp-shade-white-handmade-90603869/) | 1 | $4.99 | $4.99 |
+| [BESTÅ Wall-mounted cabinet combination](https://www.ikea.com/us/en/p/besta-wall-mounted-cabinet-combination-white-bjoerkoeviken-ash-veneer-s99623151/) | 1 | $420.00 | $420.00 |
+| [BLODFLÄDER Picture](https://www.ikea.com/us/en/p/blodflaeder-picture-the-seine-at-giverny-20601915/) | 1 | $99.99 | $99.99 |
+| [VARPTROSS Wall lamp](https://www.ikea.com/us/en/p/varptross-wall-lamp-bamboo-20610854/) | 2 | $29.99 | $59.98 |
+| [FEJKA Artificial potted plant](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-bird-of-paradise-70610601/) | 1 | $89.99 | $89.99 |
+| [HAVSRIS Cord set with switch](https://www.ikea.com/us/en/p/havsris-cord-set-with-switch-white-80490052/) *(room list)* | 1 | $20.00 | $20.00 |
+| [SVARTSENAP Table runner](https://www.ikea.com/us/en/p/svartsenap-table-runner-natural-40533063/) *(room list)* | 1 | $5.99 | $5.99 |
+| [SVARTSENAP Placemat](https://www.ikea.com/us/en/p/svartsenap-placemat-natural-70527961/) *(room list)* | 4 | $1.99 | $7.96 |
+| [BLANDA MATT Serving bowl](https://www.ikea.com/us/en/p/blanda-matt-serving-bowl-bamboo-60214343/) *(room list)* | 1 | $24.99 | $24.99 |
+
+**Total: $1,842.88**
+
+<details><summary>Why it's laid out this way</summary>
+
+The dining room to go with living L (the Lisa Taupe/Multi): Tumble's Canyon Oatmeal/Grey 8x10 (amazon-B0HCN8GC3W, $399) in the Grey/Ivory's place, an oatmeal ground with medium brownish-gray motifs, so the two rooms in one sightline stay one warm family (F-68); under the pale ash LISABO it gives the table less contrast than the gray, which is why the Grey/Ivory is the staged pick with the Olivia. Staged on Andrew's word (2026-10-26, night: "Pick correct color and size and add it to the app, show me locally. also push up deploy"): the Tumble set is in the staged room; the rugless room is kept as the Rugless variant. Andrew, 2026-10-26 (night): "I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing." Layout L with the two-piece system in place of IKEA's one-piece LOKALTÅG: Tumble's Canyon Grey/Ivory 8x10 ($399, cushioned pad included), spillproof face, washable at home. Same footprint across the room, x 8 to 128, y 23 to 119 (rot 90): the table and both chair rows on it pushed back, 7" into the living-room walkway and 22" into the kitchen's, which a rug may do (F-42). Color (F-68): a cool gray ground gives the pale ash LISABO its contrast and matches the gray seats; ivory motifs keep it light on the oak. Ruggable's flatwoven Cambria Abalone 8x10 is $579 with its pad; Tumble's Canyon Oatmeal/Grey is the warmer alternative. The staged A stays rugless until Eutine chooses. Andrew, later that night: "tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something": the rug placed is the Amazon listing amazon-B0HCMZMMD5 ($399, ships in 4 to 5 days, free delivery November 9, as read 2026-10-26), the same set at the same price; Ruggable's flatwoven is judged not clearly better (thinner cover, $180 more per 8x10, made to order, the same robot-vacuum caveat), so Tumble it is (F-69).
 
 </details>
 

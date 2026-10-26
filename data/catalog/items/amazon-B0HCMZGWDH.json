@@ -1,0 +1,45 @@
+{
+  "id": "amazon-B0HCMZGWDH",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HCMZGWDH",
+  "name": "Tumble Lisa Washable Area Rug | 9x12 Living Room Bedroom Area Rug",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 549,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 108,
+    "d": 144,
+    "raw": "Size 9x12' (the listing's overview row; Color swatch Taupe/Multi selected, four colorways on the page); Item Weight 54.6 pounds (rug and pad together); Pile Height Low Pile",
+    "source": "#productOverview_feature_div rows and the color swatches, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out, 3/8\" rug and pad together)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0HCMZGWDH-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91UXBAVwYKL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage)"
+    },
+    {
+      "file": "amazon-B0HCMZGWDH-2.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/51Y+JUJgayL._AC_SL1500_.jpg",
+      "caption": "second (Amazon gallery)"
+    }
+  ],
+  "notes": "Andrew, 2026-10-26 (night): \"would this work colorwise for livingroom or no?\" (his link to this listing) and \"review the color of the living room, make sure we can make design sense here\". Listing as read: $549.00, \"In stock Usually ships within 4 to 5 days\", \"FREE delivery Monday, November 9\"; bullet: \"Lisa Taupe & Multi rug design: The first washable rug with a decorative fringe. The Lisa merges Persian rug and vintage rug elegance with modern sophistication\"; the same Tumble set as the others (spillproof face, 1/4\" cushioned pad included, every size fits a household washer; no robot vacuums at the edges). Maker's color notes (tumbleliving.com): \"Harmonious shades of light and mid-toned neutrals are paired with earth toned shades of clay and light gold. The border is a warm grey and smaller motifs are a cool ivory.\" The designer's answer (F-68): yes, it works in the living room. It is a pale warm field (cream, sand, taupe, a little clay and gold) under the dark gray MORABO and the walnut UGGLERUM, its warm gray border echoing the sofa; warmer and more patterned than the Olivia, so it hides crumbs and reads traditional where the Olivia reads modern and lifts the sofa more. In the dining room's sightline it wants the Canyon Oatmeal/Grey, not the cool Grey/Ivory (one family across the open plan). The fringe is the practical caveat: an edge for a robot vacuum to chew and for a four-year-old to pull. Drawn as living L with dining N. The maker's record is other-tumble-lisa-taupe-multi-9x12.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
