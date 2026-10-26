@@ -13,7 +13,7 @@
   "rooms": [
     "dining-room"
   ],
-  "status": "candidate",
+  "status": "shortlisted",
   "price": {
     "amount": 90,
     "currency": "USD",
@@ -33,7 +33,7 @@
       "caption": "main"
     }
   ],
-  "notes": "The chair of the LISABO set Andrew linked (2026-10-26), four of them with the LISABO 78 3/4\" table ikea-10563773 in dining-room a (\"only get 4 chairs\"; more later). Flags: none. Ash frame, a Tallmyra white/black upholstered seat (a gray tweed that ties to the living room's Gunnared dark gray sofa); the all-ash LISABO chair ikea-00457235 ($80, not opened) is the wipe-clean version for a 4-year-old's spills. Seat height 18 7/8\" under the 29 1/8\" table. One package 33 x 26 3/4 x 5 1/4\", 14 lb 5 oz. In stock at IKEA Long Island, NY; click and collect; home delivery (2026-10-26). 4.7 stars (298).",
+  "notes": "Andrew's pick (2026-10-26, evening: \"sticking with lisabo and 4 chairs\"): shortlisted on that, for tonight's order. The chair of the LISABO set Andrew linked (2026-10-26), four of them with the LISABO 78 3/4\" table ikea-10563773 in dining-room a (\"only get 4 chairs\"; more later). Flags: none. Ash frame, a Tallmyra white/black upholstered seat (a gray tweed that ties to the living room's Gunnared dark gray sofa); the all-ash LISABO chair ikea-00457235 ($80, not opened) is the wipe-clean version for a 4-year-old's spills. Seat height 18 7/8\" under the 29 1/8\" table. One package 33 x 26 3/4 x 5 1/4\", 14 lb 5 oz. In stock at IKEA Long Island, NY; click and collect; home delivery (2026-10-26). 4.7 stars (298).",
   "captured": {
     "date": "2026-10-26",
     "by": "claude",
