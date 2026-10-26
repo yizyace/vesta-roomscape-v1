@@ -1,0 +1,216 @@
+{
+  "room": "living-room",
+  "variant": "k",
+  "name": "The sofa at the stairs end: the MORABO chaise by the stairs, the POÄNG chairs to its right, on Tumble's Olivia 9x12 (staged until the night of 2026-10-26, when Andrew asked for the sofa centered on the window)",
+  "updatedAt": "2026-10-26T23:25:16.576Z",
+  "notes": "Kept for comparison when Andrew wrote (2026-10-26, night): \"hmm we had the sofa facing window / centered, can we accommodate that again?\" This is the room as staged from 2026-10-25 to that night, the sofa with its chaise at the stairs end. Staged on Andrew's word (2026-10-26, night: \"Pick correct color and size and add it to the app, show me locally. also push up deploy\"): the Tumble set is in the staged room; the rugless room is kept as the Rugless variant. Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing.\" Layout I with the two-piece system in place of the one-piece Homemate: Tumble's Olivia Ivory/Neutral 9x12 ($549, the 1/4\" cushioned pad included), a 1/8\" polyester rug that comes off its pad and goes in a household washer. Same footprint, x 33 to 177, y 35 to 143 (rot 90): every leg of the MORABO, the UGGLERUM and both POÄNG sets on it, 2\" past the chaise end, 29\" of walkway to the stairs band. Color (F-68): a pale cool-ivory field under the dark gray sofa and the walnut table; sibling of the dining room's gray Canyon in the same sightline. Ruggable's flatwoven Impasto Taupe 9x12 is $729 with its pad. The staged A stays rugless until Eutine chooses. Andrew, later that night: \"tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\": the rug placed is the Amazon listing amazon-B0HCN6RMWS ($549, in stock, free delivery November 3, as read 2026-10-26), the same set at the same price; Ruggable's flatwoven is judged not clearly better (thinner cover, $180 more per 8x10, made to order, the same robot-vacuum caveat), so Tumble it is (F-69).",
+  "placements": [
+    {
+      "id": "rug-1",
+      "itemId": "amazon-B0HCN6RMWS",
+      "x": 33,
+      "y": 35,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "a pale cool-ivory field under the dark gray sofa and the walnut table (F-68); the pad is included, the rug comes off it to wash"
+    },
+    {
+      "id": "sofa-1",
+      "itemId": "ikea-49318323",
+      "x": 36,
+      "y": 80.75,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "MORABO sofa with chaise (Andrew's cart, 2026-10-26) facing the window: its back on the open side's walkway edge, the chaise at the stairs end on the railing strip's edge, its lounger toward the window; built with the chaise on that end"
+    },
+    {
+      "id": "coffee-table-1",
+      "itemId": "ikea-60627980",
+      "x": 80.75,
+      "y": 65.125,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "UGGLERUM walnut rectangle (Andrew: rectangular, 2026-10-26) in place of the oval VALNÄS: 16in from the seats, 14in from the chaise, its far end flush with the sofa's end; corner guards on the play-side end (F-21)"
+    },
+    {
+      "id": "armchair-1",
+      "itemId": "ikea-59305928",
+      "x": 150,
+      "y": 110.75,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "POÄNG armchair beside the sofa's play-side end, facing the window, its back on the walkway edge like the sofa's (F-42), 18in off the sofa's end so the seats keep a way in from this side; Andrew's chair with legrest (2026-10-26: the POÄNG footrest 'is perfect', 'We can have 2 sets!')"
+    },
+    {
+      "id": "ottoman-1",
+      "itemId": "ikea-19305954",
+      "x": 150,
+      "y": 85.5,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "POÄNG ottoman, the first chair's footrest, 4in in front of its seat; upholstered cushion, no hard corner for Maddie"
+    },
+    {
+      "id": "armchair-2",
+      "itemId": "ikea-59305928",
+      "x": 134,
+      "y": 36,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "the second POÄNG, north of the first, facing the sofa and the chaise across the table; 30in from the heater's drawn face keeps the window route (F-30, F-33)"
+    },
+    {
+      "id": "ottoman-2",
+      "itemId": "ikea-19305954",
+      "x": 108.75,
+      "y": 36,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "the second chair's POÄNG ottoman, 4in in front of its seat, on the rug's east edge, 2 3/8in north of the table"
+    },
+    {
+      "id": "wall-lamp-3",
+      "itemId": "ikea-20610854",
+      "x": 50,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "VARPTROSS on the window wall left of the window, over the top landing's exit: the group's light on the wall (in place of the TÅGARP, whose cord would have crossed the heater, final audit 2026-10-26); cord in a cover down to an outlet above the heater"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 37,
+      "y": 71.5,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise at the chaise's foot on the stairs side, 1in off the railing strip (F-40), in no route"
+    },
+    {
+      "id": "kid-chair-1",
+      "itemId": "ikea-30609237",
+      "x": 236.625,
+      "y": 18,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "IKEA PS LÖMSK swivel armchair (Andrew's cart, 2026-10-26) in the window corner of the play wall, Maddie's reading and hiding chair under the cloud lamp, 18in from the heater's drawn face (F-33), its hood toward the wall; the SMÅSTAD bench that stood here waits for Saturday"
+    },
+    {
+      "id": "wall-lamp-1",
+      "itemId": "ikea-40440832",
+      "x": 258,
+      "y": 29.6875,
+      "rotation": 90,
+      "layer": "top",
+      "note": "cloud light over the reading bench"
+    },
+    {
+      "id": "toy-storage-1",
+      "itemId": "ikea-39574865",
+      "x": 243.625,
+      "y": 56.375,
+      "rotation": 90,
+      "layer": "floor"
+    },
+    {
+      "id": "toy-cabinet-1",
+      "itemId": "ikea-79047429",
+      "x": 259,
+      "y": 94.75,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "low BESTÅ toy cabinet on the floor, push-open doors at her height"
+    },
+    {
+      "id": "book-display-1",
+      "itemId": "ikea-80614566",
+      "x": 264.5,
+      "y": 96,
+      "rotation": 90,
+      "layer": "top",
+      "note": "FLISAT book display on the BESTÅ, fixed to the wall (31\" together, F-21)"
+    },
+    {
+      "id": "wall-lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 270.5,
+      "y": 102.125,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS above the FLISAT, center about 66\" up: the play corner's light; cord in a cover down behind the BESTÅ"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-00578906",
+      "x": 260,
+      "y": 60.9375,
+      "rotation": 90,
+      "layer": "top",
+      "note": "right-upper wall over the TROFAST, the play wall's anchor"
+    },
+    {
+      "id": "art-2",
+      "itemId": "ikea-70624014",
+      "x": 274.5,
+      "y": 118,
+      "rotation": 90,
+      "layer": "top",
+      "note": "right-lower wall over the BESTÅ, beside the FLISAT books, off the heater wall"
+    },
+    {
+      "id": "kids-table-1",
+      "itemId": "ikea-50178411",
+      "x": 188.625,
+      "y": 98,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LÄTT with its two chairs on the long sides, 11.9in past the first POÄNG (a dead gap) and 30.7in from the TROFAST's corner; the way to the play wall runs east of it"
+    },
+    {
+      "id": "wall-lamp-4",
+      "itemId": "ikea-20610854",
+      "x": 256,
+      "y": 43,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS plug-in reading light on the right-upper wall over the reading bench, center about 48in up, so a seat on the play wall has a lamp it can read by (the UPPLYST is a night light; final audit 2026-10-26); cord in a cover down the play wall"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80597171",
+      "qty": 2,
+      "note": "GINSTMOTT beige, two pairs (4 x 57\" panels, about 2.2x the 102\" window); hems clear of the heater (F-33), shorten with hemming tape if needed"
+    },
+    {
+      "itemId": "ikea-49634091",
+      "qty": 1,
+      "note": "HUGAD white rod set to about 120\", 9\" past each side of the window; assumed-position:window"
+    },
+    {
+      "itemId": "ikea-60543004",
+      "qty": 2,
+      "note": "SVARTPOPPEL off-white covers on the sofa (machine washable)"
+    },
+    {
+      "itemId": "ikea-50570955",
+      "qty": 2,
+      "note": "VALLKRASSING gray-green covers on the sofa (the sage accent; machine washable)"
+    },
+    {
+      "itemId": "ikea-60262188",
+      "qty": 4,
+      "note": "FJÄDRAR 20x20 inserts, one per cover"
+    },
+    {
+      "itemId": "ikea-20570928",
+      "qty": 1,
+      "note": "VALLKRASSING off-white throw on the sofa arm"
+    },
+    {
+      "itemId": "ikea-50636211",
+      "qty": 1,
+      "note": "the LÖMSK's blue shark slipcover (Andrew's cart), hand wash"
+    }
+  ]
+}
