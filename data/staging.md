@@ -1326,13 +1326,13 @@ Final audit 2026-10-26: the BESTÅ column moved from the bottom wall to the left
 
 </details>
 
-### J · With a washable rug: IKEA's LOKALTÅG 8x10, gray and ivory, under the king and the bench
+### J · With a washable rug: the AMADA 8x10 vintage, cream and taupe with ochre, under the king and the bench
 
 Open: https://yizyace.github.io/vesta-roomscape-v1/#/master-bedroom/j · printable: https://yizyace.github.io/vesta-roomscape-v1/#/master-bedroom/j/view
 
 | Item | Qty | Each | Subtotal |
 |---|---|---|---|
-| [LOKALTÅG Rug](https://www.ikea.com/us/en/p/lokaltag-rug-low-pile-beige-gray-20623408/) | 1 | $149.99 | $149.99 |
+| [AMADA 8x10 Washable Area Rug for Living Room](https://www.amazon.com/dp/B0H41NQC8S) | 1 | $72.99 | $72.99 |
 | [RÅDMANSÖ Bed frame](https://www.ikea.com/us/en/p/radmansoe-bed-frame-brown-walnut-effect-luroey-s69598638/) | 1 | $399.00 | $399.00 |
 | [RÅDMANSÖ Nightstand](https://www.ikea.com/us/en/p/radmansoe-nightstand-brown-walnut-effect-80593597/) | 2 | $99.99 | $199.98 |
 | [TÖVÄDER LED night light](https://www.ikea.com/us/en/p/toevaeder-led-night-light-cat-battery-operated-60516915/) | 1 | $19.99 | $19.99 |
@@ -1353,12 +1353,12 @@ Open: https://yizyace.github.io/vesta-roomscape-v1/#/master-bedroom/j · printab
 | [HUGAD Curtain rod combination](https://www.ikea.com/us/en/p/hugad-curtain-rod-combination-with-wall-ceiling-brackets-with-finials-white-s49634091/) *(room list)* | 1 | $25.00 | $25.00 |
 | [PURRPINGLA Laundry bag with stand](https://www.ikea.com/us/en/p/purrpingla-laundry-bag-with-stand-beige-40609406/) *(room list)* | 1 | $29.99 | $29.99 |
 
-**Total: $1,986.79**
+**Total: $1,909.79**
 
 <details><summary>Why it's laid out this way</summary>
 
-Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here IKEA's washable LOKALTÅG 8'0" x 10'0" (ikea-20623408, $149.99, 4.6 stars from 75; machine wash warm, in IKEA's own delivery; Andrew's link, 2026-10-26), rot 90, x 40-160, y 22-118: under the king's lower 70" (80% of its length), 8" out on each side of the frame, 50" past the foot with the bench on it, 19" off the heater's face (F-33: 12" for textiles), its bathroom-side edge at y 118 in the walk to the bathroom (walked on). Color, from its photo: gray and ivory in a faded Persian pattern, lighter and cooler than the honey oak, so the dark walnut RÅDMANSÖ and its nightstands sit on a pale field, and the oatmeal ÄNGSLILJA bedding and the sage throw warm it. The AMADA 8x10 (amazon-B0H41NQC8S, $72.99, cream and taupe with ochre flecks) is the warmer Amazon alternative; the same LOKALTÅG in the dining room (l) keeps the two rooms in one family. Everything else as in a.
-Total $1,986.79: placed $1,273.91 + extras $712.88; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
+Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the AMADA washable 8x10 (amazon-B0H41NQC8S, $72.99, 4.9 stars from 35; machine washable, non-slip backing, low-profile pile, 13 lb: a large front-loading washer, else the laundromat), rot 90, x 40-160, y 22-118: under the king's lower 70" (80% of its length), 8" out on each side of the frame, 50" past the foot with the bench on it, 19" off the heater's face (F-33: 12" for textiles), its bathroom-side edge at y 118 in the walk to the bathroom (walked on). Color: cream and warm taupe with ochre flecks, lighter than the honey oak, so the dark walnut RÅDMANSÖ and its nightstands sit on a pale field, and the oatmeal ÄNGSLILJA bedding and the sage throw carry it; the ochre picks up the floor without matching it. IKEA's LOKALTÅG 8x10 (ikea-20623408, $149.99, gray and ivory, in IKEA's delivery) is the alternative, but it is the dining room's rug: the dining room and the living room share one sightline and keep one pale, faded family (gray-ivory beside cream-taupe), while the bedroom sits behind its own door with a warm palette (walnut, oatmeal, sage), so it takes the warm cream rug rather than a repeat of the dining room's (Andrew, 2026-10-26: "same rug in two areas, with different color furniture? not sure"). Everything else as in a.
+Total $1,909.79: placed $1,196.91 + extras $712.88; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
 
 
 </details>
