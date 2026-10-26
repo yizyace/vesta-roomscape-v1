@@ -1,0 +1,41 @@
+{
+  "id": "amazon-B0CP1LR1PW",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CP1LR1PW",
+  "name": "Zinus 5 Inch Twin Green Tea Memory Foam Mattress, Medium Firm Feel",
+  "brand": "Zinus",
+  "category": "mattress",
+  "tags": [
+    "kids",
+    "bedroom"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 83.8,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 39,
+    "d": 75,
+    "h": 5,
+    "raw": "Product Dimensions 75\"L x 39\"W x 5\"Th; Item Weight 20.5 pounds; Item Firmness Description Medium Firm; Top Style Tight Top; Cover Material Polyester; Number of Layers 3; Fill Material High Density Foam, Memory Foam; Weight Limit 250 pounds",
+    "source": "#productOverview_feature_div rows, Twin 5 IN selected (its own ASIN), read in Chrome 2026-10-26; a mattress: L -> d, W -> w, Th -> h"
+  },
+  "images": [
+    {
+      "file": "amazon-B0CP1LR1PW-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/8195yTXHuoL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "The Zinus Green Tea twin at the thickness the KURA allows (IKEA's page: max. mattress thickness 5 1/8\"; the 12\" twin Andrew linked, amazon-B0CKZ12KX4, is rejected for it): shortlisted on his pick of the listing (2026-10-26: \"twin size of\" the Green Tea), in place of the ÅSVANG ikea-80481415 in maddie-room a and e. Flags: none (the fit note below). Fit: the KURA ikea-80253814 is cut for 38 x 74 3/8\"; this one is 39 x 75\", 1\" wider and 5/8\" longer, which the foam gives up inside the frame's sides: snug, no problem for a child's bed, though the ÅSVANG (38 1/4 x 74 3/8 x 4 3/4\", $129, a washable cover) is the exact cut if he prefers it. 5\" on the KURA's slats keeps the den's headroom (IKEA: 32 5/8\" under the frame). Medium firm, three layers (high density foam and memory foam), green tea and charcoal infused; CertiPUR-US foam, an OEKO-TEX Standard 100 cover; its page says fiberglass free, with a carbon rayon fire barrier; weight limit 250 lb; 20.5 lb; compressed into a box (F-22 does not apply), allow time to expand. In Stock, free delivery Wednesday, October 28 (2026-10-26). 4.4 stars (2,167).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

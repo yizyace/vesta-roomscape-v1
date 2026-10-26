@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0CKZ1CK1H",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CKZ1CK1H",
+  "name": "Zinus Memory Foam 12 Inch Green Tea Mattress, King, White",
+  "brand": "Zinus",
+  "category": "mattress",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 392.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 76,
+    "d": 80,
+    "h": 12,
+    "raw": "Product Dimensions 80\"L x 76\"W x 12\"Th; Item Weight 79.4 pounds; Item Firmness Description Medium Firm; Top Style Tight Top; Cover Material Polyester; Number of Layers 3; Fill Material Memory Foam; Weight Limit 500 pounds",
+    "source": "#productOverview_feature_div rows, King selected (its own ASIN), read in Chrome 2026-10-26; a mattress: L -> d, W -> w, Th -> h"
+  },
+  "images": [
+    {
+      "file": "amazon-B0CKZ1CK1H-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81IC7kPsCNL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew's pick (2026-10-26: \"FOr the mattress, will be using amazon 12\\\" version of king\" of the Zinus Green Tea listing he linked): shortlisted on that, in place of the VALEVÅG King ikea-40511853 in master-bedroom a, h and i. Flags: none (compressed into one box: F-22 does not apply). Fit: the RÅDMANSÖ king ikea-69598638 takes a 76 x 79 1/2\" mattress on its LURÖY slatted base; this one is 76 x 80\", 1/2\" longer than IKEA's cut, which a foam mattress gives up between the headboard and the 15 3/4\" footboard. 12\" thick on the frame's rails, under the 40 1/2\" headboard. Medium firm memory foam, three layers, green tea and charcoal infused, CertiPUR-US foam; 10-year limited warranty; weight limit 500 lb; 79.4 lb. Its page says to allow 24 to 72 hours for it to regain its full shape, faster in a warm room: order it to arrive before move-in day. Its own bullets do not say fiberglass-free (the brand's FAQ section on the page raises the question; the listing's 5\" twin says it outright, with a carbon rayon fire barrier): keep the cover on, and confirm with Zinus. In Stock, free delivery Tomorrow, October 27 (2026-10-26). 4.3 stars (91,589 across the listing's sizes). The listing's sizes and thicknesses carry their own ASINs (Twin 12\" amazon-B0CKZ12KX4, Twin 5\" amazon-B0CP1LR1PW).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

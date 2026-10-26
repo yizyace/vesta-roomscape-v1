@@ -1,0 +1,41 @@
+{
+  "id": "amazon-B0CKZ12KX4",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CKZ12KX4",
+  "name": "Zinus Memory Foam 12 Inch Green Tea Mattress, Twin",
+  "brand": "Zinus",
+  "category": "mattress",
+  "tags": [
+    "kids",
+    "bedroom"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 231.79,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 39,
+    "d": 75,
+    "h": 12,
+    "raw": "Product Dimensions 75\"L x 39\"W x 12\"Th; Item Weight 38.4 pounds; Item Firmness Description Medium Firm",
+    "source": "#productOverview_feature_div rows, Twin selected (the ASIN Andrew linked), read in Chrome 2026-10-26; a mattress: L -> d, W -> w, Th -> h"
+  },
+  "images": [
+    {
+      "file": "amazon-B0CKZ12KX4-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81SymtKihOL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew's link (2026-10-26: \"twin size of\" this listing, \"got good reviews but advise too\"). Rejected 2026-10-26 for the KURA ikea-80253814: IKEA's page caps the KURA's mattress at 5 1/8\" thick, and at 12\" on the low bed's slats it would leave little headroom under the frame (32 5/8\" from the floor) for a child sitting up; the same listing's 5\" twin, amazon-B0CP1LR1PW, is the one staged. Medium firm memory foam, 38.4 lb. 4.3 stars (91,589 across the listing). Free delivery Wed, Oct 28 (2026-10-26).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
