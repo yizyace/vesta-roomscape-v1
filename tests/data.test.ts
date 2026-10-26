@@ -147,14 +147,16 @@ describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
     expect(problems).toEqual([]);
   });
 
-  // The family may go without rugs, for dust and dust mites (Andrew, 2026-10-24; vesta rules.md F-66):
-  // every room but the kitchen has a variant named "No rugs: …", and the only floor coverings it places
-  // are mats that wipe clean and aren't plastic (Andrew, 2026-10-25: "something that isn't literally plastic").
-  it("every room but the kitchen has a rug-free variant, and it places no rug that isn't a wipeable, plastic-free mat", () => {
+  // The family goes without rugs, for Eutine's allergy concern (Andrew, 2026-10-26: "we are going with
+  // rugless for allergy conerns, wife wins."; before that a "No rugs" variant per room, 2026-10-24; vesta
+  // rules.md F-66): every room but the kitchen stages its rug-free room as `a`, and the only floor coverings
+  // `a` places are mats that wipe clean and aren't plastic (Andrew, 2026-10-25: "something that isn't
+  // literally plastic"). The room with its rugs is kept as the variant named "With rugs: …".
+  it("every room but the kitchen stages a rug-free a, placing no rug that isn't a wipeable, plastic-free mat", () => {
     const catalog = new Map(items.parsed.map(({ value }) => [value.id, value]));
-    const rugFree = layouts.parsed.filter(({ value }) => value.name.startsWith("No rugs"));
+    const rugFree = layouts.parsed.filter(({ value }) => value.variant === "a");
     const missing = ROOM_IDS.filter((r) => r !== "kitchen" && !rugFree.some(({ value }) => value.room === r)).map(
-      (r) => `${r}: no "No rugs" variant`,
+      (r) => `${r}: no staged a`,
     );
     const rugs = rugFree.flatMap(({ file, value }) =>
       value.placements

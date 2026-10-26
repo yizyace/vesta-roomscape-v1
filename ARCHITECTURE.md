@@ -226,8 +226,8 @@ resolved against the directory npm was started in (`INIT_CWD`).
    The editor draws the same findings on the plan.
 5. **The tests hold the real data too**: `tests/data.test.ts` (the files parse, `rooms.json` lists the six
    `ROOM_IDS` in order, the sketches exist, every reference resolves, and the household's rules: no layout
-   places a TV, every room but the kitchen has a `No rugs` variant whose only floor coverings are `wipeable`,
-   `plastic-free` mats, and every living-room variant has a `chaise` (a sofa with a built-in chaise, 60" or wider, or a chaise add-on with a sofa piece it joins), all
+   places a TV, every room but the kitchen stages a rug-free `a` whose only floor coverings are `wipeable`,
+   `plastic-free` mats (the room with its rugs is the `With rugs` variant, since 2026-10-26), and every living-room variant has a `chaise` (a sofa with a built-in chaise, 60" or wider, or a chaise add-on with a sofa piece it joins), all
    `open-base`; vesta rules.md F-65 to F-67) and `tests/rooms-vs-csv.test.ts`
    (`rooms.csv` and `rooms.json` carry the same tape values, `rooms.csv` names exactly the six rooms, and
    `feet_inches` is `toFeetInches(inches)`).
