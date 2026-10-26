@@ -13,7 +13,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "rejected",
+  "status": "candidate",
   "price": {
     "amount": 49.99,
     "currency": "USD",
@@ -27,7 +27,7 @@
     "source": "IKEA Measurements section, read in Chrome 2026-10-22; a table's Length runs along the sofa (w), its Width is front to back (d)"
   },
   "images": [],
-  "notes": "Rejected 2026-10-22: 30.75\" deep. With the sofa where F-37 puts it for the 65\" TV (its back about 50\" from the window wall, the screen 101\" to 104\" away), this table 14\" in front of the sofa (F-39) leaves under 30\" between it and the TV console on the far wall (F-30: 25\" to 28\"); the 21.6\"-deep LACK ikea-50319029 ($29.99) was kept instead. Flags: none. Fit: does not fit the staged arrangement (above). No glass; an open shelf underneath; square corners. Variant: white stained oak effect (also white 80449901 and black-brown 00104291, the Best seller at #3 under Coffee tables sorted Most popular), article 404.315.35. 4.4 stars (1190). In stock at IKEA Long Island, NY on 2026-10-22.",
+  "notes": "Un-rejected 2026-10-26: the budget rectangular coffee table for the MORABO sofa with chaise (Andrew: \"FOr the coffee table I want a rectangular one\"), 46 1/2\" (71% of the 65 3/8\" seat section) by 30 3/4\", 17 3/4\" tall under the 18 1/2\" seat; with a 4-year-old, corner guards (F-21). Not staged: the walnut UGGLERUM ikea-60627980 is in a. Price as of 2026-10-22 (price-stale, F-02). Earlier: Rejected 2026-10-22: 30.75\" deep. With the sofa where F-37 puts it for the 65\" TV (its back about 50\" from the window wall, the screen 101\" to 104\" away), this table 14\" in front of the sofa (F-39) leaves under 30\" between it and the TV console on the far wall (F-30: 25\" to 28\"); the 21.6\"-deep LACK ikea-50319029 ($29.99) was kept instead. Flags: none. Fit: does not fit the staged arrangement (above). No glass; an open shelf underneath; square corners. Variant: white stained oak effect (also white 80449901 and black-brown 00104291, the Best seller at #3 under Coffee tables sorted Most popular), article 404.315.35. 4.4 stars (1190). In stock at IKEA Long Island, NY on 2026-10-22.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

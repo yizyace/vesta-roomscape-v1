@@ -1,0 +1,42 @@
+{
+  "id": "ikea-19305954",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/poaeng-ottoman-birch-veneer-knisa-light-beige-s19305954/",
+  "name": "POÄNG Ottoman, birch veneer/Knisa light beige",
+  "brand": "IKEA",
+  "category": "stool",
+  "tags": [
+    "living-room",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 80,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 26.75,
+    "d": 21.25,
+    "h": 15.375,
+    "raw": "Width 26 3/4 \"; Depth 21 1/4 \"; Height 15 3/8 \"; Seat width 21 1/4 \"; Seat depth 21 1/4 \"; Seat height 15 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Width -> w, Depth -> d, Height -> h)"
+  },
+  "images": [
+    {
+      "file": "ikea-19305954-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/poaeng-ottoman-birch-veneer-knisa-light-beige__0571822_pe667070_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "The footstool for the POÄNG armchair ikea-59305928: together the budget chair with legrest ($229; also sold as one article, ikea-89484235, rejected as the duplicate). Not staged in the living room: the MORABO armchair and ottoman match the sofa (a), and the POÄNG is the master bedroom's reading chair. Two packages (22 ½ x 19 x 3 ¼\", 11 lb 7 oz; the cushion 22 ¼ x 20 x 2\", 1 lb 9 oz). 4.6 stars (241). Click and collect at IKEA Long Island, NY; home delivery available (2026-10-26).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ikea-20613904",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/gryteryd-recliner-rocker-armchair-hakebo-beige-20613904/",
+  "name": "GRYTERYD Recliner rocker armchair, Hakebo beige",
+  "brand": "IKEA",
+  "category": "armchair",
+  "tags": [
+    "living-room",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 399,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 29.875,
+    "d": 37,
+    "h": 40.5,
+    "raw": "Width 29 7/8 \"; Depth 37 \"; Height 40 1/2 \"; Seat width 21 1/4 \"; Seat depth 20 7/8 \"; Seat height 19 1/4 \"; Tested for 353 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Width -> w, Depth -> d, Height -> h)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-26 (the chair-with-legrest brief): a recliner rocker without the swivel, in Hakebo beige against the sofa's dark gray; the SKULNÄS ikea-90613910 is the recliner kept (living-room g). One package 33 ¾ x 31 x 28 ¼\", 100 lb 5 oz.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

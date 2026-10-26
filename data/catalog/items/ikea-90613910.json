@@ -1,0 +1,42 @@
+{
+  "id": "ikea-90613910",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/skulnaes-recliner-rocker-and-swivel-armchair-hakebo-dark-gray-90613910/",
+  "name": "SKULNÄS Recliner rocker and swivel armchair, Hakebo dark gray",
+  "brand": "IKEA",
+  "category": "armchair",
+  "tags": [
+    "living-room",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 499,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 34.625,
+    "d": 38.25,
+    "h": 42.125,
+    "raw": "Width 34 5/8 \"; Depth 38 1/4 \"; Height 42 1/8 \"; Seat width 21 5/8 \"; Seat depth 21 5/8 \"; Seat height 19 5/8 \"; Tested for 353 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Width -> w, Depth -> d, Height -> h; upright, no reclined depth on the page)"
+  },
+  "images": [
+    {
+      "file": "ikea-90613910-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/skulnaes-recliner-rocker-and-swivel-armchair-hakebo-dark-gray__1426052_pe979676_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew's \"chair with legrest\" (2026-10-26), the recliner option: living-room g. Flags: none (one package 37 x 34 ¾ x 32 ½\", 124 lb 16 oz; an armchair, not a sofa, F-22). A recliner rocker with a 360° swivel: a lever raises the footrest, the backrest reclines under your weight, three positions; two parts that click together. Hakebo dark gray, near the sofa's Gunnared dark gray. Its page gives no reclined depth, so g keeps 10\" behind its back off the walkway and a swivel circle clear of the table. Frame of solid pine, plywood and fiberboard, polyurethane foam, polyester wadding; vacuum and wipe clean. No reviews yet (0). Not stocked at IKEA Long Island, NY; order online for delivery (2026-10-26).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

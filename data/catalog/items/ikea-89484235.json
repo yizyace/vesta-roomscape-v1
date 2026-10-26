@@ -1,0 +1,31 @@
+{
+  "id": "ikea-89484235",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/poaeng-armchair-and-ottoman-birch-veneer-knisa-light-beige-s89484235/",
+  "name": "POÄNG Armchair and ottoman, birch veneer/Knisa light beige",
+  "brand": "IKEA",
+  "category": "armchair",
+  "tags": [
+    "living-room",
+    "seating",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 229,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-10-26: a duplicate, the POÄNG armchair ikea-59305928 and ottoman ikea-19305954 as one article at the same $229.00. Its page lists only the four packages (the armchair frame 29 x 26 ¼ x 2 ¾\", the ottoman frame 22 ½ x 19 x 3 ¼\", the two cushions), no measurement rows: dimensions null, never placed; the parts are placed instead. Best seller.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

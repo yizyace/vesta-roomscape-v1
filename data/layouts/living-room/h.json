@@ -1,0 +1,203 @@
+{
+  "room": "living-room",
+  "variant": "h",
+  "name": "A second sofa: the MORABO loveseat facing the sofa with chaise across the UGGLERUM, an L",
+  "updatedAt": "2026-10-26T19:29:03.384Z",
+  "notes": "Alternative, 2026-10-26, for Andrew's \"consider a lvoeat\": a's room with the MORABO loveseat (ikea-29318319, $749) in the armchair's place, turned to face the sofa across the table, so the group is an L of five seats and the chaise. 15 placed, 8 extras.\nloveseat-1 MORABO loveseat, 65 3/8 x 36 1/4\" (floor): rot 270, x 138-174.25, y 50-115.375, its back to the play side and its seats facing west toward the sofa's end and the chaise; 6\" from the UGGLERUM's end (F-39 wants 14 to 18\": a reach for the near seat, the far seat uses the table's corner), 44\" from the heater's drawn face at its north end (F-33, 18\" for upholstery), 27.6\" from the walkway edge at its south end (F-42), 14.4\" short of the LÄTT (a dead gap; the way to the play wall runs east of the LÄTT, F-30), and 5 7/8\" off the sofa's end. It is entered from the north (the window side) and the south; delivery-path-unmeasured (F-22: one frame 69 x 37 x 21\", 115 lb 12 oz).\nEverything else as in a: the sofa with chaise, the UGGLERUM (corner guards, F-21), the TIOKRONA turned under the sofa group (the loveseat stands on the floor beside it), the plant at the chaise's foot, the play area, the lamps and the extras. Two more seats than a, for $101 more than the armchair and ottoman; it closes the group's play side, so from the sofa Maddie is seen over the loveseat's back.\nFlags across the layout: delivery-path-unmeasured (the sofa and the loveseat, F-22), assumed-position:window, heater-depth-assumed.\nTotal $3,305.76: placed $3,057.86 + extras $247.90; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\n",
+  "placements": [
+    {
+      "id": "sofa-1",
+      "itemId": "ikea-49318323",
+      "x": 36,
+      "y": 80.75,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "MORABO sofa with chaise (Andrew's cart, 2026-10-26) facing the window: its back on the open side's walkway edge, the chaise at the stairs end on the railing strip's edge, its lounger toward the window; built with the chaise on that end"
+    },
+    {
+      "id": "coffee-table-1",
+      "itemId": "ikea-60627980",
+      "x": 80.75,
+      "y": 65.125,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "UGGLERUM walnut rectangle (Andrew: rectangular, 2026-10-26) in place of the oval VALNÄS: 16in from the seats, 14in from the chaise, its far end flush with the sofa's end; corner guards on the play-side end (F-21)"
+    },
+    {
+      "id": "loveseat-1",
+      "itemId": "ikea-29318319",
+      "x": 138,
+      "y": 50,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "MORABO loveseat facing the sofa's end across the UGGLERUM, an L with the sofa; 6in from the table's end, 14.4in short of the LÄTT (a dead gap)"
+    },
+    {
+      "id": "wall-lamp-3",
+      "itemId": "ikea-20610854",
+      "x": 50,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "VARPTROSS on the window wall left of the window, over the top landing's exit: the group's light on the wall (in place of the TÅGARP, whose cord would have crossed the heater, final audit 2026-10-26); cord in a cover down to an outlet above the heater"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 37,
+      "y": 71.5,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise at the chaise's foot on the stairs side, 1in off the railing strip (F-40), in no route"
+    },
+    {
+      "id": "rug-1",
+      "itemId": "ikea-90628228",
+      "x": 36,
+      "y": 25,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "TIOKRONA turned, x 36-130, y 25-143: under the whole sofa with chaise and the table, its south edge on the walkway's edge and its west edge on the railing strip's edge, 19in from the heater's drawn face (F-33); the armchair and ottoman stand on the floor beside it"
+    },
+    {
+      "id": "toy-bench-1",
+      "itemId": "ikea-19389152",
+      "x": 240.5,
+      "y": 18,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "reading bench with toy boxes in the window corner"
+    },
+    {
+      "id": "wall-lamp-1",
+      "itemId": "ikea-40440832",
+      "x": 258,
+      "y": 29.6875,
+      "rotation": 90,
+      "layer": "top",
+      "note": "cloud light over the reading bench"
+    },
+    {
+      "id": "toy-storage-1",
+      "itemId": "ikea-39574865",
+      "x": 243.625,
+      "y": 56.375,
+      "rotation": 90,
+      "layer": "floor"
+    },
+    {
+      "id": "toy-cabinet-1",
+      "itemId": "ikea-79047429",
+      "x": 259,
+      "y": 94.75,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "low BESTÅ toy cabinet on the floor, push-open doors at her height"
+    },
+    {
+      "id": "book-display-1",
+      "itemId": "ikea-80614566",
+      "x": 264.5,
+      "y": 96,
+      "rotation": 90,
+      "layer": "top",
+      "note": "FLISAT book display on the BESTÅ, fixed to the wall (31\" together, F-21)"
+    },
+    {
+      "id": "wall-lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 270.5,
+      "y": 102.125,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS above the FLISAT, center about 66\" up: the play corner's light; cord in a cover down behind the BESTÅ"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-00578906",
+      "x": 260,
+      "y": 60.9375,
+      "rotation": 90,
+      "layer": "top",
+      "note": "Waterlilies on the right-upper wall over the TROFAST, the play wall's anchor"
+    },
+    {
+      "id": "rug-3",
+      "itemId": "ikea-40625109",
+      "x": 183,
+      "y": 75,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "play rug in front of the TROFAST and the BESTÅ, under the LÄTT, 29in east of the TIOKRONA"
+    },
+    {
+      "id": "kids-table-1",
+      "itemId": "ikea-50178411",
+      "x": 188.625,
+      "y": 98,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LÄTT with its two chairs on the long sides, 14.75in past the armchair (a dead gap) and 30.7in from the TROFAST's corner; the way to the play wall runs east of it"
+    },
+    {
+      "id": "art-2",
+      "itemId": "ikea-70624014",
+      "x": 274.5,
+      "y": 118,
+      "rotation": 90,
+      "layer": "top",
+      "note": "RÖDALM on the right-lower wall over the BESTÅ, beside the FLISAT"
+    },
+    {
+      "id": "wall-lamp-4",
+      "itemId": "ikea-20610854",
+      "x": 256,
+      "y": 43,
+      "rotation": 90,
+      "layer": "top",
+      "note": "VARPTROSS plug-in reading light on the right-upper wall over the reading bench, center about 48in up, so a seat on the play wall has a lamp it can read by (the UPPLYST is a night light; final audit 2026-10-26); cord in a cover down the play wall"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80597171",
+      "qty": 2,
+      "note": "GINSTMOTT beige, two pairs (4 x 57\" panels, about 2.2x the 102\" window); hems clear of the heater (F-33), shorten with hemming tape if needed"
+    },
+    {
+      "itemId": "ikea-49634091",
+      "qty": 1,
+      "note": "HUGAD white rod set to about 120\", 9\" past each side of the window; assumed-position:window"
+    },
+    {
+      "itemId": "ikea-60543004",
+      "qty": 2,
+      "note": "SVARTPOPPEL off-white covers on the sofa"
+    },
+    {
+      "itemId": "ikea-50570955",
+      "qty": 2,
+      "note": "VALLKRASSING gray-green covers on the sofa (the sage accent)"
+    },
+    {
+      "itemId": "ikea-60262188",
+      "qty": 4,
+      "note": "FJÄDRAR 20x20 inserts, one per cover"
+    },
+    {
+      "itemId": "ikea-20570928",
+      "qty": 1,
+      "note": "VALLKRASSING off-white throw on the sofa arm"
+    },
+    {
+      "itemId": "ikea-20542129",
+      "qty": 1,
+      "note": "LÖVA leaf canopy hung from the ceiling over the reading bench, 12\" or more off the heater face (F-33)"
+    },
+    {
+      "itemId": "ikea-90132261",
+      "qty": 2,
+      "note": "STOPP FILT anti-slip underlays side by side under the TIOKRONA, trimmed to 118 x 93\": with a 4-year-old running, the rug must not slide (as in the dining room)"
+    }
+  ]
+}
