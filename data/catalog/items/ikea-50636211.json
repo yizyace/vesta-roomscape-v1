@@ -1,0 +1,36 @@
+{
+  "id": "ikea-50636211",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ikea-ps-loemsk-slipcover-f-childrens-swiv-armchr-blue-shark-50636211/",
+  "name": "IKEA PS LÖMSK Slipcover f children's swiv armchr, blue/shark",
+  "brand": "IKEA",
+  "category": "textiles",
+  "tags": [
+    "kids",
+    "living-room",
+    "washable"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 30,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "ikea-50636211-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ikea-ps-loemsk-slipcover-f-childrens-swiv-armchr-blue-shark__1511369_pe1010084_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "In Andrew's IKEA cart (2026-10-26, late evening): the blue shark slipcover for the LÖMSK swivel armchair ikea-30609237; a layout extra in the living room's a and e. Its page lists the chair's measurements, not its own (dimensions: null). Hand wash. One package 21 1/4 x 16 1/2 x 1 3/4\", 1 lb 15 oz. In stock at IKEA Long Island, NY (2026-10-26). New; 5 stars (3).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

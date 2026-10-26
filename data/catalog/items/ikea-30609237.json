@@ -1,0 +1,43 @@
+{
+  "id": "ikea-30609237",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/ikea-ps-loemsk-childrens-swivel-armchair-white-beige-red-30609237/",
+  "name": "IKEA PS LÖMSK Children's swivel armchair, white beige/red",
+  "brand": "IKEA",
+  "category": "armchair",
+  "tags": [
+    "kids",
+    "living-room",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 129.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 23.25,
+    "d": 24.375,
+    "h": 29.5,
+    "raw": "Width 23 1/4 \"; Depth 24 3/8 \"; Height 29 1/2 \"; Total height 32 1/4 \"; Seat height 6 3/4 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Width -> w, Depth -> d, Height -> h; 32 1/4\" with the hood up)"
+  },
+  "images": [
+    {
+      "file": "ikea-30609237-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/ikea-ps-loemsk-childrens-swivel-armchair-white-beige-red__1508812_pe1009589_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "In Andrew's IKEA cart (2026-10-26, late evening, with its shark slipcover ikea-50636211): shortlisted on that. Flags: none (F-21: for children 3 and older, its page; a swivel chair on a steel base plate, 6 3/4\" seat). Staged in the living room's a and e in the window corner of the play wall, where the SMÅSTAD reading bench was drawn (the bench, a storage piece, waits for Saturday): her reading and hiding chair under the UPPLYST cloud lamp and the VARPTROSS reading light, 18\" from the heater's drawn face (F-33), with the hood toward the wall. Polyester cover (hand wash), polypropylene shell, powder-coated steel base; two packages, 21 1/4 x 21 1/4 x 6\" at 13 lb 8 oz and 31 x 23 1/4 x 14 1/4\" at 4 lb 16 oz. In stock at IKEA Long Island, NY (2026-10-26); the Brooklyn store's stock is not read. New; 4.4 stars (203).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
