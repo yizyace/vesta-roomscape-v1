@@ -1,0 +1,130 @@
+{
+  "room": "dining-room",
+  "variant": "k",
+  "name": "The VOXLÖV bamboo, 70 7/8 x 35 3/8, across the room for Andrew's comparison: 27.6in on the living-room side, 26in under the buffet",
+  "updatedAt": "2026-10-26T21:37:01.283Z",
+  "notes": "Alternative, 2026-10-26, for Andrew's \"compar with [the VOXLÖV], what's diff\": a's room with the VOXLÖV dining table in light bamboo (ikea-40434322, $499.99, in stock at Long Island) in the LISABO's place, across the room, x 30-100.875, y 57.625-93, with a's four LISABO ash/Tallmyra chairs (a VOXLÖV chair exists; not opened). 7 7/8\" shorter and 4 5/8\" wider than the LISABO (about the same surface): the width comes off the chair sides, 27.6\" on the living-room side (the chairs there push back into the walkway by about 14\"; the LISABO leaves 32.25\") and 26\" under the buffet (tight:27.6, tight:26, F-36); its inset legs leave the short ends free for a seat, and the right end has 27\" of floor, enough to sit but short to push back, so no fifth chair is drawn. Rounded corners (no corner guards needed, F-21) and a smooth, wipeable bamboo top are its kid points; bamboo is a yellow-blond close to the honey-oak floor, so it blends where the gray-blond ash contrasts, and its plain, fine grain is a quieter look than the LISABO's bold ash and tapered birch legs, which match the living room's UGGLERUM and POÄNG. $150 more; 4.7 stars (226) against the LISABO's 4.6 (117); one 79 lb package. Everything else as in a: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,593.88: placed $1,534.94 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:27.6 (the living-room side), tight:26 (the wall side).\n",
+  "placements": [
+    {
+      "id": "table-1",
+      "itemId": "ikea-40434322",
+      "x": 30,
+      "y": 57.625,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "VOXLÖV 70 7/8 x 35 3/8in bamboo across the room like a's LISABO: its kitchen end on the walkway's edge, 27in to the right wall, 27.6in from its living-room side to that walkway's edge (tight:27.6) and 26in under the buffet (tight:26)"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-90561044",
+      "x": 37.9375,
+      "y": 36.5,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO chair on the living-room side, its back 6.5in from the walkway's edge; pushing back enters the walkway by about 14in"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-90561044",
+      "x": 74.9375,
+      "y": 36.5,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO chair on the living-room side, its back 6.5in from the walkway's edge; pushing back enters the walkway by about 14in"
+    },
+    {
+      "id": "chair-3",
+      "itemId": "ikea-90561044",
+      "x": 37.9375,
+      "y": 94,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "LISABO chair on the wall side, 1in off the table, its back under the floating buffet when pushed back"
+    },
+    {
+      "id": "chair-4",
+      "itemId": "ikea-90561044",
+      "x": 74.9375,
+      "y": 94,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "LISABO chair on the wall side, 1in off the table, its back under the floating buffet when pushed back"
+    },
+    {
+      "id": "pendant-1",
+      "itemId": "ikea-90603869",
+      "x": 56.5625,
+      "y": 66.4375,
+      "rotation": 0,
+      "layer": "top",
+      "note": "GULLSUDARE on the HAVSRIS swag cord, hooked over the table's center (65.4, 75.3)"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-99623151",
+      "x": 36.6875,
+      "y": 110.375,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, centered on the table on the bottom wall and floated as a buffet with its underside about 33\" up (top about 48\"), above the chairs' 31 1/8\" backs; push-open doors, on its suspension rails into studs (F-63)"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-20601915",
+      "x": 48.5,
+      "y": 117.75,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BLODFLÄDER centered above the buffet, about 54 to 85 1/2\" up: the focal point from the living room"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-20610854",
+      "x": 39.09375,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's left end, centered between the canvas and the buffet's end (2.4\" to each), center about 60\" up, plug-in, cord in a cover"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 98.15625,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's right end; as lamp-1"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 117,
+      "y": 108,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise in the bottom-right corner, the far corner from both openings, so it walls off nothing"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80490052",
+      "qty": 1,
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the shade's bottom about 30in above the top; the cord along the ceiling to the right or bottom wall and down in a cover, never across an open side; the ceiling box is unknown"
+    },
+    {
+      "itemId": "ikea-40533063",
+      "qty": 1,
+      "note": "SVARTSENAP runner, natural cotton, machine washable"
+    },
+    {
+      "itemId": "ikea-70527961",
+      "qty": 4,
+      "note": "SVARTSENAP placemats, one per chair, machine washable (online minimum 4)"
+    },
+    {
+      "itemId": "ikea-60214343",
+      "qty": 1,
+      "note": "BLANDA MATT 11in bamboo bowl, the centerpiece, unbreakable"
+    }
+  ]
+}

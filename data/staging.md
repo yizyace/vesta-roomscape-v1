@@ -753,6 +753,35 @@ Flags across the layout: tight:33.6 (both chair sides, F-36). Delivery: the ash 
 
 </details>
 
+### K · The VOXLÖV bamboo, 70 7/8 x 35 3/8, across the room for Andrew's comparison: 27.6in on the living-room side, 26in under the buffet
+
+Open: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/k · printable: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/k/view
+
+| Item | Qty | Each | Subtotal |
+|---|---|---|---|
+| [VOXLÖV Dining table](https://www.ikea.com/us/en/p/voxloev-dining-table-light-bamboo-40434322/) | 1 | $499.99 | $499.99 |
+| [LISABO Chair](https://www.ikea.com/us/en/p/lisabo-chair-ash-tallmyra-white-black-90561044/) | 4 | $90.00 | $360.00 |
+| [GULLSUDARE Pendant lamp shade](https://www.ikea.com/us/en/p/gullsudare-pendant-lamp-shade-white-handmade-90603869/) | 1 | $4.99 | $4.99 |
+| [BESTÅ Wall-mounted cabinet combination](https://www.ikea.com/us/en/p/besta-wall-mounted-cabinet-combination-white-bjoerkoeviken-ash-veneer-s99623151/) | 1 | $420.00 | $420.00 |
+| [BLODFLÄDER Picture](https://www.ikea.com/us/en/p/blodflaeder-picture-the-seine-at-giverny-20601915/) | 1 | $99.99 | $99.99 |
+| [VARPTROSS Wall lamp](https://www.ikea.com/us/en/p/varptross-wall-lamp-bamboo-20610854/) | 2 | $29.99 | $59.98 |
+| [FEJKA Artificial potted plant](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-bird-of-paradise-70610601/) | 1 | $89.99 | $89.99 |
+| [HAVSRIS Cord set with switch](https://www.ikea.com/us/en/p/havsris-cord-set-with-switch-white-80490052/) *(room list)* | 1 | $20.00 | $20.00 |
+| [SVARTSENAP Table runner](https://www.ikea.com/us/en/p/svartsenap-table-runner-natural-40533063/) *(room list)* | 1 | $5.99 | $5.99 |
+| [SVARTSENAP Placemat](https://www.ikea.com/us/en/p/svartsenap-placemat-natural-70527961/) *(room list)* | 4 | $1.99 | $7.96 |
+| [BLANDA MATT Serving bowl](https://www.ikea.com/us/en/p/blanda-matt-serving-bowl-bamboo-60214343/) *(room list)* | 1 | $24.99 | $24.99 |
+
+**Total: $1,593.88**
+
+<details><summary>Why it's laid out this way</summary>
+
+Alternative, 2026-10-26, for Andrew's "compar with [the VOXLÖV], what's diff": a's room with the VOXLÖV dining table in light bamboo (ikea-40434322, $499.99, in stock at Long Island) in the LISABO's place, across the room, x 30-100.875, y 57.625-93, with a's four LISABO ash/Tallmyra chairs (a VOXLÖV chair exists; not opened). 7 7/8" shorter and 4 5/8" wider than the LISABO (about the same surface): the width comes off the chair sides, 27.6" on the living-room side (the chairs there push back into the walkway by about 14"; the LISABO leaves 32.25") and 26" under the buffet (tight:27.6, tight:26, F-36); its inset legs leave the short ends free for a seat, and the right end has 27" of floor, enough to sit but short to push back, so no fifth chair is drawn. Rounded corners (no corner guards needed, F-21) and a smooth, wipeable bamboo top are its kid points; bamboo is a yellow-blond close to the honey-oak floor, so it blends where the gray-blond ash contrasts, and its plain, fine grain is a quieter look than the LISABO's bold ash and tapered birch legs, which match the living room's UGGLERUM and POÄNG. $150 more; 4.7 stars (226) against the LISABO's 4.6 (117); one 79 lb package. Everything else as in a: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).
+Total $1,593.88: placed $1,534.94 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
+Flags across the layout: tight:27.6 (the living-room side), tight:26 (the wall side).
+
+
+</details>
+
 ## Master bedroom
 
 ### A · Staged, rugless: the RÅDMANSÖ king on the bathroom wall with a RÅDMANSÖ nightstand on each side under matching wall lamps, a pine bench at the foot  (staged)

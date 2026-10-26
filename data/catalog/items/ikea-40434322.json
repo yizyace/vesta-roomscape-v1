@@ -1,0 +1,41 @@
+{
+  "id": "ikea-40434322",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/voxloev-dining-table-light-bamboo-40434322/",
+  "name": "VOXLÖV Dining table, light bamboo, 70 7/8x35 3/8 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 499.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 70.875,
+    "d": 35.375,
+    "h": 29.5,
+    "raw": "Length 70 7/8 \"; Width 35 3/8 \"; Height 29 1/2 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Length -> w, Width -> d, Height -> h)"
+  },
+  "images": [
+    {
+      "file": "ikea-40434322-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/voxloev-dining-table-light-bamboo__0997396_pe822660_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew's link to compare with the LISABO (2026-10-26: \"compar with ... voxloev ... what's diff\"): dining-room k. Flags: tight:26 and tight:27.6 (F-36, below). Fit: across the room like the staged LISABO, x 30-100.875 and y 57.625-93, it leaves 27.6\" on the living-room side (the LISABO 32.25\": its 35 3/8\" width takes 4 5/8\" from the chairs) and 26\" under the buffet, 27\" of floor at the right wall where its inset legs would allow a seat but the push-back room is short; along the room's depth, 31.3\" on each chair side and 18\" to the bottom wall. 7 7/8\" shorter and 4 5/8\" wider than the LISABO, about the same surface. Light bamboo top, smooth and easy to wipe (its page), rounded corners (\"a safe choice when living with children\"), no legs at the short sides, so an end seat is comfortable; bamboo may change color over time; designer Francis Cayouette (the RÅDMANSÖ's). Color: a yellow-blond close to the honey-oak floor, so it blends more than the gray-blond ash; the bold ash grain and tapered birch legs of the LISABO are the living room's UGGLERUM and POÄNG language. One package 71 1/2 x 37 x 3\", 79 lb 2 oz. In stock at IKEA Long Island, NY; click and collect; home delivery (2026-10-26). 4.7 stars (226). $150 more than the LISABO's $349.99.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
