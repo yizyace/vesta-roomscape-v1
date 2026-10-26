@@ -168,8 +168,9 @@ describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
   });
 
   // The living room's sofa has a chaise, at least 3 seats, on open legs (Andrew, 2026-10-25; vesta
-  // rules.md F-67): every variant places a chaise and a sofa piece it joins, and every sofa piece there
-  // stands on an open base.
+  // rules.md F-67): every variant places a chaise, either a sofa with a built-in chaise (60" wide or
+  // more, like IKEA's "Sofa, with chaise", Andrew's cart of 2026-10-26) or a chaise add-on with a sofa
+  // piece it joins, and every sofa piece there stands on an open base.
   it("every living-room variant has a chaise sofa on an open base", () => {
     const catalog = new Map(items.parsed.map(({ value }) => [value.id, value]));
     const living = layouts.parsed.filter(({ value }) => value.room === "living-room");
@@ -179,7 +180,10 @@ describe.skipIf(!existsSync(LAYOUTS_DIR))("layouts/", () => {
       const chaises = sofas.filter((p) => catalog.get(p.itemId)?.tags.includes("chaise"));
       return [
         ...(chaises.length === 0 ? [`${file}: no chaise`] : []),
-        ...(sofas.length - chaises.length === 0 ? [`${file}: no sofa piece for the chaise to join`] : []),
+        ...(sofas.length - chaises.length === 0 &&
+        !chaises.some((p) => (catalog.get(p.itemId)?.dimensions?.w ?? 0) >= 60)
+          ? [`${file}: no sofa piece for the chaise to join (a chaise add-on alone, under 60" wide)`]
+          : []),
         ...sofas
           .filter((p) => !catalog.get(p.itemId)?.tags.includes("open-base"))
           .map((p) => `${file}: placement "${p.id}" ("${p.itemId}") has no open base`),
