@@ -10,8 +10,8 @@ import { HttpError, errorMessage } from "./errors.ts";
 import { imagesDir, itemFile } from "./paths.ts";
 import { listFileNames, withLock, writeFileAtomic } from "./store.ts";
 
-/** Image hosts, each allowing itself and its subdomains. */
-export const ALLOWED_IMAGE_HOSTS = ["ikea.com", "media-amazon.com", "ssl-images-amazon.com", "costco.com", "upliftdesk.com"] as const;
+/** Image hosts, each allowing itself and its subdomains (vari.com since 2026-10-26, on Andrew's word). */
+export const ALLOWED_IMAGE_HOSTS = ["ikea.com", "media-amazon.com", "ssl-images-amazon.com", "costco.com", "upliftdesk.com", "vari.com"] as const;
 
 /**
  * Folders on a shared image CDN, each one exact host and a path: a vendor whose photos live on its

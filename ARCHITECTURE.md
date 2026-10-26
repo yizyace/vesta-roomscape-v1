@@ -358,7 +358,7 @@ resolved against the directory npm was started in (`INIT_CWD`).
 ## Images
 
 `server/images.ts`: https only, no credentials in the URL, and a host that is `ikea.com`,
-`media-amazon.com`, `ssl-images-amazon.com`, `costco.com` or `upliftdesk.com`, or a subdomain of one
+`media-amazon.com`, `ssl-images-amazon.com`, `costco.com`, `upliftdesk.com` or `vari.com` (Andrew, 2026-10-26), or a subdomain of one
 (`ALLOWED_IMAGE_HOSTS`), or a path inside one vendor's folder on a shared CDN, on that exact host
 (`ALLOWED_IMAGE_FOLDERS`: UPLIFT's BigCommerce store, `cdn11.bigcommerce.com/s-l85bzww3lo/`, where its
 product photos live; Andrew, 2026-10-24).
@@ -392,7 +392,7 @@ phone after the deploy. To drag in the editor without touching `data/`, run `npm
 
 ## Versioning
 
-`package.json` `version` (0.2.10 today: the phone layout, a selection's sheet and the plan's zoom, after Andrew found the published copy hard to use on a phone; 0.2.9 `landing` on a door or closet, a landing shallower than 36" where Andrew agreed to one, the master bedroom's bathroom door at 30"; 0.2.8 `railing` on stairs, so the floor along the living room's railing stays clear its whole length; 0.2.7 stairs that run beyond their wall, `side: "out"`, so the living room's measured floor is whole and only a 36" landing at each end of its stairs is kept clear; 0.2.6 UPLIFT's photos allowed, `upliftdesk.com` and its store's CDN folder; 0.2.5 L-shaped footprints, `dimensions.notch`, so the chair at an L-desk stands in its corner instead of on a rectangle drawn around it; 0.2.4 a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
+`package.json` `version` (0.2.11 today: Vari's photos allowed, `vari.com` on the image allowlist, on Andrew's word of 2026-10-26; 0.2.10 the phone layout, a selection's sheet and the plan's zoom, after Andrew found the published copy hard to use on a phone; 0.2.9 `landing` on a door or closet, a landing shallower than 36" where Andrew agreed to one, the master bedroom's bathroom door at 30"; 0.2.8 `railing` on stairs, so the floor along the living room's railing stays clear its whole length; 0.2.7 stairs that run beyond their wall, `side: "out"`, so the living room's measured floor is whole and only a 36" landing at each end of its stairs is kept clear; 0.2.6 UPLIFT's photos allowed, `upliftdesk.com` and its store's CDN folder; 0.2.5 L-shaped footprints, `dimensions.notch`, so the chair at an L-desk stands in its corner instead of on a rectangle drawn around it; 0.2.4 a 36" landing kept clear in front of every door and closet, F-31, in place of the 24" before closets only, which a closet's own swing swallowed; 0.2.3 the read-only copy, `npm run build:pages`, for GitHub Pages; 0.2.2 kept a 30" walkway clear along an opening, F-42, and stopped a click from nudging a piece onto the grid; 0.2.1 made an item's `d` optional for flat things, curtains and posters, which only hang on a wall). Below 1.0.0 the minor number stands in for the major, so a
 data-shape change goes from 0.x to 0.(x+1):
 
 - **patch**: a fix, with no change to any file's shape;

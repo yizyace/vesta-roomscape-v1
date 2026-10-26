@@ -41,6 +41,11 @@ describe("isAllowedImageUrl", () => {
     ["https://images-na.ssl-images-amazon.com/images/I/x.jpg", true],
     ["https://www.costco.com/x.jpg", true],
     ["https://www.upliftdesk.com/x.png", true],
+    // Vari's photos are served by its own site (Andrew, 2026-10-26: "yes").
+    ["https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Sites-vari-master/default/x/402451.jpg", true],
+    ["https://vari.com/x.jpg", true],
+    ["https://vari.com.evil.com/x.jpg", false],
+    ["https://notvari.com/x.jpg", false],
     // UPLIFT's photos live in its own folder on BigCommerce's CDN: that folder only (Andrew, 2026-10-24).
     ["https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280w/products/859/36448/x.png", true],
     ["https://cdn11.bigcommerce.com/s-otherstore/images/x.png", false],
