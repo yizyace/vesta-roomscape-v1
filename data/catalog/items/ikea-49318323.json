@@ -15,7 +15,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "rejected",
+  "status": "shortlisted",
   "price": {
     "amount": 1199,
     "currency": "USD",
@@ -25,11 +25,16 @@
     "w": 96.125,
     "d": 62.25,
     "h": 31.875,
+    "notch": {
+      "w": 65.375,
+      "d": 26,
+      "side": "left"
+    },
     "raw": "Width: 96 1/8 \"; Height: 31 7/8 \"; Seat depth, chaise lounge: 50 3/8 \"; Armrest height: 26 3/8 \"; Height including back cushions: 31 7/8 \"; Backrest height: 26 3/8 \"; Depth chaise: 62 1/4 \"; Depth: 36 1/4 \"; Height under furniture: 6 1/4 \"; Armrest width: 5 1/8 \"; Seat width: 85 7/8 \"; Seat depth: 24 \"; Seat height: 18 1/2 \"",
-    "source": "IKEA Measurements tab, read in Chrome 2026-10-25 (w x d is the outline; the chaise's side was not recorded, so no notch)"
+    "source": "IKEA Measurements tab, read in Chrome 2026-10-25 (w x d is the outline; the chaise's side was not recorded, so no notch); notch (96 1/8 - 30 3/4) x (62 1/4 - 36 1/4) = 65 3/8 x 26 on the left seen from the front, the chaise on the right, as the staged layouts build it (2026-10-26)"
   },
   "images": [],
-  "notes": "Rejected 2026-10-25, a duplicate: opened to see how the chaise add-on joins a sofa. It is \"1 x Loveseat frame - MORABO ; 1 x Chaise section frame - MORABO\" as one article, the loveseat ikea-29318319 plus the chaise add-on ikea-09318315 at the same $1,199.00. The layouts place the two pieces, so every MORABO chaise is drawn the same way (living-room d). In stock at IKEA Long Island, NY (2026-10-25).",
+  "notes": "In Andrew's IKEA cart, qty 1 (2026-10-26): shortlisted on that, and staged as one piece in living-room a and e in place of the U, the 5-seat corner ikea-99318311 with the chaise add-on ikea-09318315 ($2,449.00; now living-room f): the largest that fits gave way to his pick (F-67, revised 2026-10-26). Drawn with its notch: the loveseat's front corner is free, 65 3/8 x 26\", and the chaise, 30 3/4\" wide and 62 1/4\" deep, is on the right seen from the front, as a and e place it, toward the stairs; the chaise section can be built on the left end instead (one loveseat frame and one chaise section frame, the loose armrest on the chaise's outer end), and then the notch mirrors. Delivery (F-22): the chaise section's box is 64 1/2 x 32 1/4 x 21 1/2\" at 69 lb 4 oz (ikea-09318315); the loveseat frame's box is 69 x 37 x 21\" at 115 lb 12 oz (ikea-29318319). Earlier record: Rejected 2026-10-25, a duplicate: opened to see how the chaise add-on joins a sofa. It is \"1 x Loveseat frame - MORABO ; 1 x Chaise section frame - MORABO\" as one article, the loveseat ikea-29318319 plus the chaise add-on ikea-09318315 at the same $1,199.00. The layouts place the two pieces, so every MORABO chaise is drawn the same way (living-room d). In stock at IKEA Long Island, NY (2026-10-25).",
   "captured": {
     "date": "2026-10-25",
     "by": "claude",

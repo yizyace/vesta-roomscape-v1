@@ -1,0 +1,46 @@
+{
+  "id": "ikea-50611022",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/bekvaem-step-stool-rubberwood-50611022/",
+  "name": "BEKVÄM Step stool, rubberwood, 19 5/8 \"",
+  "brand": "IKEA",
+  "category": "stool",
+  "tags": [
+    "kitchen",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 34.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 16.875,
+    "d": 15.375,
+    "h": 19.625,
+    "raw": "Width 16 7/8 \"; Depth 15 3/8 \"; Height 19 5/8 \"; Max. load 220 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Width -> w, Depth -> d, Height -> h)"
+  },
+  "images": [
+    {
+      "file": "ikea-50611022-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/bekvaem-step-stool-rubberwood__1389752_pe965251_s5.jpg",
+      "caption": "main"
+    },
+    {
+      "file": "ikea-50611022-2.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/bekvaem-step-stool-rubberwood__1433380_pe983214_s5.jpg",
+      "caption": "second"
+    }
+  ],
+  "notes": "In Andrew's IKEA cart, qty 1 (2026-10-26): shortlisted on that. Flags: none. Fit: the kitchen's list (F-41; the kitchen is unmeasured): a two-step stool, 16 7/8 x 15 3/8\" on the floor and 19 5/8\" to its top step, for the upper cabinets, and a seat. The bathroom's list keeps the BOLMEN ikea-30574431, one 9 7/8\" step for Maddie at the sink, unless this one serves both rooms. Solid rubberwood with a clear acrylic lacquer, a hand-hole in the top step, max. load 220 lb; IKEA says to re-tighten the screws now and then. One package 20 x 15 ¾ x 2 ¾\", 10 lb 2 oz. In stock at IKEA Long Island, NY; click and collect free; home delivery available (2026-10-26). 4.6 stars (3975).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

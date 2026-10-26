@@ -1,0 +1,46 @@
+{
+  "id": "ikea-69598638",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/radmansoe-bed-frame-brown-walnut-effect-luroey-s69598638/",
+  "name": "RÅDMANSÖ Bed frame, brown walnut effect/Luröy, King",
+  "brand": "IKEA",
+  "category": "bed",
+  "tags": [
+    "bedroom",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 399,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 79.125,
+    "d": 87.375,
+    "h": 40.5,
+    "raw": "Length 87 3/8 \"; Width 79 1/8 \"; Footboard height 15 3/4 \"; Mattress length 79 1/2 \"; Mattress width 76 \"; Height under furniture 7 7/8 \"; Max. headboard height 40 1/2 \"; Min. headboard height 38 5/8 \"",
+    "source": "IKEA Measurements section, King with Luröy selected, read in Chrome 2026-10-26 (Width -> w, Length -> d, h the maximum headboard height); the same frame as ikea-20601053, sold with the LURÖY slatted base"
+  },
+  "images": [
+    {
+      "file": "ikea-69598638-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/radmansoe-bed-frame-brown-walnut-effect-luroey__1474366_pe998029_s5.jpg",
+      "caption": "main"
+    },
+    {
+      "file": "ikea-69598638-2.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/radmansoe-bed-frame-brown-walnut-effect-luroey__1397227_pe967509_s5.jpg",
+      "caption": "second"
+    }
+  ],
+  "notes": "In Andrew's IKEA cart, qty 1 (2026-10-26): shortlisted on that. The set article: 1 x Bed frame RÅDMANSÖ King 206.010.53 (the frame alone is the rejected ikea-20601053, $339.00) and 1 x Slatted bed base LURÖY King 501.602.13. Flags: tight:20.9 (F-34, below). Delivery (F-22): three flat packages, 81 ½ x 17 ½ x 4 ¾\" at 68 lb 9 oz, 82 x 7 ½ x 4 ¼\" at 46 lb 4 oz, and the LURÖY 38 x 9 ¾ x 4\" at 35 lb 4 oz, none over 30 x 80\" on its two smallest sides, so no delivery flag. Fit (master-bedroom a and h, re-staged 2026-10-26 on Andrew's cart): headboard end on the right wall, the one wall a king fits, its frame from the bathroom door's 30\" landing (y 103, F-31) up to y 23.875: 20 7/8\" from the heater's face to the frame on the window side and 22 3/8\" to the mattress (F-33: 12\" for bedding), under F-34's 24\" for getting in (tight:20.9); the Mellow king amazon-B07DZWWJ92, 3 5/8\" narrower, kept 24\" and is master-bedroom i. The VIHALS nightstand ikea-80488737 still fits the window side, 6\" off the heater's face and 1/4\" off the frame; the RÅDMANSÖ nightstand ikea-80593597 does not (it needs 27 1/4\" there). 87 3/8\" long, its foot stands at x 89.625, 7 7/8\" further into the room than the Mellow's. Sloped headboard mountable at two heights (38 5/8\" or 40 1/2\"); legs recessed from the corners; powder-coated finish with brass details; 7 7/8\" under it. Mattress 76 x 79 1/2\": the staged VALEVÅG King ikea-40511853, which this page offers under Complete with. In stock at IKEA Long Island, NY; click and collect free; home delivery from $39.00 (2026-10-26). 3.6 stars (72); assembly service $74.10.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

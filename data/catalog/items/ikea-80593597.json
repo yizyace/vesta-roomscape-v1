@@ -1,0 +1,47 @@
+{
+  "id": "ikea-80593597",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/radmansoe-nightstand-brown-walnut-effect-80593597/",
+  "name": "RÅDMANSÖ Nightstand, brown walnut effect, 21 1/4x15 1/8x22 7/8 \"",
+  "brand": "IKEA",
+  "category": "nightstand",
+  "tags": [
+    "bedroom",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 21.25,
+    "d": 15.125,
+    "h": 22.875,
+    "raw": "Width 21 1/4 \"; Depth 15 1/8 \"; Height 22 7/8 \"; Height under furniture 12 5/8 \"; Drawer width (inside) 18 \"; Drawer depth (inside) 11 \"; Height of drawer (inside) 3 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Width -> w, Depth -> d, Height -> h)"
+  },
+  "images": [
+    {
+      "file": "ikea-80593597-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/radmansoe-nightstand-brown-walnut-effect__1384141_pe962860_s5.jpg",
+      "caption": "main"
+    },
+    {
+      "file": "ikea-80593597-2.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/radmansoe-nightstand-brown-walnut-effect__1416653_pe975659_s5.jpg",
+      "caption": "second"
+    }
+  ],
+  "notes": "In Andrew's IKEA cart, qty 2 (2026-10-26), with the RÅDMANSÖ king ikea-69598638: shortlisted on that. Flags: none (22 7/8\" tall, under F-21's 27\"; no glass). Fit (master-bedroom): it cannot stand beside the king on either side. The window side has 20 7/8\" between the heater's face and the RÅDMANSÖ king's frame, and this needs 27 1/4\" there (its 21 1/4\" front along the head wall plus F-33's 6\" off the heater); turned, with its 15 1/8\" along the wall, its drawer would open against the bed's side. The bathroom side is the door's 30\" landing (F-31). So in a and h one stands beside the POÄNG reading chair on the left wall in place of the LACK side table (15 1/8\" off the wall, 21 1/4\" along it), its drawer and shelf for the chair, and the second has no place in the master bedroom. A drawer with a brass-look knob, an open shelf, cable management for a lamp or a phone charger, black metal legs with 12 5/8\" under; contract grade; designer Francis Cayouette. One package 22 ½ x 14 ¾ x 4 ¾\", 28 lb 6 oz. Out of stock at IKEA Long Island, NY and unavailable for click and collect; home delivery available (2026-10-26). 4.3 stars (109).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

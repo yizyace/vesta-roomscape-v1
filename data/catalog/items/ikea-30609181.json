@@ -13,7 +13,7 @@
   "rooms": [
     "maddie-room"
   ],
-  "status": "candidate",
+  "status": "shortlisted",
   "price": {
     "amount": 99.99,
     "currency": "USD",
@@ -32,7 +32,7 @@
       "sourceUrl": "https://www.ikea.com/us/en/images/products/flisat-childrens-desk-height-adjustable-green__1447837_pe989277_s5.jpg"
     }
   ],
-  "notes": "Flags: none. Fit: maddie-room top wall, 118\" (106\" usable: F-33 keeps furniture 6\" off the right wall's heater, drawn 6\" deep): leaves 67.75\"; 25.6\" deep plus 30\" behind for the chair (F-35) uses 55.6\" of the room's 122\" · fits. On the left wall it would face the heater wall, which F-35 rules out for a child's desk. Top height adjusts to 3 settings, 23 1/4\" to 30 3/8\" (52, 61 and 71 cm per the page); h is the maximum. Tilting top and a MÅLA paper-roll holder. Its matching FLISAT child's bench (ikea-90609178) was unavailable on 2026-10-22; SUNDVIK chair (ikea-60196358) is the in-stock seat. Variant: height adjustable/green (no color picker on the page). Popularity: #1 under Kids desks sorted Most popular; 4.6 stars (23). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
+  "notes": "In Andrew's IKEA cart, qty 1 (2026-10-26): shortlisted on that; staged in maddie-room a and e as before. Flags: none. Fit: maddie-room top wall, 118\" (106\" usable: F-33 keeps furniture 6\" off the right wall's heater, drawn 6\" deep): leaves 67.75\"; 25.6\" deep plus 30\" behind for the chair (F-35) uses 55.6\" of the room's 122\" · fits. On the left wall it would face the heater wall, which F-35 rules out for a child's desk. Top height adjusts to 3 settings, 23 1/4\" to 30 3/8\" (52, 61 and 71 cm per the page); h is the maximum. Tilting top and a MÅLA paper-roll holder. Its matching FLISAT child's bench (ikea-90609178) was unavailable on 2026-10-22; SUNDVIK chair (ikea-60196358) is the in-stock seat. Variant: height adjustable/green (no color picker on the page). Popularity: #1 under Kids desks sorted Most popular; 4.6 stars (23). Stock 2026-10-22: in stock at IKEA Long Island, NY.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",
