@@ -1,0 +1,42 @@
+{
+  "id": "ikea-90561044",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lisabo-chair-ash-tallmyra-white-black-90561044/",
+  "name": "LISABO Chair, ash/Tallmyra white/black",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "dining",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 90,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 18.125,
+    "d": 20.125,
+    "h": 31.5,
+    "raw": "Width 18 1/8 \"; Depth 20 1/8 \"; Height 31 1/2 \"; Seat width 17 3/4 \"; Seat depth 15 3/8 \"; Seat height 18 7/8 \"; Tested for 243 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Width -> w, Depth -> d, Height -> h)"
+  },
+  "images": [
+    {
+      "file": "ikea-90561044-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lisabo-chair-ash-tallmyra-white-black__1243660_pe920705_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "The chair of the LISABO set Andrew linked (2026-10-26), four of them with the LISABO 78 3/4\" table ikea-10563773 in dining-room a (\"only get 4 chairs\"; more later). Flags: none. Ash frame, a Tallmyra white/black upholstered seat (a gray tweed that ties to the living room's Gunnared dark gray sofa); the all-ash LISABO chair ikea-00457235 ($80, not opened) is the wipe-clean version for a 4-year-old's spills. Seat height 18 7/8\" under the 29 1/8\" table. One package 33 x 26 3/4 x 5 1/4\", 14 lb 5 oz. In stock at IKEA Long Island, NY; click and collect; home delivery (2026-10-26). 4.7 stars (298).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

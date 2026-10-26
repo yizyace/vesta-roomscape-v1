@@ -1,0 +1,139 @@
+{
+  "room": "dining-room",
+  "variant": "g",
+  "name": "TARSELE oak/black, extendable 59 to 78 3/4, closed for the day with a seat at the end, four LISABO chairs",
+  "updatedAt": "2026-10-26T21:09:37.254Z",
+  "notes": "Alternative, 2026-10-26, for Andrew's larger table: a's room with the TARSELE extendable table, oak veneer on black legs (ikea-70581359, $699.99), drawn closed at 59 x 31.5\" (x 63.25-94.75, y 30-89): 30\" to the bottom wall, so Maddie's URBAN sits at the end (x 70.1-89, y 90-108.9), and 33.25\" on each long side with two LISABO ash/Tallmyra chairs a side (x 42.125 and 95.75; tight:33.25, F-36). open to 78 3/4\" for guests it stands like the LISABO, its end 10 1/4\" from the bottom wall (the leaf stores inside); the oak top is the tone of the honey-oak floor and the maple kitchen, the black legs the sofa's note; twice the LISABO's price. Not stocked at Long Island, an online order. Everything else as in a: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,855.86: placed $1,794.93 + extras $60.93; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:33.25 (F-36).\n",
+  "placements": [
+    {
+      "id": "table-1",
+      "itemId": "ikea-70581359",
+      "x": 63.25,
+      "y": 30,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "TARSELE extendable table, oak veneer on black legs drawn closed at 59 along the room's depth, its living-room end on the walkway's edge; open to 78 3/4\" for guests it stands like the LISABO, its end 10 1/4\" from the bottom wall (the leaf stores inside); the oak top is the tone of the honey-oak floor and the maple kitchen, the black legs the sofa's note; twice the LISABO's price."
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-90561044",
+      "x": 95.75,
+      "y": 35.9375,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-90561044",
+      "x": 95.75,
+      "y": 64.9375,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table"
+    },
+    {
+      "id": "chair-3",
+      "itemId": "ikea-90561044",
+      "x": 42.125,
+      "y": 35.9375,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the kitchen side, 1in off the table"
+    },
+    {
+      "id": "chair-4",
+      "itemId": "ikea-90561044",
+      "x": 42.125,
+      "y": 64.9375,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the kitchen side, 1in off the table"
+    },
+    {
+      "id": "junior-chair-1",
+      "itemId": "ikea-00165213",
+      "x": 70.125,
+      "y": 90,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "Maddie's URBAN at the table's bottom end, which the closed table leaves room for"
+    },
+    {
+      "id": "pendant-1",
+      "itemId": "ikea-90603869",
+      "x": 70.125,
+      "y": 50.625,
+      "rotation": 0,
+      "layer": "top",
+      "note": "GULLSUDARE on the HAVSRIS swag cord, hooked over the table's center (79, 59.5)"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-99623151",
+      "x": 36.6875,
+      "y": 110.375,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, centered on the table on the bottom wall and floated as a buffet with its underside about 33\" up (top about 48\"), above the chairs' 31 1/8\" backs; push-open doors, on its suspension rails into studs (F-63)"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-20601915",
+      "x": 48.5,
+      "y": 117.75,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BLODFLÄDER centered above the buffet, about 54 to 85 1/2\" up: the focal point from the living room"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-20610854",
+      "x": 39.09375,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's left end, centered between the canvas and the buffet's end (2.4\" to each), center about 60\" up, plug-in, cord in a cover"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 98.15625,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's right end; as lamp-1"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 117,
+      "y": 108,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise in the bottom-right corner, the far corner from both openings, so it walls off nothing"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80490052",
+      "qty": 1,
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the shade's bottom about 30in above the top; the cord along the ceiling to the right or bottom wall and down in a cover, never across an open side; the ceiling box is unknown"
+    },
+    {
+      "itemId": "ikea-40533063",
+      "qty": 1,
+      "note": "SVARTSENAP runner, natural cotton, machine washable"
+    },
+    {
+      "itemId": "ikea-70527961",
+      "qty": 5,
+      "note": "SVARTSENAP placemats, one per seat with Maddie's, machine washable (online minimum 4)"
+    },
+    {
+      "itemId": "ikea-60214343",
+      "qty": 1,
+      "note": "BLANDA MATT 11in bamboo bowl, the centerpiece, unbreakable"
+    }
+  ]
+}

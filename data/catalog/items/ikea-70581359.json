@@ -1,0 +1,41 @@
+{
+  "id": "ikea-70581359",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/tarsele-extendable-table-oak-veneer-black-70581359/",
+  "name": "TARSELE Extendable table, oak veneer/black, 59/78 3/4x31 1/2 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 699.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 59,
+    "d": 31.5,
+    "h": 30.375,
+    "raw": "Length 59 \"; Max. length 78 3/4 \"; Width 31 1/2 \"; Height 30 3/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Length closed -> w, Width -> d, Height -> h; open 78 3/4\")"
+  },
+  "images": [
+    {
+      "file": "ikea-70581359-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tarsele-extendable-table-oak-veneer-black__0916857_pe785431_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "An alternative for Andrew's larger dining table (2026-10-26): dining-room g. Flags: none closed, tight:33.25 open (F-36). Fit: along the room's depth, closed 59\" it leaves 30\" to the bottom wall for a seat at the end and 33.25\" on each long side (x 63.25-94.75); open to 78 3/4\" it stands like the LISABO, its end 10 1/4\" from the bottom wall. Oak veneer top (fiberboard with oak veneer) on black legs: the top the tone of the honey-oak floor and the maple kitchen, the legs the sofa's dark note; the leaf stores inside. Three packages (33 x 33 x 4 3/4\" at 67 lb 4 oz, 33 x 29 1/4 x 5 1/4\" at 24 lb 15 oz, 62 x 5 x 3\" at 16 lb 16 oz). Not stocked at IKEA Long Island, NY; order online for delivery (2026-10-26). 4.6 stars (146). Twice the LISABO's price for the table alone.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

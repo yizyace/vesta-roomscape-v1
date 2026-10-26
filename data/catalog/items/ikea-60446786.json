@@ -1,0 +1,42 @@
+{
+  "id": "ikea-60446786",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lisabo-chair-black-60446786/",
+  "name": "LISABO Chair, black",
+  "brand": "IKEA",
+  "category": "chair",
+  "tags": [
+    "dining",
+    "seating",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 80,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 18.125,
+    "d": 20.125,
+    "h": 31.5,
+    "raw": "Width 18 1/8 \"; Depth 20 1/8 \"; Height 31 1/2 \"; Seat width 17 3/8 \"; Seat depth 15 3/8 \"; Seat height 17 3/4 \"; Tested for 243 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Width -> w, Depth -> d, Height -> h)"
+  },
+  "images": [
+    {
+      "file": "ikea-60446786-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lisabo-chair-black__0786548_pe763014_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "The black LISABO chair with a wooden seat (the black set s89545093's chair), four of them with the black LISABO table in dining-room f. Flags: none. Seat height 17 3/4\", a wipe-clean seat for a 4-year-old's spills. One package 32 x 26 1/2 x 5 1/4\", 13 lb 4 oz. In stock at IKEA Long Island, NY; click and collect; home delivery (2026-10-26). 4.4 stars (975).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ikea-69554842",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lisabo-lisabo-table-and-6-chairs-ash-tallmyra-white-black-s69554842/",
+  "name": "LISABO / LISABO Table and 6 chairs, ash/Tallmyra white/black, 78 3/4x30 3/4 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 889.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 78.75,
+    "d": 30.75,
+    "h": 29.125,
+    "raw": "Length 78 3/4 \"; Width 30 3/4 \" (the set's Measurements; the table's own page gives Height 29 1/8 \")",
+    "source": "IKEA Measurements section of the set, read in Chrome 2026-10-26"
+  },
+  "images": [],
+  "notes": "Andrew's link (2026-10-26). Rejected 2026-10-26 as the set: it is the LISABO table ikea-10563773 ($349.99) and six LISABO chairs ikea-90561044 ($90.00 each) at the same price, and he wants four chairs now (\"only get 4 chairs. i.e. we can add more chairs next time\"). Eight packages. Not stocked at IKEA Long Island, NY; order online for delivery.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

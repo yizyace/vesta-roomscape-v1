@@ -1,0 +1,42 @@
+{
+  "id": "ikea-00565758",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/skansnaes-extendable-table-brown-beech-veneer-00565758/",
+  "name": "SKANSNÄS Extendable table, brown beech/veneer, 59/80 3/4x35 3/8 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining",
+    "needs-assembly",
+    "best-seller"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 799.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 59,
+    "d": 35.375,
+    "h": 29.5,
+    "raw": "Height 29 1/2 \"; Length 59 \"; Max. length 80 3/4 \"; Width 35 3/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Length closed -> w, Width -> d, Height -> h; open 80 3/4\")"
+  },
+  "images": [
+    {
+      "file": "ikea-00565758-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/skansnaes-extendable-table-brown-beech-veneer__1262376_pe927062_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "An alternative for Andrew's larger dining table (2026-10-26): dining-room h. Flags: tight:31.3 (F-36). Fit: along the room's depth, closed 59\" it leaves 30\" to the bottom wall and 31.3\" on each long side (x 61.3-96.7, its 35 3/8\" width the widest here); open to 80 3/4\" its end reaches the floating buffet's face (the top passes under the buffet, 33\" up), so the leaf is for the buffet-less room or a guest night with the chairs on the sides only. Brown beech veneer, curved legs: the warm mid-brown of the living room's walnut UGGLERUM and the bedroom's RÅDMANSÖ, the one table here that darkens the cream tile. Three packages (37 1/2 x 30 3/4 x 2 1/4\" at 49 lb 13 oz, 26 x 25 1/2 x 5\" at 40 lb 2 oz, 29 1/2 x 10 1/2 x 5\" at 20 lb 1 oz). In stock at IKEA Long Island, NY; click and collect; home delivery (2026-10-26). Best seller, 4.6 stars (73).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

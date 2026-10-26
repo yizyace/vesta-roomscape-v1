@@ -1,0 +1,41 @@
+{
+  "id": "ikea-20563782",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lisabo-table-black-ash-veneer-20563782/",
+  "name": "LISABO Table, black/ash veneer, 78 3/4x30 3/4 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 349.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 78.75,
+    "d": 30.75,
+    "h": 29.125,
+    "raw": "Length 78 3/4 \"; Width 30 3/4 \"; Height 29 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Length -> w, Width -> d, Height -> h)"
+  },
+  "images": [
+    {
+      "file": "ikea-20563782-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lisabo-table-black-ash-veneer__1221466_pe913819_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "The LISABO 78 3/4\" table in black (the ash veneer stained black): dining-room f, the dark version of a's ash table ikea-10563773. Flags: tight:33.6 (F-36, as a). Same footprint and fit as the ash. Black on the cream tile anchors the room and matches the sofa's Gunnared dark gray, but it shows crumbs and scratches on a table that is also a desk and a play surface. Two packages (80 1/4 x 32 1/4 x 2 1/4\" at 53 lb 13 oz). In stock at IKEA Long Island, NY; click and collect; home delivery (2026-10-26). 4.6 stars (117, shared with the ash).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

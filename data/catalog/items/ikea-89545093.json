@@ -1,0 +1,29 @@
+{
+  "id": "ikea-89545093",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lisabo-lisabo-table-and-6-chairs-black-black-s89545093/",
+  "name": "LISABO / LISABO Table and 6 chairs, black/black, 78 3/4 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 829.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Opened 2026-10-26 for the black LISABO's articles: the table 205.637.82 (ikea-20563782) and six chairs 604.467.86 (ikea-60446786). Rejected as the set (Andrew wants four chairs); its page's measurements were not read (dimensions: null; the parts carry theirs).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

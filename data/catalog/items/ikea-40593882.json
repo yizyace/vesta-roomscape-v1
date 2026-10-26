@@ -1,0 +1,41 @@
+{
+  "id": "ikea-40593882",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/tonstad-extendable-table-oak-veneer-40593882/",
+  "name": "TONSTAD Extendable table, oak veneer, 55 1/8/77 1/8x33 1/2 \"",
+  "brand": "IKEA",
+  "category": "table",
+  "tags": [
+    "dining",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 379.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 55.125,
+    "d": 33.5,
+    "h": 29.5,
+    "raw": "Height 29 1/2 \"; Length 55 1/8 \"; Max. length 77 1/8 \"; Width 33 1/2 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 (Length closed -> w, Width -> d, Height -> h; open 77 1/8\")"
+  },
+  "images": [
+    {
+      "file": "ikea-40593882-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/tonstad-extendable-table-oak-veneer__1467536_pe995761_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "An alternative for Andrew's larger dining table (2026-10-26): dining-room i, the budget extendable in light oak. Flags: tight:32.25 (F-36). Fit: along the room's depth, closed 55 1/8\" it leaves 33.9\" to the bottom wall and 32.25\" on each long side (x 62.25-95.75); open to 77 1/8\" its end is 11.9\" from the bottom wall. Oak veneer, a plain boxy frame: close to the kitchen's maple in tone. Two packages (60 1/4 x 9 1/2 x 4 1/4\" at 37 lb 10 oz, 35 1/2 x 29 x 2 1/2\" at 48 lb 6 oz). In stock at IKEA Long Island, NY; click and collect; home delivery (2026-10-26). 4.2 stars (178), the lowest of the four.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
