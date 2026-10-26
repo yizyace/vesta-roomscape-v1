@@ -109,7 +109,7 @@
       "id": "dining-room",
       "name": "Dining room",
       "sketch": "sources/2026-10-22-dining-kitchen-sketch-user.jpg",
-      "floor": "tile",
+      "floor": "wood",
       "walls": [
         {
           "name": "top",
@@ -166,7 +166,8 @@
       ],
       "notes": [
         "The left side is open to the kitchen and the top side to the living room; nothing stands against either (rules.md F-42).",
-        "Positions along walls are eyeballed from the sketch until measured."
+        "Positions along walls are eyeballed from the sketch until measured.",
+        "Wood floor, the living room's honey oak running through (Andrew, 2026-10-26: \"kitchen on tile, dining on wood\"); the sketch had marked the dining room tile."
       ]
     },
     {

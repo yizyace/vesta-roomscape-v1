@@ -1,0 +1,139 @@
+{
+  "room": "dining-room",
+  "variant": "j",
+  "name": "The LISABO turned across the room, parallel to the living room: 32in on the living-room side, 26in under the buffet",
+  "updatedAt": "2026-10-26T21:17:21.713Z",
+  "notes": "Alternative, 2026-10-26, for Andrew's question (\"why can't we flip the orientation of the table? can we?\"): a's LISABO 78 3/4\" ash turned across the room, parallel to the living room, x 30-108.75, y 62.25-93: its kitchen end on that walkway's edge (F-42), 19 1/4\" of dead floor at the right wall (no seat fits there), 32.25\" from its living-room side to that walkway's edge (the chairs there sit with their backs to the living room, 11\" inside the clearance, and push back into the walkway by about 9\" when someone stands up) and 26\" from its other side to the bottom wall (tight:26, F-36; those chairs push back under the floating buffet, 33\" up, and nobody passes behind them). Four chairs two a side; Maddie's URBAN between the living-room pair, where a parent on the walkway reaches her; six seats fit along the sides later.\nAgainst a (the table along the room's depth): 32 and 26\" on the chair sides instead of 33.6\" on both; the long side toward the living room, so the table reads wide from the sofa, instead of toward the kitchen; the cook steps from the kitchen to the table's end instead of its side; and the table runs across the oak floor's grain toward the kitchen's tile line instead of parallel to it. Both work; a keeps both walkways cleaner.\nEverything else as in a: the pendant over the table's center, the buffet drawn but not ordered, the art and lamps, the plant; no rug (F-66).\nTotal $1,505.86: placed $1,444.93 + extras $60.93; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\nFlags across the layout: tight:26 (the wall side, F-36).\n",
+  "placements": [
+    {
+      "id": "table-1",
+      "itemId": "ikea-10563773",
+      "x": 30,
+      "y": 62.25,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO 78 3/4 x 30 3/4in ash turned across the room, parallel to the living room: its kitchen end on that walkway's edge, 19 1/4in of dead floor at the right wall, 32.25in from its living-room side to that walkway's edge, 26in from its other side to the bottom wall under the buffet (tight:26)"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-90561044",
+      "x": 40.9375,
+      "y": 41.125,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the living-room side, its back to the walkway 11in behind it; pushing back enters the walkway by about 9in"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-90561044",
+      "x": 79.9375,
+      "y": 41.125,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the living-room side, its back to the walkway 11in behind it; pushing back enters the walkway by about 9in"
+    },
+    {
+      "id": "chair-3",
+      "itemId": "ikea-90561044",
+      "x": 40.9375,
+      "y": 94,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table, its back under the floating buffet when pushed back; nobody passes behind"
+    },
+    {
+      "id": "chair-4",
+      "itemId": "ikea-90561044",
+      "x": 79.9375,
+      "y": 94,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table, its back under the floating buffet when pushed back; nobody passes behind"
+    },
+    {
+      "id": "junior-chair-1",
+      "itemId": "ikea-00165213",
+      "x": 60.5,
+      "y": 42.375,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "Maddie's URBAN between the living-room-side chairs, her back to the walkway, where a parent reaches her"
+    },
+    {
+      "id": "pendant-1",
+      "itemId": "ikea-90603869",
+      "x": 60.5,
+      "y": 68.75,
+      "rotation": 0,
+      "layer": "top",
+      "note": "GULLSUDARE on the HAVSRIS swag cord, hooked over the table's center (69.4, 77.6)"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-99623151",
+      "x": 36.6875,
+      "y": 110.375,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, centered on the table on the bottom wall and floated as a buffet with its underside about 33\" up (top about 48\"), above the chairs' 31 1/8\" backs; push-open doors, on its suspension rails into studs (F-63)"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-20601915",
+      "x": 48.5,
+      "y": 117.75,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BLODFLÄDER centered above the buffet, about 54 to 85 1/2\" up: the focal point from the living room"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-20610854",
+      "x": 39.09375,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's left end, centered between the canvas and the buffet's end (2.4\" to each), center about 60\" up, plug-in, cord in a cover"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 98.15625,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's right end; as lamp-1"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 117,
+      "y": 108,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise in the bottom-right corner, the far corner from both openings, so it walls off nothing"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80490052",
+      "qty": 1,
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the shade's bottom about 30in above the top; the cord along the ceiling to the right or bottom wall and down in a cover, never across an open side; the ceiling box is unknown"
+    },
+    {
+      "itemId": "ikea-40533063",
+      "qty": 1,
+      "note": "SVARTSENAP runner, natural cotton, machine washable"
+    },
+    {
+      "itemId": "ikea-70527961",
+      "qty": 5,
+      "note": "SVARTSENAP placemats, one per seat with Maddie's, machine washable (online minimum 4)"
+    },
+    {
+      "itemId": "ikea-60214343",
+      "qty": 1,
+      "note": "BLANDA MATT 11in bamboo bowl, the centerpiece, unbreakable"
+    }
+  ]
+}
