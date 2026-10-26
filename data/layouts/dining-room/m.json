@@ -1,0 +1,139 @@
+{
+  "room": "dining-room",
+  "variant": "m",
+  "name": "With a two-piece washable rug: Tumble's Canyon Grey/Ivory 8x10 from Amazon, pad included, across the room under the LISABO and its chairs",
+  "updatedAt": "2026-10-26T23:04:11.444Z",
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing.\" Layout L with the two-piece system in place of IKEA's one-piece LOKALTÅG: Tumble's Canyon Grey/Ivory 8x10 ($399, cushioned pad included), spillproof face, washable at home. Same footprint across the room, x 8 to 128, y 23 to 119 (rot 90): the table and both chair rows on it pushed back, 7\" into the living-room walkway and 22\" into the kitchen's, which a rug may do (F-42). Color (F-68): a cool gray ground gives the pale ash LISABO its contrast and matches the gray seats; ivory motifs keep it light on the oak. Ruggable's flatwoven Cambria Abalone 8x10 is $579 with its pad; Tumble's Canyon Oatmeal/Grey is the warmer alternative. The staged A stays rugless until Eutine chooses. Andrew, later that night: \"tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\": the rug placed is the Amazon listing amazon-B0HCMZMMD5 ($399, ships in 4 to 5 days, free delivery November 9, as read 2026-10-26), the same set at the same price; Ruggable's flatwoven is judged not clearly better (thinner cover, $180 more per 8x10, made to order, the same robot-vacuum caveat), so Tumble it is (F-69).",
+  "placements": [
+    {
+      "id": "rug-1",
+      "itemId": "amazon-B0HCMZMMD5",
+      "x": 8,
+      "y": 23,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "a cool gray ground gives the pale ash table its contrast and matches the gray seats (F-68); in both walkways, which a rug may be (F-42)"
+    },
+    {
+      "id": "table-1",
+      "itemId": "ikea-10563773",
+      "x": 30,
+      "y": 62.25,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO 78 3/4 x 30 3/4in ash turned across the room, parallel to the living room: its kitchen end on that walkway's edge, 19 1/4in of dead floor at the right wall, 32.25in from its living-room side to that walkway's edge, 26in from its other side to the bottom wall under the buffet (tight:26)"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-90561044",
+      "x": 40.9375,
+      "y": 41.125,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the living-room side, its back to the walkway 11in behind it; pushing back enters the walkway by about 9in"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-90561044",
+      "x": 79.9375,
+      "y": 41.125,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the living-room side, its back to the walkway 11in behind it; pushing back enters the walkway by about 9in"
+    },
+    {
+      "id": "chair-3",
+      "itemId": "ikea-90561044",
+      "x": 40.9375,
+      "y": 94,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table, its back under the floating buffet when pushed back; nobody passes behind"
+    },
+    {
+      "id": "chair-4",
+      "itemId": "ikea-90561044",
+      "x": 79.9375,
+      "y": 94,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table, its back under the floating buffet when pushed back; nobody passes behind"
+    },
+    {
+      "id": "pendant-1",
+      "itemId": "ikea-90603869",
+      "x": 60.5,
+      "y": 68.75,
+      "rotation": 0,
+      "layer": "top",
+      "note": "GULLSUDARE on the HAVSRIS swag cord, hooked over the table's center (69.4, 77.6)"
+    },
+    {
+      "id": "storage-1",
+      "itemId": "ikea-99623151",
+      "x": 36.6875,
+      "y": 110.375,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, centered on the table on the bottom wall and floated as a buffet with its underside about 33\" up (top about 48\"), above the chairs' 31 1/8\" backs; push-open doors, on its suspension rails into studs (F-63)"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-20601915",
+      "x": 48.5,
+      "y": 117.75,
+      "rotation": 180,
+      "layer": "top",
+      "note": "BLODFLÄDER centered above the buffet, about 54 to 85 1/2\" up: the focal point from the living room"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-20610854",
+      "x": 39.09375,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's left end, centered between the canvas and the buffet's end (2.4\" to each), center about 60\" up, plug-in, cord in a cover"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-20610854",
+      "x": 98.15625,
+      "y": 114,
+      "rotation": 180,
+      "layer": "top",
+      "note": "VARPTROSS above the buffet's right end; as lamp-1"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-70610601",
+      "x": 117,
+      "y": 108,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA bird of paradise in the bottom-right corner, the far corner from both openings, so it walls off nothing"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "ikea-80490052",
+      "qty": 1,
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the shade's bottom about 30in above the top; the cord along the ceiling to the right or bottom wall and down in a cover, never across an open side; the ceiling box is unknown"
+    },
+    {
+      "itemId": "ikea-40533063",
+      "qty": 1,
+      "note": "SVARTSENAP runner, natural cotton, machine washable"
+    },
+    {
+      "itemId": "ikea-70527961",
+      "qty": 4,
+      "note": "SVARTSENAP placemats, one per chair, machine washable (online minimum 4)"
+    },
+    {
+      "itemId": "ikea-60214343",
+      "qty": 1,
+      "note": "BLANDA MATT 11in bamboo bowl, the centerpiece, unbreakable"
+    }
+  ]
+}

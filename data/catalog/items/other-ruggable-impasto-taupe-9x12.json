@@ -1,0 +1,34 @@
+{
+  "id": "other-ruggable-impasto-taupe-9x12",
+  "vendor": "other",
+  "url": "https://www.ruggable.com/products/impasto-taupe-rug",
+  "name": "Ruggable Impasto Taupe Flatwoven Rug and pad, 9x12",
+  "brand": "Ruggable",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 729,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 108,
+    "d": 144,
+    "raw": "SIZE 9'x12' (the size chooser; Rug & Pad System $729.00); Thickness: 2 mm (low); Rug Pad: Required, Standard or Cushioned",
+    "source": "the product page's size chooser and Specifications, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing\"; then \"What color / size for each room? tell me\". Ruggable Flatwoven Two-Piece (ruggable.com, read in Chrome 2026-10-26; no photo: the host is off the image allowlist): \"Our original 2-piece 2mm (~1/16\") low-pile system is made for high-traffic areas & low-clearance doors. All sizes home machine washable.\" Specifications: Construction Flatwoven; Rug Pad: Required, Standard or Cushioned; Backing: Cling Effect for the pad; Thickness 2 mm (low); Feel smooth, firm; Material 100% polyester. \"Machine-washable cover fits in a home washing machine, even in larger sizes\"; \"Robot vacuums are not recommended, as they may damage rug edges or corners\"; roll, don't fold, to store. Made to order, ships free in 1 to 2 weeks. The \"Rug & Pad System\" price shown with the size (the pad type is chosen at checkout and its surcharge, if any, was not read): 4x6 $209, 5x7 $239, 8x10 $579, 9x12 $729, the same on every flatwoven design read (Impasto, Cyrus, Cambria, Hendesi, Calabria); a \"Rug Cover\" alone is sold for owners of a pad. The page: \"a modern texture, like thick paint on canvas ... Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey\"; Ruggable's flatwoven best seller. The Ruggable alternative for the living room: a taupe-and-cream abstract field under the dark gray MORABO and the walnut UGGLERUM (F-68), more taupe than the Tumble Olivia's cool ivory, so a shade closer to the honey oak; $180 more than the Tumble with its pad.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

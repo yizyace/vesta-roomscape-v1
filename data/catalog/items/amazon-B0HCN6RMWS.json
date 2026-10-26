@@ -1,0 +1,45 @@
+{
+  "id": "amazon-B0HCN6RMWS",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HCN6RMWS",
+  "name": "Tumble Olivia Washable Area Rug | 9x12 Living Room Bedroom Area Rug",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 549,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 108,
+    "d": 144,
+    "raw": "Size 9x12' (the listing's overview row; one listing per size and color, no size chooser); Color Ivory/Neutral; Item Weight 50.9 pounds (rug and pad together)",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out, 3/8\" rug and pad together)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0HCN6RMWS-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91HdC49NLNL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage)"
+    },
+    {
+      "file": "amazon-B0HCN6RMWS-2.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/412o8z3YEDL._AC_SL1500_.jpg",
+      "caption": "second (Amazon gallery)"
+    }
+  ],
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing\"; \"What color / size for each room? tell me\"; \"oh nice, tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\"; \"I need tumble rugs on amazon (use browser) with correct color / size for the rooms\". The Amazon listing, read in Chrome 2026-10-26 (about 11 pm): its bullets say \"Machine washable & spillproof rugs: All of Tumble's machine washable rugs feature a protective spillproof surface that allows liquids and oils to bead up\" and \"Complete rug & pad set included: Every Tumble area rug includes a cushioned 1/4-inch, non slip rug pad\"; Material Polyester; Pile Height Low Pile. The maker's page (tumbleliving.com, same day): a 1/8\" rug on a 1/4\" EVA-and-TPR pad tucked into corner pockets, \"All rug sizes fit into a standard household washer and dryer\", cold wash, low dry, no robot vacuums (\"known to damage the rug's edges\"). Same prices as the maker's site (9x12 $549, 8x10 $399, 5x7 $199). Listing as read: Tumble Olivia Washable Area Rug | 9x12 Living Room Bedroom Area Rug, $549.00, Color Ivory/Neutral, In Stock; FREE delivery Tuesday, November 3. Maker's color notes: \"Light ivory ground is more cool toned than warm toned and casts as a very light grey in certain lighting. Accents are white, taupe, khaki, & brown\"; hand-drawn florals. THE PICK for the living room (F-68, F-69): a pale cool-ivory field lifts the dark gray MORABO and the walnut UGGLERUM off the honey oak; its taupe and khaki florals pick up the sage and off-white accents; sibling of the dining room's gray Canyon in one sightline. Footprint x 33 to 177, y 35 to 143 (rot 90), every leg of the sofa group on it. The other 9x12 Olivia (B0HCN21LSC) is Ash/Multi, darker and cooler, not taken. Maker's record: other-tumble-olivia-ivory-neutral-9x12.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

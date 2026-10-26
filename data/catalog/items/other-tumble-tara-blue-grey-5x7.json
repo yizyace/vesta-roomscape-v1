@@ -1,0 +1,34 @@
+{
+  "id": "other-tumble-tara-blue-grey-5x7",
+  "vendor": "other",
+  "url": "https://www.tumbleliving.com/products/tara-blue-grey",
+  "name": "Tumble Tara Blue/Grey washable rug and cushioned pad, 5x7",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "kids"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 199,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 84,
+    "raw": "Size: 5x7' (the size chooser's variant, $199); Rug thickness: 1/8\"; Rug pad thickness: 1/4\"",
+    "source": "the product page's size chooser and Specifications, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out, 3/8\" rug and pad together)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing\"; then \"What color / size for each room? tell me\". Tumble (tumbleliving.com, read in Chrome 2026-10-26; no photo: the host is off the image allowlist): a two-piece washable system, a 1/8\" thick 100% polyester rug with a spillproof face (liquids bead up) on a separate 1/4\" cushioned non-slip pad (EVA foam core, TPR surfaces) that tucks into corner pockets; the pad is included in the price (\"Pad included - $179 value\" at 8x10). Care: \"All rug sizes fit into a standard household washer and dryer\", cold cycle, standard detergent, dry on low heat; sweep or vacuum under the pad every 3 months; \"We don't recommend using autonomous robot vacuums as they've been known to damage the rug's edges\". Prices, the same for every design read: 9x12 $549, 8x10 $399, 6x9 $349, 5x7 $199, 3x5 $129, runners $149 and $199. Free shipping and 30-day returns. Color notes on the page: \"Cool medium blue background. Shades of light and dark blue are in the motifs and accents with ivory, light grey, light cream\"; botanical and damask motifs. Rejected for Maddie's room: a medium blue ground is the darkest thing in a white and green room and reads heavy on a play floor; the Amara's light blue carries the same cool note lighter (F-68). Opened and not kept (F-03).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

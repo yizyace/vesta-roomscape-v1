@@ -1,0 +1,34 @@
+{
+  "id": "amazon-B0HCN2T547",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HCN2T547",
+  "name": "Tumble Canyon Washable Area Rug | 5x7 Living Room Bedroom Area Rug",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 199,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 84,
+    "raw": "Size 5x7' (the listing's overview row; one listing per size and color, no size chooser); Color Grey/Ivory; Item Weight 19.54 pounds (rug and pad together)",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out, 3/8\" rug and pad together)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing\"; \"What color / size for each room? tell me\"; \"oh nice, tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\"; \"I need tumble rugs on amazon (use browser) with correct color / size for the rooms\". The Amazon listing, read in Chrome 2026-10-26 (about 11 pm): its bullets say \"Machine washable & spillproof rugs: All of Tumble's machine washable rugs feature a protective spillproof surface that allows liquids and oils to bead up\" and \"Complete rug & pad set included: Every Tumble area rug includes a cushioned 1/4-inch, non slip rug pad\"; Material Polyester; Pile Height Low Pile. The maker's page (tumbleliving.com, same day): a 1/8\" rug on a 1/4\" EVA-and-TPR pad tucked into corner pockets, \"All rug sizes fit into a standard household washer and dryer\", cold wash, low dry, no robot vacuums (\"known to damage the rug's edges\"). Same prices as the maker's site (9x12 $549, 8x10 $399, 5x7 $199). Listing as read: Tumble Canyon Washable Area Rug | 5x7 Living Room Bedroom Area Rug, $199.00, Color Grey/Ivory, In stock, usually ships within 4 to 5 days; FREE delivery Monday, November 9. The bullet: \"Canyon Grey & Ivory boho rug design\"; Pile Height Low Pile. Opened from the search for the Canyon; not kept (F-03): 5x7 is too small for the dining table and its four chairs (F-36: the chairs pushed back must stay on the rug), which the 8x10 (B0HCMZMMD5) does. The right color, the wrong size.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

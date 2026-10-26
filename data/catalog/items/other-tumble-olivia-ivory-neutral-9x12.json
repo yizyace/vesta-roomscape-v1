@@ -1,0 +1,34 @@
+{
+  "id": "other-tumble-olivia-ivory-neutral-9x12",
+  "vendor": "other",
+  "url": "https://www.tumbleliving.com/products/olivia-ivory-neutral",
+  "name": "Tumble Olivia Ivory/Neutral washable rug and cushioned pad, 9x12",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 549,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 108,
+    "d": 144,
+    "raw": "Size: 9x12' (the size chooser's variant, $549); Rug thickness: 1/8\"; Rug pad thickness: 1/4\"",
+    "source": "the product page's size chooser and Specifications, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out, 3/8\" rug and pad together)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing\"; then \"What color / size for each room? tell me\". Tumble (tumbleliving.com, read in Chrome 2026-10-26; no photo: the host is off the image allowlist): a two-piece washable system, a 1/8\" thick 100% polyester rug with a spillproof face (liquids bead up) on a separate 1/4\" cushioned non-slip pad (EVA foam core, TPR surfaces) that tucks into corner pockets; the pad is included in the price (\"Pad included - $179 value\" at 8x10). Care: \"All rug sizes fit into a standard household washer and dryer\", cold cycle, standard detergent, dry on low heat; sweep or vacuum under the pad every 3 months; \"We don't recommend using autonomous robot vacuums as they've been known to damage the rug's edges\". Prices, the same for every design read: 9x12 $549, 8x10 $399, 6x9 $349, 5x7 $199, 3x5 $129, runners $149 and $199. Free shipping and 30-day returns. Color notes on the page: \"Light ivory ground is more cool toned than warm toned and casts as a very light grey in certain lighting. Accents are white, taupe, khaki, & brown\"; hand-drawn floral motifs with a subtle texture. THE PICK for the living room (F-68): a pale cool-ivory field lifts the dark gray MORABO and the walnut UGGLERUM off the honey oak, its taupe and khaki florals pick up the sage and off-white accents, and it is the sibling of the dining room's gray Canyon in one sightline. Same footprint as the Homemate 9x12 (x 33 to 177, y 35 to 143), every leg of the sofa group on it. Sold on Amazon as amazon-B0HCN6RMWS at the same price (Andrew, 2026-10-26: \"tumble rug is orderable on amazon! pretty convenient we should prefer that\"): the Amazon record is the one placed and the one to order; this one is the maker's reference.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "room": "maddie-room",
+  "variant": "h",
+  "name": "With a two-piece washable rug: Tumble's Amara Light Blue/Ivory 5x7 from Amazon, pad included, on the play floor",
+  "updatedAt": "2026-10-26T23:04:11.929Z",
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing.\" Layout G with the two-piece system in place of the one-piece SAFAVIEH: Tumble's Amara Light Blue/Ivory 5x7 ($199, cushioned pad included), a medallion with ivory and white and pops of forest green and golden yellow. 5x7 is the size between Tumble's 3x5 and 6x9, 8\" wider and 12\" longer than the SAFAVIEH: x 40 to 100, y 37 to 121 (rot 0), 12\" off the heater (F-33), its left 19\" under the TROFAST's edge, 3\" short of the step wall, clear of the door's landing; it lies in the closet's landing, which a rug may do (F-42). Color (F-68): the one cool color her white, green and flowered room lacks, light enough to read pale on the oak, the green pops tying to the FLISAT and the LÖVA. The staged A stays rugless until Eutine chooses. Andrew, later that night: \"tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\": the rug placed is the Amazon listing amazon-B0HCN45T37 ($199, ships in 4 to 5 days, free delivery November 9, as read 2026-10-26), the same set at the same price; Ruggable's flatwoven is judged not clearly better (thinner cover, $180 more per 8x10, made to order, the same robot-vacuum caveat), so Tumble it is (F-69).",
+  "placements": [
+    {
+      "id": "rug-1",
+      "itemId": "amazon-B0HCN45T37",
+      "x": 40,
+      "y": 37,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "the cool color the white and green room lacks (F-68); 12\" off the heater (F-33), in the closet's landing, which a rug may be (F-42)"
+    },
+    {
+      "id": "bed-1",
+      "itemId": "ikea-80253814",
+      "x": 0,
+      "y": 0,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "KURA reversible bed (Andrew's cart, 2026-10-26) in its LOW position only (F-21: no loft before 6); head on the top wall, long side on the left wall, flush (IKEA: under 2 1/2in or over 9in from a wall)"
+    },
+    {
+      "id": "dresser-1",
+      "itemId": "ikea-40598097",
+      "x": 41.5,
+      "y": 0,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "bedside table on the top wall; anchor it (F-21)"
+    },
+    {
+      "id": "desk-1",
+      "itemId": "ikea-30609181",
+      "x": 67.75,
+      "y": 0,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "window corner, 6in from the heater face (F-33), 30in behind for the chair (F-35)"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-60196358",
+      "x": 81.5,
+      "y": 26.5,
+      "rotation": 180,
+      "layer": "floor",
+      "note": "pulled out at the desk"
+    },
+    {
+      "id": "cabinet-1",
+      "itemId": "ikea-79047429",
+      "x": 58.75,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "BESTÅ 2-door unit hung above the desk, underside about 54in up, on 2 suspension rails"
+    },
+    {
+      "id": "toys-1",
+      "itemId": "ikea-39574865",
+      "x": 41.375,
+      "y": 49.375,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "along the KURA's open side at its foot, its back to the bed's rail, boxes facing the play floor; its end on the edge of the door's and the closet's 36in landings without entering them (F-31); the way into the bed's side is 25.4in between the desk's corner and its top corner (walkway-narrow:25.4)"
+    },
+    {
+      "id": "canopy-1",
+      "itemId": "ikea-20542129",
+      "x": 3,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "LÖVA canopy over the KURA's head (Andrew's cart, 2026-10-26), mounted well above the 45 5/8in frame, out of her reach (IKEA); hand wash, shaken out with the dusting"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-40440832",
+      "x": 14.25,
+      "y": 0,
+      "rotation": 0,
+      "layer": "top",
+      "note": "UPPLYST on the top wall above the KURA's head end, above its 45 5/8in frame, centered on the bed where the canopy hung in a: light over her shoulder; cord fastened down behind the frame"
+    },
+    {
+      "id": "nightlight-1",
+      "itemId": "ikea-60516915",
+      "x": 44.5,
+      "y": 4,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the GODISHUS"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-60615232",
+      "x": 56.5,
+      "y": 6,
+      "rotation": 0,
+      "layer": "top",
+      "note": "on the GODISHUS"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-00601921",
+      "x": 101.75,
+      "y": 96,
+      "rotation": 90,
+      "layer": "top",
+      "note": "BLODFLÄDER on the right-lower wall facing the play floor, its bottom about 30in up at her eye level; off the left wall, where it hung above the MINNEN's footboard: over the KURA's 45 5/8in rails it would hang out of sight and within reach from the mattress"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-40584057",
+      "x": 68.5,
+      "y": 2,
+      "rotation": 0,
+      "layer": "top",
+      "note": "RÖDFLIK desk lamp at the desk's left end, her task light, the window on her right (none before the final audit 2026-10-26); cord fastened along the top wall to an outlet (where the outlets are is still open)"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "amazon-B0CP1LR1PW",
+      "qty": 1,
+      "note": "Zinus Green Tea 5in twin (Amazon, Andrew's listing, 2026-10-26) in place of the ÅSVANG: 5in under the KURA's 5 1/8in maximum; 39 x 75in against the KURA's 38 x 74 3/8in, snug; compressed in a box"
+    },
+    {
+      "itemId": "ikea-10357240",
+      "qty": 1,
+      "note": "DVALA twin fitted sheet (up to 10in), in place of the BARNDRÖM fitted that was the VIMSIG's"
+    },
+    {
+      "itemId": "ikea-00457023",
+      "qty": 1,
+      "note": "SMÅSPORRE twin duvet insert, light warm"
+    },
+    {
+      "itemId": "ikea-10622697",
+      "qty": 1,
+      "note": "BARNDRÖM twin duvet cover and pillowcase"
+    },
+    {
+      "itemId": "ikea-60460602",
+      "qty": 1,
+      "note": "low pillow, 20 x 30in"
+    },
+    {
+      "itemId": "ikea-00576790",
+      "qty": 2,
+      "note": "SKOGSDUVA flower cushions: floor seats for reading, the bed by day"
+    },
+    {
+      "itemId": "ikea-20602137",
+      "qty": 1,
+      "note": "BENGTA block-out panel over the 55in window, cut to clear the heater (F-33)"
+    },
+    {
+      "itemId": "ikea-19634078",
+      "qty": 1,
+      "note": "HUGAD rod set to about 70in (assumed-position:window)"
+    },
+    {
+      "itemId": "ikea-70488318",
+      "qty": 2,
+      "note": "BESTÅ suspension rails for the wall-hung BESTÅ unit, screwed into studs (IKEA: 2 per 47 1/4in frame)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "amazon-B0HCN45T37",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HCN45T37",
+  "name": "Tumble Amara Washable Area Rug | 5x7 Living Room Bedroom Area Rug",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "kids"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 84,
+    "raw": "Size 5x7' (the listing's overview row; one listing per size and color, no size chooser); Color Light Blue / Ivory; Item Weight 19.54 pounds (rug and pad together)",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out, 3/8\" rug and pad together)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0HCN45T37-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91LImuoNXAL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage)"
+    },
+    {
+      "file": "amazon-B0HCN45T37-2.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/51vamjI69FL._AC_SL1500_.jpg",
+      "caption": "second (Amazon gallery)"
+    }
+  ],
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing\"; \"What color / size for each room? tell me\"; \"oh nice, tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\"; \"I need tumble rugs on amazon (use browser) with correct color / size for the rooms\". The Amazon listing, read in Chrome 2026-10-26 (about 11 pm): its bullets say \"Machine washable & spillproof rugs: All of Tumble's machine washable rugs feature a protective spillproof surface that allows liquids and oils to bead up\" and \"Complete rug & pad set included: Every Tumble area rug includes a cushioned 1/4-inch, non slip rug pad\"; Material Polyester; Pile Height Low Pile. The maker's page (tumbleliving.com, same day): a 1/8\" rug on a 1/4\" EVA-and-TPR pad tucked into corner pockets, \"All rug sizes fit into a standard household washer and dryer\", cold wash, low dry, no robot vacuums (\"known to damage the rug's edges\"). Same prices as the maker's site (9x12 $549, 8x10 $399, 5x7 $199). Listing as read: Tumble Amara Washable Area Rug | 5x7 Living Room Bedroom Area Rug, $199.00, Color Light Blue / Ivory, In stock, usually ships within 4 to 5 days; FREE delivery Monday, November 9. Maker's color notes: \"Light blue ground with ivory and white as secondary colors, coupled with pops of forest green and golden yellow\"; a traditional medallion with vintage texturing. THE PICK for Maddie's room (F-68, F-69): the one cool color her white, green and flowered room lacks, light enough to read pale on the oak, its forest-green pops tying to the green FLISAT and LÖVA. On the play floor at x 40 to 100, y 37 to 121 (rot 0), 12\" off the heater (F-33), its left 19\" under the TROFAST, in the closet's landing, which a rug may be (F-42). Maker's record: other-tumble-amara-light-blue-ivory-5x7.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

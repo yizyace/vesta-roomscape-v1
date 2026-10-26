@@ -1,0 +1,34 @@
+{
+  "id": "amazon-B0HCN21LSC",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HCN21LSC",
+  "name": "Tumble Olivia Washable Area Rug | 9x12 Living Room Bedroom Area Rug",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 549,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 108,
+    "d": 144,
+    "raw": "Size 9x12' (the listing's overview row; one listing per size and color, no size chooser); Color Ash/Multi; Item Weight 51.9 pounds (rug and pad together)",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out, 3/8\" rug and pad together)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing\"; \"What color / size for each room? tell me\"; \"oh nice, tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\"; \"I need tumble rugs on amazon (use browser) with correct color / size for the rooms\". The Amazon listing, read in Chrome 2026-10-26 (about 11 pm): its bullets say \"Machine washable & spillproof rugs: All of Tumble's machine washable rugs feature a protective spillproof surface that allows liquids and oils to bead up\" and \"Complete rug & pad set included: Every Tumble area rug includes a cushioned 1/4-inch, non slip rug pad\"; Material Polyester; Pile Height Low Pile. The maker's page (tumbleliving.com, same day): a 1/8\" rug on a 1/4\" EVA-and-TPR pad tucked into corner pockets, \"All rug sizes fit into a standard household washer and dryer\", cold wash, low dry, no robot vacuums (\"known to damage the rug's edges\"). Same prices as the maker's site (9x12 $549, 8x10 $399, 5x7 $199). Listing as read: Tumble Olivia Washable Area Rug | 9x12 Living Room Bedroom Area Rug, $549.00, Color Ash/Multi, Only 20 left in stock; FREE delivery Tuesday, November 3. The listing's Color row: Ash/Multi; the bullet: \"Olivia Ash & Multi floral rug design\". Opened to tell the two 9x12 Olivias apart; not kept (F-03): an ash ground is darker and cooler than the pale field the living room wants under the dark gray sofa (F-68). The Ivory/Neutral (B0HCN6RMWS) is the pick.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

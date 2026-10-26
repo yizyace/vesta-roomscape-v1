@@ -1,0 +1,34 @@
+{
+  "id": "other-tumble-amara-light-blue-ivory-5x7",
+  "vendor": "other",
+  "url": "https://www.tumbleliving.com/products/amara-light-blue-ivory",
+  "name": "Tumble Amara Light Blue/Ivory washable rug and cushioned pad, 5x7",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "kids"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 84,
+    "raw": "Size: 5x7' (the size chooser's variant, $199); Rug thickness: 1/8\"; Rug pad thickness: 1/4\"",
+    "source": "the product page's size chooser and Specifications, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out, 3/8\" rug and pad together)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing\"; then \"What color / size for each room? tell me\". Tumble (tumbleliving.com, read in Chrome 2026-10-26; no photo: the host is off the image allowlist): a two-piece washable system, a 1/8\" thick 100% polyester rug with a spillproof face (liquids bead up) on a separate 1/4\" cushioned non-slip pad (EVA foam core, TPR surfaces) that tucks into corner pockets; the pad is included in the price (\"Pad included - $179 value\" at 8x10). Care: \"All rug sizes fit into a standard household washer and dryer\", cold cycle, standard detergent, dry on low heat; sweep or vacuum under the pad every 3 months; \"We don't recommend using autonomous robot vacuums as they've been known to damage the rug's edges\". Prices, the same for every design read: 9x12 $549, 8x10 $399, 6x9 $349, 5x7 $199, 3x5 $129, runners $149 and $199. Free shipping and 30-day returns. Color notes on the page: \"Light blue ground with ivory and white as secondary colors, coupled with pops of forest green and golden yellow\"; a traditional medallion with vintage texturing. THE PICK for Maddie's room (F-68): the one cool color her white, green and flowered room lacks, light enough to read as pale on the oak, and its forest-green pops tie to the green FLISAT and LÖVA. 5x7 is Tumble's size between 3x5 and 6x9: on the play floor at x 40 to 100, y 37 to 121, 12\" off the heater, its left 19\" under the TROFAST. Sold on Amazon as amazon-B0HCN45T37 at the same price (Andrew, 2026-10-26: \"tumble rug is orderable on amazon! pretty convenient we should prefer that\"): the Amazon record is the one placed and the one to order; this one is the maker's reference.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

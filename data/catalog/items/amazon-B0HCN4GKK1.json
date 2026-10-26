@@ -1,0 +1,45 @@
+{
+  "id": "amazon-B0HCN4GKK1",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HCN4GKK1",
+  "name": "Tumble Sophia Washable Area Rug | 8x10 Living Room Bedroom Area Rug",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 399,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 96,
+    "d": 120,
+    "raw": "Size 8x10' (the listing's overview row; one listing per size and color, no size chooser); Color Ivory/Beige; Item Weight 43.4 pounds (rug and pad together)",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-26 (a rug: the short side is w by convention here, placed by rotation; h left out, 3/8\" rug and pad together)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0HCN4GKK1-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91f32Mm6ksL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage)"
+    },
+    {
+      "file": "amazon-B0HCN4GKK1-2.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/41NVM3HACrL._AC_SL1500_.jpg",
+      "caption": "second (Amazon gallery)"
+    }
+  ],
+  "notes": "Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing\"; \"What color / size for each room? tell me\"; \"oh nice, tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\"; \"I need tumble rugs on amazon (use browser) with correct color / size for the rooms\". The Amazon listing, read in Chrome 2026-10-26 (about 11 pm): its bullets say \"Machine washable & spillproof rugs: All of Tumble's machine washable rugs feature a protective spillproof surface that allows liquids and oils to bead up\" and \"Complete rug & pad set included: Every Tumble area rug includes a cushioned 1/4-inch, non slip rug pad\"; Material Polyester; Pile Height Low Pile. The maker's page (tumbleliving.com, same day): a 1/8\" rug on a 1/4\" EVA-and-TPR pad tucked into corner pockets, \"All rug sizes fit into a standard household washer and dryer\", cold wash, low dry, no robot vacuums (\"known to damage the rug's edges\"). Same prices as the maker's site (9x12 $549, 8x10 $399, 5x7 $199). Listing as read: Tumble Sophia Washable Area Rug | 8x10 Living Room Bedroom Area Rug, $399.00, Color Ivory/Beige, In stock, usually ships within 4 to 5 days; FREE delivery Monday, November 9. Maker's color notes: \"Ivory and beige tones are paired with light gold, terracotta and green motifs. A touch of antique distressing adds dimension\"; a traditional Persian floral. THE PICK for the master bedroom (F-68, F-69): behind its own door the room is warm (walnut RÅDMANSÖ, oatmeal ÄNGSLILJA, sage throw, bamboo lamps), so it takes a warm ivory-and-beige field, the green motif answering the sage; not a repeat of the dining room's gray. Footprint x 40 to 160, y 22 to 118 (rot 90): under the king's lower 70\", 8\" out each side, 50\" past the foot under the bench, 19\" off the heater (F-33). Maker's record: other-tumble-sophia-ivory-beige-8x10.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
