@@ -1,18 +1,18 @@
 {
   "room": "dining-room",
   "variant": "l",
-  "name": "With a washable rug: the LIVELYGLOW 8x10 distressed, ivory and gray, across the room under the LISABO and its chairs",
-  "updatedAt": "2026-10-26T22:23:14.619Z",
-  "notes": "Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the LIVELYGLOW washable 8x10 (amazon-B0G5K3KZKY, $51.29, 4.8 stars from 213; ultra-thin low pile on a TPE non-slip backing, machine washable, doors glide over it), rot 90, x 8-128, y 23-119: the table (x 30-108.75, y 62.25-93) sits 22\" from its kitchen end and 19\" from its right end, and both chair rows stay on it pushed back (the living-room chairs to y 31, the wall chairs to y 114), the dining rule of 24\" beyond the table on the chair sides; its top edge lies 7\" into the living-room walkway and its kitchen end 22\" into the kitchen walkway, which is what a dining rug must do here (a rug is walked on; F-42 keeps floor pieces off). Color: ivory with a soft gray distressed wash, cool against the honey oak, so the pale ash LISABO reads on it instead of blending into the floor, the gray Tallmyra seats match it and the blues of the BLODFLÄDER sit above it; dirt-hiding. The gray AMADA 8x10 (not opened, $115.99) is the pricier version of the same idea; the beige AMADA (amazon-B0H41NQC8S) would blend with the floor and the table here. Everything else as in a.\nTotal $1,495.17: placed $1,436.23 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\n",
+  "name": "With a washable rug: IKEA's LOKALTÅG 8x10, gray and ivory, across the room under the LISABO and its chairs",
+  "updatedAt": "2026-10-26T22:28:30.393Z",
+  "notes": "Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here IKEA's washable LOKALTÅG 8'0\" x 10'0\" (ikea-20623408, $149.99, 4.6 stars from 75; recycled polyester on a synthetic-rubber middle, machine wash warm, in IKEA's own delivery; Andrew's link, 2026-10-26), rot 90, x 8-128, y 23-119: the table (x 30-108.75, y 62.25-93) sits 22\" from its kitchen end and 19\" from its right end, and both chair rows stay on it pushed back (the living-room chairs to y 31, the wall chairs to y 114), the dining rule of 24\" beyond the table on the chair sides; its top edge lies 7\" into the living-room walkway and its kitchen end 22\" into the kitchen walkway, which is what a dining rug must do here (a rug is walked on; F-42 keeps floor pieces off). Color, from its photo: gray and ivory in a faded Persian pattern, cool against the honey oak, so the pale ash LISABO reads on it instead of blending into the floor, the gray Tallmyra seats match it and the blues of the BLODFLÄDER sit above it; dirt-hiding. The LIVELYGLOW 8x10 (amazon-B0G5K3KZKY, $51.29, ivory and gray distressed, a third of the price) is the Amazon version of the same idea; the beige AMADA (amazon-B0H41NQC8S) would blend with the floor and the table here. Everything else as in a.\nTotal $1,593.87: placed $1,534.93 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\n",
   "placements": [
     {
       "id": "rug-1",
-      "itemId": "amazon-B0G5K3KZKY",
+      "itemId": "ikea-20623408",
       "x": 8,
       "y": 23,
       "rotation": 90,
       "layer": "rug",
-      "note": "LIVELYGLOW 8x10 washable distressed rug, ivory and gray, across the room under the LISABO and all four chairs pushed back; its top edge 7in into the living-room walkway and its kitchen end 22in into the kitchen walkway, both fine for a thin rug"
+      "note": "LOKALTÅG 8x10 washable rug (IKEA, Andrew's link), gray and ivory, across the room under the LISABO and all four chairs pushed back; its top edge 7in into the living-room walkway and its kitchen end 22in into the kitchen walkway, both fine for a thin rug"
     },
     {
       "id": "table-1",

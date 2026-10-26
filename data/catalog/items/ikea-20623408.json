@@ -1,0 +1,42 @@
+{
+  "id": "ikea-20623408",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lokaltag-rug-low-pile-beige-gray-20623408/",
+  "name": "LOKALTÅG Rug, low pile, beige/gray, 8 ' 0 \"x10 ' 0 \"",
+  "brand": "IKEA",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "dining",
+    "bedroom"
+  ],
+  "rooms": [
+    "dining-room",
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 96,
+    "d": 120,
+    "raw": "Area 80.08 sq feet; Length 10 ' 0 \"; Surface density 3.01 oz/sq ft; Width 8 ' 0 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-10-26 on Andrew's link (Width -> w, Length -> d; placed by rotation)"
+  },
+  "images": [
+    {
+      "file": "ikea-20623408-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/lokaltag-rug-low-pile-beige-gray__1514369_pe1010943_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew's link (2026-10-26, late evening: \"has a 8 x 10 can you verify your findings\"): yes, IKEA's washable LOKALTÅG comes in 8'0\" x 10'0\" as well as 5'3\" x 7'7\"; the search pages had hidden the size, and the earlier note that IKEA's largest washable rug was the 5'3\" x 7'7\" was wrong (CORRECTION, 2026-10-26). Materials and care: use surface 100% recycled polyester, a synthetic rubber middle, polyester back; \"Machine wash warm, normal cycle\", tumble dry low. Flags: none. Fit: the dining room (l, across the room, x 8-128, y 23-119, into both walkways as a rug may) and the master bedroom (j, under the king, x 40-160, y 22-118). Color, from its photo: gray and ivory in a faded Persian pattern, cool against the honey-oak floor, right under the pale ash LISABO with its gray seats and under the dark walnut RÅDMANSÖ. In IKEA's own order and delivery. One package 25 1/2 x 15 1/2 x 6\", 17 lb 5 oz. Out of stock at IKEA Long Island, NY, unavailable for click and collect; home delivery available (2026-10-26). New; 4.6 stars (75).",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

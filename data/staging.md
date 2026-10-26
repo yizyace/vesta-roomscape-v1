@@ -825,13 +825,13 @@ Flags across the layout: tight:27.6 (the living-room side), tight:26 (the wall s
 
 </details>
 
-### L · With a washable rug: the LIVELYGLOW 8x10 distressed, ivory and gray, across the room under the LISABO and its chairs
+### L · With a washable rug: IKEA's LOKALTÅG 8x10, gray and ivory, across the room under the LISABO and its chairs
 
 Open: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/l · printable: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/l/view
 
 | Item | Qty | Each | Subtotal |
 |---|---|---|---|
-| [LIVELYGLOW 8x10 Washable Distressed Area Rug](https://www.amazon.com/dp/B0G5K3KZKY) | 1 | $51.29 | $51.29 |
+| [LOKALTÅG Rug](https://www.ikea.com/us/en/p/lokaltag-rug-low-pile-beige-gray-20623408/) | 1 | $149.99 | $149.99 |
 | [LISABO Table](https://www.ikea.com/us/en/p/lisabo-table-ash-veneer-10563773/) | 1 | $349.99 | $349.99 |
 | [LISABO Chair](https://www.ikea.com/us/en/p/lisabo-chair-ash-tallmyra-white-black-90561044/) | 4 | $90.00 | $360.00 |
 | [GULLSUDARE Pendant lamp shade](https://www.ikea.com/us/en/p/gullsudare-pendant-lamp-shade-white-handmade-90603869/) | 1 | $4.99 | $4.99 |
@@ -844,12 +844,12 @@ Open: https://yizyace.github.io/vesta-roomscape-v1/#/dining-room/l · printable:
 | [SVARTSENAP Placemat](https://www.ikea.com/us/en/p/svartsenap-placemat-natural-70527961/) *(room list)* | 4 | $1.99 | $7.96 |
 | [BLANDA MATT Serving bowl](https://www.ikea.com/us/en/p/blanda-matt-serving-bowl-bamboo-60214343/) *(room list)* | 1 | $24.99 | $24.99 |
 
-**Total: $1,495.17**
+**Total: $1,593.87**
 
 <details><summary>Why it's laid out this way</summary>
 
-Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the LIVELYGLOW washable 8x10 (amazon-B0G5K3KZKY, $51.29, 4.8 stars from 213; ultra-thin low pile on a TPE non-slip backing, machine washable, doors glide over it), rot 90, x 8-128, y 23-119: the table (x 30-108.75, y 62.25-93) sits 22" from its kitchen end and 19" from its right end, and both chair rows stay on it pushed back (the living-room chairs to y 31, the wall chairs to y 114), the dining rule of 24" beyond the table on the chair sides; its top edge lies 7" into the living-room walkway and its kitchen end 22" into the kitchen walkway, which is what a dining rug must do here (a rug is walked on; F-42 keeps floor pieces off). Color: ivory with a soft gray distressed wash, cool against the honey oak, so the pale ash LISABO reads on it instead of blending into the floor, the gray Tallmyra seats match it and the blues of the BLODFLÄDER sit above it; dirt-hiding. The gray AMADA 8x10 (not opened, $115.99) is the pricier version of the same idea; the beige AMADA (amazon-B0H41NQC8S) would blend with the floor and the table here. Everything else as in a.
-Total $1,495.17: placed $1,436.23 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
+Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here IKEA's washable LOKALTÅG 8'0" x 10'0" (ikea-20623408, $149.99, 4.6 stars from 75; recycled polyester on a synthetic-rubber middle, machine wash warm, in IKEA's own delivery; Andrew's link, 2026-10-26), rot 90, x 8-128, y 23-119: the table (x 30-108.75, y 62.25-93) sits 22" from its kitchen end and 19" from its right end, and both chair rows stay on it pushed back (the living-room chairs to y 31, the wall chairs to y 114), the dining rule of 24" beyond the table on the chair sides; its top edge lies 7" into the living-room walkway and its kitchen end 22" into the kitchen walkway, which is what a dining rug must do here (a rug is walked on; F-42 keeps floor pieces off). Color, from its photo: gray and ivory in a faded Persian pattern, cool against the honey oak, so the pale ash LISABO reads on it instead of blending into the floor, the gray Tallmyra seats match it and the blues of the BLODFLÄDER sit above it; dirt-hiding. The LIVELYGLOW 8x10 (amazon-B0G5K3KZKY, $51.29, ivory and gray distressed, a third of the price) is the Amazon version of the same idea; the beige AMADA (amazon-B0H41NQC8S) would blend with the floor and the table here. Everything else as in a.
+Total $1,593.87: placed $1,534.93 + extras $58.94; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
 
 
 </details>
@@ -1326,13 +1326,13 @@ Final audit 2026-10-26: the BESTÅ column moved from the bottom wall to the left
 
 </details>
 
-### J · With a washable rug: the AMADA 8x10 vintage, cream and taupe with ochre, under the king and the bench
+### J · With a washable rug: IKEA's LOKALTÅG 8x10, gray and ivory, under the king and the bench
 
 Open: https://yizyace.github.io/vesta-roomscape-v1/#/master-bedroom/j · printable: https://yizyace.github.io/vesta-roomscape-v1/#/master-bedroom/j/view
 
 | Item | Qty | Each | Subtotal |
 |---|---|---|---|
-| [AMADA 8x10 Washable Area Rug for Living Room](https://www.amazon.com/dp/B0H41NQC8S) | 1 | $72.99 | $72.99 |
+| [LOKALTÅG Rug](https://www.ikea.com/us/en/p/lokaltag-rug-low-pile-beige-gray-20623408/) | 1 | $149.99 | $149.99 |
 | [RÅDMANSÖ Bed frame](https://www.ikea.com/us/en/p/radmansoe-bed-frame-brown-walnut-effect-luroey-s69598638/) | 1 | $399.00 | $399.00 |
 | [RÅDMANSÖ Nightstand](https://www.ikea.com/us/en/p/radmansoe-nightstand-brown-walnut-effect-80593597/) | 2 | $99.99 | $199.98 |
 | [TÖVÄDER LED night light](https://www.ikea.com/us/en/p/toevaeder-led-night-light-cat-battery-operated-60516915/) | 1 | $19.99 | $19.99 |
@@ -1353,12 +1353,12 @@ Open: https://yizyace.github.io/vesta-roomscape-v1/#/master-bedroom/j · printab
 | [HUGAD Curtain rod combination](https://www.ikea.com/us/en/p/hugad-curtain-rod-combination-with-wall-ceiling-brackets-with-finials-white-s49634091/) *(room list)* | 1 | $25.00 | $25.00 |
 | [PURRPINGLA Laundry bag with stand](https://www.ikea.com/us/en/p/purrpingla-laundry-bag-with-stand-beige-40609406/) *(room list)* | 1 | $29.99 | $29.99 |
 
-**Total: $1,909.79**
+**Total: $1,986.79**
 
 <details><summary>Why it's laid out this way</summary>
 
-Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the AMADA washable 8x10 (amazon-B0H41NQC8S, $72.99, 4.9 stars from 35; machine washable, non-slip backing, low-profile pile, 13 lb), rot 90, x 40-160, y 22-118: under the king's lower 70" (80% of its length), 8" out on each side of the frame, 50" past the foot with the bench on it, 19" off the heater's face (F-33: 12" for textiles), its bathroom-side edge at y 118 in the walk to the bathroom (walked on). Color: cream and warm taupe with ochre flecks, lighter than the honey oak, so the dark walnut RÅDMANSÖ and its nightstands sit on a pale field, and the oatmeal ÄNGSLILJA bedding and the sage throw carry it; the ochre picks up the floor without matching it. The LIVELYGLOW ivory-gray (dining l) is the cooler alternative if the room should read grayer. Everything else as in a.
-Total $1,909.79: placed $1,196.91 + extras $712.88; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
+Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here IKEA's washable LOKALTÅG 8'0" x 10'0" (ikea-20623408, $149.99, 4.6 stars from 75; machine wash warm, in IKEA's own delivery; Andrew's link, 2026-10-26), rot 90, x 40-160, y 22-118: under the king's lower 70" (80% of its length), 8" out on each side of the frame, 50" past the foot with the bench on it, 19" off the heater's face (F-33: 12" for textiles), its bathroom-side edge at y 118 in the walk to the bathroom (walked on). Color, from its photo: gray and ivory in a faded Persian pattern, lighter and cooler than the honey oak, so the dark walnut RÅDMANSÖ and its nightstands sit on a pale field, and the oatmeal ÄNGSLILJA bedding and the sage throw warm it. The AMADA 8x10 (amazon-B0H41NQC8S, $72.99, cream and taupe with ochre flecks) is the warmer Amazon alternative; the same LOKALTÅG in the dining room (l) keeps the two rooms in one family. Everything else as in a.
+Total $1,986.79: placed $1,273.91 + extras $712.88; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).
 
 
 </details>
