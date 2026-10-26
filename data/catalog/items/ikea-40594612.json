@@ -1,0 +1,35 @@
+{
+  "id": "ikea-40594612",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lampan-led-portable-lamp-battery-operated-adjustable-color-outdoor-white-40594612/",
+  "name": "LAMPAN LED portable lamp, battery operated adjustable color/outdoor white, 9 ½ \"",
+  "brand": "IKEA",
+  "category": "lamp",
+  "tags": [
+    "living-room",
+    "lighting"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 17.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 6,
+    "d": 6,
+    "h": 9.5,
+    "raw": "Measurements: Luminous flux 80 Lumen; Height 9 ½ \"; Diameter 6 \"; Color temperature 2700 K; Estimated life 25000 hr",
+    "source": "Measurements tab, read in Chrome 2026-10-26; w and d are the 6\" diameter"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-26 (F-03): opened as the cordless lamp for the living room's seats (the final audit found no seat with a lamp it can read by, and a floor lamp's cord would cross the heater), but its Measurements give 80 lumens at 2700 K: a glow for the table, not a reading light; the UPPLYST night light is 110 lm. Regular price $17.99; IKEA Family price $13.99 (22% off), valid Oct 7 to Nov 11, 2026. Page: \"Rechargeable batteries are sold separately. The charging function of this product only works with rechargeable batteries. IKEA recommends LADDA 2450 mAh HR06 AA 1.2V. 4 pcs are required. USB-C cable and USB power adapter are sold separately.\" Features: dimmable, battery-operated, adjustable color, outdoor; 8 photos on the page. 3.2 stars (163). In stock in IKEA Long Island, NY. Search 'rechargeable table lamp' at IKEA (2026-10-26) lists only portable glow lamps of this kind (NÖDMAST, IKEA PS 2026, TVÅMASTAD with an opal glass shade, F-21), so a cordless lamp bright enough to read by is sought at Amazon.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

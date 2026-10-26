@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0D6W8F3DR",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0D6W8F3DR",
+  "name": "Anji Mountain 60\" x 48\" Bamboo Office Chair Mat for Carpet & Hardwood Floor",
+  "brand": "Anji Mountain",
+  "category": "rug",
+  "tags": [
+    "office",
+    "wipeable",
+    "plastic-free"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 195.35,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 48,
+    "h": 0.25,
+    "raw": "Product Dimensions 60\"L x 48\"W x 0.25\"Th; Size 60\" x 48\"; Style Without Lip",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-26 with the 60\" x 48\" size selected (the ASIN in the address, F-26); L along the aisle is w"
+  },
+  "images": [
+    {
+      "file": "amazon-B0D6W8F3DR-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81W6Q4rzUiL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. The 60 x 48 size of the Anji Mountain bamboo chair mat (the 48 x 42 is amazon-B001PBEIHE), selected on the same listing on 2026-10-26 for the final audit: one mat across the office's 46 to 47\" aisle under both desk chairs, in a, f and h, where the job desk's chair had rolled on the jute rug or the bare floor with the other mat's edge under its casters. Material row: Bamboo (100% Moso bamboo on a felt back with gripper dots, as the 48 x 42's page says), so wipeable and plastic-free (F-66). Color Natural; Style Without Lip. In Stock, ships from Amazon. Fit: back-bedroom, turned across the aisle (48\" across, 60\" along it), x 27 to 75 between the TRAVSPORT's front (x 27.5) and the MITTZON run's front (x 74.5) in a and f, so it runs 1/2\" under each desk's front edge; x 29 to 77 in h (1\" under each Vari desk's front) · fits.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

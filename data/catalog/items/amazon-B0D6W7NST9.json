@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0D6W7NST9",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0D6W7NST9",
+  "name": "Anji Mountain 48\" x 36\" Bamboo Office Chair Mat for Carpet & Hardwood Floor",
+  "brand": "Anji Mountain",
+  "category": "rug",
+  "tags": [
+    "office",
+    "wipeable",
+    "plastic-free"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 129.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 48,
+    "d": 36,
+    "h": 0.25,
+    "raw": "Product Dimensions 48\"L x 36\"W x 0.25\"Th; Size 48\" x 36\"; Style With Lip",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-26 with the 48\" x 36\" size selected (the ASIN in the address, F-26); L along the aisle is w"
+  },
+  "images": [
+    {
+      "file": "amazon-B0D6W7NST9-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81LLZUjNUTL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Flags: fits. The 48 x 36 size of the Anji Mountain bamboo chair mat (the 48 x 42 is amazon-B001PBEIHE), selected on the same listing on 2026-10-26 for the final audit: the second mat, under the job desk's chair in c, d, e and g, where that chair had rolled on the jute rug with the other mat's edge under its casters. This is the With Lip style ($129.99), the one the page landed on; the listing's size list priced a Without Lip 48 x 36 at $102.67 on 2026-10-25, which a second click did not reach, so choose at checkout: the lip tucks under the desk's front edge. Material row: Bamboo (100% Moso bamboo on a felt back with gripper dots, as the 48 x 42's page says), so wipeable and plastic-free (F-66). Color Natural. In Stock. Fit: back-bedroom, 48\" across the aisle in front of the job desk (c: x 27 to 75, y 11 to 47; d: y 76 to 112; g: y 13 to 49), 1/2\" under the facing desk's front; in e turned 36\" across between the UPLIFT's back and the job desk's front (x 38 to 74) · fits.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

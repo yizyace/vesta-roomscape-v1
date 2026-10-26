@@ -1,0 +1,35 @@
+{
+  "id": "amazon-B096RRW4GC",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B096RRW4GC",
+  "name": "One Fire Rechargeable Table Lamp, 3600mAh Battery Operated Lamp Desk Lamp",
+  "brand": "One Fire",
+  "category": "lamp",
+  "tags": [
+    "living-room",
+    "lighting"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 21.99,
+    "currency": "USD",
+    "asOf": "2026-10-26"
+  },
+  "dimensions": {
+    "w": 2.76,
+    "d": 6.3,
+    "h": 6.3,
+    "raw": "Product Dimensions 6.3\"D x 2.76\"W x 6.3\"H; Item Weight 13.1 ounces",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-10-26, mapped by letter"
+  },
+  "images": [],
+  "notes": "Rejected 2026-10-26 (F-03): opened as a cordless lamp for the living room's seats (the final audit found no seat with a lamp it can read by). The page's rows: Finish Type Polished, Base Material Plastic, Lamp Type Desk Lamp, 6.3 x 2.76 x 6.3\": a small foldable plastic desk lamp (the title's \"Foldable, Nail, Emergency\"), not a table lamp for a staged living room, and no lumen row. Its bullets: a built-in 3600 mAh battery, a Type-C port and a 19.68\" cable, 10 brightness levels, touch control. First organic result for 'rechargeable led table lamp dimmable reading'; the other results on that page are desk and clip lamps or two-packs of cordless decor lamps whose pages were not opened. A cordless lamp bright enough to read by (300 lumens or more, dimmable, no glass, F-21) stays to find.",
+  "captured": {
+    "date": "2026-10-26",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

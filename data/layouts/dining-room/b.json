@@ -2,8 +2,8 @@
   "room": "dining-room",
   "variant": "b",
   "name": "ÅLHULT with its bench against the bottom wall, BESTÅ floating on the right wall",
-  "updatedAt": "2026-10-24T22:20:47.749Z",
-  "notes": "The top side is open to the living room (Andrew, 2026-10-24) as well as the left side to the kitchen, so both 30-inch walkways stay clear (F-42): every floor piece stands at x 30 or more and y 30 or more, nothing hangs on either open side, and rugs run under the walkways.\nThe bench moves from the top wall, which is now open, to the bottom wall: the ÅLHULT (ash veneer) turned across the room against its matching bench, which needs no pull-out room. Set for six as placed with the table closed: the bench (two, Maddie and a parent can share it with the wall behind them), two SANDSBERG on the living-room side, one at the kitchen end and Maddie's URBAN at the right end.\nF-36: the living-room side has 73.4\" to the living-room line, the kitchen end 48.5\" to the kitchen line (both passing sides), the right end 32.25\" to the right wall (tight:32.3, the URBAN's end), and the bench side needs none. Leaf in (66 7/8\"), the table opens 9.8\" at each end: 22.4\" from its right end to the wall (tight:22.4), and the kitchen-end chair stands 9.8\" into the walkway while it is in.\nDiners on the bench face the living room across the table; the BLODFLÄDER on the right wall is seen down the room from the kitchen.",
+  "updatedAt": "2026-10-26T10:50:11.313Z",
+  "notes": "The top side is open to the living room (Andrew, 2026-10-24) as well as the left side to the kitchen, so both 30-inch walkways stay clear (F-42): every floor piece stands at x 30 or more and y 30 or more, nothing hangs on either open side, and rugs run under the walkways.\nThe bench moves from the top wall, which is now open, to the bottom wall: the ÅLHULT (ash veneer) turned across the room against its matching bench, which needs no pull-out room. Set for six as placed with the table closed: the bench (two, with the wall behind them), a SANDSBERG and Maddie's URBAN on the living-room side, one SANDSBERG at the kitchen end and one at the right end, under the floating cabinet. Until the final audit 2026-10-26 Maddie sat at that end: her head was level with the cabinet's push-open doors, 4.75\" behind her chair, and she could climb from its back onto the cabinet (F-21), so she moved to the living-room side, where a parent can stand behind her.\nF-36: the living-room side has 73.4\" to the living-room line, the kitchen end 48.5\" to the kitchen line (both passing sides), the right end 32.25\" to the right wall and 23.6\" to the cabinet's face (tight:23.6: the chair there pushes back 4.75\" short of it, and its 30 3/8\" back clears the cabinet's 33\" underside), and the bench side needs none. Leaf in (66 7/8\"), the table opens 9.8\" at each end, so on guest nights slide the opened table right with its kitchen end staying at x 48.5 (12.6\" from the other end to the wall, the pendant 9.8\" off center that night): two SANDSBERG and the URBAN on the living-room side, two on the bench, one at the kitchen end and nobody at the right end, so no chair stands in the kitchen walkway (F-42).\nDiners on the bench face the living room across the table; the BLODFLÄDER on the right wall is seen down the room from the kitchen.\nFinal audit 2026-10-26: Maddie's chair and the right-end SANDSBERG swapped places (above), the bench's wall lamp moved up to about 66\", and the leaf-in seating slides the table instead of putting a chair in the walkway. The HAVSRIS cord is 15' 5\" (185\"): with the ceiling unmeasured, check for a ceiling box first, and measure the ceiling and find the bottom wall's outlets before buying it (its drop and run need about 171\" at a 96\" ceiling and about 195\" at 108\", F-23).",
   "placements": [
     {
       "id": "table-1",
@@ -35,11 +35,11 @@
     {
       "id": "chair-2",
       "itemId": "ikea-10605424",
-      "x": 76.25,
-      "y": 54.875,
-      "rotation": 0,
+      "x": 95.75,
+      "y": 81.4375,
+      "rotation": 90,
       "layer": "floor",
-      "note": "living-room side, right; as chair-1"
+      "note": "right end, under the floating cabinet: 4.75\" from its face behind the chair, 23.6\" from the table end to the cabinet (tight:23.6); its 30 3/8\" back clears the cabinet's 33\" underside"
     },
     {
       "id": "chair-3",
@@ -53,11 +53,11 @@
     {
       "id": "junior-chair-1",
       "itemId": "ikea-00165213",
-      "x": 95.75,
-      "y": 80.25,
-      "rotation": 90,
+      "x": 75.0625,
+      "y": 54.5,
+      "rotation": 0,
       "layer": "floor",
-      "note": "Maddie's URBAN at the right end (the tight end: a parent pushes her in); 13.4\" behind it"
+      "note": "Maddie's URBAN on the living-room side, right, beside chair-1, with 24.5\" of floor behind her for a parent (moved from under the right-wall cabinet by the final audit 2026-10-26: seated there, her head was level with its push-open doors and she could climb from its back onto it, F-21)"
     },
     {
       "id": "storage-1",
@@ -66,7 +66,7 @@
       "y": 48.125,
       "rotation": 90,
       "layer": "top",
-      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, floated on the right wall with its underside about 33\" up, above the URBAN's back; push-open doors, on its suspension rails into studs (F-63)"
+      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, floated on the right wall with its underside about 33\" up, above the right-end chair's back; push-open doors, on its suspension rails into studs (F-63)"
     },
     {
       "id": "art-1",
@@ -93,7 +93,7 @@
       "y": 114,
       "rotation": 180,
       "layer": "top",
-      "note": "VARPTROSS on the bottom wall, centered above the bench, center about 58\" up: a reading light for the bench"
+      "note": "VARPTROSS on the bottom wall, centered above the bench, center about 66\" up (its bottom at about 60\", above a seated diner's head; it hung at head height until the final audit 2026-10-26): a reading light for the bench"
     },
     {
       "id": "plant-1",
