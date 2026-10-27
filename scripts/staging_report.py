@@ -131,7 +131,7 @@ def build() -> str:
     dates = sorted({items[i]["price"]["asOf"] for i in used if i in items and items[i].get("price")})
     read_on = dates[0] if len(dates) == 1 else ", ".join(dates[:-1]) + " and " + dates[-1]
     n_ordered = sum(1 for it in items.values() if it.get("status") == "ordered")
-    bought = (f"{n_ordered} catalog items are `ordered` (Andrew's IKEA order of 2026-10-26, delivered November 1); nothing else has been bought."
+    bought = (f"{n_ordered} catalog items are `ordered` (Andrew's IKEA order of 2026-10-26, delivered November 1, the MORABO's chaise section and the FLISAT desk on November 2); nothing else has been bought."
               if n_ordered else "nothing has been bought.")
     md += ["---", 'title: "L01 staged: every room furnished"', "area: home",
            "tags: [home-furniture, home-move, home-apartment]", f'date: "{dates[-1]}"', "status: proposed",
