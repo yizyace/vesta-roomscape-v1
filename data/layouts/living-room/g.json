@@ -2,8 +2,8 @@
   "room": "living-room",
   "variant": "g",
   "name": "A recliner instead of the armchair: the SKULNÄS rocker and swivel beside the MORABO sofa with chaise, around the UGGLERUM",
-  "updatedAt": "2026-10-26T19:35:03.347Z",
-  "notes": "Alternative, 2026-10-26, for Andrew's \"chair with legrest\": a's room with the SKULNÄS recliner rocker and swivel armchair (ikea-90613910, Hakebo dark gray, $499) in place of a's two POÄNG chairs and ottomans (its footrest rises on a lever). 15 placed, 8 extras.\nrecliner-1 SKULNÄS, 34 5/8 x 38 1/4 x 42 1/8\" (floor): beside the sofa's play-side end, rot 180, x 138-172.625, y 95-133.25, facing the window; 10\" off the open side's walkway edge so its backrest can recline and it can rock without entering the walkway (F-42; IKEA's page gives no reclined depth, so measure it on the floor before pushing it back), 5 7/8\" off the sofa's arm, 16\" short of the LÄTT (a dead gap; the way to the play wall runs east of the LÄTT, F-30). Its 360° swivel needs a 26\" radius from its center (155.3, 114.1): clear of the table, which ends at x 131.875 and y 90.75, and of the LÄTT. 89\" from the heater's drawn face (F-33). Not stocked at IKEA Long Island, NY: an online order for delivery; no reviews yet.\nEverything else as in a: the sofa with chaise, the UGGLERUM (corner guards, F-21), the TIOKRONA turned under the sofa group, the plant at the chaise's foot, the play area, the lamps and the extras. The recliner is not in the MORABO fabric: dark gray on dark gray, two textures. With no ottoman the floor in front of the chair is open, 89\" to the heater's drawn face.\nFlags across the layout: delivery-path-unmeasured (the sofa, F-22), assumed-position:window, heater-depth-assumed.\nTotal $3,055.76: placed $2,807.86 + extras $247.90; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\n",
+  "updatedAt": "2026-11-01T14:25:38.491Z",
+  "notes": "Rug, 2026-11-01: RUUGME's Ivory 10x14, the rug Andrew ordered (0.14in as listed, no pad), replaces the TIOKRONA, the LEN and their STOPP FILT underlays: x 33 to 201, y 29 to 149, the whole seating group on it, the LÄTT's right legs off its edge, a 0.14in step. Lines below that name other rugs are history. Alternative, 2026-10-26, for Andrew's \"chair with legrest\": a's room with the SKULNÄS recliner rocker and swivel armchair (ikea-90613910, Hakebo dark gray, $499) in place of a's two POÄNG chairs and ottomans (its footrest rises on a lever). 15 placed, 8 extras.\nrecliner-1 SKULNÄS, 34 5/8 x 38 1/4 x 42 1/8\" (floor): beside the sofa's play-side end, rot 180, x 138-172.625, y 95-133.25, facing the window; 10\" off the open side's walkway edge so its backrest can recline and it can rock without entering the walkway (F-42; IKEA's page gives no reclined depth, so measure it on the floor before pushing it back), 5 7/8\" off the sofa's arm, 16\" short of the LÄTT (a dead gap; the way to the play wall runs east of the LÄTT, F-30). Its 360° swivel needs a 26\" radius from its center (155.3, 114.1): clear of the table, which ends at x 131.875 and y 90.75, and of the LÄTT. 89\" from the heater's drawn face (F-33). Not stocked at IKEA Long Island, NY: an online order for delivery; no reviews yet.\nEverything else as in a: the sofa with chaise, the UGGLERUM (corner guards, F-21), the TIOKRONA turned under the sofa group, the plant at the chaise's foot, the play area, the lamps and the extras. The recliner is not in the MORABO fabric: dark gray on dark gray, two textures. With no ottoman the floor in front of the chair is open, 89\" to the heater's drawn face.\nFlags across the layout: delivery-path-unmeasured (the sofa, F-22), assumed-position:window, heater-depth-assumed.\nTotal $3,055.76: placed $2,807.86 + extras $247.90; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\n",
   "placements": [
     {
       "id": "sofa-1",
@@ -52,12 +52,12 @@
     },
     {
       "id": "rug-1",
-      "itemId": "ikea-90628228",
-      "x": 36,
-      "y": 25,
+      "itemId": "amazon-B0DPVFJTCY",
+      "x": 33,
+      "y": 29,
       "rotation": 90,
       "layer": "rug",
-      "note": "TIOKRONA turned, x 36-130, y 25-143: under the whole sofa with chaise and the table, its south edge on the walkway's edge and its west edge on the railing strip's edge, 19in from the heater's drawn face (F-33); the armchair and ottoman stand on the floor beside it"
+      "note": "RUUGME Ivory 10x14, long side along the window, x 33 to 201, y 29 to 149: the whole seating group on it, 6in past the sofa's back into the walkway (F-42), 3in onto the railing strip (a rug, not a piece, F-40), 23in off the heater's drawn face (F-33); the LÄTT's right legs stand off its edge, a 0.14in step"
     },
     {
       "id": "toy-bench-1",
@@ -122,15 +122,6 @@
       "note": "Waterlilies on the right-upper wall over the TROFAST, the play wall's anchor"
     },
     {
-      "id": "rug-3",
-      "itemId": "ikea-40625109",
-      "x": 183,
-      "y": 75,
-      "rotation": 0,
-      "layer": "rug",
-      "note": "play rug in front of the TROFAST and the BESTÅ, under the LÄTT, 29in east of the TIOKRONA"
-    },
-    {
       "id": "kids-table-1",
       "itemId": "ikea-50178411",
       "x": 188.625,
@@ -193,11 +184,6 @@
       "itemId": "ikea-20542129",
       "qty": 1,
       "note": "LÖVA leaf canopy hung from the ceiling over the reading bench, 12\" or more off the heater face (F-33)"
-    },
-    {
-      "itemId": "ikea-90132261",
-      "qty": 2,
-      "note": "STOPP FILT anti-slip underlays side by side under the TIOKRONA, trimmed to 118 x 93\": with a 4-year-old running, the rug must not slide (as in the dining room)"
     }
   ]
 }

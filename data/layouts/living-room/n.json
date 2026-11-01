@@ -2,17 +2,17 @@
   "room": "living-room",
   "variant": "n",
   "name": "Window corner: the Yamaha P-143 across the corner by the window, the LÖMSK beside the LÄTT, the violin on the BESTÅ",
-  "updatedAt": "2026-11-01T14:10:22.039Z",
-  "notes": "The piano takes the corner of the window wall and the play wall: x 208 13/16 to 261, y 12 to 24 1/2, with the daylight on its left. The whole play wall stays toy storage: the TROFAST and the BESTÅ don't move, and only the LÖMSK does, to the far side of the LÄTT. Flags: under-window, sill-unmeasured, assumed-position:window, heater-depth-assumed, tight:23.6 at the BESTÅ. Everything else stands as in A, the staged room. Andrew, 2026-11-01: \"Look at the furniture layout for the living room, where should I place both? show me at least 3 optimal ocnfigurations\", read as the Yamaha P-143 and the 1/10 violin in his Amazon cart. The bundle's bench isn't drawn, since no page gives its size; it tucks under the keyboard and the layout keeps 30in in front of the keys for it. The piano's power comes from an outlet on the play wall or the window wall, unconfirmed.",
+  "updatedAt": "2026-11-01T14:25:39.909Z",
+  "notes": "Rug, 2026-11-01: RUUGME's Ivory 10x14, the rug Andrew ordered (0.14in as listed, no pad), replaces the Olivia: x 68 to 236, y 29 to 149, where A has it. The piano stays off it, 4 1/2in from its edge; the bench's 30in in front of the keys crosses its corner, a 0.14in step; the LÖMSK and the LÄTT stand on it. The piano takes the corner of the window wall and the play wall: x 208 13/16 to 261, y 12 to 24 1/2, with the daylight on its left. The whole play wall stays toy storage: the TROFAST and the BESTÅ don't move, and only the LÖMSK does, to the far side of the LÄTT. Flags: under-window, sill-unmeasured, assumed-position:window, heater-depth-assumed, tight:23.6 at the BESTÅ. Everything else stands as in A, the staged room. Andrew, 2026-11-01: \"Look at the furniture layout for the living room, where should I place both? show me at least 3 optimal ocnfigurations\", read as the Yamaha P-143 and the 1/10 violin in his Amazon cart. The bundle's bench isn't drawn, since no page gives its size; it tucks under the keyboard and the layout keeps 30in in front of the keys for it. The piano's power comes from an outlet on the play wall or the window wall, unconfirmed.",
   "placements": [
     {
       "id": "rug-1",
-      "itemId": "amazon-B0HCN6RMWS",
-      "x": 80,
-      "y": 35,
+      "itemId": "amazon-B0DPVFJTCY",
+      "x": 68,
+      "y": 29,
       "rotation": 90,
       "layer": "rug",
-      "note": "under the whole group, the chairs' backs at its left edge, 15in past the sofa's right end; its right end under the play table (F-42)"
+      "note": "RUUGME Ivory 10x14, long side along the window, x 68 to 236, y 29 to 149: 12in past the POÄNGs, 7in past the window-side chair, 6in past the sofa's back into the walkway (F-42), 27in past the sofa's end so the whole LÄTT stands on it; the LÖMSK on it too, clear of the play wall's storage; 4 1/2in from the piano"
     },
     {
       "id": "sofa-1",

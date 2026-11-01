@@ -2,8 +2,8 @@
   "room": "living-room",
   "variant": "h",
   "name": "A second sofa: the MORABO loveseat facing the sofa with chaise across the UGGLERUM, an L",
-  "updatedAt": "2026-10-26T19:35:03.568Z",
-  "notes": "Alternative, 2026-10-26, for Andrew's \"consider a lvoeat\": a's room with the MORABO loveseat (ikea-29318319, $749) in place of a's two POÄNG chairs and ottomans, turned to face the sofa across the table, so the group is an L of five seats and the chaise. 15 placed, 8 extras.\nloveseat-1 MORABO loveseat, 65 3/8 x 36 1/4\" (floor): rot 270, x 138-174.25, y 50-115.375, its back to the play side and its seats facing west toward the sofa's end and the chaise; 6\" from the UGGLERUM's end (F-39 wants 14 to 18\": a reach for the near seat, the far seat uses the table's corner), 44\" from the heater's drawn face at its north end (F-33, 18\" for upholstery), 27.6\" from the walkway edge at its south end (F-42), 14.4\" short of the LÄTT (a dead gap; the way to the play wall runs east of the LÄTT, F-30), and 5 7/8\" off the sofa's end. It is entered from the north (the window side) and the south; delivery-path-unmeasured (F-22: one frame 69 x 37 x 21\", 115 lb 12 oz).\nEverything else as in a: the sofa with chaise, the UGGLERUM (corner guards, F-21), the TIOKRONA turned under the sofa group (the loveseat stands on the floor beside it), the plant at the chaise's foot, the play area, the lamps and the extras. Two more seats than a, for $101 more than the armchair and ottoman; it closes the group's play side, so from the sofa Maddie is seen over the loveseat's back.\nFlags across the layout: delivery-path-unmeasured (the sofa and the loveseat, F-22), assumed-position:window, heater-depth-assumed.\nTotal $3,305.76: placed $3,057.86 + extras $247.90; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\n",
+  "updatedAt": "2026-11-01T14:25:38.715Z",
+  "notes": "Rug, 2026-11-01: RUUGME's Ivory 10x14, the rug Andrew ordered (0.14in as listed, no pad), replaces the TIOKRONA, the LEN and their STOPP FILT underlays: x 33 to 201, y 29 to 149, the whole seating group on it, the LÄTT's right legs off its edge, a 0.14in step. Lines below that name other rugs are history. Alternative, 2026-10-26, for Andrew's \"consider a lvoeat\": a's room with the MORABO loveseat (ikea-29318319, $749) in place of a's two POÄNG chairs and ottomans, turned to face the sofa across the table, so the group is an L of five seats and the chaise. 15 placed, 8 extras.\nloveseat-1 MORABO loveseat, 65 3/8 x 36 1/4\" (floor): rot 270, x 138-174.25, y 50-115.375, its back to the play side and its seats facing west toward the sofa's end and the chaise; 6\" from the UGGLERUM's end (F-39 wants 14 to 18\": a reach for the near seat, the far seat uses the table's corner), 44\" from the heater's drawn face at its north end (F-33, 18\" for upholstery), 27.6\" from the walkway edge at its south end (F-42), 14.4\" short of the LÄTT (a dead gap; the way to the play wall runs east of the LÄTT, F-30), and 5 7/8\" off the sofa's end. It is entered from the north (the window side) and the south; delivery-path-unmeasured (F-22: one frame 69 x 37 x 21\", 115 lb 12 oz).\nEverything else as in a: the sofa with chaise, the UGGLERUM (corner guards, F-21), the TIOKRONA turned under the sofa group (the loveseat stands on the floor beside it), the plant at the chaise's foot, the play area, the lamps and the extras. Two more seats than a, for $101 more than the armchair and ottoman; it closes the group's play side, so from the sofa Maddie is seen over the loveseat's back.\nFlags across the layout: delivery-path-unmeasured (the sofa and the loveseat, F-22), assumed-position:window, heater-depth-assumed.\nTotal $3,305.76: placed $3,057.86 + extras $247.90; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02).\n",
   "placements": [
     {
       "id": "sofa-1",
@@ -52,12 +52,12 @@
     },
     {
       "id": "rug-1",
-      "itemId": "ikea-90628228",
-      "x": 36,
-      "y": 25,
+      "itemId": "amazon-B0DPVFJTCY",
+      "x": 33,
+      "y": 29,
       "rotation": 90,
       "layer": "rug",
-      "note": "TIOKRONA turned, x 36-130, y 25-143: under the whole sofa with chaise and the table, its south edge on the walkway's edge and its west edge on the railing strip's edge, 19in from the heater's drawn face (F-33); the armchair and ottoman stand on the floor beside it"
+      "note": "RUUGME Ivory 10x14, long side along the window, x 33 to 201, y 29 to 149: the whole seating group on it, 6in past the sofa's back into the walkway (F-42), 3in onto the railing strip (a rug, not a piece, F-40), 23in off the heater's drawn face (F-33); the LÄTT's right legs stand off its edge, a 0.14in step"
     },
     {
       "id": "toy-bench-1",
@@ -122,15 +122,6 @@
       "note": "Waterlilies on the right-upper wall over the TROFAST, the play wall's anchor"
     },
     {
-      "id": "rug-3",
-      "itemId": "ikea-40625109",
-      "x": 183,
-      "y": 75,
-      "rotation": 0,
-      "layer": "rug",
-      "note": "play rug in front of the TROFAST and the BESTÅ, under the LÄTT, 29in east of the TIOKRONA"
-    },
-    {
       "id": "kids-table-1",
       "itemId": "ikea-50178411",
       "x": 188.625,
@@ -193,11 +184,6 @@
       "itemId": "ikea-20542129",
       "qty": 1,
       "note": "LÖVA leaf canopy hung from the ceiling over the reading bench, 12\" or more off the heater face (F-33)"
-    },
-    {
-      "itemId": "ikea-90132261",
-      "qty": 2,
-      "note": "STOPP FILT anti-slip underlays side by side under the TIOKRONA, trimmed to 118 x 93\": with a 4-year-old running, the rug must not slide (as in the dining room)"
     }
   ]
 }

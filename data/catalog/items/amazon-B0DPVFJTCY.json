@@ -1,0 +1,51 @@
+{
+  "id": "amazon-B0DPVFJTCY",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DPVFJTCY",
+  "name": "10x14 Area Rug Washable - Washable Lightweight Area Rug Stain Resistant Carpet Soft Rugs for Bedroom with Non Slip Backing Indoor Ultra-Thin Rugs Home Decor 10x14 Ivory",
+  "brand": "RUUGME",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "ordered",
+  "price": {
+    "amount": 169.99,
+    "currency": "USD",
+    "asOf": "2026-11-01"
+  },
+  "dimensions": {
+    "w": 120,
+    "d": 168,
+    "h": 0.14,
+    "raw": "Size 10x14; Color Ivory; Item Dimensions L x W 168\"L x 120\"W; Item Thickness 0.14 inches; Item Weight 31.8 pounds; Material Polyester; Weave Type Flat Woven; Pile Height Low Pile; Number of Pieces 1; Care Instructions Machine Wash",
+    "source": "the listing's overview and Measurements rows, read in Chrome 2026-11-01 (L -> d, W -> w, Item Thickness -> h; a rug: the short side is w by convention here, placed by rotation). The thickness is the seller's listed number, not measured"
+  },
+  "images": [
+    {
+      "file": "amazon-B0DPVFJTCY-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81W0HM5+bgL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage)"
+    },
+    {
+      "file": "amazon-B0DPVFJTCY-2.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/51Nf4-1Fv-L._AC_SL1500_.jpg",
+      "caption": "Large ivory area rug with traditional floral pattern (Amazon gallery, second)"
+    },
+    {
+      "file": "amazon-B0DPVFJTCY-3.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/51UZVxQiAeL._AC_SL1500_.jpg",
+      "caption": "Area rug folded to show both face and back (Amazon gallery, third)"
+    }
+  ],
+  "notes": "Ordered by Andrew on Amazon, 2026-11-01: \"ordered ivory, coming tomorrow\" (the page shows \"Last purchased Nov 1, 2026\", Ivory, 10' x 14'), due Monday 2026-11-02. The rug in every living-room plan but the rugless J, which keeps none on purpose (F-66). Why 10x14: A's seating group is 129 x 107in; an 8x10 can't hold it, a 9x12 has 1in to spare front to back and its edge runs under the play table. Why this one: his brief was \"10x14 ... with LOWEST height / pile\": 0.14in as listed ties for the thinnest of the 12 rugs read (they ran to 0.5in), and Ivory is the palest of RUUGME's colors, the pale field F-68 asks for under the dark sofa, judged from its photos. One piece, flat woven polyester, no pad, so it departs from F-69's two-piece set on his call. Machine wash per the listing, but L01 has no laundry and it weighs 31.8 lb, so washing means a laundromat. 4.6 stars (3,128, listing-wide); 154 of the 243 reviews that mention thickness are negative, Amazon's summary saying some find it not thick enough, so expect almost no cushion. Flags: none. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-11-01",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
