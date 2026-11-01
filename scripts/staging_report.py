@@ -93,7 +93,7 @@ def build() -> str:
     md: list[str] = []
     summary: list[str] = []
     grand = 0.0
-    rugfree: list[str] = []  # each room the other way on rugs: its Rugless variant where a is on a Tumble set (F-69), else its washable or old-rug variant (F-66)
+    rugfree: list[str] = []  # each room the other way on rugs: its Rugless variant where a is on a washable rug (F-66, F-69), else its washable or old-rug variant (F-66)
     rugfree_total = 0.0
     body: list[str] = []
     for rid in ROOM_ORDER:
@@ -131,7 +131,7 @@ def build() -> str:
     dates = sorted({items[i]["price"]["asOf"] for i in used if i in items and items[i].get("price")})
     read_on = dates[0] if len(dates) == 1 else ", ".join(dates[:-1]) + " and " + dates[-1]
     n_ordered = sum(1 for it in items.values() if it.get("status") == "ordered")
-    bought = (f"{n_ordered} catalog items are `ordered` (Andrew's IKEA order of 2026-10-26, delivered November 1, the MORABO's chaise section and the FLISAT desk on November 2); nothing else has been bought."
+    bought = (f"{n_ordered} catalog items are `ordered` (Andrew's IKEA order of 2026-10-26, delivered November 1, the MORABO's chaise section and the FLISAT desk on November 2, and RUUGME's Ivory 10x14 rug from Amazon, ordered November 1, due November 2); nothing else has been bought."
               if n_ordered else "nothing has been bought.")
     md += ["---", 'title: "L01 staged: every room furnished"', "area: home",
            "tags: [home-furniture, home-move, home-apartment]", f'date: "{dates[-1]}"', "status: proposed",
@@ -148,7 +148,7 @@ def build() -> str:
            f"| **Apartment** | | | **{money(grand + ktot + btot)}** |", ""]
     if rugfree:
         md += ["## The other way on rugs (each room's alternative, rules.md F-66 and F-69)", "",
-               "Each room the other way: rugless where the staged room carries its Tumble two-piece washable set (the four rooms Andrew picked on the night of 2026-10-26), and with its old rugs where the staged room is rugless (the office); the kitchen and bathroom lists repeat.", "",
+               "Each room the other way: rugless where the staged room carries its washable rug (Tumble's two-piece sets in the rooms Andrew picked on the night of 2026-10-26, RUUGME's Ivory 10x14 in the living room, ordered November 1), and with its old rugs where the staged room is rugless (the office); the kitchen and bathroom lists repeat.", "",
                "| Room | Layout | Pieces | Total |", "|---|---|---|---|", *rugfree,
                f"| Kitchen essentials | list | {kn} core items | {money(ktot)} |",
                f"| Bathroom | list | {bn} core items | {money(btot)} |",
