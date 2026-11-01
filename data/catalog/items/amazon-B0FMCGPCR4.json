@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0FMCGPCR4",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0FMCGPCR4",
+  "name": "Yamaha P-143 Digital Piano Bundle, 88-Key Weighted Musical Keyboard, Stand, Bench, Music Rest, Sustain Foot Switch",
+  "brand": "YAMAHA",
+  "category": "other",
+  "tags": [
+    "kids",
+    "living-room",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 679.99,
+    "currency": "USD",
+    "asOf": "2026-11-01"
+  },
+  "dimensions": {
+    "w": 52.1875,
+    "d": 12.5,
+    "h": 29.3125,
+    "raw": "Dimensions (with optional stand) Width 1,326 mm [52-3/16\"]; Height 744 mm [29-5/16\"] (with music rest: 922 mm [36-5/16\"]); Depth 318 mm [12-1/2\"] (with music rest: 320 mm [12-5/8\"]). Amazon's Measurements row: Item Dimensions D x W x H 24\"D x 14\"W x 20.5\"H",
+    "source": "Yamaha USA's P-143 specs page, 'Dimensions (with optional stand)', read in Chrome 2026-11-01. Amazon's own row can't be the piano (its maker says 52 3/16\" wide), so it isn't used. The bench has no measurement row on either page."
+  },
+  "images": [
+    {
+      "file": "amazon-B0FMCGPCR4-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61Lvnt3JA5L._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "In Andrew's Amazon cart, qty 1 (2026-11-01). He decided to buy (\"let's commit these purchases\"); no order confirmation yet, so shortlisted, not ordered (F-08). Shipped and sold by Amazon, delivery Nov 2 as read 2026-11-01, 30-day returns, a return shipping fee may apply. The bundle's bench isn't drawn: no page gives its size, and it tucks under the keyboard, so a layout keeps 30\" in front of the keys for it, as F-35 does for a desk chair. Amplifier speakers face the back. Flags: fits.",
+  "captured": {
+    "date": "2026-11-01",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

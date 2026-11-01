@@ -1,0 +1,35 @@
+{
+  "id": "amazon-B01GDI87ES",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B01GDI87ES",
+  "name": "Bunnel Premier Violin Clearance Outfit 1/10 Size — Carrying Case and Accessories Included — Solid Maple Wood and Ebony Fittings By Kennedy Violins",
+  "brand": "Kennedy Violins",
+  "category": "other",
+  "tags": [
+    "kids",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 401.88,
+    "currency": "USD",
+    "asOf": "2026-11-01"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "amazon-B01GDI87ES-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81xCsFIMCCL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "In Andrew's Amazon cart, qty 1 (2026-11-01). He decided to buy; no order confirmation yet, so shortlisted, not ordered (F-08). Shipped and sold by Kennedy Violins, delivery Nov 12 as read 2026-11-01. The listing showed \"Returnable until Jan 31, 2027\" on one read that day and \"30-day refund/replacement\" on a later one, so check the date at checkout. Variant 1/10. No dimensions on the page. Kennedy's Portland Oblong case page lists 4/4 to 1/8 only (1/8: 23.5 x 4.75 x 8.5\") and no 1/10, so dimensions stay null (F-11): an extra, never placed. Keep it away from heaters: Kennedy's warranty treats damage from dryness as neglect and advises 35% to 55% humidity. Flags: no-dimensions.",
+  "captured": {
+    "date": "2026-11-01",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
