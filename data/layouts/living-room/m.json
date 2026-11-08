@@ -2,8 +2,8 @@
   "room": "living-room",
   "variant": "m",
   "name": "Music wall: the Yamaha P-143 on the play wall between the LÖMSK and the BESTÅ, the violin on the BESTÅ",
-  "updatedAt": "2026-11-01T14:25:39.616Z",
-  "notes": "Rug, 2026-11-01: RUUGME's Ivory 10x14, the rug Andrew ordered (0.14in as listed, no pad), replaces the Olivia: x 68 to 236, y 29 to 149, where A has it. The piano stays off it, 12 1/2in from its edge; the bench's 30in in front of the keys crosses that edge, a 0.14in step. The piano takes the TROFAST's place on the right-upper wall: x 248.5 to 261, y 42 to 94 3/16, Maddie facing the wall, a grown-up at the sofa's end an arm's length behind her. It is the furthest of the three from the heater (F-33: 36in from its face) and the only one that isn't near the window. 3/4in from the LÖMSK, 9/16in from the BESTÅ. Not placed: the TROFAST (candidate): with the piano there is no wall left for it, so the BESTÅ is the play area's storage (F-61). Everything else stands as in A, the staged room. Andrew, 2026-11-01: \"Look at the furniture layout for the living room, where should I place both? show me at least 3 optimal ocnfigurations\", read as the Yamaha P-143 and the 1/10 violin in his Amazon cart. The bundle's bench isn't drawn, since no page gives its size; it tucks under the keyboard and the layout keeps 30in in front of the keys for it. The piano's power comes from an outlet on the play wall or the window wall, unconfirmed.",
+  "updatedAt": "2026-11-08T14:41:55.550Z",
+  "notes": "Rug, 2026-11-01: RUUGME's Ivory 10x14, the rug Andrew ordered (0.14in as listed, no pad), replaces the Olivia: x 68 to 236, y 29 to 149, where A has it. The piano stays off it, 12 1/2in from its edge; the bench's 30in in front of the keys crosses that edge, a 0.14in step. The piano takes the TROFAST's place on the right-upper wall: x 248.5 to 261, y 42 to 94 3/16, Maddie facing the wall, a grown-up at the sofa's end an arm's length behind her. It is the furthest of the three from the heater (F-33: 36in from its face) and the only one that isn't near the window. 3/4in from the LÖMSK, 9/16in from the BESTÅ. Not placed: the TROFAST (candidate): with the piano there is no wall left for it, so the BESTÅ is the play area's storage (F-61). Everything else stands as in A, the staged room. Andrew, 2026-11-01: \"Look at the furniture layout for the living room, where should I place both? show me at least 3 optimal ocnfigurations\", read as the Yamaha P-143 and the 1/10 violin in his Amazon cart. The bundle's bench isn't drawn, since no page gives its size; it tucks under the keyboard and the layout keeps 30in in front of the keys for it. The piano's power comes from an outlet on the play wall or the window wall, unconfirmed. Curtains (2026-11-08, F-43): on Andrew's window heights and his word for this room (light-filtering, not sheer; bought on Amazon), the 98\" GINSTMOTT pairs gave way to two packs of LAMIT's 54\" light-filtering White (amazon-B0CR5T9KF8) on KAMANINA's 72-144\" Ivory White rod (amazon-B0CP9DBSZK) at about 120\"; any total above predates the swap.",
   "placements": [
     {
       "id": "rug-1",
@@ -179,14 +179,14 @@
   ],
   "extras": [
     {
-      "itemId": "ikea-80597171",
+      "itemId": "amazon-B0CR5T9KF8",
       "qty": 2,
-      "note": "GINSTMOTT beige, two pairs (4 x 57\" panels, about 2.2x the 102\" window); hems clear of the heater (F-33), shorten with hemming tape if needed"
+      "note": "LAMIT White light-filtering, two packs (4 x 52\" panels, 2x the 102\" window), 54\" long on grommets: they end at the sill, clear of the heater (F-43, F-33)"
     },
     {
-      "itemId": "ikea-49634091",
+      "itemId": "amazon-B0CP9DBSZK",
       "qty": 1,
-      "note": "HUGAD white rod set to about 120\", 9\" past each side of the window; assumed-position:window"
+      "note": "KAMANINA 72-144\" Ivory White rod set to about 120\", 9\" past each side of the window and 2 to 3\" above it (F-43); assumed-position:window"
     },
     {
       "itemId": "ikea-60543004",

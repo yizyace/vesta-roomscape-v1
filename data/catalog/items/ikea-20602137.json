@@ -9,13 +9,13 @@
     "bedroom"
   ],
   "rooms": [
-    "master-bedroom"
+    "maddie-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 14.99,
     "currency": "USD",
-    "asOf": "2026-10-22"
+    "asOf": "2026-11-08"
   },
   "dimensions": {
     "w": 83,
@@ -30,7 +30,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: assumed-position:window (F-38: the 67\" window's place on the top wall is eyeballed), heater-depth-assumed (F-33). Fit: master-bedroom, two panels (2 x 83\" = 166\", about 2.5x the 67\" window) on the HUGAD rod ikea-49634091 set to about 107\" so the panels stack off the glass · fits. F-33: the hatched window wall is a heater wall; BENGTA is cut to length (\"Cut to length and hang - the fabric won't shred.\"), so trim the 98\" drop to end above the heater, keeping textiles 12\" from its face (the heater's height is unmeasured). Product features: Black-out, Cut to size; recycled polyester that \"retains its fresh look after washing\" (no machine-wash line read, so not tagged washable). Sold as 1 piece: qty 2 for the window. 4.1 stars (559). In stock in IKEA Long Island, NY on 2026-10-22. #13 on Blackout curtains sorted Most popular: the warm-neutral black-out choices above it were KORGMOTT (Last chance) and MAJGULL or ROSENMANDEL (dark green or gray only). rooms: master-bedroom, from the staging brief.",
+  "notes": "Rejected 2026-11-08: Maddie's room takes a motorized blind inside the recess, on Andrew's word, and F-68 (5) rules out beige; it is in no plan now. 2026-11-08: price re-read, $14.99, in stock in IKEA Long Island, NY; the page's other colors are green and light pink, no white. It leaves the master bedroom's plans for the 54\" H.VERSAILTEX Ivory (F-43, and F-68 (5) rules out beige), and stays staged in Maddie's room until her window's height is taped (cut its 98\" drop to end at her sill). Flags: assumed-position:window (F-38: the 67\" window's place on the top wall is eyeballed), heater-depth-assumed (F-33). Fit: master-bedroom, two panels (2 x 83\" = 166\", about 2.5x the 67\" window) on the HUGAD rod ikea-49634091 set to about 107\" so the panels stack off the glass · fits. F-33: the hatched window wall is a heater wall; BENGTA is cut to length (\"Cut to length and hang - the fabric won't shred.\"), so trim the 98\" drop to end above the heater, keeping textiles 12\" from its face (the heater's height is unmeasured). Product features: Black-out, Cut to size; recycled polyester that \"retains its fresh look after washing\" (no machine-wash line read, so not tagged washable). Sold as 1 piece: qty 2 for the window. 4.1 stars (559). In stock in IKEA Long Island, NY on 2026-10-22. #13 on Blackout curtains sorted Most popular: the warm-neutral black-out choices above it were KORGMOTT (Last chance) and MAJGULL or ROSENMANDEL (dark green or gray only). rooms: master-bedroom, from the staging brief.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

@@ -12,7 +12,7 @@
   "rooms": [
     "back-bedroom"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 39.99,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: fits (two side by side, 68\" in all, cover the 67\" window, whose measured width is the only number; check inside or outside mount against the frame). Cordless with a hidden control, so no dangling cord for Maddie (the roller-blind search page carries IKEA's notice recalling roller, Roman and roll-up blinds for strangulation risk). Light filtering. Chosen over floor-length curtains because the whole window wall is a heater wall (F-33: no textiles hanging against the heater). The page says a RIKTIG draw rod is sold separately (only for a blind hung out of reach). Sizes on the page: 30x64 $34.99, 32x64 $37.99, 34x64, 36x64. Black-out alternative seen on the list, not opened: TRIPPEVALS black-out cellular blind 34x76 3/4 $69.99 (Best seller). Best seller (product page; first on the roller-blind search sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
+  "notes": "Rejected 2026-11-08: Andrew wants curtains in the office (his note: \"Office 2x 50 length. 33 width\"), so the H.VERSAILTEX Ivory pair on a HUGAD rod takes the window (F-43). Flags: fits (two side by side, 68\" in all, cover the 67\" window, whose measured width is the only number; check inside or outside mount against the frame). Cordless with a hidden control, so no dangling cord for Maddie (the roller-blind search page carries IKEA's notice recalling roller, Roman and roll-up blinds for strangulation risk). Light filtering. Chosen over floor-length curtains because the whole window wall is a heater wall (F-33: no textiles hanging against the heater). The page says a RIKTIG draw rod is sold separately (only for a blind hung out of reach). Sizes on the page: 30x64 $34.99, 32x64 $37.99, 34x64, 36x64. Black-out alternative seen on the list, not opened: TRIPPEVALS black-out cellular blind 34x76 3/4 $69.99 (Best seller). Best seller (product page; first on the roller-blind search sorted Most popular). In stock in IKEA Long Island, NY on 2026-10-22. rooms: back-bedroom, from the staging brief.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

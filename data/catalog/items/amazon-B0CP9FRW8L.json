@@ -1,0 +1,26 @@
+{
+  "id": "amazon-B0CP9FRW8L",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CP9FRW8L",
+  "name": "KAMANINA Curtain Rods for Windows 72 to 144 Inch, Long Heavy Duty, Bronze",
+  "brand": "KAMANINA",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [],
+  "status": "rejected",
+  "price": {
+    "amount": 23.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-03): the KAMANINA listing as the search opened it, in Bronze; its Ivory White 72-144\" (amazon-B0CP9DBSZK) is kept, white beside the white and ivory curtains. Overview: Color Antique Bronze; Product Dimensions 144\"L x 0.87\"W; Material Iron; 7/8\" rod. $23.99 (11 percent off). 4.7 stars (26K on the search card). Sizes on the listing: 28-48\" (Pack of 2), 32-58\", 32-58\" (Pack of 2), 36-72\", 48-84\", 48-84\" (Pack of 2), 66-120\", 72-144\", 72-144\" (Pack of 2), 140-180\"; colors Antique Bronze, Antique Silver, Black, Ivory White, Warm Gold, Bronze, Silver. Flags: no-dimensions (a rod has no footprint). rooms: [], a rod for any window.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

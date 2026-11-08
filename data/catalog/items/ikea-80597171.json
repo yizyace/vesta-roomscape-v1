@@ -12,7 +12,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 34.99,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: assumed-position:window (F-38: the 102\" window's place on the top wall is eyeballed). Fit: living-room, two pairs (4 panels x 57\" = 228\", about 2.2x the 102\" window) on a rod of about 120\" · fits. Keep the hems clear of the heater along the window wall (F-33; its height is unmeasured): shorten with iron-on hemming tape if the 98\" drop reaches it. Light filtering: \"The fabric dims daylight entering the room and reduces glare.\" Washable: \"Machine wash warm, normal cycle.\" The heading tape takes a rod directly (the image shows a rod pocket) or hooks on a track. Variant: beige/with heading tape (the house style's oatmeal), 57x98\" ($29.99 for 57x84\"), article 805.971.71. Price is per pair. Popularity: not badged; #3 under Curtains & drapes sorted Most popular; 4.5 stars (466). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
+  "notes": "Rejected 2026-11-08 (F-43, F-68 (5)): the 98\" drop hangs to the floor over the heater under a 50\" window, and beige melts into the cream walls; the living room takes two packs of the 54\" H.VERSAILTEX Ivory (amazon-B08BZPY9X3). Flags: assumed-position:window (F-38: the 102\" window's place on the top wall is eyeballed). Fit: living-room, two pairs (4 panels x 57\" = 228\", about 2.2x the 102\" window) on a rod of about 120\" · fits. Keep the hems clear of the heater along the window wall (F-33; its height is unmeasured): shorten with iron-on hemming tape if the 98\" drop reaches it. Light filtering: \"The fabric dims daylight entering the room and reduces glare.\" Washable: \"Machine wash warm, normal cycle.\" The heading tape takes a rod directly (the image shows a rod pocket) or hooks on a track. Variant: beige/with heading tape (the house style's oatmeal), 57x98\" ($29.99 for 57x84\"), article 805.971.71. Price is per pair. Popularity: not badged; #3 under Curtains & drapes sorted Most popular; 4.5 stars (466). Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: living-room, from the brief.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

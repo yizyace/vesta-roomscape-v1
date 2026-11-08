@@ -1,0 +1,39 @@
+{
+  "id": "amazon-B08BZPY9X3",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B08BZPY9X3",
+  "name": "H.VERSAILTEX 100% Blackout Linen Curtains 54\"L 2 Panels Ivory",
+  "brand": "H.VERSAILTEX",
+  "category": "curtains",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 52,
+    "h": 54,
+    "raw": "Room Type Dining Room; Dimensions 52\"W x 54\"L (each panel); Features Thermal Insulated, Noise Reducing, Energy Saving; Style Contemporary; Closure Type Grommet; Size 52\"W x 54\"L (Pack of 2); Color Ivory",
+    "source": "the Ivory variant's own overview rows and Size picker, read in Chrome 2026-11-08 (its page, after Andrew cleared Amazon's bot check); W -> w and L (the drop) -> h, per panel; flat, no depth: a layout extra, never placed. The Bright White page's rows (B07P39MV8C) add Material Front: 100% Polyester, Back: Acrylic and grommets that fit rods up to 1.5\""
+  },
+  "images": [
+    {
+      "file": "amazon-B08BZPY9X3-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/51pmlTe1GyL._AC_SL1100_.jpg",
+      "caption": "main (Amazon #landingImage, the Ivory variant's page)"
+    }
+  ],
+  "notes": "Flags: assumed-position:window (F-38). The master bedroom's blackout pair (Andrew, 2026-11-08: \"I want blackout curtains for the master bedroom.\"). Fit (F-43): 54\" long with grommets, so on a rod 2 to 3\" above the 50\" window the panels end at the sill, 1 to 3\" above the bottom of the frame and clear of the heater (F-33); one pack is the window's pair, 2 x 52\" = 104\", 1.55x the 67\" window, on the KAMANINA 48-84\" rod (amazon-B0C7CM7QFR, 7/8\": the grommets take up to 1.5\") · fits. Ivory is F-68 (5)'s warm white; Sage (B09YND1C4C) and Heathered Dried Sage (B0FVKSZM2Q) are the same curtain in gray-green. 100% blackout, thermal insulated. Read 2026-11-08: $29.99 the pack of 2 panels, In Stock, 4.6 stars (26,169), Amazon's Choice on the listing; delivery to Fresh Meadows 11365 shown as Tuesday, November 10, FREE. History: first read off the Bright White page (B07P39MV8C) with the Ivory swatch selected, which showed $31.49, Bright White's price; its own page then hit Amazon's \"I am human\" check (bot-wall) until Andrew cleared it. Staged as the interim curtain in the living room and the office until their light-filtering pick, the same day. rooms: master-bedroom, from Andrew's note.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "amazon-B0CR5S59B4",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CR5S59B4",
+  "name": "Natural Linen Bedroom Curtains 54 Inches Long, Oatmeal",
+  "brand": "LAMIT",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 28.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 52,
+    "h": 54,
+    "raw": "Brand LAMIT; Color Oatmeal; Material Polyester; Product Dimensions 54\"L x 52\"W; Opacity Light-filtering",
+    "source": "the overview rows, read in Chrome 2026-11-08; W -> w, L -> h, per panel"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-03, F-68 (5)): the same LAMIT curtain at 52 x 54 in Oatmeal, a beige; opened because the Size picker's 52x54 led here, not to Ivory. $28.99 the pack on its color swatch ($14.50 per count on the page). 4.6 stars (826). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

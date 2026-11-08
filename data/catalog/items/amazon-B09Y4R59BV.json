@@ -1,0 +1,24 @@
+{
+  "id": "amazon-B09Y4R59BV",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B09Y4R59BV",
+  "name": "NICETOWN Flax Polyester Linen Curtains for Windows 84 inch Length, Grommet Semi Sheer",
+  "brand": "NICETOWN",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": null,
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-03): \"Semi Sheer\" in its own title (Andrew: \"not sheer\"), and the variant opened was W52 x L84; the page's rows were not read (the extension's filter refused the extraction), so no price and no dimensions (F-11). The name is the page's title up to \"Semi Sheer\". rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

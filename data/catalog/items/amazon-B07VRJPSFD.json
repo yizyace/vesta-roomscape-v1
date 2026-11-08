@@ -1,0 +1,33 @@
+{
+  "id": "amazon-B07VRJPSFD",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B07VRJPSFD",
+  "name": "jinchan Linen Curtains 54 Inch Light Filtering Grommet 2 Panels Beige",
+  "brand": "jinchan",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 30.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 50,
+    "h": 54,
+    "raw": "Brand jinchan; Color Beige; Material Linen Blend; Product Dimensions 54\"L x 50\"W; Opacity Light-filtering",
+    "source": "the overview rows, read in Chrome 2026-11-08; W -> w, L -> h, per panel"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-03, F-68 (5)): light-filtering (\"light but not sheer\") but its own long title says \"Semi sheer drapes\", and the colors are Beige, Cream, Beige Lined, Blue, Cream Lined, Grey, Natural and Taupe, no white or ivory (cream melts into the cream walls). 4.7 stars (2,451). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "amazon-B0FZJQW9WV",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0FZJQW9WV",
+  "name": "Ivory Linen Curtains 54 Inch Length 2 Panels for Bedroom",
+  "brand": "LAMIT",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": null,
+  "dimensions": {
+    "w": 42,
+    "h": 54,
+    "raw": "Brand LAMIT; Color Ivory; Material Polyester; Product Dimensions 54\"L x 42\"W; Opacity Light-filtering inches",
+    "source": "the overview rows, read in Chrome 2026-11-08; W -> w, L -> h, per panel"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-03, F-43): the right curtain in Ivory, but only 42\" wide (four make 168\" on the 102\" window), and LAMIT makes no Ivory at 52\" x 54\"; the White at 52 x 54 (amazon-B0CR5T9KF8) is kept. The price read, $14.00, was the per-count figure, not the pack's, so none is recorded. 4.6 stars (826, the listing's). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

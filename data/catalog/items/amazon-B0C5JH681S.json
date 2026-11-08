@@ -1,0 +1,22 @@
+{
+  "id": "amazon-B0C5JH681S",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0C5JH681S",
+  "name": "KAMANINA 48-84\" single rod, the color shown before Ivory White was picked",
+  "brand": "KAMANINA",
+  "category": "curtains",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [],
+  "status": "rejected",
+  "price": null,
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-03): a passing page on the KAMANINA listing, the single 48-84\" rod in the color left over from the 2-pack (Black), loaded on the way to Ivory White (amazon-B0C7CM7QFR); nothing was read from it, so no title, price or dimensions (the name here says what it was). Flags: no-dimensions. rooms: [], a rod for any window.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

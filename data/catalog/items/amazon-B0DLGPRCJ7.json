@@ -1,0 +1,26 @@
+{
+  "id": "amazon-B0DLGPRCJ7",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DLGPRCJ7",
+  "name": "KAMANINA 2 Pack Curtain Rods for Windows 48 to 84 Inch, Heavy Duty, Black",
+  "brand": "KAMANINA",
+  "category": "curtains",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [],
+  "status": "rejected",
+  "price": {
+    "amount": 45.04,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-03): the listing's 48-84\" (Pack of 2) comes only in Black, so the bedrooms take two single Ivory White 48-84\" rods (amazon-B0C7CM7QFR). Overview: Product Dimensions 86\"L x 0.88\"W; \"applies to windows 54 to 82 inches\". $45.04 (15 percent off). Flags: no-dimensions (a rod). rooms: [], a rod for any window.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

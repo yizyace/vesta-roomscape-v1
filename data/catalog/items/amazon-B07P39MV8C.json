@@ -1,0 +1,33 @@
+{
+  "id": "amazon-B07P39MV8C",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B07P39MV8C",
+  "name": "H.VERSAILTEX 100% Blackout Linen Curtains 54\"L 2 Panels Bright White",
+  "brand": "H.VERSAILTEX",
+  "category": "curtains",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 31.49,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 52,
+    "h": 54,
+    "raw": "Room Type Dining Room; Material Composition Front: 100% Polyester, Back: Acrylic; Dimensions 52\"W x 54\"L (per panel); Features Thermal Insulated, Noise Reducing, GRS Certified, Vinyl Free; Closure Type Grommet (fits up to 1.5\" rods); Size 52\"W x 54\"L (Pack of 2)",
+    "source": "the listing's overview rows and Size picker, read in Chrome 2026-11-08; W -> w and L (the drop) -> h, per panel; flat, no depth"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-03, F-68 (5)): the right curtain in a cool bright white; the Ivory variant amazon-B08BZPY9X3 is the warm white kept for the brief. Colors on the listing: Bright White, Black, Bleached Sand, Blue Sapphire, Cobblestone, Dove Gray, Glacier Gray, Green Bay, Grey, Heathered Baby Pink, Heathered Dried Sage, Heathered Linen, Heathered Tea, Heathered White, Ivory, Natural, Sage, Stone, Stone Blue, Teal, Washed Spice, White and more. Sizes in this color: 42\"W x 45/54/63/84\"L, 52\"W x 45/54/63/72/84/90/96/102/108/120\"L (Pack of 2), and 100\"W single panels 84\"L and longer; no panel wider than 52\" comes in 54\"L. 4.6 stars (26.1K), Amazon's Choice, In Stock 2026-11-08. rooms: master-bedroom, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

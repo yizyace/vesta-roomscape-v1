@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0C7CM7QFR",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0C7CM7QFR",
+  "name": "KAMANINA Curtain Rods for Windows 48 to 84 Inch, White Heavy Duty Rods",
+  "brand": "KAMANINA",
+  "category": "curtains",
+  "tags": [
+    "bedroom",
+    "office"
+  ],
+  "rooms": [
+    "master-bedroom",
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 26.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "amazon-B0C7CM7QFR-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/51k8iQomVFL._AC_SL1500_.jpg",
+      "caption": "White curtain rod shown horizontally with a decorative spherical finial (main)"
+    }
+  ],
+  "notes": "Flags: no-dimensions (F-11: the overview's \"Product Dimensions 86\"L x 0.87\"W\" is the rod's length and diameter, no depth or height, so it has no footprint; a layout extra, never placed), assumed-position:window (F-38). Fit (F-43): one per 67\" window, the master bedroom's and the office's, set to 77 to 82\" (5 to 7 1/2\" past each side) and 2 to 3\" above the window; the listing: \"can extend easily from 32 to 86 inches, applies to windows 54 to 82 inches\" · fits. 7/8\" rod (\"7/8 or 3/4 inch rod diameter, weight capacity up to 22 pounds\"), so the curtains' grommets slide on it; \"packed with 6 pcs rods, 2 finials, 3 pcs brackets\". Ivory White, to sit with the ivory and white curtains (the old house style kept black metal to the lamps). The listing's 48-84\" (Pack of 2) comes only in Black ($45.04, B0DLGPRCJ7), so two singles. Overview rows: Brand KAMANINA; Color Ivory White; Product Dimensions 86\"L x 0.87\"W; Material Iron; Mounting Type Wall Mounted; Item Weight 2.8 pounds. Read 2026-11-08: $26.99 (10 percent off), In Stock, 4.7 stars (26,019). Andrew prefers Amazon for this purchase (2026-11-08), so it replaces IKEA's HUGAD 47 1/4-82 3/4\". rooms: from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

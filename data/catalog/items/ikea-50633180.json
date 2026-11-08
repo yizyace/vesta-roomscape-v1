@@ -1,0 +1,33 @@
+{
+  "id": "ikea-50633180",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/lenda-curtains-with-tie-backs-1-pair-off-white-with-eyelets-50633180/",
+  "name": "LENDA Curtains with tie-backs, 1 pair, off-white/with eyelets, 55x65 \"",
+  "brand": "IKEA",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 55,
+    "h": 65,
+    "raw": "Width: 55 \"; Length: 65 \"; Area: 24.86 sq feet; Weight: 2 lb 10 oz",
+    "source": "IKEA Measurements section, read in Chrome 2026-11-08; Width (per curtain) -> w, Length (the drop) -> h; flat, no depth"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-03, F-43): the shortest IKEA curtain found (a search for curtains sold as a pair showed 55x65, 57x84, 55x84, 57x98, 55x98 and 55x118\"), but on eyelets its 65\" drop ends about 8\" below the 50\" windows' frames, so it needs hemming; 3 out of 5 stars (329); the off-white photographs as natural beige (F-68 (5)). Also light gray-green (ikea-00633286, not opened); 55x84\" $29.99, 55x98\" $34.99, 55x118\" $39.99. Regular price $29.99; IKEA Family price $21.99, \"Price valid Nov 5, 2026 - Nov 24, 2026 or while supply lasts\". Light filtering. In stock in IKEA Long Island, NY, 2026-11-08. Article 506.331.80. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

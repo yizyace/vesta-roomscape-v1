@@ -1,0 +1,34 @@
+{
+  "id": "amazon-B09TQYYZNZ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B09TQYYZNZ",
+  "name": "Motorized Roller Shades, 100% Blackout, Gentle White",
+  "brand": "WEFFORT",
+  "category": "curtains",
+  "tags": [
+    "kids"
+  ],
+  "rooms": [
+    "maddie-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 119.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": null,
+  "images": [
+    {
+      "file": "amazon-B09TQYYZNZ-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/813X5n-YxdL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage)"
+    }
+  ],
+  "notes": "Flags: no-dimensions (F-11: made to order), assumed-position:window. The same shade in the plain default white (Andrew: \"I want default colors too\"); Gentle Sage (amazon-B09TQZNBZV) is staged. Andrew, 2026-11-08: \"Instead of regular curtains, I'm thinking about doing a auto / remote controled blind setup in the inset of the window (pretty deep ,about 3 3/4\" inset. that way I can setup a remote that maddie can use to control it.\" and \"any way to get design prints? I want default colors too, but wondering if I can do something jungle /forest themed\". The recess: 46.5\" wide, 50\" tall, 3 3/4\" deep (F-43; measurements.md). IKEA US sold no motorized blind on 2026-11-08 (FYRTUR, KADRILJ, PRAKTLYSING and TREDANSEN searched, none listed), and Andrew prefers Amazon for this purchase. Made to order: the size, the mount, the motor and the remote are set in the listing's configurator behind Amazon's \"Customize now\", which asks the buyer to accept the seller's terms, so the agent did not open it (F-10): order inside mount at the recess's narrowest width (tape top, middle and bottom to the 1/8\"), 50\" drop, and check there that the remote is in the order and that the headrail fits a 3 3/4\" recess. The listing: \"Standard motors support remote control. Pair any motor with our Smart Hub to manage all your electric shades with any version of Alexa or Google Assistant\", a Matter over Thread motor offered, Solar/USB charging (title). Cordless: no cord for Maddie to reach (F-21). Overview rows: Material Blackout; Product Dimensions 8\"L x 3\"W (not the shade: it is cut to order); Brand WEFFORT; Opacity Blackout. Price: $119.99 is the listing's starting price before the configurator; the price for 46.5 x 50 was not read. 4.8 stars (538). Delivery: FREE November 20 - 25 (custom). Colors on the listing include Gentle White, Gentle Sage, Gentle Dove, Gentle Pale Grey, Gentle Wheat, Classic White/Cream/Grey, Linen White/Stone/Caramel, Texture White/Cream/Smoke and darker ones. rooms: maddie-room, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

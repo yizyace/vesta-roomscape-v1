@@ -2,8 +2,8 @@
   "room": "master-bedroom",
   "variant": "a",
   "name": "Staged: the RÅDMANSÖ king on the bathroom wall with a RÅDMANSÖ nightstand on each side under matching wall lamps, a pine bench at the foot, on Tumble's Sophia Ivory/Beige 8x10 Persian (washable, pad included)",
-  "updatedAt": "2026-10-26T23:16:04.368Z",
-  "notes": "Staged on Andrew's word (2026-10-26, night: \"Pick correct color and size and add it to the app, show me locally. also push up deploy\"): the Tumble set is in the staged room; the rugless room is kept as the Rugless variant. Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing.\" Layout J with the two-piece system in place of the one-piece AMADA: Tumble's Sophia Ivory/Beige 8x10 ($399, cushioned pad included), a distressed Persian floral in ivory and beige with light gold, terracotta and green motifs. Same footprint, x 40 to 160, y 22 to 118 (rot 90): under the king's lower 70\", 8\" out each side, 50\" past the foot under the bench, 19\" off the heater (F-33). Color (F-68): behind its own door the room is warm (walnut, oatmeal, sage), so it takes its own warm field, the green motif answering the sage throw; not a repeat of the dining room's gray. Ruggable's flatwoven Hendesi Heriz Cream 8x10 is $579 with its pad. The staged A stays rugless until Eutine chooses. Andrew, later that night: \"tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\": the rug placed is the Amazon listing amazon-B0HCN4GKK1 ($399, ships in 4 to 5 days, free delivery November 9, as read 2026-10-26), the same set at the same price; Ruggable's flatwoven is judged not clearly better (thinner cover, $180 more per 8x10, made to order, the same robot-vacuum caveat), so Tumble it is (F-69).",
+  "updatedAt": "2026-11-08T14:41:56.026Z",
+  "notes": "Staged on Andrew's word (2026-10-26, night: \"Pick correct color and size and add it to the app, show me locally. also push up deploy\"): the Tumble set is in the staged room; the rugless room is kept as the Rugless variant. Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing.\" Layout J with the two-piece system in place of the one-piece AMADA: Tumble's Sophia Ivory/Beige 8x10 ($399, cushioned pad included), a distressed Persian floral in ivory and beige with light gold, terracotta and green motifs. Same footprint, x 40 to 160, y 22 to 118 (rot 90): under the king's lower 70\", 8\" out each side, 50\" past the foot under the bench, 19\" off the heater (F-33). Color (F-68): behind its own door the room is warm (walnut, oatmeal, sage), so it takes its own warm field, the green motif answering the sage throw; not a repeat of the dining room's gray. Ruggable's flatwoven Hendesi Heriz Cream 8x10 is $579 with its pad. The staged A stays rugless until Eutine chooses. Andrew, later that night: \"tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\": the rug placed is the Amazon listing amazon-B0HCN4GKK1 ($399, ships in 4 to 5 days, free delivery November 9, as read 2026-10-26), the same set at the same price; Ruggable's flatwoven is judged not clearly better (thinner cover, $180 more per 8x10, made to order, the same robot-vacuum caveat), so Tumble it is (F-69). Curtains (2026-11-08, F-43): on Andrew's window heights and his word (blackout; bought on Amazon), the BENGTA panels, cut down from 98\", gave way to one pack of H.VERSAILTEX's 54\" blackout in Ivory (amazon-B08BZPY9X3) on KAMANINA's 48-84\" Ivory White rod (amazon-B0C7CM7QFR) at 77 to 82\"; any total above predates the swap.",
   "placements": [
     {
       "id": "rug-1",
@@ -147,14 +147,14 @@
       "note": "VALLKRASSING throw, gray-green, across the foot of the bed"
     },
     {
-      "itemId": "ikea-20602137",
-      "qty": 2,
-      "note": "BENGTA block-out panels (sold singly), one each side of the 67in window; cut the drop to end above the heater (F-33)"
+      "itemId": "amazon-B08BZPY9X3",
+      "qty": 1,
+      "note": "H.VERSAILTEX Ivory blackout, one pack (2 x 52\" panels, 1.55x the 67\" window), 54\" long on grommets: they end at the sill, clear of the heater (F-43, F-33)"
     },
     {
-      "itemId": "ikea-49634091",
+      "itemId": "amazon-B0C7CM7QFR",
       "qty": 1,
-      "note": "HUGAD rod set to about 107in, centered on the window (assumed-position:window)"
+      "note": "KAMANINA 48-84\" Ivory White rod set to 77 to 82\", centered on the window and 2 to 3\" above it (F-43); assumed-position:window"
     },
     {
       "itemId": "ikea-40609406",

@@ -12,11 +12,11 @@
   "rooms": [
     "maddie-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 18.5,
     "currency": "USD",
-    "asOf": "2026-10-22"
+    "asOf": "2026-11-08"
   },
   "dimensions": null,
   "images": [
@@ -26,7 +26,7 @@
       "caption": "main"
     }
   ],
-  "notes": "Flags: no-dimensions (F-11: the Measurements section gives only the rod's length range, \"Length: 47 ¼ \"; Max. length: 82 ¾ \"; Max. load: 22 lb; Min. length: 47 ¼ \"\", no depth or height row, so it has no footprint; a layout extra, never placed, like the living room's HUGAD ikea-49634091), assumed-position:window (F-38). Fit: maddie-room's 55\" window plus about 7\" each side, set to about 70\" of its 47 ¼\" to 82 ¾\" range, carrying the BENGTA panel ikea-20602137 (1 lb 8 oz of the 22 lb max load) · fits. The brackets stand off the wall over the heater; keep the curtain's hem above it (F-33). White, to keep black metal to the lamps (house style). Comprises 1 HUGAD curtain rod (102.171.41), 3 BETYDLIG wall/ceiling brackets (302.198.89) and 1 HELTUSS finials pair (306.200.46); screws and wall anchors not included. Article 196.340.78 (the URL carries an s, a combination). Variant: with wall/ceiling brackets/with finials white, 47 ¼-82 ¾\" (the 82 ¾-151 ½\" size is $25.00). Popularity: #5 under a search for \"curtain rod combination\" sorted Most popular (the black version); not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
+  "notes": "Rejected 2026-11-08: no curtain rod in Maddie's room (a motorized blind inside the recess), and Amazon's KAMANINA rods take the other windows. 2026-11-08, later: Andrew prefers Amazon for this purchase (\"I prefer amazon for this purchase.\"), so KAMANINA's Ivory White rods take the windows (amazon-B0C7CM7QFR on the 67\" windows, amazon-B0CP9DBSZK on the 102\"). 2026-11-08: price re-read, $18.50, in stock in IKEA Long Island, NY; 4.2 stars (35). F-43: the rod for the 67\" windows in the master bedroom and the office, one each, set to 77 to 82\" (5 to 7 3/4\" past each side, as the wall allows) and 2 to 3\" above the window; the H.VERSAILTEX grommets take rods up to 1.5\". Flags: no-dimensions (F-11: the Measurements section gives only the rod's length range, \"Length: 47 ¼ \"; Max. length: 82 ¾ \"; Max. load: 22 lb; Min. length: 47 ¼ \"\", no depth or height row, so it has no footprint; a layout extra, never placed, like the living room's HUGAD ikea-49634091), assumed-position:window (F-38). Fit: maddie-room's 55\" window plus about 7\" each side, set to about 70\" of its 47 ¼\" to 82 ¾\" range, carrying the BENGTA panel ikea-20602137 (1 lb 8 oz of the 22 lb max load) · fits. The brackets stand off the wall over the heater; keep the curtain's hem above it (F-33). White, to keep black metal to the lamps (house style). Comprises 1 HUGAD curtain rod (102.171.41), 3 BETYDLIG wall/ceiling brackets (302.198.89) and 1 HELTUSS finials pair (306.200.46); screws and wall anchors not included. Article 196.340.78 (the URL carries an s, a combination). Variant: with wall/ceiling brackets/with finials white, 47 ¼-82 ¾\" (the 82 ¾-151 ½\" size is $25.00). Popularity: #5 under a search for \"curtain rod combination\" sorted Most popular (the black version); not badged. Stock 2026-10-22: in stock at IKEA Long Island, NY. rooms: maddie-room, from the staging brief.",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",
