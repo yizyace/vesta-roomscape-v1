@@ -46,7 +46,7 @@
           "dir": "left",
           "length": 275.5,
           "kind": "derived",
-          "note": "no wall: the side opposite the windows is open to the kitchen and dining area (Andrew, 2026-10-24); its length is 261 + 14.5, not measured; except at its left end, a wall that separates the room from the kitchen, with a light switch on it (Andrew, 2026-11-08: \"bottom left area on wall that sepaerates to kitchen\"), where a console 51 in wide and 41 in tall at most stands; that wall's length and where the opening starts are not measured, so the opening is still drawn along the whole side"
+          "note": "the side opposite the windows, open to the kitchen and dining area (Andrew, 2026-10-24) but for its left 51 in, a wall that separates the room from the kitchen, with a light switch on it (Andrew, 2026-11-08: \"bottom left area on wall that sepaerates to kitchen\" and \"the 51\" is how long that part of the wall is\"); its length is 261 + 14.5, not measured"
         },
         {
           "name": "left",
@@ -93,15 +93,27 @@
           "type": "opening",
           "wall": "bottom",
           "at": 0,
-          "length": 275.5,
+          "length": 224.5,
           "measured": [],
           "label": "opening to the kitchen and dining room",
-          "note": "the whole bottom side, opposite the windows, is open to the kitchen and dining area, with no wall (Andrew, 2026-10-24: \"the BOTTOM of the living room edge is actualy OPEN FLOOR PLAN  that connects to the KITCEN / DINING area\"); its length is the derived 275.5; a 30-inch walkway along it stays clear (rules.md F-42). Revised 2026-11-08: its left end is a wall to the kitchen with a light switch (Andrew: \"bottom left area on wall that sepaerates to kitchen\"), where a console up to 51 in wide and 41 in tall goes (rules.md F-42); the wall's length is not measured, so this opening still runs the whole side and a piece against that wall warns until it is taped"
+          "note": "the bottom side, opposite the windows, is open to the kitchen and dining area, with no wall (Andrew, 2026-10-24: \"the BOTTOM of the living room edge is actualy OPEN FLOOR PLAN  that connects to the KITCEN / DINING area\"), but for the 51 in wall to the kitchen at its left end (Andrew, 2026-11-08), so the opening is the other 224.5 in from the right corner (275.5 - 51, derived); a 30-inch walkway along it stays clear (rules.md F-42)"
+        },
+        {
+          "type": "clear",
+          "wall": "bottom",
+          "anchor": "end",
+          "at": 0,
+          "length": 51,
+          "measured": [
+            "length"
+          ],
+          "label": "wall to the kitchen",
+          "note": "the left end of the bottom side is a wall that separates the room from the kitchen, with a light switch on it (Andrew, 2026-11-08: \"bottom left area on wall that sepaerates to kitchen\" and \"the 51\" is how long that part of the wall is\"); a console there is 41 in tall at most (\"otherwise hits light switch\"); taken to start at the corner by the stair railing, so a piece against it stands within 36 in of the railing (rules.md F-40); its position is not measured"
         }
       ],
       "notes": [
         "No door is drawn on the sketch; the staircase along the left wall is the way in.",
-        "The bottom side, opposite the windows, is open to the kitchen and dining area, but for a wall to the kitchen at its left end (Andrew, 2026-11-08); nothing stands against the open part (rules.md F-42).",
+        "The bottom side, opposite the windows, is open to the kitchen and dining area, but for the 51 in wall to the kitchen at its left end (Andrew, 2026-11-08); nothing stands against the open part (rules.md F-42).",
         "Positions along walls are eyeballed from the sketch until measured."
       ]
     },
