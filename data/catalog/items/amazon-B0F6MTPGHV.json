@@ -12,7 +12,7 @@
   "rooms": [
     "master-bedroom"
   ],
-  "status": "candidate",
+  "status": "shortlisted",
   "price": {
     "amount": 33.24,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "Two teal blackout curtain panels hung on a silver grommet rod over a window (main)"
     }
   ],
-  "notes": "Flags: assumed-position:window (F-38). The master bedroom's pair (F-43, F-68 (9)). Andrew, 2026-11-08, of the 52\" H.VERSAILTEX: \"Why are you suggestin 52\" width? isn't that too narrow?\", then \"master rod is about 75\". is it OK?\" It wasn't: 2 x 52\" = 104\" on a 75\" rod is 1.39x, under the 1.5x minimum. Fit: 2 x 66\" = 132\" on the 75\" rod = 1.76x, inside the 1.5 to 2x range: deep waves and a few inches of overlap where the panels meet, and with 8 grommets a panel still stacks to about a foot when open. 54\" long on 1.6\" grommets, the rod 2 to 3\" above the 50\" window: they end at the sill, clear of the heater (F-33); the grommets slide on a rod up to about 1 1/2\" · fits. Color: Sea Teal, a deep muted teal (the listing's Teal is a bright turquoise; Navy is near black; Sage Green and Stone Blue are on the same listing), between the blue and the green of the teal/green/blue bedding and a classic match for the brown-walnut RÅDMANSÖ. Light: triple weave, not lined: \"Curtains impede 85%-99% light and UV ray(Darker colors more better)\"; a dark teal sits at the high end, and on a 75\" rod the leaks that show are at the edges and the middle, which the width closes. \"machine washable\"; \"thermal insulated\". Read 2026-11-08: $33.24 (5 percent off; $16.62 per count), \"Only 8 left in stock - order soon.\", FREE delivery Tuesday, November 10; 4.6 stars (51,259, the listing's); Amazon's Choice on the listing. rooms: master-bedroom, from Andrew.",
+  "notes": "In Andrew's Amazon cart, qty 1 (2026-11-08, read only; the cart line matches the variant and size recorded here). Flags: assumed-position:window (F-38). The master bedroom's pair (F-43, F-68 (9)). Andrew, 2026-11-08, of the 52\" H.VERSAILTEX: \"Why are you suggestin 52\" width? isn't that too narrow?\", then \"master rod is about 75\". is it OK?\" It wasn't: 2 x 52\" = 104\" on a 75\" rod is 1.39x, under the 1.5x minimum. Fit: 2 x 66\" = 132\" on the 75\" rod = 1.76x, inside the 1.5 to 2x range: deep waves and a few inches of overlap where the panels meet, and with 8 grommets a panel still stacks to about a foot when open. 54\" long on 1.6\" grommets, the rod 2 to 3\" above the 50\" window: they end at the sill, clear of the heater (F-33); the grommets slide on a rod up to about 1 1/2\" · fits. Color: Sea Teal, a deep muted teal (the listing's Teal is a bright turquoise; Navy is near black; Sage Green and Stone Blue are on the same listing), between the blue and the green of the teal/green/blue bedding and a classic match for the brown-walnut RÅDMANSÖ. Light: triple weave, not lined: \"Curtains impede 85%-99% light and UV ray(Darker colors more better)\"; a dark teal sits at the high end, and on a 75\" rod the leaks that show are at the edges and the middle, which the width closes. \"machine washable\"; \"thermal insulated\". Read 2026-11-08: $33.24 (5 percent off; $16.62 per count), \"Only 8 left in stock - order soon.\", FREE delivery Tuesday, November 10; 4.6 stars (51,259, the listing's); Amazon's Choice on the listing. rooms: master-bedroom, from Andrew.",
   "captured": {
     "date": "2026-11-08",
     "by": "claude",
