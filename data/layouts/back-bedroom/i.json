@@ -1,0 +1,178 @@
+{
+  "room": "back-bedroom",
+  "variant": "i",
+  "name": "Alt: Andrew's two UPLIFT bamboo desks facing across the room, the 80\" run on the right wall, the 60\" job desk on the left, the chair bed kept",
+  "updatedAt": "2026-11-08T17:03:19.102Z",
+  "notes": "Alternative for Andrew's UPLIFT cart (2026-11-08, three screenshots: \"will 2 of the bamboo desks fit in office? the essential standing desk ($399) is going in a spare room, probably bedroom, but not decided yet.\"): the two V3 Standing Desks in Bamboo 1\", 80 x 30\" and 60 x 30\", in a's arrangement (the four-screen run on the right wall, the job desk on the left at the window end, the chair bed below it). Both fit, one way only: facing each other on the two side walls, 46\" apart. Each side wall holds 104\" between the heater line (y 12: the hatched wall counts whole, F-33, heater-depth-assumed) and the wardrobe's landing (y 116, F-31, assumed-position:closet). The window wall takes no desk (F-62) and the bottom wall is the wardrobe and the door (F-31). As an L they don't fit: the 60\" return off the 80\" ends 16\" from the opposite wall, where the way in from the door runs (F-30), and the 80\" across the room would need 110\" of the 106\". The mirror image (the 80\" on the left wall, the 60\" and the chair bed on the right) works the same.\ndesk-1 UPLIFT V3 80 x 30 bamboo (other-UPL960-bamboo-80x30), right wall, rot 90, x 76-106, y 36-116: the personal run. F-62: four 32\" screens flat in a row need about 114\", so on 80\" they go two over two (56\" across) or three across with the outer two angled in about 30 degrees (about 77\", as on e's UPLIFT main) and the fourth above the middle; the arms go through the desk's two grommets, so the desk stands flush to the wall. F-31: its south end on the wardrobe landing's line (it shares x 76-78 of it) and 6\" above the door's landing (assumed-position:door). F-35: 46\" in front of it to the job desk (y 36-72) and 42.9\" to the chair bed (y 73-104.5), so the way past its chair keeps the 42\" for passing · fits.\ndesk-2 UPLIFT V3 60 x 30 bamboo (other-UPL960-bamboo-60x30), left wall, rot 270, x 0-30, y 12-72: the job station, the laptop on the ELLOVEN beside one 32\" monitor, 46.5\" of its 60\", 13.5\" to spare (F-62). F-33: 6\" from the heater's drawn face. F-35: 46\" in front of it to the run, 76\" at its window end · fits.\nchair-1 FLINTAN at the run, x 46-74, y 62-90, facing it; chair-2 FLINTAN at the job desk, x 32-60, y 21-49, 15\" from the heater's face (F-33's 12\" for upholstery); 13\" apart, so both stations work at once · fits.\nchairbed-1 IKEA PS 2026 chair bed (F-62's small daybed), left wall below the job desk, x 0-33.1, y 73-104.5: 1\" below desk-2, 11.5\" above the wardrobe's landing. Opened, it reaches x 79.9, its last 3.9\" under desk-1. The V3 frame's width adjusts from 41.3\" to 72.2\" and its feet run 27.6\" deep (Specs), so set 63\" or wider under the 80\" top, the feet stand outside the bed's 31.5\" (y 73-104.5): check that when assembling, and hang the bamboo drawer and the FlexMount pouch at the run's window end, so nothing hangs over the bed's band. desk-1 stays raised and unplugged while a guest sleeps, as in a · fits.\nstorage-2 BESTÅ shelf unit with doors 47 1/4\" (top): hung above the job desk, centered (y 18.4-65.6), underside about 75\" up: the UPLIFT on its Soft Roll Casters rises to 51.2\", so the job monitor needs it; its top about 90\". The ceiling is unmeasured (F-63, F-23).\nlamp-1 TÅGARP and plant-1 FEJKA: the bottom-left corner, left of the wardrobe's landing, as in a. lamp-2 RÖDFLIK (top) on the job desk's window end; lamp-3 RÖDFLIK (top) on the run's window-end front corner, clear of the arms. art-1 PJÄTTERYD (top): one canvas centered over the chair bed (y 77.75-99.75); a row of three would run over the job desk's south end, in its rising path, so the other two hang one above the other over the plant.\nrug-2 and rug-3, two Anji Mountain bamboo chair mats 48 x 36\" (rug; wipeable and plastic-free, F-66): one across the aisle under chair-2 (x 29-77, y 17-53, 1\" under each desk's front edge, clear of desk-2's feet), one along it under chair-1 (x 40-76, y 54-102), since the aisle beside the chair bed is 42.9\" and a's 60 x 48 would run under the bed's front.\nThe way in from the door: from its landing west across the wardrobe's, then up the aisle: 44.4\" diagonally between the bed's corner and the run's south end, 42.9\" beside the bed, 46\" between the desks (F-30), with chair-1 tucked in; pulled out, it leaves 12.9\" beside the bed, as a's run chair does.\nRugless, as a (F-66). Kid safety (F-21): the job desk stands by the window and its chair rolls, so Maddie could climb to the window: fit window stops there (the sill is unmeasured, F-38). Both desks roll on casters: lock them once placed, so a push doesn't move a desk with its screens.\nUPLIFT's free accessories in the cart (with each desk a Rocker-X board, a standing desk mat, a bamboo desk drawer and a clamp-on cup holder; a tumbler and a mug with the 80\") are not in the catalog and not drawn: the drawer and the cup holder mount on the desks, and the standing mat's material is unread, so it stays out of this rugless room until it is (F-66). Each V3 includes a FlexMount Cable Manager, so this layout has no FÖRSÄSONG trays. No outlets are mapped: two motors, five screens and the lamps need a power strip in each FlexMount, with a slack loop for the desk's 26.1\" of travel.\nNot placed: the UPLIFT V3 Essential 46 x 24\" from the same cart, which goes to a spare room, not chosen yet.\nTotal $3,581.82: placed $3,256.91 + extras $324.91, prices as of 2026-10-22, 2026-10-23, 2026-10-26 (price-stale, F-02) and 2026-11-08 (the desks, their cart prices before the BF2026 coupon). Flags across the layout: assumed-position:closet, assumed-position:door, heater-depth-assumed.",
+  "placements": [
+    {
+      "id": "desk-1",
+      "itemId": "other-UPL960-bamboo-80x30",
+      "x": 76,
+      "y": 36,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "UPLIFT V3 80x30 bamboo, the personal run (x 76-106, y 36-116): the four 32\" screens two over two or three across plus one above, on arms through its two grommets, so it stands flush to the wall; its south end on the wardrobe landing's line and 6\" above the door's (assumed-position:closet, assumed-position:door)"
+    },
+    {
+      "id": "desk-2",
+      "itemId": "other-UPL960-bamboo-60x30",
+      "x": 0,
+      "y": 12,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "UPLIFT V3 60x30 bamboo, the job station (x 0-30, y 12-72): laptop on the ELLOVEN and one 32\" monitor, 13.5\" to spare (F-62); F-33 6\" from the heater's drawn face (heater-depth-assumed); its window end 12\" from the window wall, so the window gets stops"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-49424465",
+      "x": 46,
+      "y": 62,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "FLINTAN at the run's center, facing it"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-49424465",
+      "x": 32,
+      "y": 21,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "FLINTAN at the job desk, facing it, 15\" from the heater's face (F-33); 13\" above chair-1"
+    },
+    {
+      "id": "chairbed-1",
+      "itemId": "ikea-10620373",
+      "x": 0,
+      "y": 73,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "F-62 small daybed, x 0-33.1, y 73-104.5: 1\" below the job desk, 11.5\" above the wardrobe's landing (assumed-position:closet); opens to x 79.9, its last 3.9\" under desk-1 between the desk's feet when its frame is set 63\" or wider (Specs: 41.3-72.2\"); desk-1 stays raised and unplugged while a guest sleeps"
+    },
+    {
+      "id": "lamp-1",
+      "itemId": "ikea-70486395",
+      "x": 0.5,
+      "y": 142,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "TÅGARP uplighter in the bottom-left corner, left of the wardrobe's landing (assumed-position:closet)"
+    },
+    {
+      "id": "plant-1",
+      "itemId": "ikea-10615244",
+      "x": 1,
+      "y": 117,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "FEJKA left of the wardrobe's landing (assumed-position:closet)"
+    },
+    {
+      "id": "lamp-2",
+      "itemId": "ikea-40584057",
+      "x": 2,
+      "y": 13,
+      "rotation": 0,
+      "layer": "top",
+      "note": "RÖDFLIK on the job desk's window end"
+    },
+    {
+      "id": "lamp-3",
+      "itemId": "ikea-40584057",
+      "x": 77,
+      "y": 38,
+      "rotation": 0,
+      "layer": "top",
+      "note": "RÖDFLIK on the run's window-end front corner, clear of the arms at the back"
+    },
+    {
+      "id": "storage-2",
+      "itemId": "ikea-79047429",
+      "x": 0,
+      "y": 18.375,
+      "rotation": 270,
+      "layer": "top",
+      "note": "BESTÅ cabinet hung above the job desk, centered on it (y 18.4-65.6), underside about 75\" up (the UPLIFT on its casters rises to 51.2\"), two suspension rails (F-63)"
+    },
+    {
+      "id": "art-1",
+      "itemId": "ikea-40602018",
+      "x": 0,
+      "y": 77.75,
+      "rotation": 270,
+      "layer": "top",
+      "note": "one PJÄTTERYD canvas centered over the chair bed (y 77.75-99.75); the other two hang one above the other over the plant, since a row of three would run over the job desk's south end in its rising path"
+    },
+    {
+      "id": "rug-2",
+      "itemId": "amazon-B0D6W7NST9",
+      "x": 29,
+      "y": 17,
+      "rotation": 0,
+      "layer": "rug",
+      "note": "Anji Mountain bamboo chair mat 48 x 36\" across the aisle under chair-2 (x 29-77, y 17-53), 1\" under each desk's front edge; wipeable and plastic-free (F-66)"
+    },
+    {
+      "id": "rug-3",
+      "itemId": "amazon-B0D6W7NST9",
+      "x": 40,
+      "y": 54,
+      "rotation": 90,
+      "layer": "rug",
+      "note": "a second 48 x 36\" bamboo mat along the aisle under chair-1 (x 40-76, y 54-102): the aisle beside the chair bed is 42.9\", too narrow for a's 60 x 48 without running under the bed's front"
+    }
+  ],
+  "extras": [
+    {
+      "itemId": "amazon-B0CR5VT3KZ",
+      "qty": 1,
+      "note": "LAMIT Taupe light-filtering, one pack (2 x 52\" panels, 1.49x the 70\" rod already in place), 54\" long on grommets: they end at the sill (F-43, F-33); ordered 2026-11-08"
+    },
+    {
+      "itemId": "amazon-B0CTMHHJJC",
+      "qty": 2,
+      "note": "HUANUO dual monitor arms on desk-1 through its two grommets, so the desk stands flush; four 32\" screens need about 114\" flat (F-62), so on the 80\" they go two over two or three across with the outer pair angled in (no-dimensions, so an extra)"
+    },
+    {
+      "itemId": "ikea-50474770",
+      "qty": 1,
+      "note": "ELLOVEN stand with drawer on the job desk: raises the job laptop beside the 32\" monitor"
+    },
+    {
+      "itemId": "ikea-10632465",
+      "qty": 1,
+      "note": "ÄNGSLILJA twin duvet cover and pillowcase, pale gray-green, for the guest"
+    },
+    {
+      "itemId": "ikea-40457078",
+      "qty": 1,
+      "note": "SÄFFEROT twin duvet insert"
+    },
+    {
+      "itemId": "ikea-90460380",
+      "qty": 1,
+      "note": "LAPPTÅTEL standard pillow"
+    },
+    {
+      "itemId": "ikea-50570955",
+      "qty": 1,
+      "note": "VALLKRASSING gray-green cushion cover, the chair bed's daytime cushion"
+    },
+    {
+      "itemId": "ikea-60262188",
+      "qty": 1,
+      "note": "FJÄDRAR 20x20 insert for it"
+    },
+    {
+      "itemId": "ikea-20570928",
+      "qty": 1,
+      "note": "VALLKRASSING off-white throw over the chair bed"
+    },
+    {
+      "itemId": "ikea-70488318",
+      "qty": 2,
+      "note": "BESTÅ suspension rails for the hung cabinet, fixed into studs"
+    }
+  ]
+}

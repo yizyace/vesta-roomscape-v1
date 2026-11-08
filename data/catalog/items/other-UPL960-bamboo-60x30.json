@@ -1,0 +1,51 @@
+{
+  "id": "other-UPL960-bamboo-60x30",
+  "vendor": "other",
+  "url": "https://www.upliftdesk.com/2-leg-standing-desk/?4275=4857&4276=4656&4279=36710&27944=20608&4280=11390&14905=11667",
+  "name": "UPLIFT V3 Standing Desk, Bamboo 1\", 60\" x 30\", V3 C-Frame 27.5\" feet Black, Basic Display Angled Keypad Black, Soft Roll Casters Black",
+  "brand": "UPLIFT Desk",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 908,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 30,
+    "h": 51.2,
+    "raw": "Configurator: \"UPL960-bamboo-60x30\"; Desktop Style \"Bamboo Bamboo 1\" +$100\"; Desktop Size \"60\" x 30\" +$160\"; Frame Color \"V3 C-Frame 27.5\" feet Black BUNDLE-FV3-200-C27B\"; Casters \"Soft Roll Casters Black, raises desk 2.5\"\". Specifications: \"Frame width Adjustable from 41.3\" to 72.2\"\"; \"Frame depth 27.6\" for 30\" deep desktops\"; \"Frame height (not including desktop) 21.6\" to 47.7\"\"; \"Note: Casters increase desk height by 1.5\" to 4.7\".\"; \"Travel range 26.1\"\"; \"Bamboo desktops are 1\" thick.\"; \"Lifting capacity 355 lb (inclusive of desktop weights)\"",
+    "source": "upliftdesk.com's V3 Standing Desk configurator and its Specifications section, read in Claude in Chrome 2026-11-08 with Bamboo 1\" and 60\" x 30\" selected (the SKU printed under the desktop options). w 60 and d 30 are the desktop; h 51.2 is the frame's 47.7\" plus the 1\" bamboo top plus the 2.5\" of the Soft Roll Casters in Andrew's cart (the page's own range with a 1\" top is 22.6\" to 48.7\"; on these casters 25.1\" to 51.2\")."
+  },
+  "images": [
+    {
+      "file": "other-UPL960-bamboo-60x30-1.jpg",
+      "sourceUrl": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280w/products/890/37618/FINAL_Entrepreneur_05023_1_no_basket.jpg_1__03457.1783450275.jpg",
+      "caption": "main"
+    },
+    {
+      "file": "other-UPL960-bamboo-60x30-2.jpg",
+      "sourceUrl": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280w/products/890/37619/UPL960_Sits-2000x2000__89402.1783450611.jpg",
+      "caption": "second"
+    },
+    {
+      "file": "other-UPL960-bamboo-60x30-3.jpg",
+      "sourceUrl": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280w/products/890/37620/UPL960_Built_For_Everybody-2000x2000__81202.1783450274.jpg",
+      "caption": "third"
+    }
+  ],
+  "notes": "In Andrew's UPLIFT cart, qty 1 (2026-11-08, his screenshots): \"UPLIFT V3 Standing Desk\" $908: Desktop Style +$100 Bamboo - Bamboo 1\"; Desktop Size +$160 60\" x 30\"; Grommets 2 Covers - Black; Frame Color V3 C-Frame 27.5\" feet - Black; Keypad Basic Display Angled Keypad - Black; Casters +$49 Soft Roll Casters - Black, raises desk 2.5\"; Assembly Help I don't need assembly help; free accessories Bamboo Rocker-X Board (without comfort mat), Standing Desk Mat, Bamboo Desk Drawer - Natural, Clamp-On Cup Holder - Black. The page, 2026-11-08: $859 with Bamboo 1\" and 60 x 30 on the default frame and Basic Display keypad, so the cart's $908 is that plus the casters' $49. The cart's coupon BF2026 takes $200 off a $1,999+ subtotal, $300 off $2,999+ (\"Sale ends 11/29/2026\"). The url is the configurator with Bamboo 1\" and 60 x 30 selected. Every V3 includes the FlexMount Cable Manager and 10 cable wraps. Ships flat in boxes, as the 80 x 30. Fit: back-bedroom, left wall, x 0-30, y 12-72 (layout i), the job station: the laptop on the ELLOVEN beside one 32\" monitor, 46.5\" of its 60\" (F-62); 6\" from the heater's drawn face (F-33, heater-depth-assumed); 46\" in front of it to the 80\" run (F-35) · fits. Flags: none (51.2\" is under F-23's 78\"; ships flat, F-22). rooms: back-bedroom, from Andrew's question.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

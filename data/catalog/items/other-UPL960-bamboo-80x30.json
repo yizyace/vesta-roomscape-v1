@@ -1,0 +1,51 @@
+{
+  "id": "other-UPL960-bamboo-80x30",
+  "vendor": "other",
+  "url": "https://www.upliftdesk.com/2-leg-standing-desk/?4275=4857&4276=4658&4279=36710&27944=20608&4280=11390&14905=11667",
+  "name": "UPLIFT V3 Standing Desk, Bamboo 1\", 80\" x 30\", V3 C-Frame 27.5\" feet Black, Advanced Comfort Angled Keypad Black, Soft Roll Casters Black",
+  "brand": "UPLIFT Desk",
+  "category": "desk",
+  "tags": [
+    "office",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "back-bedroom"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 1097,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 80,
+    "d": 30,
+    "h": 51.2,
+    "raw": "Configurator: \"UPL960-bamboo-80x30\"; Desktop Style \"Bamboo Bamboo 1\" +$100\"; Desktop Size \"80\" x 30\" +$320\"; Frame Color \"V3 C-Frame 27.5\" feet Black BUNDLE-FV3-200-C27B\"; Casters \"Soft Roll Casters Black, raises desk 2.5\"\". Specifications: \"Frame width Adjustable from 41.3\" to 72.2\"\"; \"Frame depth 27.6\" for 30\" deep desktops\"; \"Frame height (not including desktop) 21.6\" to 47.7\"\"; \"Note: Casters increase desk height by 1.5\" to 4.7\".\"; \"Travel range 26.1\"\"; \"Bamboo desktops are 1\" thick.\"; \"Lifting capacity 355 lb (inclusive of desktop weights)\"",
+    "source": "upliftdesk.com's V3 Standing Desk configurator and its Specifications section, read in Claude in Chrome 2026-11-08 with Bamboo 1\" and 80\" x 30\" selected (the SKU printed under the desktop options). w 80 and d 30 are the desktop; h 51.2 is the frame's 47.7\" plus the 1\" bamboo top plus the 2.5\" of the Soft Roll Casters in Andrew's cart (the page's own range with a 1\" top is 22.6\" to 48.7\"; on these casters 25.1\" to 51.2\")."
+  },
+  "images": [
+    {
+      "file": "other-UPL960-bamboo-80x30-1.jpg",
+      "sourceUrl": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280w/products/890/37618/FINAL_Entrepreneur_05023_1_no_basket.jpg_1__03457.1783450275.jpg",
+      "caption": "main"
+    },
+    {
+      "file": "other-UPL960-bamboo-80x30-2.jpg",
+      "sourceUrl": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280w/products/890/37619/UPL960_Sits-2000x2000__89402.1783450611.jpg",
+      "caption": "second"
+    },
+    {
+      "file": "other-UPL960-bamboo-80x30-3.jpg",
+      "sourceUrl": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280w/products/890/37620/UPL960_Built_For_Everybody-2000x2000__81202.1783450274.jpg",
+      "caption": "third"
+    }
+  ],
+  "notes": "In Andrew's UPLIFT cart, qty 1 (2026-11-08, his screenshots): \"UPLIFT V3 Standing Desk\" $1,097: Desktop Style +$100 Bamboo - Bamboo 1\"; Desktop Size +$320 80\" x 30\"; Grommets 2 Covers - Black; Frame Color V3 C-Frame 27.5\" feet - Black; Keypad +$29 Advanced Comfort Angled Keypad - Black; Casters +$49 Soft Roll Casters - Black, raises desk 2.5\"; Assembly Help I don't need assembly help; free accessories Bamboo Rocker-X Board (without comfort mat), Standing Desk Mat, Bamboo Desk Drawer - Natural, Clamp-On Cup Holder - Black; free gifts Austin Tumbler - Woodgrain, Insulated Mug - Black. The page, 2026-11-08: $1,019 with Bamboo 1\" and 80 x 30 on the default frame and Basic Display keypad, so the cart's $1,097 is that plus the keypad's $29 and the casters' $49 (the page lists the Soft Roll Casters at $79, $49 with a desk). The cart's coupon BF2026 takes $200 off a $1,999+ subtotal, $300 off $2,999+ (\"Sale ends 11/29/2026\"). The url is the configurator with Bamboo 1\" and 80 x 30 selected; it carries the default keypad, not the cart's. Every V3 includes the FlexMount Cable Manager and 10 cable wraps. \"Ships the same day, order by 3pm Central\"; free shipping, 1-4 business days; 15-year warranty; 25,802 reviews at 4.9. Ships flat in boxes (frame box 1 47.5 x 11 x 6.75\", 57.3 lb; the 28\" feet 29.5 x 6 x 4.5\"; the desktop's box not listed). Fit: back-bedroom, right wall, x 76-106, y 36-116 (layout i), the personal run; each side wall holds 104\" between the heater line (y 12, F-33) and the wardrobe's landing (y 116, F-31), so it leaves 24\"; 46\" in front of it to the 60\" job desk (F-35) · fits. Four 32\" screens flat in a row need about 114\" (F-62), so on this 80\" they go two over two or three across with the outer two angled in and the fourth above. Flags: none (51.2\" is under F-23's 78\"; ships flat, F-22). rooms: back-bedroom, from Andrew's question.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

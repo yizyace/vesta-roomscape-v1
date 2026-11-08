@@ -2027,6 +2027,53 @@ Final audit 2026-10-26, for every office layout: the HUANUO arms are C-clamps on
 
 </details>
 
+### I · Alt: Andrew's two UPLIFT bamboo desks facing across the room, the 80" run on the right wall, the 60" job desk on the left, the chair bed kept
+
+Open: https://yizyace.github.io/vesta-roomscape-v1/#/back-bedroom/i · printable: https://yizyace.github.io/vesta-roomscape-v1/#/back-bedroom/i/view
+
+| Item | Qty | Each | Subtotal |
+|---|---|---|---|
+| [UPLIFT V3 Standing Desk](https://www.upliftdesk.com/2-leg-standing-desk/?4275=4857&4276=4658&4279=36710&27944=20608&4280=11390&14905=11667) | 1 | $1,097.00 | $1,097.00 |
+| [UPLIFT V3 Standing Desk](https://www.upliftdesk.com/2-leg-standing-desk/?4275=4857&4276=4656&4279=36710&27944=20608&4280=11390&14905=11667) | 1 | $908.00 | $908.00 |
+| [FLINTAN Office chair with armrests](https://www.ikea.com/us/en/p/flintan-office-chair-with-armrests-beige-s49424465/) | 2 | $119.99 | $239.98 |
+| [IKEA PS 2026 Chair bed](https://www.ikea.com/us/en/p/ikea-ps-2026-chair-bed-skiftebo-light-grey-beige-10620373/) | 1 | $399.00 | $399.00 |
+| [TÅGARP Floor uplighter/reading lamp](https://www.ikea.com/us/en/p/tagarp-floor-uplighter-reading-lamp-black-white-70486395/) | 1 | $17.99 | $17.99 |
+| [FEJKA Artificial potted plant](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-monstera-10615244/) | 1 | $49.99 | $49.99 |
+| [RÖDFLIK Desk lamp](https://www.ikea.com/us/en/p/roedflik-desk-lamp-light-beige-40584057/) | 2 | $44.99 | $89.98 |
+| [BESTÅ Shelf unit with doors](https://www.ikea.com/us/en/p/besta-shelf-unit-with-doors-white-lappviken-white-s79047429/) | 1 | $125.00 | $125.00 |
+| [PJÄTTERYD Picture](https://www.ikea.com/us/en/p/pjaetteryd-picture-swedish-sand-dunes-40602018/) | 1 | $69.99 | $69.99 |
+| [Anji Mountain 48" x 36" Bamboo Office Chair Mat for Carpet & Hardwood Floor](https://www.amazon.com/dp/B0D6W7NST9) | 2 | $129.99 | $259.98 |
+| [Taupe Linen Curtains for Bedroom 54 inches Long](https://www.amazon.com/dp/B0CR5VT3KZ) *(room list)* | 1 | $29.99 | $29.99 |
+| [HUANUO Dual Monitor Stand - Full Adjustable Monitor Desk Mount Swivel Vesa Bracket with C Clamp](https://www.amazon.com/dp/B0CTMHHJJC) *(room list)* | 2 | $69.99 | $139.98 |
+| [ELLOVEN Monitor stand with drawer](https://www.ikea.com/us/en/p/elloven-monitor-stand-with-drawer-white-50474770/) *(room list)* | 1 | $29.99 | $29.99 |
+| [ÄNGSLILJA Duvet cover and pillowcase(s)](https://www.ikea.com/us/en/p/aengslilja-duvet-cover-and-pillowcase-s-pale-gray-green-10632465/) *(room list)* | 1 | $29.99 | $29.99 |
+| [SÄFFEROT Duvet insert](https://www.ikea.com/us/en/p/saefferot-duvet-insert-light-warm-40457078/) *(room list)* | 1 | $24.99 | $24.99 |
+| [LAPPTÅTEL Pillow](https://www.ikea.com/us/en/p/lapptatel-pillow-side-back-sleeper-90460380/) *(room list)* | 1 | $7.99 | $7.99 |
+| [VALLKRASSING Cushion cover](https://www.ikea.com/us/en/p/vallkrassing-cushion-cover-gray-green-50570955/) *(room list)* | 1 | $9.99 | $9.99 |
+| [FJÄDRAR Inner cushion](https://www.ikea.com/us/en/p/fjaedrar-inner-cushion-off-white-60262188/) *(room list)* | 1 | $12.00 | $12.00 |
+| [VALLKRASSING Throw](https://www.ikea.com/us/en/p/vallkrassing-throw-off-white-20570928/) *(room list)* | 1 | $19.99 | $19.99 |
+| [BESTÅ Suspension rail](https://www.ikea.com/us/en/p/besta-suspension-rail-silver-color-70488318/) *(room list)* | 2 | $10.00 | $20.00 |
+
+**Total: $3,581.82**
+
+<details><summary>Why it's laid out this way</summary>
+
+Alternative for Andrew's UPLIFT cart (2026-11-08, three screenshots: "will 2 of the bamboo desks fit in office? the essential standing desk ($399) is going in a spare room, probably bedroom, but not decided yet."): the two V3 Standing Desks in Bamboo 1", 80 x 30" and 60 x 30", in a's arrangement (the four-screen run on the right wall, the job desk on the left at the window end, the chair bed below it). Both fit, one way only: facing each other on the two side walls, 46" apart. Each side wall holds 104" between the heater line (y 12: the hatched wall counts whole, F-33, heater-depth-assumed) and the wardrobe's landing (y 116, F-31, assumed-position:closet). The window wall takes no desk (F-62) and the bottom wall is the wardrobe and the door (F-31). As an L they don't fit: the 60" return off the 80" ends 16" from the opposite wall, where the way in from the door runs (F-30), and the 80" across the room would need 110" of the 106". The mirror image (the 80" on the left wall, the 60" and the chair bed on the right) works the same.
+desk-1 UPLIFT V3 80 x 30 bamboo (other-UPL960-bamboo-80x30), right wall, rot 90, x 76-106, y 36-116: the personal run. F-62: four 32" screens flat in a row need about 114", so on 80" they go two over two (56" across) or three across with the outer two angled in about 30 degrees (about 77", as on e's UPLIFT main) and the fourth above the middle; the arms go through the desk's two grommets, so the desk stands flush to the wall. F-31: its south end on the wardrobe landing's line (it shares x 76-78 of it) and 6" above the door's landing (assumed-position:door). F-35: 46" in front of it to the job desk (y 36-72) and 42.9" to the chair bed (y 73-104.5), so the way past its chair keeps the 42" for passing · fits.
+desk-2 UPLIFT V3 60 x 30 bamboo (other-UPL960-bamboo-60x30), left wall, rot 270, x 0-30, y 12-72: the job station, the laptop on the ELLOVEN beside one 32" monitor, 46.5" of its 60", 13.5" to spare (F-62). F-33: 6" from the heater's drawn face. F-35: 46" in front of it to the run, 76" at its window end · fits.
+chair-1 FLINTAN at the run, x 46-74, y 62-90, facing it; chair-2 FLINTAN at the job desk, x 32-60, y 21-49, 15" from the heater's face (F-33's 12" for upholstery); 13" apart, so both stations work at once · fits.
+chairbed-1 IKEA PS 2026 chair bed (F-62's small daybed), left wall below the job desk, x 0-33.1, y 73-104.5: 1" below desk-2, 11.5" above the wardrobe's landing. Opened, it reaches x 79.9, its last 3.9" under desk-1. The V3 frame's width adjusts from 41.3" to 72.2" and its feet run 27.6" deep (Specs), so set 63" or wider under the 80" top, the feet stand outside the bed's 31.5" (y 73-104.5): check that when assembling, and hang the bamboo drawer and the FlexMount pouch at the run's window end, so nothing hangs over the bed's band. desk-1 stays raised and unplugged while a guest sleeps, as in a · fits.
+storage-2 BESTÅ shelf unit with doors 47 1/4" (top): hung above the job desk, centered (y 18.4-65.6), underside about 75" up: the UPLIFT on its Soft Roll Casters rises to 51.2", so the job monitor needs it; its top about 90". The ceiling is unmeasured (F-63, F-23).
+lamp-1 TÅGARP and plant-1 FEJKA: the bottom-left corner, left of the wardrobe's landing, as in a. lamp-2 RÖDFLIK (top) on the job desk's window end; lamp-3 RÖDFLIK (top) on the run's window-end front corner, clear of the arms. art-1 PJÄTTERYD (top): one canvas centered over the chair bed (y 77.75-99.75); a row of three would run over the job desk's south end, in its rising path, so the other two hang one above the other over the plant.
+rug-2 and rug-3, two Anji Mountain bamboo chair mats 48 x 36" (rug; wipeable and plastic-free, F-66): one across the aisle under chair-2 (x 29-77, y 17-53, 1" under each desk's front edge, clear of desk-2's feet), one along it under chair-1 (x 40-76, y 54-102), since the aisle beside the chair bed is 42.9" and a's 60 x 48 would run under the bed's front.
+The way in from the door: from its landing west across the wardrobe's, then up the aisle: 44.4" diagonally between the bed's corner and the run's south end, 42.9" beside the bed, 46" between the desks (F-30), with chair-1 tucked in; pulled out, it leaves 12.9" beside the bed, as a's run chair does.
+Rugless, as a (F-66). Kid safety (F-21): the job desk stands by the window and its chair rolls, so Maddie could climb to the window: fit window stops there (the sill is unmeasured, F-38). Both desks roll on casters: lock them once placed, so a push doesn't move a desk with its screens.
+UPLIFT's free accessories in the cart (with each desk a Rocker-X board, a standing desk mat, a bamboo desk drawer and a clamp-on cup holder; a tumbler and a mug with the 80") are not in the catalog and not drawn: the drawer and the cup holder mount on the desks, and the standing mat's material is unread, so it stays out of this rugless room until it is (F-66). Each V3 includes a FlexMount Cable Manager, so this layout has no FÖRSÄSONG trays. No outlets are mapped: two motors, five screens and the lamps need a power strip in each FlexMount, with a slack loop for the desk's 26.1" of travel.
+Not placed: the UPLIFT V3 Essential 46 x 24" from the same cart, which goes to a spare room, not chosen yet.
+Total $3,581.82: placed $3,256.91 + extras $324.91, prices as of 2026-10-22, 2026-10-23, 2026-10-26 (price-stale, F-02) and 2026-11-08 (the desks, their cart prices before the BF2026 coupon). Flags across the layout: assumed-position:closet, assumed-position:door, heater-depth-assumed.
+
+</details>
+
 ## Maddie's room
 
 ### A · Staged: the KURA as the room's anchor, washable bedding and cushions, the LÖVA canopy over the den, Tumble's Amara Light Blue/Ivory 5x7 (washable, pad included) on the play floor  (staged)
