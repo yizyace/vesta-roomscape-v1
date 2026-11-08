@@ -1,0 +1,33 @@
+{
+  "id": "amazon-B0F4RN813P",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0F4RN813P",
+  "name": "Gray Curtains 54 Inch Length for Living Room, Light Filtering Faux Linen Slub Textured Window Curtains, Soft Airy Privac",
+  "brand": "Chyhomenyc",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 18.47,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 42,
+    "h": 54,
+    "raw": "Brand Chyhomenyc; Color Grey; Material Polyester; Product Dimensions 54\"L x 42\"W; Opacity Light-filtering inches",
+    "source": "its overview rows, read in Chrome 2026-11-08; per panel"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08: 42\" panels with a rod pocket, \"Soft Airy\" in its title, and 423 ratings; brand Chyhomenyc. Colors include Sage Green and Grey. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

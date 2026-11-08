@@ -1,0 +1,39 @@
+{
+  "id": "amazon-B07P4CYL56",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B07P4CYL56",
+  "name": "H.VERSAILTEX 100% Blackout Linen Curtains 54\"L 2 Panels Teal",
+  "brand": "H.VERSAILTEX",
+  "category": "curtains",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 31.49,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 52,
+    "h": 54,
+    "raw": "Brand H.VERSAILTEX; Color Teal; Material Linen; Product Dimensions 54\"L x 52\"W; Opacity Blackout; Size 52\"W x 54\"L (Pack of 2)",
+    "source": "the Teal variant's own overview rows and Size picker, read in Chrome 2026-11-08 (after Andrew cleared Amazon's bot check); L (the drop) -> h, W -> w, per panel; flat, no depth: a layout extra, never placed. The Bright White page's rows (B07P39MV8C) give Front: 100% Polyester, Back: Acrylic and grommets that fit rods up to 1.5\""
+  },
+  "images": [
+    {
+      "file": "amazon-B07P4CYL56-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61DQZljVR6L._AC_SL1500_.jpg",
+      "caption": "Two teal grommet-top curtain panels hung on a dark rod over a window (main)"
+    }
+  ],
+  "notes": "Flags: assumed-position:window (F-38). Read on its own page 2026-11-08: $31.49 the pack ($15.75 per count), In Stock, FREE delivery Tomorrow, November 9; the photo: \"Two teal grommet-top curtain panels hung on a dark rod over a window\", a muted blue-green linen look with a white back. The master bedroom's blackout pair, matched to the bedding: Andrew, 2026-11-08: \"for bedroom, we're going with darker wood frame and nightstand (check), and going with teal/green/blue sheets / blankets. was thinking it could be something closer match to that for the blackout curtains.\" Why Teal (F-68 (9)): it sits between the blue and the green of the bedding, so it ties to all three; teal against the RÅDMANSÖ's brown walnut is a classic pairing, it stands off the cream walls instead of melting into them, and it is the cool counterweight to the honey-oak floor and window frames. A darker blackout also hides the glow at its seams better than ivory. The listing's other colors in this size: Stone Blue (B09YNC9B2Z, $33.49, a dusty slate blue: the softer choice if the bedding is mostly blue), Sage (B09YND1C4C, $31.49, gray-green: if mostly green), Navy (B07P4DVGTR, $31.49), Blue Sapphire, Green Bay, Glacier Gray and the heathered ones at $39.95. Fit (F-43): 54\" long with grommets (fit rods up to 1.5\"), on the rod already in place 2 to 3\" above the 50\" window: the panels end at the sill; one pack, 2 x 52\" = 104\", 1.55x the 67\" window · fits. 4.6 stars (26,169, the listing's). rooms: master-bedroom, from Andrew's word.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

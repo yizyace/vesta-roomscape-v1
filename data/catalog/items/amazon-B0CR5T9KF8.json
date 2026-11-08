@@ -13,7 +13,7 @@
     "living-room",
     "back-bedroom"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 28.99,
     "currency": "USD",
@@ -32,7 +32,7 @@
       "caption": "main (Amazon #landingImage, the White variant's page)"
     }
   ],
-  "notes": "Flags: assumed-position:window (F-38). Light-filtering, not sheer, as Andrew asked for the living room (2026-11-08: \"The living room can be \"regular\", i.e. let some light through (but not sheer).\"), and the agent's pick for the office, where glare is the only need (\"not sure I need blackout, as long as I don't have glare I think it's fine (I dont sleep in there)\"). The listing's long title: \"Thermal Insulated, Thick Burlap ... Grommet\"; a sibling color's title says \"No See Through ... Privacy, Light Filtering\", and the listing's bullet: \"These thick natural linen textured curtains are denser and thicker than ordinary linen curtains. Block out enough light while thick enough to provide privacy.\" Fit (F-43): 54\" with grommets, ending at the sill like the master's; the living room 2 packs (4 x 52\" = 208\", 2x the 102\" window) on the KAMANINA 72-144\" rod (amazon-B0CP9DBSZK), the office 1 pack (104\", 1.55x the 67\" window) on the KAMANINA 48-84\" (amazon-B0C7CM7QFR) · fits. White: LAMIT's Ivory comes only in 42\"W x 40/45/48/54\"L (B0FZJQW9WV, 42x54, not kept), so White is the warm-white side of F-68 (5) here; Sage Green (B0DHRZ4Z9P) and Light Green are the gray-green colors on the listing, in sizes not read. Read 2026-11-08: $28.99 the pack of 2 ($14.50 per count), In Stock, 4.6 stars (826), FREE delivery Tuesday, November 10. rooms: living-room and back-bedroom, from Andrew's note and his answer.",
+  "notes": "Rejected 2026-11-08, later (F-68 (8)): beside the honey-orange window frames, the ivory rug and the cream walls, white reads stark; LAMIT's Light Grey (amazon-B0CR5WLQNM) takes the living room and the office. Flags: assumed-position:window (F-38). Light-filtering, not sheer, as Andrew asked for the living room (2026-11-08: \"The living room can be \"regular\", i.e. let some light through (but not sheer).\"), and the agent's pick for the office, where glare is the only need (\"not sure I need blackout, as long as I don't have glare I think it's fine (I dont sleep in there)\"). The listing's long title: \"Thermal Insulated, Thick Burlap ... Grommet\"; a sibling color's title says \"No See Through ... Privacy, Light Filtering\", and the listing's bullet: \"These thick natural linen textured curtains are denser and thicker than ordinary linen curtains. Block out enough light while thick enough to provide privacy.\" Fit (F-43): 54\" with grommets, ending at the sill like the master's; the living room 2 packs (4 x 52\" = 208\", 2x the 102\" window) on the KAMANINA 72-144\" rod (amazon-B0CP9DBSZK), the office 1 pack (104\", 1.55x the 67\" window) on the KAMANINA 48-84\" (amazon-B0C7CM7QFR) · fits. White: LAMIT's Ivory comes only in 42\"W x 40/45/48/54\"L (B0FZJQW9WV, 42x54, not kept), so White is the warm-white side of F-68 (5) here; Sage Green (B0DHRZ4Z9P) and Light Green are the gray-green colors on the listing, in sizes not read. Read 2026-11-08: $28.99 the pack of 2 ($14.50 per count), In Stock, 4.6 stars (826), FREE delivery Tuesday, November 10. rooms: living-room and back-bedroom, from Andrew's note and his answer.",
   "captured": {
     "date": "2026-11-08",
     "by": "claude",

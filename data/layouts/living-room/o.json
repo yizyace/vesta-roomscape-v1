@@ -2,8 +2,8 @@
   "room": "living-room",
   "variant": "o",
   "name": "Stairs side: the Yamaha P-143 on the window wall left of the window, the two POÄNGs side by side facing it, the violin on the BESTÅ",
-  "updatedAt": "2026-11-08T14:41:55.870Z",
-  "notes": "Rug, 2026-11-01: RUUGME's Ivory 10x14, the rug Andrew ordered (0.14in as listed, no pad), replaces the Olivia: x 68 to 236, y 29 to 149, where A has it. The piano stays off it, 4 1/2in from its edge; the bench's 30in in front of the keys crosses its corner, a 0.14in step; the stairs-side POÄNG set stands beside it, 1 1/4in off. The piano takes the window wall between the stairs strip and the window: x 44 to 96 3/16, y 12 to 24 1/2, and the second POÄNG set turns to face it from x 40 to 66 3/4, so a grown-up sits behind her and the play area doesn't change at all. The cost: that POÄNG no longer faces the sofa across the table, and it stands off the rug. The window route gets wider, not narrower. If people step off the stairs at the window end, the piano's left end is 8in from that landing's edge (F-40). Flags: assumed-position:stairs, assumed-position:window, heater-depth-assumed. Everything else stands as in A, the staged room. Andrew, 2026-11-01: \"Look at the furniture layout for the living room, where should I place both? show me at least 3 optimal ocnfigurations\", read as the Yamaha P-143 and the 1/10 violin in his Amazon cart. The bundle's bench isn't drawn, since no page gives its size; it tucks under the keyboard and the layout keeps 30in in front of the keys for it. The piano's power comes from an outlet on the play wall or the window wall, unconfirmed. Curtains (2026-11-08, F-43): on Andrew's window heights and his word for this room (light-filtering, not sheer; bought on Amazon), the 98\" GINSTMOTT pairs gave way to two packs of LAMIT's 54\" light-filtering White (amazon-B0CR5T9KF8) on KAMANINA's 72-144\" Ivory White rod (amazon-B0CP9DBSZK) at about 120\"; any total above predates the swap.",
+  "updatedAt": "2026-11-08T15:04:17.804Z",
+  "notes": "Rug, 2026-11-01: RUUGME's Ivory 10x14, the rug Andrew ordered (0.14in as listed, no pad), replaces the Olivia: x 68 to 236, y 29 to 149, where A has it. The piano stays off it, 4 1/2in from its edge; the bench's 30in in front of the keys crosses its corner, a 0.14in step; the stairs-side POÄNG set stands beside it, 1 1/4in off. The piano takes the window wall between the stairs strip and the window: x 44 to 96 3/16, y 12 to 24 1/2, and the second POÄNG set turns to face it from x 40 to 66 3/4, so a grown-up sits behind her and the play area doesn't change at all. The cost: that POÄNG no longer faces the sofa across the table, and it stands off the rug. The window route gets wider, not narrower. If people step off the stairs at the window end, the piano's left end is 8in from that landing's edge (F-40). Flags: assumed-position:stairs, assumed-position:window, heater-depth-assumed. Everything else stands as in A, the staged room. Andrew, 2026-11-01: \"Look at the furniture layout for the living room, where should I place both? show me at least 3 optimal ocnfigurations\", read as the Yamaha P-143 and the 1/10 violin in his Amazon cart. The bundle's bench isn't drawn, since no page gives its size; it tucks under the keyboard and the layout keeps 30in in front of the keys for it. The piano's power comes from an outlet on the play wall or the window wall, unconfirmed. Curtains (2026-11-08, F-43): on Andrew's window heights and his word for this room (light-filtering, not sheer; bought on Amazon), the 98\" GINSTMOTT pairs gave way to two packs of LAMIT's 54\" light-filtering curtain in Taupe (amazon-B0CR5VT3KZ) on the rod already in place (\"don't need rods they are in place\"); any total above predates the swap.",
   "placements": [
     {
       "id": "rug-1",
@@ -187,14 +187,9 @@
   ],
   "extras": [
     {
-      "itemId": "amazon-B0CR5T9KF8",
+      "itemId": "amazon-B0CR5VT3KZ",
       "qty": 2,
-      "note": "LAMIT White light-filtering, two packs (4 x 52\" panels, 2x the 102\" window), 54\" long on grommets: they end at the sill, clear of the heater (F-43, F-33)"
-    },
-    {
-      "itemId": "amazon-B0CP9DBSZK",
-      "qty": 1,
-      "note": "KAMANINA 72-144\" Ivory White rod set to about 120\", 9\" past each side of the window and 2 to 3\" above it (F-43); assumed-position:window"
+      "note": "LAMIT Taupe light-filtering, two packs (4 x 52\" panels, 2x the 102\" window), 54\" long on grommets on the rod already in place: they end at the sill, clear of the heater (F-43, F-33); taupe from the rug's medallion, beside the honey-wood frames and the dark sofa (F-68 (8))"
     },
     {
       "itemId": "ikea-60543004",

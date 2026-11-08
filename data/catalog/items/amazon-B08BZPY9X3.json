@@ -11,7 +11,7 @@
   "rooms": [
     "master-bedroom"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 29.99,
     "currency": "USD",
@@ -30,7 +30,7 @@
       "caption": "main (Amazon #landingImage, the Ivory variant's page)"
     }
   ],
-  "notes": "Flags: assumed-position:window (F-38). The master bedroom's blackout pair (Andrew, 2026-11-08: \"I want blackout curtains for the master bedroom.\"). Fit (F-43): 54\" long with grommets, so on a rod 2 to 3\" above the 50\" window the panels end at the sill, 1 to 3\" above the bottom of the frame and clear of the heater (F-33); one pack is the window's pair, 2 x 52\" = 104\", 1.55x the 67\" window, on the KAMANINA 48-84\" rod (amazon-B0C7CM7QFR, 7/8\": the grommets take up to 1.5\") · fits. Ivory is F-68 (5)'s warm white; Sage (B09YND1C4C) and Heathered Dried Sage (B0FVKSZM2Q) are the same curtain in gray-green. 100% blackout, thermal insulated. Read 2026-11-08: $29.99 the pack of 2 panels, In Stock, 4.6 stars (26,169), Amazon's Choice on the listing; delivery to Fresh Meadows 11365 shown as Tuesday, November 10, FREE. History: first read off the Bright White page (B07P39MV8C) with the Ivory swatch selected, which showed $31.49, Bright White's price; its own page then hit Amazon's \"I am human\" check (bot-wall) until Andrew cleared it. Staged as the interim curtain in the living room and the office until their light-filtering pick, the same day. rooms: master-bedroom, from Andrew's note.",
+  "notes": "Rejected 2026-11-08, later: the master bedroom's curtains follow its teal, green and blue bedding (F-68 (9)), so the same blackout in Teal (amazon-B07P4CYL56) replaces the Ivory. Flags: assumed-position:window (F-38). The master bedroom's blackout pair (Andrew, 2026-11-08: \"I want blackout curtains for the master bedroom.\"). Fit (F-43): 54\" long with grommets, so on a rod 2 to 3\" above the 50\" window the panels end at the sill, 1 to 3\" above the bottom of the frame and clear of the heater (F-33); one pack is the window's pair, 2 x 52\" = 104\", 1.55x the 67\" window, on the KAMANINA 48-84\" rod (amazon-B0C7CM7QFR, 7/8\": the grommets take up to 1.5\") · fits. Ivory is F-68 (5)'s warm white; Sage (B09YND1C4C) and Heathered Dried Sage (B0FVKSZM2Q) are the same curtain in gray-green. 100% blackout, thermal insulated. Read 2026-11-08: $29.99 the pack of 2 panels, In Stock, 4.6 stars (26,169), Amazon's Choice on the listing; delivery to Fresh Meadows 11365 shown as Tuesday, November 10, FREE. History: first read off the Bright White page (B07P39MV8C) with the Ivory swatch selected, which showed $31.49, Bright White's price; its own page then hit Amazon's \"I am human\" check (bot-wall) until Andrew cleared it. Staged as the interim curtain in the living room and the office until their light-filtering pick, the same day. rooms: master-bedroom, from Andrew's note.",
   "captured": {
     "date": "2026-11-08",
     "by": "claude",

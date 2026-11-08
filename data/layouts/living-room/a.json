@@ -2,8 +2,8 @@
   "room": "living-room",
   "variant": "a",
   "name": "Staged: the MORABO sofa with chaise centered on the window, the UGGLERUM before it, the two POÄNG chairs on the stairs side, on RUUGME's Ivory 10x14 (ordered November 1), the play floor on the right",
-  "updatedAt": "2026-11-08T14:41:53.552Z",
-  "notes": "Andrew, 2026-10-26 (night): \"hmm we had the sofa facing window / centered, can we accommodate that again?\" The sofa is back where the first staged rooms had it (10-23, 10-24), centered on the window and facing it: the 96 1/8in MORABO with chaise at x 112.9 to 209.1 under the 102in window (110 to 212), the chaise on the stairs side, the UGGLERUM flush with its right end (F-39), the two POÄNG sets on the stairs side (one beside the chaise facing the window, one at the window end facing the sofa and the play floor), the plant at the chaise foot. The play floor is the right side beside the sofa (F-61): the LÄTT table 2in from the sofa end, the TROFAST and BESTÅ on the wall; the BESTÅ doors get 23in (F-32, tight:23.2). The stairs strip stays clear with 77in of floor beside it (F-40); nothing stands in the walkway along the open side (F-42). The stairs-end room is kept as K. The rug, Andrew, 2026-11-01: \"ordered ivory, coming tomorrow\": RUUGME's Ivory 10x14 (amazon-B0DPVFJTCY, $169.99), one piece, 0.14in as listed, no pad, his pick for the lowest height. x 68 to 236, y 29 to 149: the seating group is 129 x 107in, so an 8x10 can't hold it and a 9x12 has 1in to spare front to back, its edge under the play table; this one runs 12in past the POÄNGs, 7in past the window-side chair, 6in past the sofa's back into the walkway (F-42, a rug may) and 27in past the sofa's end, so the whole LÄTT stands on it. 23in off the heater's drawn face (F-33), 32in off the stairs strip (F-40). Color (F-68): a pale ivory field under the dark sofa, the gray in its pattern picking the sofa up, judged from its photos. It replaces Tumble's Olivia 9x12 ($549), never bought. Every plan but the rugless J carries it; the piano alternatives M, N and O keep this spot. Curtains (2026-11-08, F-43): on Andrew's window heights and his word for this room (light-filtering, not sheer; bought on Amazon), the 98\" GINSTMOTT pairs gave way to two packs of LAMIT's 54\" light-filtering White (amazon-B0CR5T9KF8) on KAMANINA's 72-144\" Ivory White rod (amazon-B0CP9DBSZK) at about 120\"; any total above predates the swap.",
+  "updatedAt": "2026-11-08T15:04:15.868Z",
+  "notes": "Andrew, 2026-10-26 (night): \"hmm we had the sofa facing window / centered, can we accommodate that again?\" The sofa is back where the first staged rooms had it (10-23, 10-24), centered on the window and facing it: the 96 1/8in MORABO with chaise at x 112.9 to 209.1 under the 102in window (110 to 212), the chaise on the stairs side, the UGGLERUM flush with its right end (F-39), the two POÄNG sets on the stairs side (one beside the chaise facing the window, one at the window end facing the sofa and the play floor), the plant at the chaise foot. The play floor is the right side beside the sofa (F-61): the LÄTT table 2in from the sofa end, the TROFAST and BESTÅ on the wall; the BESTÅ doors get 23in (F-32, tight:23.2). The stairs strip stays clear with 77in of floor beside it (F-40); nothing stands in the walkway along the open side (F-42). The stairs-end room is kept as K. The rug, Andrew, 2026-11-01: \"ordered ivory, coming tomorrow\": RUUGME's Ivory 10x14 (amazon-B0DPVFJTCY, $169.99), one piece, 0.14in as listed, no pad, his pick for the lowest height. x 68 to 236, y 29 to 149: the seating group is 129 x 107in, so an 8x10 can't hold it and a 9x12 has 1in to spare front to back, its edge under the play table; this one runs 12in past the POÄNGs, 7in past the window-side chair, 6in past the sofa's back into the walkway (F-42, a rug may) and 27in past the sofa's end, so the whole LÄTT stands on it. 23in off the heater's drawn face (F-33), 32in off the stairs strip (F-40). Color (F-68): a pale ivory field under the dark sofa, the gray in its pattern picking the sofa up, judged from its photos. It replaces Tumble's Olivia 9x12 ($549), never bought. Every plan but the rugless J carries it; the piano alternatives M, N and O keep this spot. Curtains (2026-11-08, F-43): on Andrew's window heights and his word for this room (light-filtering, not sheer; bought on Amazon), the 98\" GINSTMOTT pairs gave way to two packs of LAMIT's 54\" light-filtering curtain in Taupe (amazon-B0CR5VT3KZ) on the rod already in place (\"don't need rods they are in place\"); any total above predates the swap.",
   "placements": [
     {
       "id": "rug-1",
@@ -178,14 +178,9 @@
   ],
   "extras": [
     {
-      "itemId": "amazon-B0CR5T9KF8",
+      "itemId": "amazon-B0CR5VT3KZ",
       "qty": 2,
-      "note": "LAMIT White light-filtering, two packs (4 x 52\" panels, 2x the 102\" window), 54\" long on grommets: they end at the sill, clear of the heater (F-43, F-33)"
-    },
-    {
-      "itemId": "amazon-B0CP9DBSZK",
-      "qty": 1,
-      "note": "KAMANINA 72-144\" Ivory White rod set to about 120\", 9\" past each side of the window and 2 to 3\" above it (F-43); assumed-position:window"
+      "note": "LAMIT Taupe light-filtering, two packs (4 x 52\" panels, 2x the 102\" window), 54\" long on grommets on the rod already in place: they end at the sill, clear of the heater (F-43, F-33); taupe from the rug's medallion, beside the honey-wood frames and the dark sofa (F-68 (8))"
     },
     {
       "itemId": "ikea-60543004",

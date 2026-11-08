@@ -1,0 +1,41 @@
+{
+  "id": "amazon-B0CR5VT3KZ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CR5VT3KZ",
+  "name": "Taupe Linen Curtains for Bedroom 54 inches Long, W52 x L54",
+  "brand": "LAMIT",
+  "category": "curtains",
+  "tags": [
+    "living-room",
+    "office"
+  ],
+  "rooms": [
+    "living-room",
+    "back-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 29.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 52,
+    "h": 54,
+    "raw": "Brand LAMIT; Color Taupe; Material Polyester; Product Dimensions 54\"L x 52\"W; Opacity Light-filtering; Size 52\"W x 54\"L (Pack of 2)",
+    "source": "the Taupe variant's own overview rows and Size picker, read in Chrome 2026-11-08; L (the drop) -> h, W -> w, per panel; flat, no depth: a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "amazon-B0CR5VT3KZ-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81E32C4NmNL._AC_SL1500_.jpg",
+      "caption": "Pair of taupe linen-textured grommet curtains hung on a wooden rod over a window, falling to sill length (main)"
+    }
+  ],
+  "notes": "Flags: assumed-position:window (F-38). The living room's two pairs and the office's one (F-43, F-68 (8)). Why taupe: Andrew, 2026-11-08: \"for living room, be mindful of the colors. the window frame is wood yellow/orange is wood (not sure name, but it's not dark or cherry). the rug is the exact one we have recorded, sofa is dark (exactly as recorded).\" The color comes from the RUUGME's gray-taupe medallion, sits between the cream walls (a shade darker, so it doesn't melt into them) and the dark gray MORABO, and stays in the honey wood's warm family without the glare white gives it. The other colors read the same day, all on Amazon: LAMIT White (stark beside the ivory rug and the frames), Light Grey (only 1 left in stock; its photo reads greige), Light Green (a pale mint, against the orange wood), Sage Green and Ivory (not made at 52 x 54); H.VERSAILTEX's natural linen and jinchan (semi sheer); Chyhomenyc (42\" wide, rod pocket). Light-filtering, not sheer (the listing: \"denser and thicker than ordinary linen curtains ... thick enough to provide privacy\"). Fit (F-43): 54\" on grommets on the rods already in place, ending at the sill; the living room 2 packs (4 x 52\" = 208\", 2x the 102\" window), the office 1 (104\", 1.55x the 67\"). Read 2026-11-08: $29.99 the pack ($15.00 per count), \"Only 5 left in stock - order soon.\", FREE delivery Tomorrow, November 9; 4.6 stars (826, the listing's); photo: \"Pair of taupe linen-textured grommet curtains hung on a wooden rod over a window, falling to sill length\". rooms: from Andrew's note and his answers.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

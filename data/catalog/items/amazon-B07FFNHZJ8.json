@@ -1,0 +1,24 @@
+{
+  "id": "amazon-B07FFNHZJ8",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B07FFNHZJ8",
+  "name": "H.VERSAILTEX Natural Linen Grommet Curtains 84 Inch Length for Living Room 2 Panel Drape Semi Sheer",
+  "brand": "H.VERSAILTEX",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": null,
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-11-08: \"Semi Sheer\" in its title, \"open weave linen blended fabric\", Lining Unlined (Andrew: \"not sheer\"). The page opened at 84\"; it comes 52\"W x 45 to 108\"L, colors include Sage Green, Stone Blue, Dove and Ivory. 4.6 stars (6.1K on the search card). rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

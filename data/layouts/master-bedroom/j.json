@@ -2,8 +2,8 @@
   "room": "master-bedroom",
   "variant": "j",
   "name": "With a washable rug: the AMADA 8x10 vintage, cream and taupe with ochre, under the king and the bench",
-  "updatedAt": "2026-11-08T14:41:57.651Z",
-  "notes": "Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the AMADA washable 8x10 (amazon-B0H41NQC8S, $72.99, 4.9 stars from 35; machine washable, non-slip backing, low-profile pile, 13 lb: a large front-loading washer, else the laundromat), rot 90, x 40-160, y 22-118: under the king's lower 70\" (80% of its length), 8\" out on each side of the frame, 50\" past the foot with the bench on it, 19\" off the heater's face (F-33: 12\" for textiles), its bathroom-side edge at y 118 in the walk to the bathroom (walked on). Color: cream and warm taupe with ochre flecks, lighter than the honey oak, so the dark walnut RÅDMANSÖ and its nightstands sit on a pale field, and the oatmeal ÄNGSLILJA bedding and the sage throw carry it; the ochre picks up the floor without matching it. IKEA's LOKALTÅG 8x10 (ikea-20623408, $149.99, gray and ivory, in IKEA's delivery) is the alternative, but it is the dining room's rug: the dining room and the living room share one sightline and keep one pale, faded family (gray-ivory beside cream-taupe), while the bedroom sits behind its own door with a warm palette (walnut, oatmeal, sage), so it takes the warm cream rug rather than a repeat of the dining room's (Andrew, 2026-10-26: \"same rug in two areas, with different color furniture? not sure\"). Everything else as in a.\nTotal $1,909.79: placed $1,196.91 + extras $712.88; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02). Curtains (2026-11-08, F-43): on Andrew's window heights and his word (blackout; bought on Amazon), the BENGTA panels, cut down from 98\", gave way to one pack of H.VERSAILTEX's 54\" blackout in Ivory (amazon-B08BZPY9X3) on KAMANINA's 48-84\" Ivory White rod (amazon-B0C7CM7QFR) at 77 to 82\"; any total above predates the swap.",
+  "updatedAt": "2026-11-08T14:58:56.870Z",
+  "notes": "Alternative, 2026-10-26 (late evening): Eutine wants rugs that fit correctly in the dining room, the living room, the master bedroom and Maddie's room (Andrew, 2026-10-26, late evening), washable, low pile and robot-vacuum friendly, in colors right for the honey-oak floor and the furniture. Here the AMADA washable 8x10 (amazon-B0H41NQC8S, $72.99, 4.9 stars from 35; machine washable, non-slip backing, low-profile pile, 13 lb: a large front-loading washer, else the laundromat), rot 90, x 40-160, y 22-118: under the king's lower 70\" (80% of its length), 8\" out on each side of the frame, 50\" past the foot with the bench on it, 19\" off the heater's face (F-33: 12\" for textiles), its bathroom-side edge at y 118 in the walk to the bathroom (walked on). Color: cream and warm taupe with ochre flecks, lighter than the honey oak, so the dark walnut RÅDMANSÖ and its nightstands sit on a pale field, and the oatmeal ÄNGSLILJA bedding and the sage throw carry it; the ochre picks up the floor without matching it. IKEA's LOKALTÅG 8x10 (ikea-20623408, $149.99, gray and ivory, in IKEA's delivery) is the alternative, but it is the dining room's rug: the dining room and the living room share one sightline and keep one pale, faded family (gray-ivory beside cream-taupe), while the bedroom sits behind its own door with a warm palette (walnut, oatmeal, sage), so it takes the warm cream rug rather than a repeat of the dining room's (Andrew, 2026-10-26: \"same rug in two areas, with different color furniture? not sure\"). Everything else as in a.\nTotal $1,909.79: placed $1,196.91 + extras $712.88; prices as of 2026-10-22 to 2026-10-26 (those before today price-stale, F-02). Curtains (2026-11-08, F-43, F-68 (9)): on Andrew's window heights and his word (blackout, matched to the teal, green and blue bedding beside the walnut RÅDMANSÖ; bought on Amazon), the BENGTA panels gave way to one pack of H.VERSAILTEX's 54\" blackout in Teal (amazon-B07P4CYL56) on the rod already in place; any total above predates the swap.",
   "placements": [
     {
       "id": "rug-1",
@@ -147,14 +147,9 @@
       "note": "VALLKRASSING throw, gray-green, across the foot of the bed"
     },
     {
-      "itemId": "amazon-B08BZPY9X3",
+      "itemId": "amazon-B07P4CYL56",
       "qty": 1,
-      "note": "H.VERSAILTEX Ivory blackout, one pack (2 x 52\" panels, 1.55x the 67\" window), 54\" long on grommets: they end at the sill, clear of the heater (F-43, F-33)"
-    },
-    {
-      "itemId": "amazon-B0C7CM7QFR",
-      "qty": 1,
-      "note": "KAMANINA 48-84\" Ivory White rod set to 77 to 82\", centered on the window and 2 to 3\" above it (F-43); assumed-position:window"
+      "note": "H.VERSAILTEX Teal blackout, one pack (2 x 52\" panels, 1.55x the 67\" window), 54\" long on grommets on the rod already in place: they end at the sill, clear of the heater (F-43, F-33); teal to match the bedding (F-68 (9))"
     },
     {
       "itemId": "ikea-40609406",

@@ -1,0 +1,33 @@
+{
+  "id": "amazon-B0DPSLTK6V",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DPSLTK6V",
+  "name": "Light Green 54 Inch Length Linen Bedroom Curtains 2 Panels",
+  "brand": "LAMIT",
+  "category": "curtains",
+  "tags": [
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 24.64,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 52,
+    "h": 54,
+    "raw": "Brand LAMIT; Color Light Green; Material Polyester; Product Dimensions 54\"L x 52\"W; Opacity Light-filtering inches; Size 52\"W x 54\"L (Pack of 2)",
+    "source": "its own overview rows, read in Chrome 2026-11-08; per panel"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-68 (8)): the photo is \"Pair of pale mint green curtain panels\", a mint that fights the honey-orange window frames, not the soft gray-green the plan wants. Only 10 left in stock; FREE delivery Tomorrow, November 9. rooms: living-room, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "amazon-B0CR5WLQNM",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CR5WLQNM",
+  "name": "LAMIT 54 Inch Length Linen Curtains 2 Panels, Light Grey (title not read)",
+  "brand": "LAMIT",
+  "category": "curtains",
+  "tags": [
+    "living-room",
+    "office"
+  ],
+  "rooms": [
+    "living-room",
+    "back-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 17.94,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 52,
+    "h": 54,
+    "raw": "Material Polyester; Product Dimensions 54\"L x 52\"W; Opacity Light-filtering; Size 52\"W x 54\"L (Pack of 2) (the listing's rows, read on its White and Oatmeal pages)",
+    "source": "the LAMIT listing at 52\"W x 54\"L (Pack of 2), read in Chrome 2026-11-08 on its White (B0CR5T9KF8) and Oatmeal (B0CR5S59B4) pages; the Light Grey swatch there is B0CR5WLQNM at $17.94; W -> w, L (the drop) -> h, per panel; flat, no depth"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08: its own page read \"Only 1 left in stock\" ($17.94, Light Grey, 52\"W x 54\"L), and the living room and office need three; its photo reads greige. Flags: variant-unconfirmed (F-26: read only as the listing's swatch, \"Light Grey=B0CR5WLQNM $17.94\" at 52\"W x 54\"L, against $28.99 for White and Oatmeal; its own page and its photo were behind Amazon's bot check on 2026-11-08, so the exact shade and the price are to be confirmed there), assumed-position:window (F-38). Why Light Grey for the living room and the office (F-68 (8)): Andrew, 2026-11-08: \"for living room, be mindful of the colors. the window frame is wood yellow/orange is wood (not sure name, but it's not dark or cherry). the rug is the exact one we have recorded, sofa is dark (exactly as recorded).\" White, staged first, would make the RUUGME's ivory field and the cream walls look dingy and push the orange of the frames forward; LAMIT's beiges (Oatmeal, Light Beige, Sand, Taupe, Camel, Tan Brown) melt into the walls and the wood; Terracotta fights the frames. A light gray is the third gray beside the dark MORABO and the rug's gray-taupe medallion, and the cool note that settles the honey wood. LAMIT's Sage Green and Ivory don't come at 52 x 54 (their swatches show no price there); Light Green (B0DPSLTK6V, $24.64) is the gray-green alternative, unseen. Light-filtering, not sheer (the listing: \"denser and thicker than ordinary linen curtains ... thick enough to provide privacy\"). Fit (F-43): 54\" on grommets on the rods already in place, ending at the sill; the living room 2 packs (4 x 52\" = 208\", 2x the 102\" window), the office 1 (104\", 1.55x the 67\"). rooms: from Andrew's note and his answers.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

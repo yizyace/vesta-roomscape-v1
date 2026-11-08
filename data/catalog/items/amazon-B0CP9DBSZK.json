@@ -11,7 +11,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 31.62,
     "currency": "USD",
@@ -19,7 +19,7 @@
   },
   "dimensions": null,
   "images": [],
-  "notes": "Flags: no-dimensions (F-11: \"Product Dimensions 144\"L x 0.87\"W\" is the rod's length and diameter; a layout extra, never placed), assumed-position:window (F-38). Fit (F-43): the living room's 102\" window, set to about 120\" (9\" past each side) and 2 to 3\" above it, carrying the four LAMIT panels (two packs); \"packed with 10 pcs rods, 2 finials, 4 pcs brackets\", so it has supports along the span; 7/8\" rod, \"weight capacity up to 22 pounds\" · fits. The listing says this size \"applies to windows 111 to 140 inches\"; at 120\" on a 102\" window it is within its 32-144\" range. Overview rows: Brand KAMANINA; Color Ivory White; Product Dimensions 144\"L x 0.87\"W; Material Iron; Mounting Type Wall Mounted; Item Weight 2.6 pounds. Read 2026-11-08: $31.62 (15 percent off), In Stock, 4.7 stars (26,019); delivery shown as Tomorrow, November 9. Replaces IKEA's HUGAD 82 3/4-151 1/2\" on Andrew's preference for Amazon. rooms: from the brief.",
+  "notes": "Rejected 2026-11-08: the rods are already up (Andrew: \"don't need rods they are in place for living room, office and bedroom.\"). Flags: no-dimensions (F-11: \"Product Dimensions 144\"L x 0.87\"W\" is the rod's length and diameter; a layout extra, never placed), assumed-position:window (F-38). Fit (F-43): the living room's 102\" window, set to about 120\" (9\" past each side) and 2 to 3\" above it, carrying the four LAMIT panels (two packs); \"packed with 10 pcs rods, 2 finials, 4 pcs brackets\", so it has supports along the span; 7/8\" rod, \"weight capacity up to 22 pounds\" · fits. The listing says this size \"applies to windows 111 to 140 inches\"; at 120\" on a 102\" window it is within its 32-144\" range. Overview rows: Brand KAMANINA; Color Ivory White; Product Dimensions 144\"L x 0.87\"W; Material Iron; Mounting Type Wall Mounted; Item Weight 2.6 pounds. Read 2026-11-08: $31.62 (15 percent off), In Stock, 4.7 stars (26,019); delivery shown as Tomorrow, November 9. Replaces IKEA's HUGAD 82 3/4-151 1/2\" on Andrew's preference for Amazon. rooms: from the brief.",
   "captured": {
     "date": "2026-11-08",
     "by": "claude",
