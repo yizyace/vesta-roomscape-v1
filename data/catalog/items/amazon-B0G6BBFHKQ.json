@@ -1,0 +1,44 @@
+{
+  "id": "amazon-B0G6BBFHKQ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0G6BBFHKQ",
+  "name": "Fluted Console Table with Drawers for Entryway 43\", Walnut",
+  "brand": "JOINICE",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "entry",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 135.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 43.3,
+    "d": 11.8,
+    "h": 31.5,
+    "raw": "Product Dimensions 11.8\"D x 43.3\"W x 31.5\"H; Item Dimensions D x W x H 11.8\"D x 43.3\"W x 31.5\"H; Size 43.3\" x 11.8\" x 31.5\"; Item Width 43.3 inches; Item Depth 11.8 inches; Item Dimensions L x W x H 43.3\"L x 11.8\"W x 31.5\"H; Number of Drawers 2",
+    "source": "the Walnut variant's overview row 'Product Dimensions' and the item-details rows, read in Chrome 2026-11-08; by letter: D -> d, W -> w, H -> h (the L x W x H row's L is the same 43.3 along the wall)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0G6BBFHKQ-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71ZqNoHyseL._AC_SL1500_.jpg",
+      "caption": "Walnut-toned fluted console table with two drawers featuring gold knobs and a lower open shelf (main)"
+    }
+  ],
+  "notes": "Andrew, 2026-11-08: \"Need a console table for the living room, bottom left area on wall that sepaerates to kitchen. 51\" wide at most, 41\" tall at most (otherwise hits light switch). I need dawers, but also open space area on botom. Be mindful of Best color wood, be an experior interior designer. Use amazon only\". Kept as the pick. Fit (F-20): the bottom-left wall to the kitchen, Andrew's slot of 51\" wide and 41\" tall (a light switch above it); the wall's length and its distance from the stair railing are not measured. 43.3\" leaves 7.7\" of the 51\" (about 3 7/8\" a side), and 31.5\" tall it stands 9.5\" under his 41\" line; 11.8\" deep, so the 24\" kept in front of its drawers (F-32) ends 35.8\" off the wall. Two drawers and an open bottom shelf. Color (F-68): a mid-brown walnut like the UGGLERUM's walnut veneer (ikea-60627980) across the room, on round tapered legs like the UGGLERUM's, so the room has one dark wood; darker than the honey-oak floor and the oak stairs, so it doesn't melt into them (F-68 (1), (4)); gold knobs that pick up the brass door knobs. Rounded ends (the page: \"Rounded corners add elegance and safety\") where Maddie runs past the stairs. Build: engineered wood body on FSC-certified solid pine legs (the 'Furniture Leg Material Walnut' row is the finish); 36 lb; top up to 100 lb (Maximum Weight Recommendation). Anchor it to the wall: its drawers make a step for Maddie, with the stair railing beside it (F-21, F-40); the page's one anti-tip line sits in a comparison card for a 3-drawer table, so buy a furniture strap if none comes in the box. Read 2026-11-08: $135.99 (List $159.99, -15%), \"Only 8 left in stock - order soon.\", FREE delivery November 17 - 18, shipped and sold by JOINICE, returnable until Jan 31, 2027; 4.4 stars (228); model FUCT552057; variant: Color Walnut (the listing's other options not read). Flags: anchor-required (F-21), assumed-position:stairs (F-40: the 36\" along the railing stays clear, and where this wall starts from the railing is not measured). rooms: the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

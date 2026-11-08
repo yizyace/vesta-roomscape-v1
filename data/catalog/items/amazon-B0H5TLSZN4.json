@@ -1,0 +1,38 @@
+{
+  "id": "amazon-B0H5TLSZN4",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0H5TLSZN4",
+  "name": "Console Table with Storage, Mid-Century Farmhouse Entryway Table with Drawers and Shelf, 39.37 inch Wood Sofa Tables Behind Couch for Living Room, Hallway, Kitchen, Foyer (Walnut)",
+  "brand": "FATORRI",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "entry",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 145.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 39.37,
+    "d": 11.81,
+    "h": 30.12,
+    "raw": "Product Dimensions 11.81\"D x 39.37\"W x 30.12\"H; Item Dimensions D x W x H 11.81\"D x 39.37\"W x 30.12\"H; Size 39.37 x 11.81 x 30.12 Inch; Item Width 39.37 inches; Item Depth 11.81 inches; Number of Drawers 2",
+    "source": "the Walnut variant's overview row 'Product Dimensions', read in Chrome 2026-11-08; by letter"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 for the living room's console (Andrew, 2026-11-08: \"Need a console table for the living room, bottom left area on wall that sepaerates to kitchen. 51\" wide at most, 41\" tall at most (otherwise hits light switch). I need dawers, but also open space area on botom. Be mindful of Best color wood, be an experior interior designer. Use amazon only\"): its 'Walnut' is a honey, orange-toned brown in its photos, the oak floor's twin (F-68 (4)). Otherwise: two waveform drawers, an open shelf, \"softly rounded corners\", \"high-grade MDF\", anti-tip fittings included (the page). Read 2026-11-08: $145.99, In Stock, FREE delivery Tuesday, November 10; 4.4 stars (59); 38.8 lb; model FT-ST1308-NW. Flags: none.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

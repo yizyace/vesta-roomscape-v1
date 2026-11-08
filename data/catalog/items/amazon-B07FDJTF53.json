@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B07FDJTF53",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B07FDJTF53",
+  "name": "Linon Melissa Mid-Century Modern Walnut Console Table",
+  "brand": "Linon",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "entry",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 149.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 47,
+    "d": 18,
+    "h": 30,
+    "raw": "Product Dimensions 18\"D x 47\"W x 30\"H; Item Dimensions D x W x H 18\"D x 47\"W x 30\"H; Item Width 47 inches; Item Depth 18 inches; Number Of Shelves 1",
+    "source": "the overview row 'Product Dimensions', read in Chrome 2026-11-08; by letter. A bullet gives the top as \"47\" L x 23\" D\", which disagrees with the 18\" row; the row is recorded"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 for the living room's console (Andrew, 2026-11-08: \"Need a console table for the living room, bottom left area on wall that sepaerates to kitchen. 51\" wide at most, 41\" tall at most (otherwise hits light switch). I need dawers, but also open space area on botom. Be mindful of Best color wood, be an experior interior designer. Use amazon only\"): no drawers (a top and a slatted shelf only) and 18\" deep (23\" by a bullet) in a way through. The listing contradicts itself on its wood: 'Frame Material Walnut Wood' against bullets naming a birch veneer top on rubberwood and MDF. Read 2026-11-08: $149.99, In Stock, FREE delivery Thursday, November 12; 4.6 stars (140); 32 lb. Flags: none.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

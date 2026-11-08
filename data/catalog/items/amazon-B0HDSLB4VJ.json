@@ -1,0 +1,38 @@
+{
+  "id": "amazon-B0HDSLB4VJ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HDSLB4VJ",
+  "name": "SONGMICS HOME 47.4\" Console Table with 3 Drawers and Bottom Shelf",
+  "brand": "SONGMICS HOME",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "entry",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 115.59,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 47.4,
+    "d": 9.6,
+    "h": 30.1,
+    "raw": "Product Dimensions 9.6\"D x 47.4\"W x 30.1\"H; Item Dimensions D x W x H 9.6\"D x 47.4\"W x 30.1\"H; Size 9.6\"D x 47.4\"W x 30.1\"H; Item Width 47.4 inches; Item Dimensions L x W x H 47.4\"L x 47.4\"W x 30.1\"H; Item Depth 9.6 inches; Number of Drawers 3",
+    "source": "the Rustic Walnut variant's overview row 'Product Dimensions', read in Chrome 2026-11-08; by letter"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 for the living room's console (Andrew, 2026-11-08: \"Need a console table for the living room, bottom left area on wall that sepaerates to kitchen. 51\" wide at most, 41\" tall at most (otherwise hits light switch). I need dawers, but also open space area on botom. Be mindful of Best color wood, be an experior interior designer. Use amazon only\"): its Rustic Walnut is a red-orange brown with a distressed grain in its photos, a second orange-toned wood beside the honey-oak floor and the oak stairs (F-68 (4)), and its slab sides read farmhouse beside the room's tapered-leg MORABO, UGGLERUM and POÄNG. Otherwise it fits: 47.4\" in the 51\" slot, 30.1\" under the 41\" line, the slimmest read at 9.6\" deep; 3 drawers (11 lb each), top 110 lb; 'Frame Material Solid Wood, Particleboard, MDF'; an anti-tip kit included (\"1 x Anti-Tip Kit\"). Read 2026-11-08: $115.59 (List $135.99), In Stock, FREE delivery Wednesday, November 11, shipped and sold by Amazon.com, Amazon's Choice; 4.5 stars (164); model ULNT143K41SH; a 63.2\" size (B0HDSVK689) also listed. Flags: none.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

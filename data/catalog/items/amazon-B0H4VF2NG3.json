@@ -1,0 +1,37 @@
+{
+  "id": "amazon-B0H4VF2NG3",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0H4VF2NG3",
+  "name": "Half Moon Console Table - Small Solid Wood Entryway Table, Walnut 23.6\" W",
+  "brand": "RAVCON",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "entry",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 168.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 23.6,
+    "d": 11.8,
+    "h": 31.5,
+    "raw": "Product Dimensions 11.8\"D x 23.6\"W x 31.5\"H; Item Dimensions D x W x H 11.8\"D x 23.6\"W x 31.5\"H; Size 23.6\" W; Item Width 23.6 inches; Item Depth 11.8 inches; Number of Drawers 1",
+    "source": "the 23.6\" W variant's overview row 'Product Dimensions', read in Chrome 2026-11-08; by letter"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 for the living room's console (Andrew, 2026-11-08: \"Need a console table for the living room, bottom left area on wall that sepaerates to kitchen. 51\" wide at most, 41\" tall at most (otherwise hits light switch). I need dawers, but also open space area on botom. Be mindful of Best color wood, be an experior interior designer. Use amazon only\"): 23.6\" is under half of the 51\" wall, where a console reads right at about three quarters of it; one drawer; turned legs and a reddish dark walnut, traditional beside the room's mid-century pieces (F-68 (4)). 'Material Type Marble' in its rows contradicts the title's solid wood. Read 2026-11-08: $168.99, In Stock, FREE delivery Tomorrow, November 9; 4.5 stars (301); 20 lb; other sizes listed (B0H4VM71NZ, B0H4VRBDCR, B087WGMK24), not read. Flags: none.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

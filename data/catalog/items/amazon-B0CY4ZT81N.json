@@ -1,0 +1,38 @@
+{
+  "id": "amazon-B0CY4ZT81N",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CY4ZT81N",
+  "name": "Mid-Century Console Table Modern Solid Wood Frame Sofa Table with 2 Tier Open Shelves and 3 Top Storage Drawers Entryway Table for Living Room Hallway Foyer, Easy Assembly (Espresso)",
+  "brand": "Knocbel",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "entry",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 269.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 50,
+    "d": 16,
+    "h": 30.2,
+    "raw": "Product Dimensions 16\"D x 50\"W x 30.2\"H; Item Dimensions D x W x H 16\"D x 50\"W x 30.2\"H; Size 50\"W x 15\"D x 30.2\"H; Item Width 50 inches; Item Depth 16 inches; Number of Drawers 3; Number Of Shelves 2",
+    "source": "the Espresso variant's overview row 'Product Dimensions', read in Chrome 2026-11-08; by letter. The Size row says 15\" deep; the 16\" of Product Dimensions and Item Depth is recorded"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 for the living room's console (Andrew, 2026-11-08: \"Need a console table for the living room, bottom left area on wall that sepaerates to kitchen. 51\" wide at most, 41\" tall at most (otherwise hits light switch). I need dawers, but also open space area on botom. Be mindful of Best color wood, be an experior interior designer. Use amazon only\"): Espresso, a near-black brown that reads as a dark block beside the dark gray MORABO in a way through; 50\" wide leaves 1\" of the 51\"; 16\" deep; $269.99 on 13 ratings. Solid pine frame and legs with MDF panels, 3 drawers, 2 open shelves, top 220 lb. Its other variants (B09KT76CS1, B09KTGZP7Y, B09KTM34R2) not read. Read 2026-11-08: In Stock, FREE delivery November 13 - 17; 4.6 stars (13); 42 lb; model HOMEN199598. Flags: none.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
