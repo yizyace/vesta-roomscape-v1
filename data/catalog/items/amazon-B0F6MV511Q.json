@@ -1,0 +1,33 @@
+{
+  "id": "amazon-B0F6MV511Q",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0F6MV511Q",
+  "name": "Blackout Curtains 66 x 54 Inch Long Teal Curtains Set of 2 Panels Room Darkening Curtains for Bedroom and Living Room",
+  "brand": "LEMOMO",
+  "category": "curtains",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 34.99,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 66,
+    "h": 54,
+    "raw": "Brand LEMOMO; Color Teal; Material Polyester; Product Dimensions 54\"L x 66\"W; Opacity Blackout; Size 66\"W x 54\"L (Pack of 2)",
+    "source": "its own overview rows, read in Chrome 2026-11-08; per panel"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-08 (F-68 (9)): the right size, but this Teal photographs as a bright turquoise, loud beside the walnut; the listing's Sea Teal (amazon-B0F6MTPGHV) is kept. Only 6 left in stock; $34.99; 4.6 stars (51,259). rooms: master-bedroom, from the brief.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

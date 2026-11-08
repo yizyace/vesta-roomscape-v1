@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0F6MTPGHV",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0F6MTPGHV",
+  "name": "Blackout Curtains 66 x 54 Inch Long Sea Teal Curtains Set of 2 Panels Room Darkening Curtains for Bedroom and Living Room",
+  "brand": "LEMOMO",
+  "category": "curtains",
+  "tags": [
+    "bedroom",
+    "washable"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 33.24,
+    "currency": "USD",
+    "asOf": "2026-11-08"
+  },
+  "dimensions": {
+    "w": 66,
+    "h": 54,
+    "raw": "Brand LEMOMO; Color Sea Teal; Material Polyester; Product Dimensions 54\"L x 66\"W; Opacity Blackout; Size 66\"W x 54\"L (Pack of 2); \"each blackout curtain measures 66 inch wide and 54 inch length constructed with 8 silver grommets measuring 1.6 inches inner diameter\"",
+    "source": "the Sea Teal variant's own overview rows, Size picker and bullet, read in Chrome 2026-11-08; L (the drop) -> h, W -> w, per panel; flat, no depth: a layout extra, never placed"
+  },
+  "images": [
+    {
+      "file": "amazon-B0F6MTPGHV-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61lSMDzizhL._AC_SL1500_.jpg",
+      "caption": "Two teal blackout curtain panels hung on a silver grommet rod over a window (main)"
+    }
+  ],
+  "notes": "Flags: assumed-position:window (F-38). The master bedroom's pair (F-43, F-68 (9)). Andrew, 2026-11-08, of the 52\" H.VERSAILTEX: \"Why are you suggestin 52\" width? isn't that too narrow?\", then \"master rod is about 75\". is it OK?\" It wasn't: 2 x 52\" = 104\" on a 75\" rod is 1.39x, under the 1.5x minimum. Fit: 2 x 66\" = 132\" on the 75\" rod = 1.76x, inside the 1.5 to 2x range: deep waves and a few inches of overlap where the panels meet, and with 8 grommets a panel still stacks to about a foot when open. 54\" long on 1.6\" grommets, the rod 2 to 3\" above the 50\" window: they end at the sill, clear of the heater (F-33); the grommets slide on a rod up to about 1 1/2\" · fits. Color: Sea Teal, a deep muted teal (the listing's Teal is a bright turquoise; Navy is near black; Sage Green and Stone Blue are on the same listing), between the blue and the green of the teal/green/blue bedding and a classic match for the brown-walnut RÅDMANSÖ. Light: triple weave, not lined: \"Curtains impede 85%-99% light and UV ray(Darker colors more better)\"; a dark teal sits at the high end, and on a 75\" rod the leaks that show are at the edges and the middle, which the width closes. \"machine washable\"; \"thermal insulated\". Read 2026-11-08: $33.24 (5 percent off; $16.62 per count), \"Only 8 left in stock - order soon.\", FREE delivery Tuesday, November 10; 4.6 stars (51,259, the listing's); Amazon's Choice on the listing. rooms: master-bedroom, from Andrew.",
+  "captured": {
+    "date": "2026-11-08",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
