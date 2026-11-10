@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0GSXFQQTD",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GSXFQQTD",
+  "name": "HomePop 60\" Modern Storage Bench with Wood Legs - Cognac Brown Faux Leather",
+  "brand": "HomePop",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 198.8,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 18,
+    "h": 21,
+    "raw": "Product Dimensions 18\"D x 60\"W x 21\"H; Material 100% Polyester; Frame Material Wood; Color Cognac Brown Faux Leather; Style Mid-Century Modern",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GSXFQQTD-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61MxLEHTUlL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): Cognac Brown Faux Leather"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, with a screenshot of an Amazon listing (a camel chenille bench at the foot of a bed, on a pale gray-ivory rug that runs under the lower part of the bed): \"I want an end of bed ottoman and a rug in the style here (i.e. coving a part of the end of the bed and the ottoman). Be mindful: radmanso drawers will be placed on the wall opposite the bed. show me layout in browser. Use amazon only for searches. Be a interior designer, make sure color,lenght etc work\" Brief: an end-of-bed ottoman for the RÅDMANSÖ king (79 1/8\" frame, 15 3/4\" footboard): 2/3 to 3/4 of the frame (53 to 60\"; his search was \"bed bench king ottoman 60\\\"\"), 20\" deep or less so the RÅDMANSÖ dresser opposite keeps 36\" in front of its drawers (F-32), below the mattress line, a warm camel or cognac against the teal bedding and Sea Teal curtains (F-68 (9)), dark legs (F-68 (4)). THE PICK (1 of 3), staged in master-bedroom a, h and k: across the foot of the king, rot 90, x 69.625-87.625, y 39.8125-99.8125, centered and 2\" off the footboard. 60\" is 76% of the 79 1/8\" frame, 9 9/16\" in from each side; 18\" deep leaves 50 3/4\" to the dresser's fronts (F-32); 21\" at the arms. Why: the RÅDMANSÖ is mid-century walnut, and this is a mid-century bench (flared arms, splayed dark wood legs), so the bench, bed and dresser speak one language; cognac is the warm note the teal room lacks (teal and cognac, near complements), a shade lighter than the walnut so it reads as its own piece; faux leather wipes clean after Maddie (4) and holds less dust than fabric (the family's dust concern, F-66; F-67 calls leather the low-dust choice); on its legs the rug shows under it. Same frame as the Olive (amazon-B0C88GSRJ1, 4.6 stars, 72 ratings) and the Sand (amazon-B0H5L2TCZT, whose bullets read: \"Flip-up upholstered seat with safety hinges\"). As read: $198.80 (\"-10%\", List Price $219.99), 5.0 stars (3 ratings on this color), FREE delivery Thursday, November 12, to Fresh Meadows 11365. The overview's Material row says 100% Polyester against the title's faux leather; the Sand's says 100% PU. Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0HCN5N23G",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HCN5N23G",
+  "name": "Tumble Olivia Washable Area Rug | 6x9 Living Room Bedroom Area Rug",
+  "brand": "Tumble",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 349,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 72,
+    "d": 108,
+    "raw": "Size 6X9'; Color Ivory/Neutral; Material Polyester; Pile Height Low Pile; Item Weight 27 pounds; Item Dimensions L x W 37.2\"L x 28.7\"W (the folded or boxed set, not the rug)",
+    "source": "#productOverview_feature_div rows and the item details, read in Chrome 2026-11-10 (a rug: the short side is w by convention here, placed by rotation; the Size row is the rug's, the 37.2 x 28.7\" row is not; h left out, 3/8\" rug and pad together as the 9x12's record reads)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0HCN5N23G-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91DUXPTWC8L._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): Olivia Ivory/Neutral"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, with a screenshot of an Amazon listing (a camel chenille bench at the foot of a bed, on a pale gray-ivory rug that runs under the lower part of the bed): \"I want an end of bed ottoman and a rug in the style here (i.e. coving a part of the end of the bed and the ottoman). Be mindful: radmanso drawers will be placed on the wall opposite the bed. show me layout in browser. Use amazon only for searches. Be a interior designer, make sure color,lenght etc work\" THE PICK for the rug (F-68, F-69), staged in master-bedroom a: rot 0, x 46-118, y 15.8125-123.8125, the photo's placement: across the bed, under its lower 28 3/8\" (a third of the 87 3/8\" frame) and 43 5/8\" past the foot, so the bench stands wholly on it with 23 5/8\" of rug in front for the feet; 14 7/16\" out past each side of the frame; 12 13/16\" off the heater's face (F-33's 12\" for textiles) and 9 3/16\" off the bottom wall; 27 1/8\" of bare floor before the dresser, so its drawers clear the edge (F-32); the nightstands stay off it. Why 6x9: the room is 133\" from the window wall to the bottom wall, so a rug across the bed can be 108\" at most with F-33's 12\" kept: an 8x10 turned across (120\"), centered on the bed, would come 6 13/16\" from the heater's face and 3 3/16\" from the bottom wall, and turned along (the old Sophia's way) it shows only 8\" past each side and runs 70\" under the bed, which is the other style. Why Olivia Ivory/Neutral: Tumble's own color notes (other-tumble-olivia-ivory-neutral-9x12): \"Light ivory ground is more cool toned than warm toned and casts as a very light grey in certain lighting. Accents are white, taupe, khaki, & brown\": the photo's pale gray-ivory, a pale field under the dark walnut (F-68 (1)), cool enough for the teal bedding and curtains, its taupe and brown picking up the walnut and the cognac bench; a distressed allover pattern that hides crumbs. Two-piece (F-69): a 1/8\" cover on Tumble's 1/4\" non-slip pad, both included (as read on the 9x12 listing, 2026-10-26); no robot vacuums at its edges (the maker). Not a repeat of the living room's RUUGME or the dining rugs being re-chosen (F-68 (10)). As read: $349.00 ($6.46 per square foot), 4.8 stars (23 ratings), FREE delivery Thursday, November 12. Sizes: Runner (2.5x7'), Runner (2.5x10'), 3x5', 5x7', 6X9', 8x10', 9x12'; colors Ivory/Neutral, Ash/Multi. Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

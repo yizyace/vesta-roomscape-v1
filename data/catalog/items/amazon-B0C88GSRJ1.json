@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0C88GSRJ1",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0C88GSRJ1",
+  "name": "HomePop 60\" Modern Storage Bench with Wood Legs - Olive Green Woven",
+  "brand": "HomePop",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 161.49,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 18,
+    "h": 21,
+    "raw": "Product Dimensions 18\"D x 60\"W x 21\"H; Material 100% Polyester; Frame Material Rubberwood; Color Olive Green Woven; Style Mid-Century Modern",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-10 for the color only: the same bench as the pick (amazon-B0GSXFQQTD, Cognac Brown Faux Leather). Olive repeats the teal, green and blue bedding and the Sea Teal curtains (F-68 (9)), so the bench would sink into the bed instead of setting it off; it is the color to take if he wants the bench to recede. As read: $161.49, 4.6 stars (72 ratings, the most on this frame), \"50+ bought in past month\", FREE delivery Wednesday, November 18. Colors: Olive Green Woven, Blue Gray Woven Fabric, Blue Velvet, Brown, Gray Striped Pattern, Light Sage Green Velvet, Cream Woven, Sand Faux Leather, Gray Woven, Dark Brown Boucle, French Blue Woven; Cognac Brown Faux Leather is its own listing. Brief: an end-of-bed ottoman for the RÅDMANSÖ king (79 1/8\" frame, 15 3/4\" footboard): 2/3 to 3/4 of the frame (53 to 60\"; his search was \"bed bench king ottoman 60\\\"\"), 20\" deep or less so the RÅDMANSÖ dresser opposite keeps 36\" in front of its drawers (F-32), below the mattress line, a warm camel or cognac against the teal bedding and Sea Teal curtains (F-68 (9)), dark legs (F-68 (4)).",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

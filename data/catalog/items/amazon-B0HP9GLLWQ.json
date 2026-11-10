@@ -1,0 +1,35 @@
+{
+  "id": "amazon-B0HP9GLLWQ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HP9GLLWQ",
+  "name": "53\" Oversized End of Bed Storage Bench, Modern Chenille Ottoman, Dark Grey",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 199.99,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 53.1,
+    "d": 20.4,
+    "h": 19.2,
+    "raw": "Product Dimensions 20.4\"D x 53.1\"W x 19.2\"H; Material Wood; Frame Material Wood; Color Dark Grey; Style Modern",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-10: the Dark Grey of the bench in Andrew's screenshot, the color its listing opens on; the Camel his video shows is kept (amazon-B0HP9L4NDH). Dark gray goes cold and heavy between the walnut RÅDMANSÖ and the teal bedding (F-68 (9)). As read: $199.99, 5.0 stars (2 ratings), FREE delivery November 17 - 19. Brief: an end-of-bed ottoman for the RÅDMANSÖ king (79 1/8\" frame, 15 3/4\" footboard): 2/3 to 3/4 of the frame (53 to 60\"; his search was \"bed bench king ottoman 60\\\"\"), 20\" deep or less so the RÅDMANSÖ dresser opposite keeps 36\" in front of its drawers (F-32), below the mattress line, a warm camel or cognac against the teal bedding and Sea Teal curtains (F-68 (9)), dark legs (F-68 (4)).",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

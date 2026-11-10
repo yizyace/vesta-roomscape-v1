@@ -1,0 +1,43 @@
+{
+  "id": "ikea-60593838",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/radmansoe-5-drawer-dresser-brown-walnut-effect-60593838/",
+  "name": "RÅDMANSÖ 5-drawer dresser, brown walnut effect, 27 1/2x18 7/8x52 \"",
+  "brand": "IKEA",
+  "category": "dresser",
+  "tags": [
+    "bedroom",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 299.99,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 27.5,
+    "d": 18.875,
+    "h": 52,
+    "raw": "Depth 18 7/8 \"; Drawer depth (inside) 15 1/8 \"; Height under furniture 5 \"; Height 52 \"; Storage capacity 5.7 cu.ft; Width 27 1/2 \"; Drawer width (inside) 24 \"; Drawer pull-out 8 7/8 \"",
+    "source": "IKEA Measurements tab, read in Chrome 2026-11-10"
+  },
+  "images": [
+    {
+      "file": "ikea-60593838-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/radmansoe-5-drawer-dresser-brown-walnut-effect__1590196_pe1038835_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, with a screenshot of an Amazon listing (a camel chenille bench at the foot of a bed, on a pale gray-ivory rug that runs under the lower part of the bed): \"I want an end of bed ottoman and a rug in the style here (i.e. coving a part of the end of the bed and the ottoman). Be mindful: radmanso drawers will be placed on the wall opposite the bed. show me layout in browser. Use amazon only for searches. Be a interior designer, make sure color,lenght etc work\" IKEA sells three RÅDMANSÖ dressers in brown walnut effect, all 18 7/8\" deep: the 6-drawer (ikea-40593839, 62 5/8\" wide, 31 7/8\" tall, $349.99), the 3-drawer (ikea-80593837, 35 3/8\" wide, 31 3/4\" tall, $229.99) and the 5-drawer (ikea-60593838, 27 1/2\" wide, 52\" tall, $299.99). Which one Andrew means isn't said: the 6-drawer is staged, and the depth, which sets every clearance in front of it, is the same for all three. IKEA was opened only to read these (his words: \"Use amazon only for searches\"). Not staged: a tall chest, 52\", reads as a column opposite the bed rather than a low line; if this is the one, it stands on the same wall with an anchor. Article 605.938.38; 4.5 stars; the page says \"Designed to meet the US Federal Stability Standard\". In stock at IKEA Long Island, NY; home delivery to 11364 from $29.00 (as read). Flags: anchor-required (F-21: 52\" tall).",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

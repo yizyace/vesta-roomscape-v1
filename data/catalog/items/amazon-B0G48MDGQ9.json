@@ -1,0 +1,41 @@
+{
+  "id": "amazon-B0G48MDGQ9",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0G48MDGQ9",
+  "name": "6x9 Area Rugs, Beige Washable Geometric Boho Rug for Living Room, Bedroom",
+  "brand": "Oriannal",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 58.49,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 72,
+    "d": 108,
+    "h": 0.2,
+    "raw": "Size 6' x 9' (Rectangular); Item Dimensions L x W 108\"L x 72\"W; Item Thickness 0.2 inches; Pile Height Low Pile; Material Polyester; Back Material Type Rubber; Construction Type Machine Made; Item Weight 8.25 pounds; Color Beige",
+    "source": "#productOverview_feature_div rows and the Measurements group lower on the page, read in Chrome 2026-11-10 (a rug: the short side is w by convention here, placed by rotation; h is the Item Thickness row)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0G48MDGQ9-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91et37TORoL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): Beige 6x9 in a living room"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, with a screenshot of a bench at the foot of a bed on a pale gray-ivory diamond rug: \"I want an end of bed ottoman and a rug in the style here (i.e. coving a part of the end of the bed and the ottoman).\" and \"Use amazon only for searches\"; later \"Make sure BOTH items are amazon only, NO ikea.\" Kept (2 of 2), the budget version of the rug, not staged: one piece, a 0.2\" polyester rug on a rubber back, machine washed whole (the budget case of F-69, like the living room's RUUGME), and its bullet says \"The low-pile design is compatible with robot vacuums\". It lies where a's Olivia does (x 46-118, y 15.8125-123.8125), the same 6x9. Color: Beige by name, in its photos a cream field with soft beige geometric lines, paler and warmer than the Olivia and closer to the photo's geometric pattern; the Grey (B0G48KMHXX) would be closer to the photo's gray, but its page hit Amazon's bot check (blocked, F-04) and was not read. As read: $58.49 (\"-10%\"), 4.7 stars (130 ratings), Amazon's Choice, \"100+ bought in past month\", FREE delivery Tomorrow, November 11. Sizes 4x6, 5x7, 6x9, 8x10, 9x12, 10x12, 10x14; colors Beige, Brown, Grey, Ivory/Beige. Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
