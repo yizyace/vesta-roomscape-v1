@@ -1,0 +1,34 @@
+{
+  "id": "other-bobs-20100412",
+  "vendor": "other",
+  "url": "https://www.mybobs.com/furniture/dining-room/dining-room-sets/p/20100412",
+  "name": "Brookline 7 Piece Brown & White Upholstered Dining Set",
+  "brand": "Bob's Discount Furniture",
+  "category": "table",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 799,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 72,
+    "d": 42,
+    "h": 30,
+    "raw": "Brookline Brown Dining Table, SKU: 10001220007, Quantity: 1, Dimensions: 72\"W x 42\"D x 30\"H, Finish: Brown; Brookline Brown & White Panel Back Upholstered Dining Chair, SKU: 20087518001, Quantity: 6, Dimensions: 20\"W x 24\"D x 38\"H, Color: White, Finish: Brown (Weight 22.0 lbs; Material MDF)",
+    "source": "The set page's Products included rows and Dimensions tab, read in Chrome 2026-11-10. Bob's W is the long side (w), D is across (d)."
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-10 for its finish: the Brown reads a mid-tone oak in its photos, lighter than F-68 (10) wants on the white marble; the same set in Black (other-bobs-20100420) is kept and ranked 1. On the Black Friday Dining Rooms $799 and Under page at $799.00 (\"Bob's Bundled Price\"); four square legs at the corners; 719 reviews. No photo: Bob's images are on res.cloudinary.com/mybobs/, which catalog:image refuses until Andrew allows that folder.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

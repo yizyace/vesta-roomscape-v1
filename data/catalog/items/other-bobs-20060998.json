@@ -1,0 +1,28 @@
+{
+  "id": "other-bobs-20060998",
+  "vendor": "other",
+  "url": "https://www.mybobs.com/furniture/dining-room/dining-tables/p/20060998",
+  "name": "Montana White & Espresso Storage Dining Table",
+  "brand": "Bob's Discount Furniture",
+  "category": "table",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 599,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": null,
+  "images": [],
+  "notes": "Rejected 2026-11-10 for its finish: a white base and legs under an espresso top, the white F-68 (10) rules out; the same table in Black & Brown (other-bobs-20081026) is kept and ranked 2. Dimensions null (F-11): the page was switched to Black & Brown before its own rows were read; the compare rows on the Mango and Atlas pages list it at 72\"W x 40\"D x 30\"H. \"Bob's Everyday Low Price\" $599.00; 2,549 reviews; finishes Black & Brown and Espresso & White. No photo: Bob's images are on res.cloudinary.com/mybobs/, which catalog:image refuses until Andrew allows that folder.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

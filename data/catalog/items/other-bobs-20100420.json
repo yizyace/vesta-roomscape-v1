@@ -1,0 +1,34 @@
+{
+  "id": "other-bobs-20100420",
+  "vendor": "other",
+  "url": "https://www.mybobs.com/furniture/dining-room/dining-room-sets/p/20100420",
+  "name": "Brookline 7 Piece Black & White Upholstered Dining Set",
+  "brand": "Bob's Discount Furniture",
+  "category": "table",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 799,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 72,
+    "d": 42,
+    "h": 30,
+    "raw": "Brookline Black Dining Table, SKU: 10001343008, Quantity: 1, Dimensions: 72\"W x 42\"D x 30\"H, Finish: Black; Brookline Black & White Upholstered Dining Chair, SKU: 10001343002, Quantity: 6, Dimensions: 20\"W x 24\"D x 38\"H, Color: White, Finish: Black (Overall Dimension 20\"W x 24\"D x 38\"H; Weight 44.0 lbs; Material MDF; Upholstered Material Fabric - Polyester); the set: Overall Dimension 72\"W x 42\"D x 30\"H",
+    "source": "The set page's Products included rows and Dimensions tab, read in Chrome 2026-11-10, with the Black finish selected. The footprint is the table's. Bob's W is the long side (w), D is across (d)."
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-10, after the first ranking: \"I want it at least 72\" long. I don' want the ends to block guests' feet ,I hate that\" (F-60). RANKED 1 of 3 on Bob's under that rule: black, 72\" long on four square legs at its corners, with six chairs, at the Black Friday page's price. Flags: tight:28 (F-36). Fit (dining-room, 98 x 89 between the two walkways, F-42): along the room's depth, 42\" across leaves 28\" a side, 2\" under F-36's workable 30\" (F-36's cap is 38\"); set 2\" toward the kitchen, the wall side gets its 30\" and the kitchen side 26\" to the walkway's edge, its chairs backing into the walkway as F-36 allows that side. 72\" long, its living-room end on that walkway's edge, it leaves 17\" to the bottom wall: three chairs a side between the corner legs (3 x 20\" chairs), no end seat. The set (\"Set includes: table and 6 chairs\"): the Brookline Black Dining Table (SKU 10001343008) and six Brookline Black & White Upholstered Dining Chairs (SKU 10001343002, 24\" deep), \"Bob's Bundled Price\" $799.00; Bob-O-Pedic memory foam seats. The same set in Brown & White (other-bobs-20100412) is on the Black Friday Dining Rooms $799 and Under page at $799.00. The brown table alone is $399.00 (other-bobs-10001220007); the black table's own page was not opened. Color (F-68 (10)): Finish Group Black, a charcoal-black table and black chair frames in the photos, the strongest contrast on the white marble; the seats and backs are white polyester fabric (Color Group White), which a 4-year-old will stain: Bob's sells its Goof Proof plan for the set at $99.99. Transitional; MDF, solid acacia, rubberwood solids, oak veneers. 719 reviews. Get it as soon as Nov 13 (to 11101); free pickup at the Piscataway, NJ distribution center; see it in person at the Long Island City store. Returns (Bob's Returns tab, 2026-11-10): an order cancels for a full refund until delivery or pickup day; after delivery Bob's takes furniture back only for factory defects. See it in person before ordering. No photo: Bob's images are on res.cloudinary.com/mybobs/, which catalog:image refuses until Andrew allows that folder.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
