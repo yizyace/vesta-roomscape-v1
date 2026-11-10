@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0DV3V6Q9M",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DV3V6Q9M",
+  "name": "Storage Bench for Bedroom, 65 in End of Bed Storage Bench Navy Blue",
+  "brand": "HOMYKA",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 139.99,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 65,
+    "d": 22.05,
+    "h": 21.26,
+    "raw": "Product Dimensions 22.05\"D x 65\"W x 21.26\"H; Storage Dimensions 55.12\" W x 17.72\" D x 8.27\" H; Seat Height 17.2\"; Weight Capacity 400 lbs; Frame Material Wood + Metal; Fabric Type Velvet; Top Material Type Velvet; Features Button Tufted, Side Pockets, Includes 2 Pillows; Color Navy Blue; size chooser 22.1\"D x 65\"W x 21.3\"H",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h); the page title says \"Tufted Upholstered and Gold Legs\""
+  },
+  "images": [
+    {
+      "file": "amazon-B0DV3V6Q9M-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71g+sSrdXvL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): Navy Blue velvet, gold legs"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, of the 66\" teddy bench in Blue he picked (amazon-B0FXG31XPH, delivery November 20): \"nov 20 for bench not ideal - any other similar ones with blue coolor that will ship faster?\" Kept: the closest in look, a navy velvet bench with arms carrying side pockets, two pillows, button tufting and gold sled legs (gold like the RÅDMANSÖ dresser's brass knobs, where the pick's are silver); velvet, not teddy, so smoother and a little cooler to the touch, still fabric (F-27). Fit at the king's foot (rot 90, 2\" off the footboard, centered: x 65.575-87.625, y 37.3125-102.3125): 82% of the 79 1/8\" frame, 7 1/16\" in from each side; 22\" deep, so 46 11/16\" to the RÅDMANSÖ dresser's fronts (F-32) and 19 9/16\" of rug in front of it; the walk to the bathroom 30 11/16\" below it (F-30). As read: $139.99, 4.7 stars (174 ratings), \"$39.99 delivery Friday, November 13\" ($179.98 delivered). Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
