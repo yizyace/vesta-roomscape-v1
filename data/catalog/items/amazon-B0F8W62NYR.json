@@ -1,0 +1,41 @@
+{
+  "id": "amazon-B0F8W62NYR",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0F8W62NYR",
+  "name": "Living Room 6x9 Area Rug - Vintage Washable Rugs with Non Slip Backing Soft Stain Resistant Carpet for Bedroom Indoor Ultra-Thin Low Pile Carpets Home Decor Mat 6x9 sage",
+  "brand": "RUUGME",
+  "category": "rug",
+  "tags": [
+    "washable",
+    "bedroom"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 79.99,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 72,
+    "d": 108,
+    "h": 0.14,
+    "raw": "Size 6' x 9' (Rectangular); Color Sage; Item Dimensions L x W 108\"L x 72\"W; Item Thickness 0.14 inches; Back Material Type Rubber; Pile Height Low Pile; Material Polyester; Weave Type Flat Woven; Item Weight 11.97 pounds",
+    "source": "#productOverview_feature_div rows and the Measurements group lower on the page, read in Chrome 2026-11-10 (L -> d, W -> w, Item Thickness -> h; a rug: the short side is w by convention here). The thickness is the seller's listed number"
+  },
+  "images": [
+    {
+      "file": "amazon-B0F8W62NYR-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/91IMpIt5uzL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): Sage 6x9"
+    }
+  ],
+  "notes": "In Andrew's Amazon cart, qty 1 (seen in its flyout 2026-11-10: this rug at $79.99, \"Only 8 left in stock\", beside the 66\" Blue bench at $199.95, subtotal $279.94), and he asked \"Can I do sage, be honest interior designer\". STAGED in master-bedroom a. Its photo: an ivory ground and border with the medallion field in a soft gray-green sage and a small terracotta center, light overall, not a dark green. The designer's read: sage, teal and navy sit side by side on the color wheel, so the Blue bench, the Sea Teal curtains, the teal, green and blue bedding and this rug make one calm cool family, and a grayed sage is the green that suits honey oak and walnut best; the terracotta center and the walnut keep it from going cold; the navy bench reads dark on its lighter center; it hides crumbs better than the Ivory; $20 less. The cost: the room's color is all cool and the foot of the bed darker than on the Ivory, so keep the sheets light and an ivory or oatmeal throw on the bench. Andrew, 2026-11-10, of RUUGME's Ivory 6x9: \"I dsont want literally the exact same rug pattern\", then \"Can I do sage, be honest interior designer\". The same RUUGME listing as the living room's rug (amazon-B0DPVFJTCY) and the Ivory 6x9 (amazon-B0F8W77P6W), in its Sage colorway: the same vintage design in another color, so a sibling of the living room's, not a twin (F-68 (2)). Same make: 0.14\" on a rubber back, low pile, flat woven, one piece, machine wash. As read: $79.99 ($1.48 per square foot), 4.6 stars (3,147, listing-wide), FREE delivery Thursday, November 12, \"Only 8 left in stock - order soon.\" Drawn as master-bedroom m, in the Ivory's place (x 46-118, y 15.8125-123.8125). Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
