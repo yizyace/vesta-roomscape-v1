@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0HJNQJLWY",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HJNQJLWY",
+  "name": "60 inchs Upholstered Storage Ottoman Bench, Camel",
+  "brand": "QianYueLUX",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 179,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 18,
+    "h": 21.25,
+    "raw": "Product Dimensions 18\"D x 60\"W x 21.25\"H; Material Foam, Teddy Fabric, Wood; Frame Material Wood; Color Camel; Style Modern; size 60 inch",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h); the brand from the page title"
+  },
+  "images": [
+    {
+      "file": "amazon-B0HJNQJLWY-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71ne8e-OcrL._AC_SL1254_.jpg",
+      "caption": "main (Amazon #landingImage): Camel, at the foot of a bed"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, after the HULALA HOME Golden: \"don't like that ottoman, give me at least 5 options to choose from, don't include things that are short\"; earlier \"faux leather is cold in the winter. Don't want it.\" (F-27) and Amazon only (F-25). Kept: a 60\" bench in camel teddy (a soft boucle-like pile, warm to sit on) with flared arms on dark tapered wood legs, the bullets: \"solid Mid-Century wood legs\", \"holds up to 350 lbs\", \"Mid-Century Modern Style\", hidden storage under a padded lift top. Fit at the king's foot (rot 90, x 69.625-87.625, y 39.8125-99.8125): 76% of the 79 1/8\" frame, 9 9/16\" in from each side; 50 3/4\" to the RÅDMANSÖ dresser's fronts (F-32); 21 1/4\" at the arms, 5 1/2\" over the 15 3/4\" footboard. Color: a sandy camel close to the screenshot's, lighter than the HULALA's golden; a mid-century piece for the mid-century RÅDMANSÖ. As read: $179.00, 4.6 stars (90 ratings), FREE delivery November 16 - 18. At 60 inch: Camel, Green, White ($179 each); Grey, Navy Blue and Orange showed no price there (a 52\" size is B0DWX67TJQ). Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
