@@ -1,0 +1,34 @@
+{
+  "id": "other-bobs-20083638",
+  "vendor": "other",
+  "url": "https://www.mybobs.com/furniture/dining-room/dining-tables/p/20083638",
+  "name": "Mango Brown Solid Wood Dining Table",
+  "brand": "Bob's Discount Furniture",
+  "category": "table",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 599,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 72,
+    "d": 38,
+    "h": 30,
+    "raw": "Overall Dimension 72\"W x 38\"D x 30\"H",
+    "source": "The page's Description tab, Overall Dimension row, read in Chrome 2026-11-10. Bob's W is the long side (w), D is across (d)."
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-10 as the way to buy it: the same table comes in the Mango 7 Piece Brown & Beige Solid Wood Dining Set (other-bobs-20083633, ranked 1) with six chairs for $999.00, $100 less than this table and four $125.00 chairs bought apart. Read for its own rows: Overall Dimension 72\"W x 38\"D x 30\"H; Style Contemporary; Finish Group Brown; Material Mango Wood; Frame Construction Wood - Mango; Features Solid Wood; \"Bob's Everyday Low Price\" $599.00. Its compare row: Seating Capacity 6, Rectangle, on display at Long Island City, NY; the same table lists the Canyon Brown (78\"W x 42\"D, not on display), the Elm Natural & Marble (70\"W x 38\"D) and the Montana White & Espresso Storage (72\"W x 40\"D) beside it. The fit is on the set's record (tight:30, F-36). No photo: Bob's images are on res.cloudinary.com/mybobs/, which catalog:image refuses until Andrew allows that folder.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "other-bobs-10001436003",
+  "vendor": "other",
+  "url": "https://www.mybobs.com/furniture/dining-room/dining-tables/p/10001436003",
+  "name": "Atlas Brown & Gray Dining Table",
+  "brand": "Bob's Discount Furniture",
+  "category": "table",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 349,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 82,
+    "d": 39,
+    "h": 30,
+    "raw": "Overall Dimension 82\"W x 39\"D x 30\"H",
+    "source": "The page's Description tab, Overall Dimension row, read in Chrome 2026-11-10 (the compare table on the same page agrees). Bob's W is the long side (w), D is across (d)."
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-10: \"I hate the lisabo, i have an agent working on trying to get it returned. YOu focus on an altnerative dining table from mybobs.com\", \"consider black friday\" (Bob's \"Black Friday Dining Rooms $799 and Under\" page), \"filter for length of table but also depth (i.e. note the problem of the Lisabo being too small depth wise at 26\")\", \"Consider color as well\". RANKED 3 of 3 on Bob's: the longest and the cheapest, a Bob's Outlet item with no chairs to match. Outlet Price \"Now $349.00\", was $499.00; \"3 Left in Stock\"; \"Get it in 3 to 7 days\"; not on display at the Long Island City store. Flags: tight:29.5 (F-36). Fit (dining-room, 98 x 89 between the two walkways, F-42): along the room's depth, 39\" across leaves 29.5\" a side (set 0.5\" toward the kitchen, the wall side gets 30\"); 82\" long, its living-room end on the walkway's edge leaves 7\" to the bottom wall: three chairs a side with room to spare, no end seat. Color (F-68 (10)): a faux-concrete top in dark charcoal on near-black slab legs in the photos (\"Brown & Gray\", Finish Group Brown): the darkest of the three on the white marble, cool, the sofa's dark gray carried over. Material Melamine Board, Asian Hardwood Solids, Pine Veneer, MDF: a top that wipes clean after crafts. Contemporary. 7 reviews. Chairs: the page's collection carousel showed an Atlas Panel Back Upholstered Dining Chair at $39.00 (Clearance), but the Atlas collection page lists only this table and the Atlas Brown & Gray Dining Bench (Outlet, now $49.00, was $160.00, 4 left), so chairs would come from another line. Returns (the Returns tab, 2026-11-10): Outlet merchandise that is not brand-new or factory-fresh is sold as-is, with no exchange, return, refund or service; ask Bob's whether this one is new. Other furniture cancels for a full refund until delivery day and is taken back afterwards only for factory defects. No photo: Bob's images are on res.cloudinary.com/mybobs/, which catalog:image refuses until Andrew allows that folder.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

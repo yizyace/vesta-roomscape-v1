@@ -1,0 +1,34 @@
+{
+  "id": "other-bobs-20083633",
+  "vendor": "other",
+  "url": "https://www.mybobs.com/furniture/dining-room/dining-room-sets/p/20083633",
+  "name": "Mango 7 Piece Brown & Beige Solid Wood Dining Set",
+  "brand": "Bob's Discount Furniture",
+  "category": "table",
+  "tags": [
+    "dining"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 999,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 72,
+    "d": 38,
+    "h": 30,
+    "raw": "Mango Brown Solid Wood Dining Table, SKU: 20083638, Quantity: 1, Dimensions: 72\"W x 38\"D x 30\"H, Finish: Brown; Mango Brown & Beige Panel Back Upholstered Dining Chair, SKU: 20082220002, Quantity: 6, Dimensions: 21\"W x 19.1\"D x 35.8\"H, Color: Beige, Finish: Brown (Overall Dimension 21\"W x 19.1\"D x 35.8\"H; Weight 17.0 lbs; Material Solid Mango; Upholstered Material Fabric - Polyester)",
+    "source": "The set page's \"Products included in this set\" rows and its Dimensions tab, read in Chrome 2026-11-10; the table's own page (other-bobs-20083638) gives the same Overall Dimension. The footprint is the table's: Bob's W is the long side (w), D is across (d)."
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-10: \"I hate the lisabo, i have an agent working on trying to get it returned. YOu focus on an altnerative dining table from mybobs.com\", \"consider black friday\" (Bob's \"Black Friday Dining Rooms $799 and Under\" page), \"filter for length of table but also depth (i.e. note the problem of the Lisabo being too small depth wise at 26\")\", \"Consider color as well\". RANKED 1 of 3 on Bob's: the only Bob's table inside F-60's brief, 38\" across (F-36's widest that keeps 30\" a side) and 72\" long, in dark brown solid mango, with six chairs. Flags: tight:30 (F-36). Fit (dining-room, 98 x 89 between the two walkways, F-42): along the room's depth, 30\" from each long side to the kitchen walkway's edge and to the right wall (tight under 36\", workable at 30\", F-36), its living-room end on that walkway's edge and 17\" from the bottom wall, no end seat: three chairs a side. Across the room it would leave 25.5\" a side. The set: the Mango Brown Solid Wood Dining Table (SKU 20083638, $599.00 alone, other-bobs-20083638) and six Mango Brown & Beige Panel Back Upholstered Dining Chairs (SKU 20082220002, $125.00 each on the Mango Dining collection page), \"Bob's Everyday Low Price\" $999.00: $100 less than the table and four chairs bought apart ($1,099), so the six-chair set is the buy even with four chairs wanted now (F-60). Not on the Black Friday $799-and-under page and not marked down. The Mango 6 Piece Brown & Beige Solid Wood Dining Set with Bench (20083634: four chairs and the $250.00 bench) is also $999.00 on the collection page (not opened). Color (F-68 (10)): Finish Group Brown, solid mango in a deep brown in the photos: the dark table on the white marble; the beige seats pick up the living room's ivory RUUGME and taupe LAMIT curtains, and the dark wood is a sibling of the walnut UGGLERUM (F-68 (2)). Contemporary; Bob-O-Pedic memory foam seats. 944 reviews on the set's page; the table is on display at Bob's Long Island City store (the compare row on its page). Get it as soon as Nov 13 (to 11101, the page's ZIP). Returns (the page's Returns tab, 2026-11-10): an order cancels for a full refund until delivery or pickup day; after delivery Bob's takes furniture back only for factory defects, under a 1-year limited warranty. See it in person before ordering. No photo: Bob's images are on res.cloudinary.com/mybobs/, which catalog:image refuses until Andrew allows that folder.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
