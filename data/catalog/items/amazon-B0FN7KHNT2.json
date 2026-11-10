@@ -1,0 +1,35 @@
+{
+  "id": "amazon-B0FN7KHNT2",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0FN7KHNT2",
+  "name": "66\" King Size Storage Bench for Bedroom End of Bed Benches with Storage",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 195.95,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 66,
+    "d": 18,
+    "h": 22,
+    "raw": "Product Dimensions 18\"D x 66\"W x 22\"H; Material Teddy; Frame Material Wood; Color Ivory; Style 66\"",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-10 for its color: the Ivory of the bench Andrew picked in Blue (amazon-B0FXG31XPH); an ivory teddy at the foot of the bed shows every mark with Maddie (4), it disappears on the ivory rug, and he wants color (\"prefer color\"). Gold legs (its page title). Andrew, 2026-11-10, of the HULALA HOME Golden: \"don't like that ottoman, give me at least 5 options to choose from, don't include things that are short\"; fabric only (F-27: \"faux leather is cold in the winter\"), Amazon only (F-25). One listing in six colors at 66\" (and a 52\"), all 18 x 66 x 22\", teddy, $195.95 to $199.95, 4.8 stars (77, listing-wide), FREE delivery Friday, November 20 as read: Blue B0FXG31XPH (silver legs, its page title says), Brown B0G7136Y1R (a rust-cognac, gold legs), Olive Green B0G6ZDJ6PD (gold legs), Ivory B0FN7KHNT2 (gold legs), Beige B0GSZ6GT76 and Black B0FN7LSYHN (not opened); 52\" B0H6NTXQQN. Bullets: lift-top storage; \"innovative cut-out armrests\"; \"covered with teddy fabric, breathable and skin-friendly\"; two throw pillows. Ships from \"qiguan store\", returnable until Jan 31, 2027. ",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

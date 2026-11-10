@@ -1,0 +1,41 @@
+{
+  "id": "amazon-B0FXG31XPH",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0FXG31XPH",
+  "name": "66\" Storage Bench for Bedroom Upholstered End of Bed Bench King Size Blue",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 199.95,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 66,
+    "d": 18,
+    "h": 22,
+    "raw": "Product Dimensions 18\"D x 66\"W x 22\"H; Material Teddy Fabric; Frame Material Wood; Color Blue; Style 66\"",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0FXG31XPH-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/817793C5opL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): Blue, at the foot of a bed"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, of the HULALA HOME Golden: \"don't like that ottoman, give me at least 5 options to choose from, don't include things that are short\"; fabric only (F-27: \"faux leather is cold in the winter\"), Amazon only (F-25). Then: \"I like https://www.amazon.com/dp/B0FXG31XPH?th=1 the most I think, what colors ar ebest? remember bed color radmanso, nightstands, floor color (same as living room), curtain color, prefer color\". SHORTLISTED on his word and staged in master-bedroom a, h and k. Fit at the king's foot (rot 90, x 69.625-87.625, y 36.8125-102.8125): 83% of the 79 1/8\" frame, 6 9/16\" in from each side, long for the 2/3 to 3/4 rule but not short, which he ruled out; 50 3/4\" to the RÅDMANSÖ dresser's fronts (F-32); 22\" at the arms, 6 1/4\" over the 15 3/4\" footboard; the walk from the door to the bathroom passes 30 3/16\" below its lower end (F-30's 30\"). Color, against the walnut RÅDMANSÖ bed, nightstands and dresser (brass knobs), the honey-oak floor, the Sea Teal curtains, the teal, green and blue bedding to come and RUUGME's Ivory rug: a deep denim-navy teddy, channel-tufted. Blue sits opposite the honey oak's orange on the color wheel, so each makes the other richer, and it is the third cool note with the curtains and the bedding, a shade darker than the Sea Teal so they read as family, not a match; the ivory rug under it keeps the dark walnut and the navy apart from the floor. Its legs are silver, the one mismatch with the dresser's brass knobs; the Brown and the Olive come on gold. Amazon's Choice. One listing in six colors at 66\" (and a 52\"), all 18 x 66 x 22\", teddy, $195.95 to $199.95, 4.8 stars (77, listing-wide), FREE delivery Friday, November 20 as read: Blue B0FXG31XPH (silver legs, its page title says), Brown B0G7136Y1R (a rust-cognac, gold legs), Olive Green B0G6ZDJ6PD (gold legs), Ivory B0FN7KHNT2 (gold legs), Beige B0GSZ6GT76 and Black B0FN7LSYHN (not opened); 52\" B0H6NTXQQN. Bullets: lift-top storage; \"innovative cut-out armrests\"; \"covered with teddy fabric, breathable and skin-friendly\"; two throw pillows. Ships from \"qiguan store\", returnable until Jan 31, 2027. Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

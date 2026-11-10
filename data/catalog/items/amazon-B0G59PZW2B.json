@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0G59PZW2B",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0G59PZW2B",
+  "name": "63\" Bedroom Bench, Upholstered Entryway Bench, Modern End of Bed Ottoman with Solid Wood Legs and Adjustable Foot Pegs for Entryway, Dining Room and Living Room (Rust Velvet)",
+  "brand": "Scingu",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 219.99,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 63,
+    "d": 17.3,
+    "h": 17,
+    "raw": "Product Dimensions 17.3\"D x 63\"W x 17\"H; Material Velvet; Frame Material Wood; Color Rust; Style Modern",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h); the brand from the page title"
+  },
+  "images": [
+    {
+      "file": "amazon-B0G59PZW2B-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71664boTtCL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): Rust velvet"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, of the HULALA HOME Golden: \"don't like that ottoman, give me at least 5 options to choose from, don't include things that are short\"; fabric only (F-27: \"faux leather is cold in the winter\"), Amazon only (F-25). Kept (an option): a 63\" channel-tufted rust velvet bench on solid wood legs, no arms and no storage, the bullets: \"sturdy solid wood frame that provides strong support up to 440 lbs\", high-density foam. Fit (rot 90, 2\" off the footboard): 80% of the frame, 8 1/16\" in from each side; 17\" tall, under the arms of the others; 17.3\" deep. Rust is the warm complement to the Sea Teal. As read: $219.99, 4.6 stars (84 ratings), FREE delivery Tuesday, November 17; at 63\"W: Rust $219.99, Blue B0G59L4DJS $199.99, Brown B0G59N2B33 $219.99, Green B0DS1P86T8 $219.99, Olive Green B0HDJDKX18 $219.99, Rust Brown B0DS1Q1H56 $229.99, Beige B0DS1P95S6 (no price); a 43.3\"W is B0G59MCRBW. Its page hit Amazon's bot check twice before Andrew cleared it. Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

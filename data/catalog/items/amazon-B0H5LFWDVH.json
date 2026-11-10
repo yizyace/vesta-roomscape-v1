@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0H5LFWDVH",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0H5LFWDVH",
+  "name": "HomePop 60\" Modern Storage Bench with Wood Legs - Light Sage Green Velvet",
+  "brand": "HomePop",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 209.99,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 18,
+    "h": 21,
+    "raw": "Product Dimensions 18\"D x 60\"W x 21\"H; Material 100% Polyester; Frame Material Rubberwood; Color Light Sage Green Velvet; Style Mid-Century Modern",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0H5LFWDVH-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61wKh5ayw-L._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): Light Sage Green Velvet"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, of the HULALA HOME Golden: \"don't like that ottoman, give me at least 5 options to choose from, don't include things that are short\"; fabric only (F-27: \"faux leather is cold in the winter\"), Amazon only (F-25). Kept (an option): HomePop's mid-century 60\" bench (the frame of amazon-B0GSXFQQTD, whose faux leather is out) in a light sage velvet on dark splayed legs: 76% of the frame; sage repeats the green of the bedding softly. As read: $209.99, 5.0 stars (6 ratings), In Stock, FREE delivery Tomorrow, November 11. Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

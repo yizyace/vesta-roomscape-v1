@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0GHPLR2JV",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GHPLR2JV",
+  "name": "66'' King Size End of Bed Bench, Boucle Storage Bench for Bedroom, White",
+  "brand": "AEMEIOS",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 179.99,
+    "currency": "USD",
+    "asOf": "2026-11-10"
+  },
+  "dimensions": {
+    "w": 66,
+    "d": 22.5,
+    "h": 23.25,
+    "raw": "Product Dimensions 66\"D x 22.5\"W x 23.25\"H; Material Engineered Wood; Frame Material Cast Iron; Color White; Size 66inch",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h); the row's D and W swapped against the title and photos, so w 66 and d 22.5; the brand from the store link"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GHPLR2JV-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/714FoT6OSmL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): White teddy, gold base"
+    }
+  ],
+  "notes": "Andrew, 2026-11-10, of the HULALA HOME Golden: \"don't like that ottoman, give me at least 5 options to choose from, don't include things that are short\"; fabric only (F-27: \"faux leather is cold in the winter\"), Amazon only (F-25). Kept (an option): a 66\" teddy storage bench on a curved gold base with side pockets and pillows (\"Teddy Upholstered Storage Ottoman Benches with Golden Legs, Pillows and Side Pockets\", its page title), Amazon's Choice; more glam than mid-century, and deeper (22 1/2\") and taller (23 1/4\") than the others. The overview's row reads 66\"D x 22.5\"W, which the title (66'') and the photos contradict, so it is recorded with D and W swapped. As read: $179.99, 4.7 stars (88 ratings), FREE delivery Thursday, November 19; colors White $179.99, Apricot B0HNL1RQWD $184.99, Beige B0FR3DSC7F $194.99, Black B0FDG7TTP4 $179.99, Blue B0GHPKR8DY $184.99, Brown B0GR9HH7QT $184.99, Cream B0FDG8T8FC $184.99, Dark Black B0GHPF6M46 $184.99, Dark Grey B0GX2B2CXC $184.99, Green B0GHPKM4R3 $184.99; a 51inch is B0GVVHY6YV. White would not be his pick (\"prefer color\"); the colors are listed for that. Flags: fits.",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

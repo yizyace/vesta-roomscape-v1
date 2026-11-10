@@ -1,0 +1,32 @@
+{
+  "id": "amazon-B0F397Y92Y",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0F397Y92Y",
+  "name": "HomePop 60\" Modern Storage Bench with Wood Legs - Dark Brown Boucle",
+  "brand": "HomePop",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "rejected",
+  "price": null,
+  "dimensions": {
+    "w": 60,
+    "d": 18,
+    "h": 21,
+    "raw": "Product Dimensions 18\"D x 60\"W x 21\"H; Material 100% Polyester; Frame Material Rubberwood; Color Dark Brown Boucle; Style Mid-Century Modern",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-10 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-10: \"Currently unavailable. We don't know when or if this item will be back in stock.\" (no price shown); 4.4 stars (14 ratings). Andrew, 2026-11-10, of the HULALA HOME Golden: \"don't like that ottoman, give me at least 5 options to choose from, don't include things that are short\"; fabric only (F-27: \"faux leather is cold in the winter\"), Amazon only (F-25). ",
+  "captured": {
+    "date": "2026-11-10",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
