@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0H73HT1LF",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0H73HT1LF",
+  "name": "HomePop 60\" Modern Storage Bench with Wood Legs - Blue Velvet",
+  "brand": "HomePop",
+  "category": "bench",
+  "tags": [
+    "bedroom",
+    "seating",
+    "storage"
+  ],
+  "rooms": [
+    "master-bedroom"
+  ],
+  "status": "ordered",
+  "price": {
+    "amount": 206.12,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 60,
+    "d": 18,
+    "h": 21,
+    "raw": "Product Dimensions 18\"D x 60\"W x 21\"H; Material 100% Polyester; Frame Material Rubberwood; Color Blue Velvet; Style Mid-Century Modern; a bullet: \"Overall Dimensions: 60\"W x 18\"D x 21\"H; Weight Capacity: 250 lbs; Product Weight: 50.6 lbs\"",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h); the same rows as Andrew's screenshot of the page on 2026-11-10, and the bullets' Overall Dimensions agree"
+  },
+  "images": [
+    {
+      "file": "amazon-B0H73HT1LF-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/611leBn99jL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): deep navy velvet bench with rounded arms on angled dark walnut-toned legs, three-quarter front"
+    }
+  ],
+  "notes": "ORDERED, on Andrew's word: \"ordered.\" (2026-11-11); the page, read that day, shows \"Last purchased Nov 10, 2026\" and \"Color: Blue Velvet | View order\" (the order itself not opened, so no order number). Delivery: the search results on 2026-11-10 said \"Tomorrow, Nov 11\" (Prime); the order's own date not read. How it came: of the 66\" teddy bench in Blue he picked (amazon-B0FXG31XPH, FREE delivery November 20): \"nov 20 for bench not ideal - any other similar ones with blue coolor that will ship faster?\"; this one was the fastest of the blue benches read that day, seen on the search page only; \"is it too short in your opinion at 60\"?\" (no: 76% of the frame, at the top of the designers' 2/3 to 3/4); then, with his screenshot of this page: \"top of mattress to floor is about 23\" is that fine?\" (yes: 21\" at the arms, 2\" under the mattress top, and an end-of-bed bench sits at or a little under it). Staged in master-bedroom a, h and k in the 66\" teddy's place. Fit at the king's foot (rot 90, x 69.625-87.625, y 39.8125-99.8125, centered, 2\" off the footboard): 76% of the 79 1/8\" frame, 9 9/16\" in from each side; 50 3/4\" to the RÅDMANSÖ dresser's fronts (F-32); 21\" at its flared arms, 2\" under the 23\" mattress top (Andrew's tape, \"about 23\"\"), 5 1/4\" over the 15 3/4\" footboard; 33 3/16\" left below it for the walk to the bathroom (F-30); 36 13/16\" from the heater's face (F-33); wholly on the Sage rug in a, 23 5/8\" of rug in front. Color (F-68 (9)): a deep navy velvet, the photo's alt text \"deep navy velvet with rounded armrests on each end ... angled dark walnut-toned wooden legs\"; the bullets: \"gently curved arms, and tapered medium walnut-finished wood legs\", so the legs go with the RÅDMANSÖ's walnut, where the teddy's were silver. Velvet, fabric (F-27); \"Spot clean only\". Lift-top: \"Built-in safety hinges hold the lid open\" (Maddie, F-21). \"supports up to 250 lbs\"; 50.6 lb; \"Minimal assembly required\" (the $99.99 professional assembly add-on not needed). Shipped and sold by Amazon.com; returnable until Jan 31, 2027; 5.0 stars (2 ratings). Flags: fits.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
