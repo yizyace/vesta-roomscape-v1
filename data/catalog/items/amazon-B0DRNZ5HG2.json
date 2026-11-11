@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0DRNZ5HG2",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DRNZ5HG2",
+  "name": "ChooChoo 70.9 Inch Long Console Tables for Entryway, Hallway Table, 2-Tier",
+  "brand": "ChooChoo",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 119.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 70.9,
+    "d": 11.8,
+    "h": 31.5,
+    "raw": "Product Dimensions 11.8\"D x 70.9\"W x 31.5\"H; Item Weight 39.4 pounds; Frame Material MDF; Color Walnut; sizes 11.8\"D x 53.9\"W x 31.5\"H, 11.8\"D x 70.9\"W x 31.5\"H",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-11: \"I want a console for BEHIND the living room sofa. Find 5 choices ranked with reocmmendaions, table, links, wikth reason\". Rejected 2026-11-11 for its color: the right size (74% of the sofa), but its \"Walnut\" reads orange-brown in the photos (\"retro wood grain colors\", its bullets), the honey-oak floor's tone (F-68 (4)); A-frame legs and a slatted shelf. As read: $119.99, 4.0 stars (189), FREE delivery Tomorrow, November 12.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0DT9388KQ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DT9388KQ",
+  "name": "Tribesigns 70.9-Inch Extra Long Console Table, Farmhouse Wood Sofa Table Behind Couch, Narrow Entryway Accent Table for Living Room, Hallway, Entrance, Foyer, Dark Brown",
+  "brand": "Tribesigns",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 181.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 70.8,
+    "d": 11.4,
+    "h": 31.5,
+    "raw": "Product Dimensions 11.4\"D x 70.8\"W x 31.5\"H; Item Weight 31 pounds; Maximum Weight Recommendation 200 pounds; Frame Material Engineered Wood",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-11: \"I want a console for BEHIND the living room sofa. Find 5 choices ranked with reocmmendaions, table, links, wikth reason\". Rejected 2026-11-11 for its color and style: its \"Dark Brown\" reads a rustic orange-brown with a distressed grain in the photos, farmhouse block legs (F-68 (4)). As read: $181.99, 4.5 stars (411), FREE delivery Saturday, November 14.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

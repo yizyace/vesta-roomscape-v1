@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0GMWCWYSZ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GMWCWYSZ",
+  "name": "63\" Long Solid Wood Console Table, Narrow Behind Couch Sofa Table",
+  "brand": "HOKYHOKY",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 159.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 63,
+    "d": 11.81,
+    "h": 31.5,
+    "raw": "Material Fir Wood; Weight 23.4 lbs; Weight Capacity 100 lbs; Dimensions 63\"W x 11.81\"D x 31.5\"H; X-shaped or A-shaped legs",
+    "source": "#productOverview_feature_div rows (Dimensions), read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-11: \"I want a console for BEHIND the living room sofa. Find 5 choices ranked with reocmmendaions, table, links, wikth reason\". Rejected 2026-11-11: solid fir in a natural honey tone with knots, farmhouse curved X legs (F-68 (4)); 23.4 lb, light for a floating console. As read: $159.99, 4.9 stars (31), Amazon's Choice.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0F4K3TRJ6",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0F4K3TRJ6",
+  "name": "TIQLAB Sofa Table, 79 inch (1.2'' Thick Tabletop) Long Console Table Behind Couch, Narrow Entryway Table with Angled Metal Frame, Industrial Console Table for Entryway, Light Walnut",
+  "brand": "TIQLAB",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 104.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 79,
+    "d": 5.9,
+    "h": 31.5,
+    "raw": "Size picker: 79''L x 5.9''W x 31.5''H, 79''L x 9.1''W x 31.5''H, 110''L x 5.9''W x 31.5''; overview rows: Tabletop Thickness 1.2\"; Depth 8\"; Height 6\" (contradicting the picker)",
+    "source": "the size picker's first option (the overview's Depth and Height rows contradict it), read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-11: \"I want a console for BEHIND the living room sofa. Find 5 choices ranked with reocmmendaions, table, links, wikth reason\". Rejected 2026-11-11: a pale light-wood shelf on white metal, a utility ledge rather than a console, and blond wood on the honey oak (F-68 (4)). As read: $104.99, 4.6 stars (109), FREE delivery Tomorrow, November 12.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

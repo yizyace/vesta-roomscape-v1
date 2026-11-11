@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0CSCRPLWM",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CSCRPLWM",
+  "name": "LITTLE TREE Sofa Table, 70.9 Inch Industrial Behind Couch Table with Storage Shelves, Narrow Long Console Table for Entryway, Living Room, Foyer, Hallway, Office",
+  "brand": "LITTLE TREE",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 125.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 70.86,
+    "d": 11.81,
+    "h": 31.88,
+    "raw": "Product Dimensions 11.81\"D x 70.86\"W x 31.88\"H; Item Weight 52.9 pounds; Frame Material Alloy Steel; Color Brown",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-11: \"I want a console for BEHIND the living room sofa. Find 5 choices ranked with reocmmendaions, table, links, wikth reason\". Rejected 2026-11-11: a rustic brown wood-look on an ornate black metal frame of overlapping circles, industrial against the room's mid-century and Scandinavian pieces (F-68 (4)). As read: $125.99 (with 21 percent savings), 4.8 stars (433), Amazon's Choice, FREE delivery Saturday, November 14.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

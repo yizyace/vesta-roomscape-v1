@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0GTLKX1DZ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GTLKX1DZ",
+  "name": "63 Inch Console Table with 2 Drawers, Entryway Tables with Storage",
+  "brand": "ONBRILL",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 179.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 63,
+    "d": 13.7,
+    "h": 31.5,
+    "raw": "Product Dimensions 13.7\"D x 63\"W x 31.5\"H; Item Weight 83.6 pounds; Frame Material Engineered Wood; Color Walnut; sizes 55 Inches, 63 Inches",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GTLKX1DZ-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81RxSOW67OL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): walnut fluted console with two hidden drawers on rounded fluted legs"
+    }
+  ],
+  "notes": "Andrew, 2026-11-11: \"I want a console for BEHIND the living room sofa. Find 5 choices ranked with reocmmendaions, table, links, wikth reason\". RANKED 3. The brief in numbers: the MORABO sofa with chaise (ikea-49318323, 96 1/8\" long, 31 7/8\" to the top of its back cushions) stands in living-room a with its back on the 30\" walkway along the open side (y 143, F-42), so a console needs the sofa group (the sofa, the UGGLERUM and the plant at the chaise foot) slid toward the window by its depth; about 2/3 to 3/4 of the sofa long (64 to 72\"); at or just under the 31 7/8\" back; slim, since each inch of depth comes off the room in front; walnut or a dark brown like the UGGLERUM and his Decofy console (F-68), no orange-toned wood (F-68 (4)), no glass (Maddie). Fit behind the sofa (F-39, F-42): 66% of its 96 1/8\", 16.56\" in from each end when centered on the window (x 129.50-192.50); 31.5\" tall, 0.38\" under the sofa's back; 13.7\" deep, so the sofa group slides 13.7\" toward the window (the sofa's back to y 129.30), the chaise's front comes to 1.55\" from the window-end POÄNG's ottoman, the UGGLERUM to 45.42\" from the heater's face, and the console stands on the Ivory rug with its back on the walkway's edge, the 30\" walkway untouched; the plant moves off the chaise's foot. At 13.7\" the window-end ottoman slides 2\" toward the window too. Storage: two hidden drawers for remotes and chargers; 83.6 lb on rounded fluted legs, the heaviest; mid-century; a mid walnut. Its fluting echoes the Decofy's fluted drawers on the wall to the kitchen, so the two read as a set, close to twins (F-68 (2)). Its page title: \"Fluted Sofa Table Behind The Couch, Hallway Tables, Mid-Century Modern Foyer Table\". As read: $179.99, 4.6 stars (135), FREE delivery November 16 - 17. Flags: fits.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

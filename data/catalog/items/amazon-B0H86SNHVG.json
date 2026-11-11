@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0H86SNHVG",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0H86SNHVG",
+  "name": "86-Inch Console Table Behind Couch Mid Century, Walnut Brown",
+  "brand": "Epecoya",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 239.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 86.61,
+    "d": 13.78,
+    "h": 31.5,
+    "raw": "Product Dimensions 13.78\"D x 86.61\"W x 31.5\"H; Item Weight 75 pounds; Maximum Weight Recommendation 150 pounds; sizes 86-Inch, 94-Inch",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-11: \"I want a console for BEHIND the living room sofa. Find 5 choices ranked with reocmmendaions, table, links, wikth reason\". Rejected 2026-11-11: 90% of the 96 1/8\" sofa, past the 2/3 to 3/4 a console takes, and 13.78\" deep; chunky slab legs in a warm walnut brown. As read: $239.99, 4.6 stars (141), FREE delivery Friday, November 20.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

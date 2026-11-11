@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0GJSFDWH2",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GJSFDWH2",
+  "name": "Dark Brown Console Table, Mid Century Sofa Tables",
+  "brand": "Epecoya",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 63,
+    "d": 11.45,
+    "h": 31.25,
+    "raw": "Product Dimensions 11.45\"D x 63\"W x 31.25\"H; Item Weight 60 pounds; Maximum Weight Recommendation 100 pounds; Frame Material Engineered Wood",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GJSFDWH2-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81bk7TAzloL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): dark brown console with a curved, asymmetric top on slab legs"
+    }
+  ],
+  "notes": "Andrew, 2026-11-11: \"I want a console for BEHIND the living room sofa. Find 5 choices ranked with reocmmendaions, table, links, wikth reason\". RANKED 2. The brief in numbers: the MORABO sofa with chaise (ikea-49318323, 96 1/8\" long, 31 7/8\" to the top of its back cushions) stands in living-room a with its back on the 30\" walkway along the open side (y 143, F-42), so a console needs the sofa group (the sofa, the UGGLERUM and the plant at the chaise foot) slid toward the window by its depth; about 2/3 to 3/4 of the sofa long (64 to 72\"); at or just under the 31 7/8\" back; slim, since each inch of depth comes off the room in front; walnut or a dark brown like the UGGLERUM and his Decofy console (F-68), no orange-toned wood (F-68 (4)), no glass (Maddie). Fit behind the sofa (F-39, F-42): 66% of its 96 1/8\", 16.56\" in from each end when centered on the window (x 129.50-192.50); 31.25\" tall, 0.62\" under the sofa's back; 11.45\" deep, so the sofa group slides 11.45\" toward the window (the sofa's back to y 131.55), the chaise's front comes to 3.80\" from the window-end POÄNG's ottoman, the UGGLERUM to 47.67\" from the heater's face, and the console stands on the Ivory rug with its back on the walkway's edge, the 30\" walkway untouched; the plant moves off the chaise's foot. The most sculptural: a slab console whose top floats over a curved apron on two thick slab legs; 60 lb on slab feet, the steadiest of the five; a deep espresso-walnut with a slightly red cast in its photos, a step darker than the UGGLERUM, in line with the dark dining table to come (F-68 (10)). No shelf. Its page title: \"63 Inch Farmhouse Console Tables, Long Entry Way Tables for Living Room, Behind Couch, Hallway\". As read: $199.99 (\"with 13 percent savings\"), 4.6 stars (209), FREE delivery Thursday, November 19, Only 6 left; the same listing in Natural Brown is amazon-B0FMY8KB6G (rejected). Flags: fits.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
