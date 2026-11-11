@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0DGQSV2YC",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DGQSV2YC",
+  "name": "Alaterre Furniture Calais 2-Tier Console Table, Chestnut, 48\"",
+  "brand": "Alaterre Furniture",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 199.95,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 48,
+    "d": 14,
+    "h": 29.8,
+    "raw": "Product Dimensions 14\"D x 48\"W x 29.8\"H; Item Weight 24.9 pounds; Frame Material Acacia Wood; its other \"sizes\" are other pieces of the collection",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-11, of the first five consoles: \"I'm concerned about: the height ... as an interior designer, what should height be? also, wouldn't it be better to have more middle shelving and not just an OPEN hole?\" The answer given: 30 to 32\", level with the top of the MORABO's back cushions (31 7/8\") or up to 2\" under, never more than about 1/2\" over; and a shelf, yes. Rejected 2026-11-11 (shelf pass): the mid-century look with a woven lower shelf, but 48\" only, half the sofa, and 14\" deep. As read: $199.95, 4.7 stars (43).",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

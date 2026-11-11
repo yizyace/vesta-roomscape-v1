@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0HFWFQL4M",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HFWFQL4M",
+  "name": "Garvee 71\" Long Entryway Console Table with Storage Shelf, Walnut",
+  "brand": "Garvee",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 139.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 71,
+    "d": 12,
+    "h": 32.6,
+    "raw": "Product Dimensions 71 x 12 x 32.6 inches; Item Weight 79.9 pounds; Date First Available August 20, 2026; a bullet: \"Measuring 71 inches in length and only 11.8 inches in depth\"; title: \"Farmhouse 2 Tier Narrow Sofa Table Behind Couch\"",
+    "source": "the Product details' Product Dimensions row (L x D x H; the overview had none) and a bullet, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0HFWFQL4M-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/8123R9PDkBL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): walnut console with arched end panels holding small shelves, behind a sofa"
+    }
+  ],
+  "notes": "Andrew, 2026-11-11, of the first five consoles: \"I'm concerned about: the height ... as an interior designer, what should height be? also, wouldn't it be better to have more middle shelving and not just an OPEN hole?\" The answer given: 30 to 32\", level with the top of the MORABO's back cushions (31 7/8\") or up to 2\" under, never more than about 1/2\" over; and a shelf, yes. SHELF PASS, RANKED 2: a lower shelf and small cubbies inside its arched end panels; the best length (74%); 79.9 lb, steady. Fit behind the sofa (F-39, F-42): 74% of its 96 1/8\"; 32.6\" tall, 0.73\" over the sofa's back; 12\" deep, so the sofa group slides 12\" toward the window, the chaise's front 3.25\" from the window-end POÄNG's ottoman and the UGGLERUM 47.12\" from the heater's face; the walkway behind stays 30\". Just over the 1/2\" line. A warm chestnut walnut in its photos, darker than honey. New since August 2026, no ratings yet. As read: $139.99, FREE delivery Friday, November 13. Flags: fits.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

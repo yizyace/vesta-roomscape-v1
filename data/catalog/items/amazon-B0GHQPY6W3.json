@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0GHQPY6W3",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GHQPY6W3",
+  "name": "59'' Walnut Console Table with Drawers, Sofa Table with Storage",
+  "brand": "Evermagin",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 219.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 59,
+    "d": 13,
+    "h": 33,
+    "raw": "Product Dimensions 13\"D x 59\"W x 33\"H; Item Weight 86 pounds; Maximum Weight Recommendation 200 pounds; Frame Material Engineered Wood",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GHQPY6W3-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71a2GbccR5L._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): walnut console with fluted drawer fronts and an open lower shelf"
+    }
+  ],
+  "notes": "Andrew, 2026-11-11, of the first five consoles: \"I'm concerned about: the height ... as an interior designer, what should height be? also, wouldn't it be better to have more middle shelving and not just an OPEN hole?\" The answer given: 30 to 32\", level with the top of the MORABO's back cushions (31 7/8\") or up to 2\" under, never more than about 1/2\" over; and a shelf, yes. SHELF PASS, RANKED 4: two fluted drawers and a lower shelf in a rich walnut, mid-century, 86 lb. Fit behind the sofa (F-39, F-42): 61% of its 96 1/8\"; 33\" tall, 1.12\" over the sofa's back; 13\" deep, so the sofa group slides 13\" toward the window, the chaise's front 2.25\" from the window-end POÄNG's ottoman and the UGGLERUM 46.12\" from the heater's face; the walkway behind stays 30\". But 1 1/8\" over the back, a little short (61%) and fluted like the Decofy (F-68 (2)). Passed over on 2026-11-08 for the 51\" wall as too wide. As read: $219.99, 4.6 stars (109), FREE delivery Thursday, November 19. Flags: fits.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

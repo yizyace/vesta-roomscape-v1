@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0HPDXX27H",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HPDXX27H",
+  "name": "71\" Long Console Table with 3 Drawers, Curved Entryway Table, Walnut",
+  "brand": "Generic",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 249.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 71,
+    "d": 11.75,
+    "h": 31.5,
+    "raw": "Product Dimensions 11.75\"D x 71\"W x 31.5\"H; Item Weight 66 pounds; Frame Material Engineered Wood; Color Walnut; a bullet: \"Measures 71\"L x 11.75\"D x 31.5\"H\"",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0HPDXX27H-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81w85Hi1FuL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): walnut U-shaped console with rounded edges, baskets on the floor below"
+    }
+  ],
+  "notes": "Andrew, 2026-11-11, of the first five consoles: \"I'm concerned about: the height ... as an interior designer, what should height be? also, wouldn't it be better to have more middle shelving and not just an OPEN hole?\" The answer given: 30 to 32\", level with the top of the MORABO's back cushions (31 7/8\") or up to 2\" under, never more than about 1/2\" over; and a shelf, yes. SHELF PASS, RANKED 3, drawers in place of a shelf: \"Three concealed drawers\", a U-shaped waterfall body with \"Soft rounded edges\" (\"Safe Corners\"), a mid walnut, open below for baskets on the floor as in its photo. Fit behind the sofa (F-39, F-42): 74% of its 96 1/8\"; 31.5\" tall, 0.38\" under the sofa's back; 11.75\" deep, so the sofa group slides 11.75\" toward the window, the chaise's front 3.50\" from the window-end POÄNG's ottoman and the UGGLERUM 47.38\" from the heater's face; the walkway behind stays 30\". The best proportions of the pass. As read: $249.99, 5.0 stars (4), FREE delivery Friday, November 20. Flags: fits.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

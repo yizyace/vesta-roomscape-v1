@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0FFSWX3Y8",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0FFSWX3Y8",
+  "name": "Tribesigns 63\" Console Table, 3-Tier Entryway Table with Storage Shelves",
+  "brand": "Tribesigns",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 159.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 63,
+    "d": 11.81,
+    "h": 33.3,
+    "raw": "Material Engineered Wood; Depth 11.81\"; Max Weight 300 lb; Features Requires Assembly, Indoor Use, No Drawers; Height 33.3\" (the overview gives no width; the title: 63\")",
+    "source": "#productOverview_feature_div rows (Depth, Height) and the title's 63\", read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-11, of the first five consoles: \"I'm concerned about: the height ... as an interior designer, what should height be? also, wouldn't it be better to have more middle shelving and not just an OPEN hole?\" The answer given: 30 to 32\", level with the top of the MORABO's back cushions (31 7/8\") or up to 2\" under, never more than about 1/2\" over; and a shelf, yes. Rejected 2026-11-11 (shelf pass): 33.3\" tall, 1 3/8\" over the back, and an off-white farmhouse bookcase base. As read: $159.99, 4.6 stars (209), Amazon's Choice, FREE delivery Saturday, November 14.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

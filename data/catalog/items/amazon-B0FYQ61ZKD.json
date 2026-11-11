@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0FYQ61ZKD",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0FYQ61ZKD",
+  "name": "OKD 63\" Fluted Console Table for Entryway with 2 Large Drawers, Dark Walnut",
+  "brand": "OKD",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 219.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 63,
+    "d": 13.75,
+    "h": 33.5,
+    "raw": "Product Dimensions 13.75\"D x 63\"W x 33.5\"H; Item Weight 86 pounds; Color Dark Walnut",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [],
+  "notes": "Andrew, 2026-11-11, of the first five consoles: \"I'm concerned about: the height ... as an interior designer, what should height be? also, wouldn't it be better to have more middle shelving and not just an OPEN hole?\" The answer given: 30 to 32\", level with the top of the MORABO's back cushions (31 7/8\") or up to 2\" under, never more than about 1/2\" over; and a shelf, yes. Rejected 2026-11-11 (shelf pass): the right dark walnut, drawers and a lower shelf, but 33.5\" tall, 1 5/8\" over the back, and 13.75\" deep. As read: $219.99, 4.4 stars (63), FREE delivery November 16 - 18.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

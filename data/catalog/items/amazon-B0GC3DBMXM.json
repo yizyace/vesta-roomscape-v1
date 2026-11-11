@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0GC3DBMXM",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GC3DBMXM",
+  "name": "Solid Wood Console Table for Entryway, 63-Inch Narrow Farmhouse Couch Table Behind Sofa with 2-Tier Storage for Entrance, Foyer, Living Room, Long, Dark Brown",
+  "brand": "TRIBEWOOD",
+  "category": "table",
+  "tags": [
+    "living-room",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 189.99,
+    "currency": "USD",
+    "asOf": "2026-11-11"
+  },
+  "dimensions": {
+    "w": 62.99,
+    "d": 11.81,
+    "h": 31.5,
+    "raw": "Product Dimensions 11.81\"D x 62.99\"W x 31.5\"H; Item Weight 29.1 pounds; Maximum Weight Recommendation 100 kg; Color Dark Brown",
+    "source": "#productOverview_feature_div rows, read in Chrome 2026-11-11 (by letter: D is d, W is w, H is h)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GC3DBMXM-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81-+bvurtTL._AC_SL1500_.jpg",
+      "caption": "main (Amazon #landingImage): solid wood console with curved X legs and a lower shelf with two baskets"
+    }
+  ],
+  "notes": "Andrew, 2026-11-11, of the first five consoles: \"I'm concerned about: the height ... as an interior designer, what should height be? also, wouldn't it be better to have more middle shelving and not just an OPEN hole?\" The answer given: 30 to 32\", level with the top of the MORABO's back cushions (31 7/8\") or up to 2\" under, never more than about 1/2\" over; and a shelf, yes. SHELF PASS, RANKED 5: solid wood (\"preserved natural cracks, knots and grain\") with a lower shelf at the right height. Fit behind the sofa (F-39, F-42): 66% of its 96 1/8\"; 31.5\" tall, 0.38\" under the sofa's back; 11.81\" deep, so the sofa group slides 11.81\" toward the window, the chaise's front 3.44\" from the window-end POÄNG's ottoman and the UGGLERUM 47.31\" from the heater's face; the walkway behind stays 30\". But farmhouse curved X legs and a warm mid brown in its photos despite \"Dark Brown\" (F-68 (4)); 29.1 lb, light. As read: $189.99, 4.7 stars (105), FREE delivery November 17 - 19. Flags: fits.",
+  "captured": {
+    "date": "2026-11-11",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
