@@ -1,9 +1,9 @@
 {
   "room": "living-room",
   "variant": "a",
-  "name": "Staged: the MORABO sofa with chaise centered on the window, the UGGLERUM before it, the two POÄNG chairs on the stairs side, on RUUGME's Ivory 10x14 (ordered November 1), the play floor on the right",
-  "updatedAt": "2026-11-08T15:04:15.868Z",
-  "notes": "Andrew, 2026-10-26 (night): \"hmm we had the sofa facing window / centered, can we accommodate that again?\" The sofa is back where the first staged rooms had it (10-23, 10-24), centered on the window and facing it: the 96 1/8in MORABO with chaise at x 112.9 to 209.1 under the 102in window (110 to 212), the chaise on the stairs side, the UGGLERUM flush with its right end (F-39), the two POÄNG sets on the stairs side (one beside the chaise facing the window, one at the window end facing the sofa and the play floor), the plant at the chaise foot. The play floor is the right side beside the sofa (F-61): the LÄTT table 2in from the sofa end, the TROFAST and BESTÅ on the wall; the BESTÅ doors get 23in (F-32, tight:23.2). The stairs strip stays clear with 77in of floor beside it (F-40); nothing stands in the walkway along the open side (F-42). The stairs-end room is kept as K. The rug, Andrew, 2026-11-01: \"ordered ivory, coming tomorrow\": RUUGME's Ivory 10x14 (amazon-B0DPVFJTCY, $169.99), one piece, 0.14in as listed, no pad, his pick for the lowest height. x 68 to 236, y 29 to 149: the seating group is 129 x 107in, so an 8x10 can't hold it and a 9x12 has 1in to spare front to back, its edge under the play table; this one runs 12in past the POÄNGs, 7in past the window-side chair, 6in past the sofa's back into the walkway (F-42, a rug may) and 27in past the sofa's end, so the whole LÄTT stands on it. 23in off the heater's drawn face (F-33), 32in off the stairs strip (F-40). Color (F-68): a pale ivory field under the dark sofa, the gray in its pattern picking the sofa up, judged from its photos. It replaces Tumble's Olivia 9x12 ($549), never bought. Every plan but the rugless J carries it; the piano alternatives M, N and O keep this spot. Curtains (2026-11-08, F-43): on Andrew's window heights and his word for this room (light-filtering, not sheer; bought on Amazon), the 98\" GINSTMOTT pairs gave way to two packs of LAMIT's 54\" light-filtering curtain in Taupe (amazon-B0CR5VT3KZ) on the rod already in place (\"don't need rods they are in place\"); any total above predates the swap.",
+  "name": "Staged: the MORABO sofa with chaise centered on the window, the WOHOMO console behind it and the UGGLERUM before it, the two POÄNG chairs on the stairs side, on RUUGME's Ivory 10x14 (ordered November 1), the play floor on the right",
+  "updatedAt": "2026-11-11T21:12:01.821Z",
+  "notes": "Andrew, 2026-10-26 (night): \"hmm we had the sofa facing window / centered, can we accommodate that again?\" The sofa is back where the first staged rooms had it (10-23, 10-24), centered on the window and facing it: the 96 1/8in MORABO with chaise at x 112.9 to 209.1 under the 102in window (110 to 212), the chaise on the stairs side, the UGGLERUM flush with its right end (F-39), the two POÄNG sets on the stairs side (one beside the chaise facing the window, one at the window end facing the sofa and the play floor), the plant at the chaise foot. The play floor is the right side beside the sofa (F-61): the LÄTT table 2in from the sofa end, the TROFAST and BESTÅ on the wall; the BESTÅ doors get 23in (F-32, tight:23.2). The stairs strip stays clear with 77in of floor beside it (F-40); nothing stands in the walkway along the open side (F-42). The stairs-end room is kept as K. The rug, Andrew, 2026-11-01: \"ordered ivory, coming tomorrow\": RUUGME's Ivory 10x14 (amazon-B0DPVFJTCY, $169.99), one piece, 0.14in as listed, no pad, his pick for the lowest height. x 68 to 236, y 29 to 149: the seating group is 129 x 107in, so an 8x10 can't hold it and a 9x12 has 1in to spare front to back, its edge under the play table; this one runs 12in past the POÄNGs, 7in past the window-side chair, 6in past the console's back into the walkway (F-42, a rug may) and 27in past the sofa's end, so the whole LÄTT stands on it. 23in off the heater's drawn face (F-33), 32in off the stairs strip (F-40). Color (F-68): a pale ivory field under the dark sofa, the gray in its pattern picking the sofa up, judged from its photos. It replaces Tumble's Olivia 9x12 ($549), never bought. Every plan but the rugless J carries it; the piano alternatives M, N and O keep this spot. The console, 2026-11-11: Andrew bought WOHOMO's 63in three-tier console in Walnut (amazon-B0DPD7H2GW, $99.99; \"ok purchased\", arriving November 12) for behind the sofa. It stands against the sofa's back, centered on it and on the window (x 129.5 to 192.5), its back on the walkway's edge (y 143), so the walkway stays 30in (F-42) and the sofa, the UGGLERUM and the plant move 7.9in toward the window: the sofa's back at y 135.1, the chaise's front 7 3/8in from the window-end POÄNG ottoman, the UGGLERUM 51 1/4in from the heater's face (F-33), the window route still 30in (F-39). 31.5in tall, 3/8in under the MORABO's back cushions; 63in, 66% of the sofa's 96 1/8in. It floats, so its anti-tip kit straps to the sofa's frame, not a wall (F-21, Maddie). Lidded baskets on its bottom tier keep the dining side tidy. Curtains (2026-11-08, F-43): on Andrew's window heights and his word for this room (light-filtering, not sheer; bought on Amazon), the 98\" GINSTMOTT pairs gave way to two packs of LAMIT's 54\" light-filtering curtain in Taupe (amazon-B0CR5VT3KZ) on the rod already in place (\"don't need rods they are in place\"); any total above predates the swap.",
   "placements": [
     {
       "id": "rug-1",
@@ -18,16 +18,25 @@
       "id": "sofa-1",
       "itemId": "ikea-49318323",
       "x": 112.9375,
-      "y": 80.75,
+      "y": 72.85,
       "rotation": 180,
       "layer": "floor",
-      "note": "centered on the window (window 110 to 212, center 161; the sofa 112.9 to 209.1), facing it, the chaise on the stairs side; its back on the walkway along the open side (F-42), 77in of floor to the stairs strip (F-40)"
+      "note": "centered on the window (window 110 to 212, center 161; the sofa 112.9 to 209.1), facing it, the chaise on the stairs side; its back against the WOHOMO console, 7.9in nearer the window than the walkway along the open side (F-42), 77in of floor to the stairs strip (F-40)"
+    },
+    {
+      "id": "console-1",
+      "itemId": "amazon-B0DPD7H2GW",
+      "x": 129.5,
+      "y": 135.1,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "WOHOMO's 63in three-tier console in Walnut, bought 2026-11-11, against the sofa's back and centered on it (x 129.5 to 192.5), its back on the walkway's edge so the walkway stays 30in (F-42, F-39); 31.5in tall, 3/8in under the back cushions; it floats, so its anti-tip kit straps to the sofa's frame (F-21)"
     },
     {
       "id": "coffee-table-1",
       "itemId": "ikea-60627980",
       "x": 157.9375,
-      "y": 65.125,
+      "y": 57.225,
       "rotation": 0,
       "layer": "floor",
       "note": "in front of the seat section, flush with the sofa's right end, 14 1/4in from the chaise, 16in from the seat (F-39)"
@@ -81,7 +90,7 @@
       "id": "plant-1",
       "itemId": "ikea-70610601",
       "x": 140,
-      "y": 66,
+      "y": 58.1,
       "rotation": 0,
       "layer": "floor",
       "note": "at the chaise's foot, between the second ottoman and the table"

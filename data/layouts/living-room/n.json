@@ -2,8 +2,8 @@
   "room": "living-room",
   "variant": "n",
   "name": "Window corner: the Yamaha P-143 across the corner by the window, the LÖMSK beside the LÄTT, the violin on the BESTÅ",
-  "updatedAt": "2026-11-08T15:04:17.666Z",
-  "notes": "Rug, 2026-11-01: RUUGME's Ivory 10x14, the rug Andrew ordered (0.14in as listed, no pad), replaces the Olivia: x 68 to 236, y 29 to 149, where A has it. The piano stays off it, 4 1/2in from its edge; the bench's 30in in front of the keys crosses its corner, a 0.14in step; the LÖMSK and the LÄTT stand on it. The piano takes the corner of the window wall and the play wall: x 208 13/16 to 261, y 12 to 24 1/2, with the daylight on its left. The whole play wall stays toy storage: the TROFAST and the BESTÅ don't move, and only the LÖMSK does, to the far side of the LÄTT. Flags: under-window, sill-unmeasured, assumed-position:window, heater-depth-assumed, tight:23.6 at the BESTÅ. Everything else stands as in A, the staged room. Andrew, 2026-11-01: \"Look at the furniture layout for the living room, where should I place both? show me at least 3 optimal ocnfigurations\", read as the Yamaha P-143 and the 1/10 violin in his Amazon cart. The bundle's bench isn't drawn, since no page gives its size; it tucks under the keyboard and the layout keeps 30in in front of the keys for it. The piano's power comes from an outlet on the play wall or the window wall, unconfirmed. Curtains (2026-11-08, F-43): on Andrew's window heights and his word for this room (light-filtering, not sheer; bought on Amazon), the 98\" GINSTMOTT pairs gave way to two packs of LAMIT's 54\" light-filtering curtain in Taupe (amazon-B0CR5VT3KZ) on the rod already in place (\"don't need rods they are in place\"); any total above predates the swap.",
+  "updatedAt": "2026-11-11T21:12:02.572Z",
+  "notes": "Rug, 2026-11-01: RUUGME's Ivory 10x14, the rug Andrew ordered (0.14in as listed, no pad), replaces the Olivia: x 68 to 236, y 29 to 149, where A has it. The piano stays off it, 4 1/2in from its edge; the bench's 30in in front of the keys crosses its corner, a 0.14in step; the LÖMSK and the LÄTT stand on it. The piano takes the corner of the window wall and the play wall: x 208 13/16 to 261, y 12 to 24 1/2, with the daylight on its left. The whole play wall stays toy storage: the TROFAST and the BESTÅ don't move, and only the LÖMSK does, to the far side of the LÄTT. Flags: under-window, sill-unmeasured, assumed-position:window, heater-depth-assumed, tight:23.6 at the BESTÅ. Everything else stands as in A, the staged room. Andrew, 2026-11-01: \"Look at the furniture layout for the living room, where should I place both? show me at least 3 optimal ocnfigurations\", read as the Yamaha P-143 and the 1/10 violin in his Amazon cart. The bundle's bench isn't drawn, since no page gives its size; it tucks under the keyboard and the layout keeps 30in in front of the keys for it. The piano's power comes from an outlet on the play wall or the window wall, unconfirmed. The console, 2026-11-11: WOHOMO's 63in console in Walnut (amazon-B0DPD7H2GW), which Andrew bought, stands behind the sofa as in A (x 129.5 to 192.5, its back on the walkway's edge, F-42), and the sofa, the UGGLERUM and the plant stand 7.9in nearer the window. Curtains (2026-11-08, F-43): on Andrew's window heights and his word for this room (light-filtering, not sheer; bought on Amazon), the 98\" GINSTMOTT pairs gave way to two packs of LAMIT's 54\" light-filtering curtain in Taupe (amazon-B0CR5VT3KZ) on the rod already in place (\"don't need rods they are in place\"); any total above predates the swap.",
   "placements": [
     {
       "id": "rug-1",
@@ -18,16 +18,25 @@
       "id": "sofa-1",
       "itemId": "ikea-49318323",
       "x": 112.9375,
-      "y": 80.75,
+      "y": 72.85,
       "rotation": 180,
       "layer": "floor",
-      "note": "centered on the window (window 110 to 212, center 161; the sofa 112.9 to 209.1), facing it, the chaise on the stairs side; its back on the walkway along the open side (F-42), 77in of floor to the stairs strip (F-40)"
+      "note": "centered on the window (window 110 to 212, center 161; the sofa 112.9 to 209.1), facing it, the chaise on the stairs side; its back against the WOHOMO console, 7.9in nearer the window than the walkway along the open side (F-42), 77in of floor to the stairs strip (F-40)"
+    },
+    {
+      "id": "console-1",
+      "itemId": "amazon-B0DPD7H2GW",
+      "x": 129.5,
+      "y": 135.1,
+      "rotation": 0,
+      "layer": "floor",
+      "note": "WOHOMO's 63in three-tier console in Walnut, bought 2026-11-11, against the sofa's back and centered on it (x 129.5 to 192.5), its back on the walkway's edge so the walkway stays 30in (F-42, F-39); 31.5in tall, 3/8in under the back cushions; it floats, so its anti-tip kit straps to the sofa's frame (F-21)"
     },
     {
       "id": "coffee-table-1",
       "itemId": "ikea-60627980",
       "x": 157.9375,
-      "y": 65.125,
+      "y": 57.225,
       "rotation": 0,
       "layer": "floor",
       "note": "in front of the seat section, flush with the sofa's right end, 14 1/4in from the chaise, 16in from the seat (F-39)"
@@ -81,7 +90,7 @@
       "id": "plant-1",
       "itemId": "ikea-70610601",
       "x": 140,
-      "y": 66,
+      "y": 58.1,
       "rotation": 0,
       "layer": "floor",
       "note": "at the chaise's foot, between the second ottoman and the table"
