@@ -130,9 +130,11 @@ def build() -> str:
     used |= {p["itemId"] for rid in ROOM_ORDER for lay in variants(rid) for p in lay.get("placements", []) + lay.get("extras", [])}
     dates = sorted({items[i]["price"]["asOf"] for i in used if i in items and items[i].get("price")})
     read_on = dates[0] if len(dates) == 1 else ", ".join(dates[:-1]) + " and " + dates[-1]
-    n_ordered = sum(1 for it in items.values() if it.get("status") == "ordered")
-    bought = (f"{n_ordered} catalog items are `ordered` (Andrew's IKEA order of 2026-10-26, delivered November 1, the MORABO's chaise section and the FLISAT desk on November 2, and RUUGME's Ivory 10x14 rug from Amazon, ordered November 1, due November 2); nothing else has been bought."
-              if n_ordered else "nothing has been bought.")
+    # Counted from the catalog, so the sentence stays true as pieces are ordered and arrive.
+    counts = [f"{n} `{status}`" for status in ("owned", "ordered")
+              if (n := sum(1 for it in items.values() if it.get("status") == status))]
+    bought = (f"bought so far, by catalog item: {' and '.join(counts)} (each item's notes give its order and "
+              "delivery dates); nothing else has been bought." if counts else "nothing has been bought.")
     md += ["---", 'title: "L01 staged: every room furnished"', "area: home",
            "tags: [home-furniture, home-move, home-apartment]", f'date: "{dates[-1]}"', "status: proposed",
            "related: [summary.md, rules.md, measurements.md]", "---", "",
