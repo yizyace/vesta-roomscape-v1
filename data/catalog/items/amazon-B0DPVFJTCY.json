@@ -12,7 +12,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "ordered",
+  "status": "owned",
   "price": {
     "amount": 169.99,
     "currency": "USD",
@@ -42,7 +42,7 @@
       "caption": "Area rug folded to show both face and back (Amazon gallery, third)"
     }
   ],
-  "notes": "Ordered by Andrew on Amazon, 2026-11-01: \"ordered ivory, coming tomorrow\" (the page shows \"Last purchased Nov 1, 2026\", Ivory, 10' x 14'), due Monday 2026-11-02. The rug in every living-room plan but the rugless J, which keeps none on purpose (F-66). Why 10x14: A's seating group is 129 x 107in; an 8x10 can't hold it, a 9x12 has 1in to spare front to back and its edge runs under the play table. Why this one: his brief was \"10x14 ... with LOWEST height / pile\": 0.14in as listed ties for the thinnest of the 12 rugs read (they ran to 0.5in), and Ivory is the palest of RUUGME's colors, the pale field F-68 asks for under the dark sofa, judged from its photos. One piece, flat woven polyester, no pad, so it departs from F-69's two-piece set on his call. Machine wash per the listing, but L01 has no laundry and it weighs 31.8 lb, so washing means a laundromat. 4.6 stars (3,128, listing-wide); 154 of the 243 reviews that mention thickness are negative, Amazon's summary saying some find it not thick enough, so expect almost no cushion. Flags: none. rooms: living-room, from the brief.",
+  "notes": "OWNED: arrived (Andrew, 2026-11-12); it was due Monday 2026-11-02. Ordered by Andrew on Amazon, 2026-11-01: \"ordered ivory, coming tomorrow\" (the page shows \"Last purchased Nov 1, 2026\", Ivory, 10' x 14'), due Monday 2026-11-02. The rug in every living-room plan but the rugless J, which keeps none on purpose (F-66). Why 10x14: A's seating group is 129 x 107in; an 8x10 can't hold it, a 9x12 has 1in to spare front to back and its edge runs under the play table. Why this one: his brief was \"10x14 ... with LOWEST height / pile\": 0.14in as listed ties for the thinnest of the 12 rugs read (they ran to 0.5in), and Ivory is the palest of RUUGME's colors, the pale field F-68 asks for under the dark sofa, judged from its photos. One piece, flat woven polyester, no pad, so it departs from F-69's two-piece set on his call. Machine wash per the listing, but L01 has no laundry and it weighs 31.8 lb, so washing means a laundromat. 4.6 stars (3,128, listing-wide); 154 of the 243 reviews that mention thickness are negative, Amazon's summary saying some find it not thick enough, so expect almost no cushion. Flags: none. rooms: living-room, from the brief.",
   "captured": {
     "date": "2026-11-01",
     "by": "claude",
