@@ -1,0 +1,34 @@
+{
+  "id": "amazon-B0H262NYN4",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0H262NYN4",
+  "name": "AKCISOT 18 Inch Wall Clock, Silent Battery Operated Analog Clock, Black",
+  "brand": "AKCISOT",
+  "category": "decor",
+  "tags": [
+    "dining",
+    "decor"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 45.99,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 18,
+    "h": 18,
+    "raw": "Item Dimensions W x H 18\"W x 1.89\"H; Screen Size 18 inches; Size 18 Inch; Item Weight 3.49 pounds; Material Type Plastic; Frame Material Plastic",
+    "source": "the 18 Inch, A_black variant's technical-details rows, read in Chrome 2026-11-13: w and h from Screen Size 18 inches and the W row; the W x H row's 1.89 in H contradicts Screen Size and is kept in raw"
+  },
+  "images": [],
+  "notes": "REJECTED 2026-11-13, opened for the dining room's clock (Andrew, 2026-11-13: \"I need help getting clocks for the living room and dining or both. be mindful of entry way, where sofa, dining tables are etc so clock positions are optimal. At least one must be analog.\"), not kept: a white face in a black plastic frame reads as a classroom clock beside the room's ash table, white marble and cream walls (F-68), and its page doesn't say what covers the face (F-21: no glass). The Mosewa 18 in (amazon-B0GD5PHHZK) was kept. Read 2026-11-13: $45.99, 4.6 stars (7,853), 18 Inch, A_black, 3.49 lb, plastic. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

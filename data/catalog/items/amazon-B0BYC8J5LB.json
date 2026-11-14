@@ -1,0 +1,41 @@
+{
+  "id": "amazon-B0BYC8J5LB",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0BYC8J5LB",
+  "name": "DreamSky Digital Alarm Clock for Bedrooms - Wooden Desk Clock with Date",
+  "brand": "DreamSky",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "entry",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 23.99,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 7.1,
+    "h": 2.9,
+    "raw": "Item Dimensions W x H 7.1\"W x 2.9\"H; Item Weight 13.1 ounces; Material Type Wood; Frame Material Wood",
+    "source": "the Brown variant's technical-details rows, read in Chrome 2026-11-13; the page gives no depth"
+  },
+  "images": [
+    {
+      "file": "amazon-B0BYC8J5LB-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71LwmSdmC7L._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "CANDIDATE 2026-11-13, the entry's clock, optional (Andrew, 2026-11-13: \"I need help getting clocks for the living room and dining or both. be mindful of entry way, where sofa, dining tables are etc so clock positions are optimal. At least one must be analog.\"). Placement: on the Decofy console (amazon-B0G6ZGTG2N) at the top of the stairs, on the 51 in wall to the kitchen. Why: the drop zone where keys and phones are picked up on the way out faces that wall, so neither wall clock is in view there; a clock on the wall above would share the 51 in with the light switch, whose position is not measured, so it stands on the console's top. Read 2026-11-13: $23.99 (10 percent off $26.59), 4.5 stars (4,417), Amazon's Choice, Brown, 7.1\"W x 2.9\"H, 13.1 oz, wood, \"Corded Electric\" with its power adapter; time, date, day of the week and indoor temperature in amber LED digits, a 0-100% dimmer, a USB port, auto DST. Power from the Decofy's side power station (2 AC, USB-A, USB-C). The listing opened on its Bamboo color (B0C9WVBBS5); Brown is kept for the walnut console (F-68). Maddie can reach the console's top: a light wooden block, no glass (F-21). rooms: the living room, where the entry is.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

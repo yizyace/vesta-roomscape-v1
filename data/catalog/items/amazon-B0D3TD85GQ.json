@@ -1,0 +1,41 @@
+{
+  "id": "amazon-B0D3TD85GQ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0D3TD85GQ",
+  "name": "Maxstar Large Round Wall Clock for Living Room Decor Battery Operated Non Ticking Black Metal Wood Clocks for Home Living Room Garden Farmhouse Office Kitchen Decoration -24 inch",
+  "brand": "Maxstar",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "decor",
+    "kids"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 59.99,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 24,
+    "h": 24,
+    "raw": "Item Dimensions W x H 24\"W x 24\"H; Screen Size 24 inches; Size 24 Inch; Item Weight 4.18 pounds; Material Type Metal; Frame Material Metal",
+    "source": "the 24 Inch, Black-arabic Numerals variant's technical-details rows, read in Chrome 2026-11-13; a wall clock is flat, so w and h with no d (the page gives no depth)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0D3TD85GQ-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71LzjEW8ufL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "CANDIDATE 2026-11-13, the living room's clock, the pick (Andrew, 2026-11-13: \"I need help getting clocks for the living room and dining or both. be mindful of entry way, where sofa, dining tables are etc so clock positions are optimal. At least one must be analog.\"). Placement: the right-upper wall (the play wall, 93 in), centered about 72 in from the window-wall corner, over the toy storage staged there in place of the PJÄTTERYD print, its center 60 in off the floor. Why there: the only solid wall the sofa sees without looking into the window (the left side is the stair railing, the back the open side): a 65 to 73 degree turn from the sofa and the chaise at 8 to 12 ft, its face within 25 degrees of square to them; from the top of the stairs by the 51 in wall, 21 ft at 18 degrees; 14 ft and square to the window-end POÄNG; 4 ft from the play floor, where bold 1 to 12 numerals help Maddie learn the clock before kindergarten. Not the window wall: glare beside the 102 in window, the heater along the whole wall (F-33) and the curtains' stack. Read 2026-11-13: $59.99, 4.3 stars (910), 24 Inch, Black-arabic Numerals, 4.18 lb, a metal ring with hollowed-out numerals around a \"black walnut color wood veneer\" center, \"Silent Movement\", 1 AA. Open face, no glass: no lens to mirror the window back at the sofa and nothing to shatter (F-21). The listing opened on its 20 Inch variant (B0D3TM4KV6, $49.99); 24 in is the size picked, about 2/3 of the 36 5/8 in TROFAST below and readable from the stairs. Hang it on a screw into a stud or a 20 lb anchor, and check it can't be lifted off its hook from the toy storage (F-21). Color (F-68): walnut to the UGGLERUM, WOHOMO and Decofy; the black numerals pick up the dark gray MORABO. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
