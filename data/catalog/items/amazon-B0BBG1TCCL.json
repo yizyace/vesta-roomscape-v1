@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0BBG1TCCL",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0BBG1TCCL",
+  "name": "16\" Anton Vintage Square Clock",
+  "brand": "Presentime",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 57.99,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 16,
+    "h": 16,
+    "raw": "Item Dimensions W x H 16\"W x 16\"H; Screen Size 22.6 inches (the diagonal: \"16 x 16 inch ... 22.6 inch in diagonal\"); Size 16 inch; Item Weight 4.34 pounds; Material Type ABS Plastic; Frame Material Acrylonitrile Butadiene Styrene, Plastic; Shape Square",
+    "source": "the 16 inch, Antique Hamilton Gold variant's technical-details rows and its size bullet, read in Chrome 2026-11-13; flat, so w and h with no d (the page gives no depth)"
+  },
+  "images": [
+    {
+      "file": "amazon-B0BBG1TCCL-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61CFWRtMH6L._AC_SL1000_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "CANDIDATE 2026-11-13, the living room's clock (Andrew, 2026-11-13: \"I don't want a plain black one though\", then \"I want 2 diferent clocks for living room / dining\"). Placement: the living room's upper-left corner, on the window wall between the stair railing and the window, 48 in from the corner, 60 in to its center (F-70). Why: legible (F-70): a white face with tall, plain, bold black Arabic numerals and black hands; a different design from the dining room's round walnut AKCISOT (amazon-B0GX5LPNPJ): square, in an antique gold that sits with the brass door knobs and the Decofy's Champagne Bronze knobs (F-68), 16 in for the 11 to 14 ft from the sofa, the chaise and the stairs. Read 2026-11-13: $57.99, 4.4 stars (516), Antique Hamilton Gold (also Modern Silver B0BBG4FTX1, Oil Rubbed Bronze B0CYP7BX85, Light Gray Oak B0BBG3YT43; a 10 inch, B08CK2KLD6), 16 x 16 in, 4.34 lb, ABS case, \"Quiet Sweeping Quartz Movement\", 1 AA. Glass: \"has high grade glass lens\"; whether it comes out is not documented, and its reviews page filtered for \"glass\" hit Amazon's bot check, not touched. F-21 says no glass, so the lens is Andrew's call (asked 2026-11-13). Flags: assumed-position:window. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

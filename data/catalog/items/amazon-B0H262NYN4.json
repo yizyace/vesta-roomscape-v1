@@ -12,7 +12,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 45.99,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "main"
     }
   ],
-  "notes": "CANDIDATE 2026-11-13, the living room's clock after the first picks were rejected (Andrew, 2026-11-13: \"those clocks are too dark / hard to read. the first one is terrible and I get a headache trying to make out numbers.\"). Placement: the living room's upper-left corner, on the window wall between the stair railing and the window, 48 in from the corner, 60 in to its center (F-70). Why: the most legible face in the search, a white face with large plain black Arabic numerals, black hour and minute hands and a red sweep second hand (\"Easy to See: Designed with big numerals\"), 18 in, the size for the 27 ft from the dining chairs; 4.6 stars (7,853). Glass: the listing never says, and its reviews, shared across its sizes and colors, read 2026-11-13 filtered for \"glass\": \"Clean large numerals, glass lens, and sweep second hand\", \"it arrived with the glass broken\", \"It comes with a glass cover, which is nice, but it creates a bit of glare, so I removed it\". So the glass comes out before it goes up (F-21), which also takes away the glare. It comes only in black at 18 in (the walnut and natural frames stop at 14 in). Andrew bought the 16 in black of this line (B0C5BWVNF6) on March 23, 2025, as its page reads, so he knows the face. Read 2026-11-13: $45.99, A_black, 18 Inch, 3.49 lb, plastic frame; first opened that evening for the dining room and rejected on its look and an unstated lens, now kept on legibility (F-70). rooms: the brief.",
+  "notes": "REJECTED 2026-11-13 (Andrew, 2026-11-13: \"I don't want a plain black one though\", then \"I want 2 diferent clocks for living room / dining\"): a plain black frame, and the living and dining clocks are to be two different designs, not one model in two frames (F-70). CANDIDATE 2026-11-13, the living room's clock after the first picks were rejected (Andrew, 2026-11-13: \"those clocks are too dark / hard to read. the first one is terrible and I get a headache trying to make out numbers.\"). Placement: the living room's upper-left corner, on the window wall between the stair railing and the window, 48 in from the corner, 60 in to its center (F-70). Why: the most legible face in the search, a white face with large plain black Arabic numerals, black hour and minute hands and a red sweep second hand (\"Easy to See: Designed with big numerals\"), 18 in, the size for the 27 ft from the dining chairs; 4.6 stars (7,853). Glass: the listing never says, and its reviews, shared across its sizes and colors, read 2026-11-13 filtered for \"glass\": \"Clean large numerals, glass lens, and sweep second hand\", \"it arrived with the glass broken\", \"It comes with a glass cover, which is nice, but it creates a bit of glare, so I removed it\". So the glass comes out before it goes up (F-21), which also takes away the glare. It comes only in black at 18 in (the walnut and natural frames stop at 14 in). Andrew bought the 16 in black of this line (B0C5BWVNF6) on March 23, 2025, as its page reads, so he knows the face. Read 2026-11-13: $45.99, A_black, 18 Inch, 3.49 lb, plastic frame; first opened that evening for the dining room and rejected on its look and an unstated lens, now kept on legibility (F-70). rooms: the brief.",
   "captured": {
     "date": "2026-11-13",
     "by": "claude",
