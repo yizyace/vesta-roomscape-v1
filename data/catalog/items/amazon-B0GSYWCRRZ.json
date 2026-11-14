@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0GSYWCRRZ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GSYWCRRZ",
+  "name": "11\" Retro Square Clock",
+  "brand": "Presentime",
+  "category": "decor",
+  "tags": [
+    "dining",
+    "decor"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 33.99,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 11,
+    "h": 11,
+    "raw": "Item Dimensions W x H 11\"W x 11\"H; Screen Size 11 inches; Size Large; Item Weight 2.55 pounds; Frame Material Plastic; Shape Square; Dial Color gold",
+    "source": "the Golden variant's technical-details rows, read in Chrome 2026-11-13 (\"Designed in a balanced 11 x 11 inch size\"); flat, so w and h with no d"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GSYWCRRZ-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61i86Tr2naL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "REJECTED 2026-11-13: Andrew went with colored frames, the Bernhard 18 in in Hunter Green and the AKCISOT 12 in in Blue Gray (Andrew, 2026-11-13: \"be an interior designer: can we pick colored clocks? not just black/gold/brown? must fit and not look weird\", then, of the green and the blue-gray: \"ok buying now. record how HIGH I should put the clock. wrap up.\"). CANDIDATE 2026-11-13, the dining room's clock (Andrew, 2026-11-13, of the Anton at $57.99: \"question clcok is nice, but 58 is kinda steep\"): the Anton's look (the same maker, a square case, a white face with tall bold black numerals and black hands) for $24 less, at 11 in, which is small for the sofa's 14 ft but right for the dining chairs' 5 ft; so the walnut AKCISOT moves to the living room and this goes on the dining room's right wall, on the table's center line, 58 in to its center (F-70). Square and gold against the living room's round walnut: two different designs (F-68 (2)). Read 2026-11-13: $33.99, 4.8 stars (32), Amazon's Choice, Golden (also Black With Gold Edges B0GSYXZRLP, Faux Gray Oak B0GSYMTR8Y, Faux Oak B0GSYWVZCY), 11 x 11 in, 2.55 lb, plastic case, \"Silent Non-Ticking Quartz Movement\", \"2-in-1 Wall & Desk Clock\". Glass: the Black With Gold Edges page reads \"high-grade glass lens\"; the Golden is taken to match. Whether glass may hang on a wall clock is Andrew's call (asked 2026-11-13, F-21). rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

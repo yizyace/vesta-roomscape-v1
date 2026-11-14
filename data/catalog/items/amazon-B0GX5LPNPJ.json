@@ -6,13 +6,13 @@
   "brand": "AKCISOT",
   "category": "decor",
   "tags": [
-    "dining",
+    "living-room",
     "decor"
   ],
   "rooms": [
-    "dining-room"
+    "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 32.99,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "main"
     }
   ],
-  "notes": "CANDIDATE 2026-11-13, the dining room's clock after the first picks were rejected (Andrew, 2026-11-13: \"those clocks are too dark / hard to read. the first one is terrible and I get a headache trying to make out numbers.\"). Placement: the dining room's right wall, on the table's center line, 58 in to its center (F-70). Why: a white face with large plain black numerals and black hands, in a walnut-look frame for warmth beside the ash table and white marble (F-68 (10)), at 14 in for the 5 to 16 ft it is read from: the living room's clock is a different design, PresenTime's 16 in Anton square in Antique Hamilton Gold (amazon-B0BBG1TCCL), on Andrew's word (Andrew, 2026-11-13: \"I don't want a plain black one though\", then \"I want 2 diferent clocks for living room / dining\"; F-68 (2), F-70). Glass: its reviews are shared with the 18 in, and they report a glass cover that can be removed; take it out before it goes up (F-21). Read 2026-11-13: $32.99, 4.4 stars (108), Q_walnut, 14 Inch, 1.78 lb, plastic frame, white dial. The listing's walnut and natural frames come at 8 to 14 in; natural has pale wood hands, which read less well on white than walnut's black. rooms: the brief.",
+  "notes": "REJECTED 2026-11-13: Andrew went with colored frames, the Bernhard 18 in in Hunter Green and the AKCISOT 12 in in Blue Gray (Andrew, 2026-11-13: \"be an interior designer: can we pick colored clocks? not just black/gold/brown? must fit and not look weird\", then, of the green and the blue-gray: \"ok buying now. record how HIGH I should put the clock. wrap up.\"). MOVED 2026-11-13 to the living room (Andrew, 2026-11-13, of the Anton at $57.99: \"question clcok is nice, but 58 is kinda steep\"): the living room's upper-left corner, on the window wall between the stair railing and the window, 48 in from the corner, 60 in to its center (F-70): 14 in reads from the sofa (14 ft), the chaise and the stairs, and its walnut matches the UGGLERUM, the WOHOMO and the Decofy; the dining room takes PresenTime's 11 in square in Golden (amazon-B0GSYWCRRZ), read from 5 ft. CANDIDATE 2026-11-13, the dining room's clock after the first picks were rejected (Andrew, 2026-11-13: \"those clocks are too dark / hard to read. the first one is terrible and I get a headache trying to make out numbers.\"). Placement: the dining room's right wall, on the table's center line, 58 in to its center (F-70). Why: a white face with large plain black numerals and black hands, in a walnut-look frame for warmth beside the ash table and white marble (F-68 (10)), at 14 in for the 5 to 16 ft it is read from: the living room's clock is a different design, PresenTime's 16 in Anton square in Antique Hamilton Gold (amazon-B0BBG1TCCL), on Andrew's word (Andrew, 2026-11-13: \"I don't want a plain black one though\", then \"I want 2 diferent clocks for living room / dining\"; F-68 (2), F-70). Glass: its reviews are shared with the 18 in, and they report a glass cover that can be removed; take it out before it goes up (F-21). Read 2026-11-13: $32.99, 4.4 stars (108), Q_walnut, 14 Inch, 1.78 lb, plastic frame, white dial. The listing's walnut and natural frames come at 8 to 14 in; natural has pale wood hands, which read less well on white than walnut's black. rooms: the brief.",
   "captured": {
     "date": "2026-11-13",
     "by": "claude",

@@ -1,0 +1,31 @@
+{
+  "id": "amazon-B0DS5SF1JQ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DS5SF1JQ",
+  "name": "AKCISOT 12 Inch Wall Clock, Silent Battery Operated Analog Clock, Blue Gray",
+  "brand": "AKCISOT",
+  "category": "decor",
+  "tags": [
+    "dining",
+    "decor"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": null,
+  "dimensions": null,
+  "images": [
+    {
+      "file": "amazon-B0DS5SF1JQ-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61IE9AtZJXL._AC_SL1500_.jpg",
+      "caption": "the 8 in in Blue Gray (B0DS5HKL1C), the same design"
+    }
+  ],
+  "notes": "REJECTED 2026-11-13 (Andrew, 2026-11-13: \"I feel like the dusty gray clock will be too bland? comopare with color of the dining room wall (white), table color, floor color, what do you think as an expert interior designer.\"): yes, too bland: the dining room is all light values (white walls, white marble, the pale ash LISABO), so a pale blue-gray rim on a white wall barely shows; the Bernhard 12 in in Navy (amazon-B0BP46CN35) replaces it. Price, seen in his cart that evening: $19.99. SHORTLISTED 2026-11-13, his pick, buying (Andrew, 2026-11-13: \"be an interior designer: can we pick colored clocks? not just black/gold/brown? must fit and not look weird\", then, of the green and the blue-gray: \"ok buying now. record how HIGH I should put the clock. wrap up.\"). HANG: the dining room's right wall, on the table's long center line, its center 58 in off the floor (the top edge about 64 in); the screw at 58 in plus the hanger-to-center distance measured on the clock (F-70). Why: a white face with bold black numerals and black hands in a dusty blue-gray rim: blue with the white marble, a cool partner to the living room's green without matching it (F-68 (2)). Its own page hit Amazon's bot check, so its price and measurement rows were not read (dimensions null, F-11); the listing's size selector, read on the 8 in Blue Gray's page (B0DS5HKL1C, $9.99, 4.6 stars (112), Item Dimensions W x H 8\"W x 1.7\"H, 10.6 oz), names this ASIN as its 12 Inch, and the photo is that 8 in in Blue Gray, the same design. Glass: the line's reviews report a glass cover that comes out (take it out, F-21). Title as the 8 in's with the size changed; confirm on the order. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

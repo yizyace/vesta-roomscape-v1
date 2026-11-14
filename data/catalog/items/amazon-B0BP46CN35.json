@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0BP46CN35",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0BP46CN35",
+  "name": "Bernhard Products Navy Wall Clock Silent Non Ticking - 12 Inch Quality Quartz Battery Operated Round Easy to Read Home/Kitchen/Office/Classroom/School Clock",
+  "brand": "Bernhard Products",
+  "category": "decor",
+  "tags": [
+    "dining",
+    "decor"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 16.95,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 12,
+    "h": 12,
+    "raw": "Item Dimensions W x H 10\"W x 10\"H; Screen Size 12 inches; Size 12 Inch; Item Weight 1.34 pounds; Frame Material Plastic; Color Navy",
+    "source": "the 12 Inch, Navy variant's technical-details rows, read in Chrome 2026-11-13: w and h from Screen Size 12 inches and the title's 12 Inch, which agree; the W x H row's 10 x 10 contradicts both and is kept in raw"
+  },
+  "images": [
+    {
+      "file": "amazon-B0BP46CN35-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71myjUYP5KL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "SHORTLISTED 2026-11-13, the dining room's clock in place of the blue-gray AKCISOT (Andrew, 2026-11-13: \"I feel like the dusty gray clock will be too bland? comopare with color of the dining room wall (white), table color, floor color, what do you think as an expert interior designer.\"). HANG: the dining room's right wall, on the table's long center line, its center 58 in off the floor (top edge about 64 in); the screw at 58 in plus the hanger-to-center distance measured on the clock (F-70). Why navy: the room is all light (white walls, white marble, pale ash), so it needs a dark value at eye level, the same lack Andrew saw in the ash table on the marble (F-68 (10)); a navy ring on white is crisp, blue and white with marble is a classic, it echoes the black in the chairs' Tallmyra seats without being black, and beside the living room's Hunter Green Bernhard 18 in (amazon-B0DHJHXLBD) two deep colors read as a pair (F-68 (2)): the same maker, another color and size. Read 2026-11-13: $16.95 (6 percent off $17.95), \"Lowest price in 30 days\", 4.4 stars (32,452), Navy, 12 Inch, 1.34 lb, plastic frame; white face, bold black numerals, black hands. Glass: the line's bullets name a glass cover. Passed over: AKCISOT's 12 in Dark Blue (B0G2QKFXJT, $19.99: a navy face with white numerals and an LCD window, busier) and its M_blue (B0FPQNVDNY, $19.99: a bright cobalt rim, louder). rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -12,7 +12,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "candidate",
+  "status": "rejected",
   "price": {
     "amount": 57.99,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "main"
     }
   ],
-  "notes": "CANDIDATE 2026-11-13, the living room's clock (Andrew, 2026-11-13: \"I don't want a plain black one though\", then \"I want 2 diferent clocks for living room / dining\"). Placement: the living room's upper-left corner, on the window wall between the stair railing and the window, 48 in from the corner, 60 in to its center (F-70). Why: legible (F-70): a white face with tall, plain, bold black Arabic numerals and black hands; a different design from the dining room's round walnut AKCISOT (amazon-B0GX5LPNPJ): square, in an antique gold that sits with the brass door knobs and the Decofy's Champagne Bronze knobs (F-68), 16 in for the 11 to 14 ft from the sofa, the chaise and the stairs. Read 2026-11-13: $57.99, 4.4 stars (516), Antique Hamilton Gold (also Modern Silver B0BBG4FTX1, Oil Rubbed Bronze B0CYP7BX85, Light Gray Oak B0BBG3YT43; a 10 inch, B08CK2KLD6), 16 x 16 in, 4.34 lb, ABS case, \"Quiet Sweeping Quartz Movement\", 1 AA. Glass: \"has high grade glass lens\"; whether it comes out is not documented, and its reviews page filtered for \"glass\" hit Amazon's bot check, not touched. F-21 says no glass, so the lens is Andrew's call (asked 2026-11-13). Flags: assumed-position:window. rooms: the brief.",
+  "notes": "REJECTED 2026-11-13: Andrew went with colored frames, the Bernhard 18 in in Hunter Green and the AKCISOT 12 in in Blue Gray (Andrew, 2026-11-13: \"be an interior designer: can we pick colored clocks? not just black/gold/brown? must fit and not look weird\", then, of the green and the blue-gray: \"ok buying now. record how HIGH I should put the clock. wrap up.\"). ALTERNATIVE 2026-11-13, not the pick (Andrew, 2026-11-13, of the Anton at $57.99: \"question clcok is nice, but 58 is kinda steep\"): kept as the splurge if he wants the 16 in square after all. The picks: the AKCISOT 14 in walnut (amazon-B0GX5LPNPJ) in the living room's corner and PresenTime's 11 in Retro Square in Golden (amazon-B0GSYWCRRZ) in the dining room, $66.98 for the two against $90.98 with this one. CANDIDATE 2026-11-13, the living room's clock (Andrew, 2026-11-13: \"I don't want a plain black one though\", then \"I want 2 diferent clocks for living room / dining\"). Placement: the living room's upper-left corner, on the window wall between the stair railing and the window, 48 in from the corner, 60 in to its center (F-70). Why: legible (F-70): a white face with tall, plain, bold black Arabic numerals and black hands; a different design from the dining room's round walnut AKCISOT (amazon-B0GX5LPNPJ): square, in an antique gold that sits with the brass door knobs and the Decofy's Champagne Bronze knobs (F-68), 16 in for the 11 to 14 ft from the sofa, the chaise and the stairs. Read 2026-11-13: $57.99, 4.4 stars (516), Antique Hamilton Gold (also Modern Silver B0BBG4FTX1, Oil Rubbed Bronze B0CYP7BX85, Light Gray Oak B0BBG3YT43; a 10 inch, B08CK2KLD6), 16 x 16 in, 4.34 lb, ABS case, \"Quiet Sweeping Quartz Movement\", 1 AA. Glass: \"has high grade glass lens\"; whether it comes out is not documented, and its reviews page filtered for \"glass\" hit Amazon's bot check, not touched. F-21 says no glass, so the lens is Andrew's call (asked 2026-11-13). Flags: assumed-position:window. rooms: the brief.",
   "captured": {
     "date": "2026-11-13",
     "by": "claude",

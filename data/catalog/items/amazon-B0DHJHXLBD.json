@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0DHJHXLBD",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DHJHXLBD",
+  "name": "Bernhard Products Hunter Green Wall Clock Silent Non Ticking - XL 18 Inch Quality Quartz Battery Operated Round Easy to Read Home/Office/Classroom/School Clock",
+  "brand": "Bernhard Products",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 43.95,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 18,
+    "h": 18,
+    "raw": "Item Dimensions W x H 18\"W x 18\"H; Screen Size 18 inches; Size 18 Inch; Item Weight 3.49 pounds; Dial Color white; Color Hunter Green",
+    "source": "the Hunter Green variant's own technical-details rows (B0DHJHXLBD), read in Chrome 2026-11-13 after Amazon's bot check cleared; a flat clock, so w and h with no d"
+  },
+  "images": [
+    {
+      "file": "amazon-B0DHJHXLBD-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71Fu7gqXNnL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "SHORTLISTED 2026-11-13, his pick, buying (Andrew, 2026-11-13: \"be an interior designer: can we pick colored clocks? not just black/gold/brown? must fit and not look weird\", then, of the green and the blue-gray: \"ok buying now. record how HIGH I should put the clock. wrap up.\"). HANG: the living room's upper-left corner, on the window wall between the stair railing and the window: its center 60 in off the floor and 48 in from the railing's corner (the top edge about 69 in, the bottom about 51 in); the screw goes at 60 in plus the distance from the clock's hanger to its center, measured on the clock (F-70). Why: a white face with large bold black numerals, black hands and a red sweep second hand in a deep green rim, the open plan's sage accent (F-68 (6)) in a darker, richer shade beside the walnut and the honey oak; 18 in reads from the sofa (14 ft), the stairs (13 ft) and the kitchen (21 ft). Read 2026-11-13 off the listing: $43.95 for Hunter Green (Navy, Red and Blue the same; delivery Sun, Nov 15, \"Only 4 left in stock\"), 4.4 stars (32,452), \"Glass cover protects dial\": glass, which F-21 bars and he took on by buying. Its own page, first behind the bot check, was read later that evening: $43.95, 4.4 stars (32,452), 3.49 lb, white dial; photo saved. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
