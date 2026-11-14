@@ -1,0 +1,34 @@
+{
+  "id": "amazon-B0H7J9QMWH",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0H7J9QMWH",
+  "name": "Wood Decor Wall Clock, Pendulum, Living Room Battery 14x30in",
+  "brand": "Janstime",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 79.99,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 13.78,
+    "h": 30.31,
+    "raw": "Item Dimensions W x H 13.78\"W x 30.31\"H; Item Weight 3.6 pounds; Frame Material Wood; Color Natural Wood; Dial Color Beige",
+    "source": "the listing's technical-details rows, read in Chrome 2026-11-13; flat, w and h"
+  },
+  "images": [],
+  "notes": "CANDIDATE 2026-11-13, a pendulum clock for the living room's upper-left corner (Andrew, 2026-11-13: \"before I order, just some brainstorming: what about a fancier pendulum clock for living room?\", then \"ok\" to three that pass F-70): the closest to the room: layered walnut, maple and cream panels, mid-century, an open walnut pendulum with no door or glass over it, silent sweep; but a small cream dial with only the quarter numerals, decor more than a clock to read from 14 ft (F-70), and 3.9 stars from 12; price from the listing's buy box. The Bernhard 18 in Hunter Green (amazon-B0DHJHXLBD) stays the pick unless he says otherwise. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

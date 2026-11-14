@@ -1,0 +1,34 @@
+{
+  "id": "amazon-B0FTMT71LW",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0FTMT71LW",
+  "name": "Pendulum Wall Clock Battery Operated, Real Wood Regulator Clock, Quiet",
+  "brand": "Lovely Home Essentials",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 99.99,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 11.25,
+    "h": 18,
+    "raw": "Item Dimensions W x H 11.25\"W x 18\"H; Item Weight 4.04 pounds; Material Type Glass, Wood; Color Light Wood With Arabic Numerals; Dial Color White",
+    "source": "the listing's technical-details rows, read in Chrome 2026-11-13; flat, w and h"
+  },
+  "images": [],
+  "notes": "REJECTED 2026-11-13, a pendulum clock for the living room's upper-left corner (Andrew, 2026-11-13: \"before I order, just some brainstorming: what about a fancier pendulum clock for living room?\", then \"ok\" to three that pass F-70): a schoolhouse regulator: readable white dial with Arabic numerals, but an antique style, a honey-orange wood (F-68 (4)) and a glass door over the pendulum (F-21); 4.5 stars (2,208). The Bernhard 18 in Hunter Green (amazon-B0DHJHXLBD) stays the pick unless he says otherwise. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

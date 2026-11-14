@@ -1,0 +1,34 @@
+{
+  "id": "amazon-B0F1TXZLPW",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0F1TXZLPW",
+  "name": "HARRIS & CO. CLOCKMASTERS Wooden Luxury Pendulum Analog Wall Clock and Table/Mantel Clock with Elegant Ribbed Glass and Roman Dial, Silent Sweep Noiseless Technology 11 x 15 Inch, Model - Brook Street",
+  "brand": "HARRIS & CO. CLOCKMASTERS",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 109,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 11,
+    "h": 15,
+    "raw": "Product Dimensions 11\"W x 15\"H; Item Weight 2.67 pounds; Material Type Wood; Color Teak Brown; Dial Color White; Top Surface - HD Clear Glass",
+    "source": "the listing's technical-details rows, read in Chrome 2026-11-13; flat, w and h"
+  },
+  "images": [],
+  "notes": "REJECTED 2026-11-13, a pendulum clock for the living room's upper-left corner (Andrew, 2026-11-13: \"before I order, just some brainstorming: what about a fancier pendulum clock for living room?\", then \"ok\" to three that pass F-70): walnut-brown and brass, but Roman numerals (F-70) and a ribbed glass panel over the pendulum (F-21); 4.2 stars (72). The Bernhard 18 in Hunter Green (amazon-B0DHJHXLBD) stays the pick unless he says otherwise. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
