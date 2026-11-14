@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0GX5LPNPJ",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GX5LPNPJ",
+  "name": "AKCISOT 14 Inch Wall Clock, Silent Battery Operated Analog Clock, Walnut",
+  "brand": "AKCISOT",
+  "category": "decor",
+  "tags": [
+    "dining",
+    "decor"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 32.99,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 13.9,
+    "h": 13.9,
+    "raw": "Item Dimensions W x H 13.9\"W x 1.8\"H; Screen Size 14 inches; Size 14 Inch; Item Weight 1.78 pounds; Material Type Plastic; Frame Material Plastic; Dial Color White",
+    "source": "the 14 Inch, Q_walnut variant's technical-details rows, read in Chrome 2026-11-13: w from the W row; h taken as w, since the W x H row's 1.8\" H is the depth (its Screen Size is 14 inches), kept in raw"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GX5LPNPJ-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71Nr9jZaIFL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "CANDIDATE 2026-11-13, the dining room's clock after the first picks were rejected (Andrew, 2026-11-13: \"those clocks are too dark / hard to read. the first one is terrible and I get a headache trying to make out numbers.\"). Placement: the dining room's right wall, on the table's center line, 58 in to its center (F-70). Why: the same face as the living room's AKCISOT, white with large plain black numerals and black hands, so both read alike at a glance, in a walnut-look frame for warmth beside the ash table and white marble (F-68 (10)), at 14 in for the 5 to 16 ft it is read from: siblings, not twins (F-68 (2)), by frame and size. Glass: its reviews are shared with the 18 in, and they report a glass cover that can be removed; take it out before it goes up (F-21). Read 2026-11-13: $32.99, 4.4 stars (108), Q_walnut, 14 Inch, 1.78 lb, plastic frame, white dial. The listing's walnut and natural frames come at 8 to 14 in; natural has pale wood hands, which read less well on white than walnut's black. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

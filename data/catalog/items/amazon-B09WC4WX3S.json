@@ -1,0 +1,34 @@
+{
+  "id": "amazon-B09WC4WX3S",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B09WC4WX3S",
+  "name": "Bernhard Products Black Wall Clock Silent Non Ticking - XL 18 Inch Quality Quartz Battery Operated Round Easy to Read Home/Office/Classroom/School Clock",
+  "brand": "Bernhard Products",
+  "category": "decor",
+  "tags": [
+    "living-room",
+    "decor"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 43.95,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 18,
+    "h": 18,
+    "raw": "Item Dimensions W x H 10\"W x 10\"H; Screen Size 18 inches; Size 18 Inch; Item Weight 3.32 pounds; Material Type Plastic; Frame Material Plastic",
+    "source": "the 18 Inch, Black variant's rows, read in Chrome 2026-11-13: w and h from Screen Size 18 inches and the bullets' \"Extra large wall clocks 18 inch\"; the W x H row's 10 x 10 contradicts both and is kept in raw"
+  },
+  "images": [],
+  "notes": "REJECTED 2026-11-13, opened for the clocks after the first picks were rejected (Andrew, 2026-11-13: \"those clocks are too dark / hard to read. the first one is terrible and I get a headache trying to make out numbers.\"): as legible as the AKCISOT (\"Large black bold Arabic numerals against white face\", red second hand, 4.4 stars, 32,452), but its page states \"Glass cover protects dial\" (F-21), with no word that it comes out; the AKCISOT, whose reviewers removed theirs, was kept. Read 2026-11-13: $43.95, Black, 18 Inch, 3.32 lb, plastic frame 1.75\" deep. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

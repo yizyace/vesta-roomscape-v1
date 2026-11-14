@@ -6,13 +6,13 @@
   "brand": "AKCISOT",
   "category": "decor",
   "tags": [
-    "dining",
+    "living-room",
     "decor"
   ],
   "rooms": [
-    "dining-room"
+    "living-room"
   ],
-  "status": "rejected",
+  "status": "candidate",
   "price": {
     "amount": 45.99,
     "currency": "USD",
@@ -24,8 +24,14 @@
     "raw": "Item Dimensions W x H 18\"W x 1.89\"H; Screen Size 18 inches; Size 18 Inch; Item Weight 3.49 pounds; Material Type Plastic; Frame Material Plastic",
     "source": "the 18 Inch, A_black variant's technical-details rows, read in Chrome 2026-11-13: w and h from Screen Size 18 inches and the W row; the W x H row's 1.89 in H contradicts Screen Size and is kept in raw"
   },
-  "images": [],
-  "notes": "REJECTED 2026-11-13, opened for the dining room's clock (Andrew, 2026-11-13: \"I need help getting clocks for the living room and dining or both. be mindful of entry way, where sofa, dining tables are etc so clock positions are optimal. At least one must be analog.\"), not kept: a white face in a black plastic frame reads as a classroom clock beside the room's ash table, white marble and cream walls (F-68), and its page doesn't say what covers the face (F-21: no glass). The Mosewa 18 in (amazon-B0GD5PHHZK) was kept. Read 2026-11-13: $45.99, 4.6 stars (7,853), 18 Inch, A_black, 3.49 lb, plastic. rooms: the brief.",
+  "images": [
+    {
+      "file": "amazon-B0H262NYN4-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/61yZ+3YNPLL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "CANDIDATE 2026-11-13, the living room's clock after the first picks were rejected (Andrew, 2026-11-13: \"those clocks are too dark / hard to read. the first one is terrible and I get a headache trying to make out numbers.\"). Placement: the living room's upper-left corner, on the window wall between the stair railing and the window, 48 in from the corner, 60 in to its center (F-70). Why: the most legible face in the search, a white face with large plain black Arabic numerals, black hour and minute hands and a red sweep second hand (\"Easy to See: Designed with big numerals\"), 18 in, the size for the 27 ft from the dining chairs; 4.6 stars (7,853). Glass: the listing never says, and its reviews, shared across its sizes and colors, read 2026-11-13 filtered for \"glass\": \"Clean large numerals, glass lens, and sweep second hand\", \"it arrived with the glass broken\", \"It comes with a glass cover, which is nice, but it creates a bit of glare, so I removed it\". So the glass comes out before it goes up (F-21), which also takes away the glare. It comes only in black at 18 in (the walnut and natural frames stop at 14 in). Andrew bought the 16 in black of this line (B0C5BWVNF6) on March 23, 2025, as its page reads, so he knows the face. Read 2026-11-13: $45.99, A_black, 18 Inch, 3.49 lb, plastic frame; first opened that evening for the dining room and rejected on its look and an unstated lens, now kept on legibility (F-70). rooms: the brief.",
   "captured": {
     "date": "2026-11-13",
     "by": "claude",
