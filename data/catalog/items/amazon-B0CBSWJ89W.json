@@ -1,0 +1,40 @@
+{
+  "id": "amazon-B0CBSWJ89W",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0CBSWJ89W",
+  "name": "Bernhard Products Blue Wall Clock Silent Non-Ticking 12 Inch Quality Quartz Battery Operated Round Easy to Read Home/Kitchen/Office/Baby Nursery/Boys Bedroom/School Classroom/Children Playroom Clocks",
+  "brand": "Bernhard Products",
+  "category": "decor",
+  "tags": [
+    "dining",
+    "decor"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 16.95,
+    "currency": "USD",
+    "asOf": "2026-11-13"
+  },
+  "dimensions": {
+    "w": 12,
+    "h": 12,
+    "raw": "Item Dimensions W x H 12\"W x 12\"H; Screen Size 12 inches; Size 12 Inch; Item Weight 1.34 pounds; Material Type Glass, Plastic; Frame Material Plastic; Color Blue; Dial Color White",
+    "source": "the 12 Inch, Blue variant's technical-details rows, read in Chrome 2026-11-13; a flat clock, so w and h with no d"
+  },
+  "images": [
+    {
+      "file": "amazon-B0CBSWJ89W-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71JilKw962L._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "SHORTLISTED 2026-11-13, his pick for the dining room (Andrew, 2026-11-13: \"can I do something more colorful?\", then, with a screenshot of this listing: \"how about this blue 12\\\" for dining\"). HANG: the dining room's right wall, on the table's long center line, its center 58 in off the floor (top edge about 64 in); the screw at 58 in plus the hanger-to-center distance measured on the clock (F-70). Why it works: a bright royal blue rim on a white face, crisp on the white walls and marble and more colorful than navy; the same maker, rim and face as the living room's Hunter Green 18 in (amazon-B0DHJHXLBD), so the two read as a deliberate pair in two colors and sizes; blue sits next to the green. Its numerals are a solid black serif, not the sans F-70 prefers, still easy to read at the table. Read 2026-11-13: $16.95, 4.4 stars (32,452), Amazon's Choice, Blue, 12 Inch, 1.34 lb, \"Material Type Glass, Plastic\" (a glass cover); FREE delivery Wed, Nov 18 on his screenshot; ships from Amazon, sold by Major Success. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-13",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
