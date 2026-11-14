@@ -12,7 +12,7 @@
   "rooms": [
     "dining-room"
   ],
-  "status": "shortlisted",
+  "status": "ordered",
   "price": {
     "amount": 16.95,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "main"
     }
   ],
-  "notes": "SHORTLISTED 2026-11-13, his pick for the dining room (Andrew, 2026-11-13: \"can I do something more colorful?\", then, with a screenshot of this listing: \"how about this blue 12\\\" for dining\"). HANG: the dining room's right wall, on the table's long center line, its center 58 in off the floor (top edge about 64 in); the screw at 58 in plus the hanger-to-center distance measured on the clock (F-70). Why it works: a bright royal blue rim on a white face, crisp on the white walls and marble and more colorful than navy; the same maker, rim and face as the living room's Hunter Green 18 in (amazon-B0DHJHXLBD), so the two read as a deliberate pair in two colors and sizes; blue sits next to the green. Its numerals are a solid black serif, not the sans F-70 prefers, still easy to read at the table. Read 2026-11-13: $16.95, 4.4 stars (32,452), Amazon's Choice, Blue, 12 Inch, 1.34 lb, \"Material Type Glass, Plastic\" (a glass cover); FREE delivery Wed, Nov 18 on his screenshot; ships from Amazon, sold by Major Success. rooms: the brief.",
+  "notes": "ORDERED 2026-11-13 (Andrew, 2026-11-13: \"wrap up. orderd placed for now, I'll start with clock positiiong when I ask again in the future, I have mounting screws / mount hooks already.\"). Expected: Wed, Nov 18 on his screenshot of the listing; the order's own dates were not read, and the product page showed no \"Last purchased\" line yet that night. He has his own mounting screws and hooks. Hanging waits for his word; the heights are in F-70 and below. SHORTLISTED 2026-11-13, his pick for the dining room (Andrew, 2026-11-13: \"can I do something more colorful?\", then, with a screenshot of this listing: \"how about this blue 12\\\" for dining\"). HANG: the dining room's right wall, on the table's long center line, its center 58 in off the floor (top edge about 64 in); the screw at 58 in plus the hanger-to-center distance measured on the clock (F-70). Why it works: a bright royal blue rim on a white face, crisp on the white walls and marble and more colorful than navy; the same maker, rim and face as the living room's Hunter Green 18 in (amazon-B0DHJHXLBD), so the two read as a deliberate pair in two colors and sizes; blue sits next to the green. Its numerals are a solid black serif, not the sans F-70 prefers, still easy to read at the table. Read 2026-11-13: $16.95, 4.4 stars (32,452), Amazon's Choice, Blue, 12 Inch, 1.34 lb, \"Material Type Glass, Plastic\" (a glass cover); FREE delivery Wed, Nov 18 on his screenshot; ships from Amazon, sold by Major Success. rooms: the brief.",
   "captured": {
     "date": "2026-11-13",
     "by": "claude",

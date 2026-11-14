@@ -12,7 +12,7 @@
   "rooms": [
     "living-room"
   ],
-  "status": "shortlisted",
+  "status": "ordered",
   "price": {
     "amount": 43.95,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "main"
     }
   ],
-  "notes": "SHORTLISTED 2026-11-13, his pick, buying (Andrew, 2026-11-13: \"be an interior designer: can we pick colored clocks? not just black/gold/brown? must fit and not look weird\", then, of the green and the blue-gray: \"ok buying now. record how HIGH I should put the clock. wrap up.\"). HANG: the living room's upper-left corner, on the window wall between the stair railing and the window: its center 60 in off the floor and 48 in from the railing's corner (the top edge about 69 in, the bottom about 51 in); the screw goes at 60 in plus the distance from the clock's hanger to its center, measured on the clock (F-70). Why: a white face with large bold black numerals, black hands and a red sweep second hand in a deep green rim, the open plan's sage accent (F-68 (6)) in a darker, richer shade beside the walnut and the honey oak; 18 in reads from the sofa (14 ft), the stairs (13 ft) and the kitchen (21 ft). Read 2026-11-13 off the listing: $43.95 for Hunter Green (Navy, Red and Blue the same; delivery Sun, Nov 15, \"Only 4 left in stock\"), 4.4 stars (32,452), \"Glass cover protects dial\": glass, which F-21 bars and he took on by buying. Its own page, first behind the bot check, was read later that evening: $43.95, 4.4 stars (32,452), 3.49 lb, white dial; photo saved. rooms: the brief.",
+  "notes": "ORDERED 2026-11-13 (Andrew, 2026-11-13: \"wrap up. orderd placed for now, I'll start with clock positiiong when I ask again in the future, I have mounting screws / mount hooks already.\"). Expected: Sun, Nov 15 on the listing that evening (Mon, Nov 16 on a later read); the order's own dates were not read, and the product page showed no \"Last purchased\" line yet that night. He has his own mounting screws and hooks. Hanging waits for his word; the heights are in F-70 and below. SHORTLISTED 2026-11-13, his pick, buying (Andrew, 2026-11-13: \"be an interior designer: can we pick colored clocks? not just black/gold/brown? must fit and not look weird\", then, of the green and the blue-gray: \"ok buying now. record how HIGH I should put the clock. wrap up.\"). HANG: the living room's upper-left corner, on the window wall between the stair railing and the window: its center 60 in off the floor and 48 in from the railing's corner (the top edge about 69 in, the bottom about 51 in); the screw goes at 60 in plus the distance from the clock's hanger to its center, measured on the clock (F-70). Why: a white face with large bold black numerals, black hands and a red sweep second hand in a deep green rim, the open plan's sage accent (F-68 (6)) in a darker, richer shade beside the walnut and the honey oak; 18 in reads from the sofa (14 ft), the stairs (13 ft) and the kitchen (21 ft). Read 2026-11-13 off the listing: $43.95 for Hunter Green (Navy, Red and Blue the same; delivery Sun, Nov 15, \"Only 4 left in stock\"), 4.4 stars (32,452), \"Glass cover protects dial\": glass, which F-21 bars and he took on by buying. Its own page, first behind the bot check, was read later that evening: $43.95, 4.4 stars (32,452), 3.49 lb, white dial; photo saved. rooms: the brief.",
   "captured": {
     "date": "2026-11-13",
     "by": "claude",
