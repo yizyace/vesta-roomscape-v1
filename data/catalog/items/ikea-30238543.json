@@ -9,7 +9,7 @@
     "bedroom"
   ],
   "rooms": [],
-  "status": "shortlisted",
+  "status": "ordered",
   "price": {
     "amount": 7.99,
     "currency": "USD",
@@ -28,7 +28,7 @@
       "caption": "product photo"
     }
   ],
-  "notes": "In Andrew's IKEA cart, qty 2 packs of 8, 16 hangers (2026-11-16), for the closets; the price is a pack's. 4.6 stars (10,096).",
+  "notes": "ORDERED (Andrew, 2026-11-16: \"took out one item, just ordered\"): qty 2 packs of 8, $15.10 for the line on his order, after a $50.00 discount spread over the order's lines (his order page, his screenshot); delivery by truck December 1, 2026, 9 AM to 9 PM. In Andrew's IKEA cart, qty 2 packs of 8, 16 hangers (2026-11-16), for the closets; the price is a pack's. 4.6 stars (10,096).",
   "captured": {
     "date": "2026-11-16",
     "by": "claude",

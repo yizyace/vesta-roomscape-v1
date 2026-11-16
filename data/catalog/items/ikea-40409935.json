@@ -10,7 +10,7 @@
     "anchor-required"
   ],
   "rooms": [],
-  "status": "shortlisted",
+  "status": "ordered",
   "price": {
     "amount": 129.99,
     "currency": "USD",
@@ -30,7 +30,7 @@
       "caption": "product photo, front"
     }
   ],
-  "notes": "In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Over 27\": anchored to a wall (F-21). White stained oak effect, a pale finish, not the orange oak-effect F-68 (4) keeps out of the oak-floored rooms. No room plan has a place for it yet; layout back-bedroom i has no free wall that takes it. 4.7 stars (2,730). Flags: anchor-required.",
+  "notes": "ORDERED (Andrew, 2026-11-16: \"took out one item, just ordered\"): qty 2, $245.50 for the line on his order, after a $50.00 discount spread over the order's lines (his order page, his screenshot); delivery by truck December 1, 2026, 9 AM to 9 PM. In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Over 27\": anchored to a wall (F-21). White stained oak effect, a pale finish, not the orange oak-effect F-68 (4) keeps out of the oak-floored rooms. No room plan has a place for it yet; layout back-bedroom i has no free wall that takes it. 4.7 stars (2,730). Flags: anchor-required.",
   "captured": {
     "date": "2026-11-16",
     "by": "claude",

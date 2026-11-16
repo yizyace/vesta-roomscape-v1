@@ -14,7 +14,7 @@
   "rooms": [
     "maddie-room"
   ],
-  "status": "shortlisted",
+  "status": "ordered",
   "price": {
     "amount": 49.99,
     "currency": "USD",
@@ -28,7 +28,7 @@
     "source": "IKEA Measurements section, read in Chrome 2026-10-22 (h = Height, the same as Max. height)"
   },
   "images": [],
-  "notes": "In Andrew's IKEA cart, qty 1 (2026-11-16), at $49.99, \"Available for delivery\" and \"Available for Click & collect\": back in stock, so the October reason is gone (F-08, his pick). The seat made for Maddie's FLISAT desk (ikea-30609181, owned); it would take the SUNDVIK chair's place at her desk in maddie-room a once the room is re-staged. Rejected 2026-10-22: unavailable: out of stock at IKEA Long Island, NY, \"Currently unavailable for delivery\" to our ZIP and \"Unavailable online for selected areas\". Otherwise the seat made for the FLISAT desk (ikea-30609181, \"A perfect match with FLISAT desk\"), with 3 seat heights (32, 37 and 45 cm per the page); worth re-checking if the desk is chosen. Flags: none. Popularity: #7 under Kids chairs sorted Most popular; 4.8 stars (12).",
+  "notes": "ORDERED (Andrew, 2026-11-16: \"took out one item, just ordered\"): qty 1, $47.20 for the line on his order, after a $50.00 discount spread over the order's lines (his order page, his screenshot); delivery by truck December 1, 2026, 9 AM to 9 PM. In Andrew's IKEA cart, qty 1 (2026-11-16), at $49.99, \"Available for delivery\" and \"Available for Click & collect\": back in stock, so the October reason is gone (F-08, his pick). The seat made for Maddie's FLISAT desk (ikea-30609181, owned); it would take the SUNDVIK chair's place at her desk in maddie-room a once the room is re-staged. Rejected 2026-10-22: unavailable: out of stock at IKEA Long Island, NY, \"Currently unavailable for delivery\" to our ZIP and \"Unavailable online for selected areas\". Otherwise the seat made for the FLISAT desk (ikea-30609181, \"A perfect match with FLISAT desk\"), with 3 seat heights (32, 37 and 45 cm per the page); worth re-checking if the desk is chosen. Flags: none. Popularity: #7 under Kids chairs sorted Most popular; 4.8 stars (12).",
   "captured": {
     "date": "2026-10-22",
     "by": "claude",

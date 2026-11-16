@@ -11,7 +11,7 @@
     "anchor-required"
   ],
   "rooms": [],
-  "status": "shortlisted",
+  "status": "ordered",
   "price": {
     "amount": 125,
     "currency": "USD",
@@ -31,7 +31,7 @@
       "caption": "product photo, front"
     }
   ],
-  "notes": "A set (\"What's included\"): 1 x ALEX drawer unit 14 1/8x27 1/2\" (605.888.94) and 1 x ALEX caster 2\" (104.806.07). In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Too tall to stay under a desk at sitting height, so it stands beside one; over 27\", so anchored to a wall (F-21). 4.5 stars (629). Flags: anchor-required.",
+  "notes": "ORDERED (Andrew, 2026-11-16: \"took out one item, just ordered\"): qty 2, $236.08 for the line on his order, after a $50.00 discount spread over the order's lines (his order page, his screenshot); delivery by truck December 1, 2026, 9 AM to 9 PM. A set (\"What's included\"): 1 x ALEX drawer unit 14 1/8x27 1/2\" (605.888.94) and 1 x ALEX caster 2\" (104.806.07). In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Too tall to stay under a desk at sitting height, so it stands beside one; over 27\", so anchored to a wall (F-21). 4.5 stars (629). Flags: anchor-required.",
   "captured": {
     "date": "2026-11-16",
     "by": "claude",

@@ -10,7 +10,7 @@
     "storage"
   ],
   "rooms": [],
-  "status": "shortlisted",
+  "status": "ordered",
   "price": {
     "amount": 89.99,
     "currency": "USD",
@@ -30,7 +30,7 @@
       "caption": "product photo, front"
     }
   ],
-  "notes": "A set (\"What's included\"): 1 x ALEX drawer unit 14 1/8x19 5/8\" (205.869.10) and 1 x ALEX caster 2\" (104.806.07). Its Height row equals the drawer unit's own size, while the tall set (ikea-69582680) is 2 3/8\" taller than its drawer unit: whether 19 5/8\" includes the casters is not stated, so the row is recorded as shown (F-01). In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Short enough for the UPLIFT V3s at their lowest (undersides 23.1\" on Standard Casters, 24.1\" on Soft Roll). 3.3 stars (78). Flags: none (not placed).",
+  "notes": "ORDERED (Andrew, 2026-11-16: \"took out one item, just ordered\"): qty 2, $169.96 for the line on his order, after a $50.00 discount spread over the order's lines (his order page, his screenshot); delivery by truck December 1, 2026, 9 AM to 9 PM. A set (\"What's included\"): 1 x ALEX drawer unit 14 1/8x19 5/8\" (205.869.10) and 1 x ALEX caster 2\" (104.806.07). Its Height row equals the drawer unit's own size, while the tall set (ikea-69582680) is 2 3/8\" taller than its drawer unit: whether 19 5/8\" includes the casters is not stated, so the row is recorded as shown (F-01). In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Short enough for the UPLIFT V3s at their lowest (undersides 23.1\" on Standard Casters, 24.1\" on Soft Roll). 3.3 stars (78). Flags: none (not placed).",
   "captured": {
     "date": "2026-11-16",
     "by": "claude",

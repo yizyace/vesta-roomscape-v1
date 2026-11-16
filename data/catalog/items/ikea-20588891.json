@@ -10,7 +10,7 @@
     "storage"
   ],
   "rooms": [],
-  "status": "shortlisted",
+  "status": "rejected",
   "price": {
     "amount": 249.99,
     "currency": "USD",
@@ -30,7 +30,7 @@
       "caption": "product photo, front"
     }
   ],
-  "notes": "In Andrew's IKEA cart, qty 1 (2026-11-16); his room for it not given yet. Against the UPLIFT V3s of back-bedroom i: 3/8\" wider than the 26\" on each side of the 80\" desk's chair space (before the legs), and at 26\" tall it stays under a desk only while the desk's top is above about 27\" (a 1\" top). Drawer unit (no drawer-unit category, so storage). 4.6 stars (1,123). In stock at IKEA Long Island, NY, and click and collect free there, 2026-11-16; the page offers IKEA Family's refund of a price drop within 90 days. Flags: none (not placed).",
+  "notes": "Taken out of his IKEA cart before he ordered (Andrew, 2026-11-16: \"took out one item, just ordered\"). In Andrew's IKEA cart, qty 1 (2026-11-16); his room for it not given yet. Against the UPLIFT V3s of back-bedroom i: 3/8\" wider than the 26\" on each side of the 80\" desk's chair space (before the legs), and at 26\" tall it stays under a desk only while the desk's top is above about 27\" (a 1\" top). Drawer unit (no drawer-unit category, so storage). 4.6 stars (1,123). In stock at IKEA Long Island, NY, and click and collect free there, 2026-11-16; the page offers IKEA Family's refund of a price drop within 90 days. Flags: none (not placed).",
   "captured": {
     "date": "2026-11-16",
     "by": "claude",
