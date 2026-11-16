@@ -1,0 +1,39 @@
+{
+  "id": "ikea-40409935",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kallax-shelf-unit-white-stained-oak-effect-40409935/",
+  "name": "KALLAX Shelf unit, white stained oak effect, 43 7/8x57 5/8 \"",
+  "brand": "IKEA",
+  "category": "bookcase",
+  "tags": [
+    "storage",
+    "anchor-required"
+  ],
+  "rooms": [],
+  "status": "shortlisted",
+  "price": {
+    "amount": 129.99,
+    "currency": "USD",
+    "asOf": "2026-11-16"
+  },
+  "dimensions": {
+    "w": 43.875,
+    "d": 15.375,
+    "h": 57.625,
+    "raw": "Width: 43 7/8 \"; Depth: 15 3/8 \"; Height: 57 5/8 \"; Max load/shelf: 29 lb",
+    "source": "IKEA Measurements section, read in Chrome 2026-11-16"
+  },
+  "images": [
+    {
+      "file": "ikea-40409935-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kallax-shelf-unit-white-stained-oak-effect__0601752_pe681622_s5.jpg",
+      "caption": "product photo, front"
+    }
+  ],
+  "notes": "In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Over 27\": anchored to a wall (F-21). White stained oak effect, a pale finish, not the orange oak-effect F-68 (4) keeps out of the oak-floored rooms. No room plan has a place for it yet; layout back-bedroom i has no free wall that takes it. 4.7 stars (2,730). Flags: anchor-required.",
+  "captured": {
+    "date": "2026-11-16",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

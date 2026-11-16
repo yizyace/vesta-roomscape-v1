@@ -1,0 +1,39 @@
+{
+  "id": "ikea-20588891",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/alex-drawer-unit-on-casters-dark-gray-20588891/",
+  "name": "ALEX Drawer unit on casters, dark gray, 26 3/8x26 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "office",
+    "storage"
+  ],
+  "rooms": [],
+  "status": "shortlisted",
+  "price": {
+    "amount": 249.99,
+    "currency": "USD",
+    "asOf": "2026-11-16"
+  },
+  "dimensions": {
+    "w": 26.375,
+    "d": 18.875,
+    "h": 26,
+    "raw": "Max. load: 40 lb; Maximum load/drawer: 4 lb; Max. load small drawer: 4 lb; Width: 26 3/8 \"; Height: 26 \"; Depth: 18 7/8 \"; Drawer depth (inside): 16 1/2 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-11-16"
+  },
+  "images": [
+    {
+      "file": "ikea-20588891-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-on-casters-dark-gray__1411368_pe973105_s5.jpg",
+      "caption": "product photo, front"
+    }
+  ],
+  "notes": "In Andrew's IKEA cart, qty 1 (2026-11-16); his room for it not given yet. Against the UPLIFT V3s of back-bedroom i: 3/8\" wider than the 26\" on each side of the 80\" desk's chair space (before the legs), and at 26\" tall it stays under a desk only while the desk's top is above about 27\" (a 1\" top). Drawer unit (no drawer-unit category, so storage). 4.6 stars (1,123). In stock at IKEA Long Island, NY, and click and collect free there, 2026-11-16; the page offers IKEA Family's refund of a price drop within 90 days. Flags: none (not placed).",
+  "captured": {
+    "date": "2026-11-16",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

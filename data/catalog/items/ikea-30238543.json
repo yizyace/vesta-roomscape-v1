@@ -1,0 +1,37 @@
+{
+  "id": "ikea-30238543",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/bumerang-hanger-natural-30238543/",
+  "name": "BUMERANG Hanger, natural",
+  "brand": "IKEA",
+  "category": "other",
+  "tags": [
+    "bedroom"
+  ],
+  "rooms": [],
+  "status": "shortlisted",
+  "price": {
+    "amount": 7.99,
+    "currency": "USD",
+    "asOf": "2026-11-16"
+  },
+  "dimensions": {
+    "w": 16.875,
+    "d": 0.5625,
+    "raw": "Width: 16 7/8 \"; Thickness: 9/16 \"; Package quantity: 8 pack",
+    "source": "IKEA Measurements section, read in Chrome 2026-11-16 (d = Thickness)"
+  },
+  "images": [
+    {
+      "file": "ikea-30238543-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/bumerang-hanger-natural__0710666_pe727700_s5.jpg",
+      "caption": "product photo"
+    }
+  ],
+  "notes": "In Andrew's IKEA cart, qty 2 packs of 8, 16 hangers (2026-11-16), for the closets; the price is a pack's. 4.6 stars (10,096).",
+  "captured": {
+    "date": "2026-11-16",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

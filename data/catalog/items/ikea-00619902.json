@@ -1,0 +1,39 @@
+{
+  "id": "ikea-00619902",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/helmer-drawer-unit-on-casters-white-00619902/",
+  "name": "HELMER Drawer unit on casters, white, 11x25 5/8 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "office",
+    "storage"
+  ],
+  "rooms": [],
+  "status": "shortlisted",
+  "price": {
+    "amount": 69.99,
+    "currency": "USD",
+    "asOf": "2026-11-16"
+  },
+  "dimensions": {
+    "w": 11,
+    "d": 17.375,
+    "h": 25.625,
+    "raw": "Max. load: 11 lb; Maximum load/drawer: 2 lb; Width: 11 \"; Depth: 17 3/8 \"; Height: 25 5/8 \"; Drawer depth (inside): 14 5/8 \"; Drawer width (inside): 8 5/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-11-16"
+  },
+  "images": [
+    {
+      "file": "ikea-00619902-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/helmer-drawer-unit-on-casters-white__1484824_pe1001713_s5.jpg",
+      "caption": "product photo, front"
+    }
+  ],
+  "notes": "In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet (white, like the frame of Eutine's V3). At 25 5/8\" tall it stays under a desk only while the desk's top is above about 26 5/8\" (a 1\" top); her V3 on Standard Casters goes down to 24.1\". Drawer unit (no drawer-unit category, so storage). 3.3 stars (241). Flags: none (not placed).",
+  "captured": {
+    "date": "2026-11-16",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

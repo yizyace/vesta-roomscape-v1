@@ -1,0 +1,39 @@
+{
+  "id": "ikea-09582664",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/alex-drawer-unit-on-casters-dark-gray-black-s09582664/",
+  "name": "ALEX Drawer unit on casters, dark gray/black, 14 1/8x19 5/8 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "office",
+    "storage"
+  ],
+  "rooms": [],
+  "status": "shortlisted",
+  "price": {
+    "amount": 89.99,
+    "currency": "USD",
+    "asOf": "2026-11-16"
+  },
+  "dimensions": {
+    "w": 14.125,
+    "d": 17.75,
+    "h": 19.625,
+    "raw": "Max. load: 22 lb; Maximum load/drawer: 4 lb; Width: 14 1/8 \"; Depth: 17 3/4 \"; Height: 19 5/8 \"; Drawer depth (inside): 16 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-11-16"
+  },
+  "images": [
+    {
+      "file": "ikea-09582664-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-on-casters-dark-gray-black__1411372_pe973107_s5.jpg",
+      "caption": "product photo, front"
+    }
+  ],
+  "notes": "A set (\"What's included\"): 1 x ALEX drawer unit 14 1/8x19 5/8\" (205.869.10) and 1 x ALEX caster 2\" (104.806.07). Its Height row equals the drawer unit's own size, while the tall set (ikea-69582680) is 2 3/8\" taller than its drawer unit: whether 19 5/8\" includes the casters is not stated, so the row is recorded as shown (F-01). In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Short enough for the UPLIFT V3s at their lowest (undersides 23.1\" on Standard Casters, 24.1\" on Soft Roll). 3.3 stars (78). Flags: none (not placed).",
+  "captured": {
+    "date": "2026-11-16",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

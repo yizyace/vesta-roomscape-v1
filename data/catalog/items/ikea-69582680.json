@@ -1,0 +1,40 @@
+{
+  "id": "ikea-69582680",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/alex-drawer-unit-on-casters-dark-gray-black-s69582680/",
+  "name": "ALEX Drawer unit on casters, dark gray/black, 14 1/8x29 7/8 \"",
+  "brand": "IKEA",
+  "category": "storage",
+  "tags": [
+    "office",
+    "storage",
+    "anchor-required"
+  ],
+  "rooms": [],
+  "status": "shortlisted",
+  "price": {
+    "amount": 125,
+    "currency": "USD",
+    "asOf": "2026-11-16"
+  },
+  "dimensions": {
+    "w": 14.125,
+    "d": 22.875,
+    "h": 29.875,
+    "raw": "Depth: 22 7/8 \"; Height: 29 7/8 \"; Width: 14 1/8 \"",
+    "source": "IKEA Measurements section, read in Chrome 2026-11-16"
+  },
+  "images": [
+    {
+      "file": "ikea-69582680-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-on-casters-dark-gray-black__1411379_pe973112_s5.jpg",
+      "caption": "product photo, front"
+    }
+  ],
+  "notes": "A set (\"What's included\"): 1 x ALEX drawer unit 14 1/8x27 1/2\" (605.888.94) and 1 x ALEX caster 2\" (104.806.07). In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Too tall to stay under a desk at sitting height, so it stands beside one; over 27\", so anchored to a wall (F-21). 4.5 stars (629). Flags: anchor-required.",
+  "captured": {
+    "date": "2026-11-16",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
