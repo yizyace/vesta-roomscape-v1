@@ -361,7 +361,7 @@
           "anchor": "end",
           "at": 10,
           "length": 68,
-          "depth": 22,
+          "depth": 38,
           "doors": "double",
           "swing": "in",
           "measured": [
@@ -369,7 +369,7 @@
             "depth"
           ],
           "label": "wardrobe",
-          "note": "set into the bottom wall toward the left; double doors swing into the room"
+          "note": "set into the bottom wall toward the left; double doors swing into the room; about 38\" deep (Andrew, 2026-11-16: \"some in the wardrobe has about 38\" depth\"), where the sketch of 2026-10-22 wrote 22\""
         },
         {
           "type": "door",
