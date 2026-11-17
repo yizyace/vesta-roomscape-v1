@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0C8N5JH8H",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0C8N5JH8H",
+  "name": "Yaheetech Rolling Kitchen Island Cart with 3 Drawers & Open Shelves, Black",
+  "brand": "Yaheetech",
+  "category": "storage",
+  "tags": [
+    "kitchen",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "shortlisted",
+  "price": {
+    "amount": 237.49,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 46,
+    "d": 22,
+    "h": 36,
+    "raw": "Item Dimensions D x W x H : 22\"D x 46\"W x 36\"H; Size : 46 x 22 36 inches; Item Depth : 22 inches; Item Dimensions : 22 x 46 x 36 inches; Item Weight : 127.2 pounds; Maximum Weight Recommendation : 507 pounds; Number of Drawers : 3; Number Of Shelves : 4; Material Type : Engineered Wood, Pine Wood, Rubberwood; Frame Material Type : Engineered Wood; the size picture: 46\" x 22\" top, 36\" tall, the center drawer front 23.2\" wide, the cabinet opening 22.8\" tall, the side openings 7.6\" and 6.7\"; bullets: \"The sturdy rubberwood countertop measuring 116.5cm/46 inch long and 56cm/22 inch wide\", \"230 kg / 507 lb in total\", \"the counter space is 80 kg / 176 lb\", \"four hidden swivel casters (two with brakes)\"",
+    "source": "Product information rows, the bullets and the size picture, which agree, the Black variant, read in Chrome 2026-11-17; by letter D -> d, W -> w, H -> h. No rack or towel bar stands outside the 46\" in its photos"
+  },
+  "images": [
+    {
+      "file": "amazon-B0C8N5JH8H-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71jCryCmzeL._AC_SL1500_.jpg",
+      "caption": "main: black island on a plinth, rubberwood top, three drawers, double-door cabinet, open shelves at the ends"
+    }
+  ],
+  "notes": "THE PICK, 2026-11-17, made for him on his word and not yet ordered (\"you be an expert interio designer, pick for me ... pick the best one, I prefer larger ove rsmall, lots of space there\"), after the first pick was corrected: Andrew, 2026-11-17, of the DynJest island table picked for him: \"1st pick doest have wheels, wheels are mandatory\". Slot: the kitchen face of the 51\" wall whose living-room face holds the Decofy console (F-71), taken as the same 51\" on the kitchen side, untaped. Fit: 46\" leaves 5\" of the 51\"; 22\" deep, so 58\" from the wall keeps a 36\" walkway and 64\" a 42\" work aisle: one tape before he orders, the kitchen being unmeasured (his word: \"lots of space there\"); 36\" tall, counter height. Why: on wheels, as he requires (four swivel casters hidden behind a plinth, two with brakes), and the largest and heaviest of the rolling pieces read: a fixed 46 x 22\" rubberwood top (Qsun's is 45.5 x 17.5\" plus a leaf on brackets), 127.2 lb, a center drawer and two side drawers, a double-door cabinet on soft-close hinges with an adjustable shelf, and open shelves at both ends. 4.6 stars (570): 77 / 14 / 5 / 2 / 2 %; Amazon's Choice; its summary of the reviews: \"well-made, sturdy, and worth its price\", \"wheels roll nicely but are difficult to lock\"; reviews on the page: \"Even though it has wheels, it doesn't look like a rolling cart. Looks more like furniture\", \"It's hefty, sturdily put together\", \"the top is sturdy & sealed\". Against it, said in the reply: a long build, about 50 panels in two boxes that can arrive on different days (\"It took my husband 3 hrs\", \"I took 9 hours to build this and I'm very experienced\"); the top's finish (\"doesn't have a durable enough finish for kitchen use. Kneading a bread will probably ruin it\"), so cut and knead on a board; the brakes are hard to reach. Color (F-68): Black, the designer's call: on the white marble a dark piece carries the contrast ((10); he found the ash table \"too light on white marble\" and a pale clock \"too bland\" in the same zone), stark white beside honey wood and cream walls reads badly ((8)), and the rubberwood top repeats the maple cabinets; his own two cart picks were white, so the White (B0BQ67M7MR) is named beside it: $279.99, \"Only 7 left in stock\", FREE delivery Wednesday, November 25, black bar pulls. Black: list $249.99, \"Exclusive Prime price\", In Stock, FREE delivery November 20 - 23; ships from and sold by Yaheetech; \"Returnable until Jan 31, 2027\"; Amazon offers assembly for $229.99, not taken. Lock both brakes where it parks, since Maddie can push a cart on marble (F-21). Flags: none from the vocabulary; the walkway is unchecked. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

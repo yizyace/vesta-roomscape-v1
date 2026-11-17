@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0DY7LSS2K",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DY7LSS2K",
+  "name": "VEVOR Kitchen Island Cart with Solid Wood Top, 45.3\" Width Mobile Carts with Storage Cabinet, Rolling Kitchen Table with Spice Rack, Towel Rack, Drop Leaf and Drawer [title cut here when read]",
+  "brand": "VEVOR",
+  "category": "storage",
+  "tags": [
+    "kitchen",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 205.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 56.3,
+    "d": 15.35,
+    "h": 38.98,
+    "raw": "Item Dimensions D x W x H : 15\"D x 45.4\"W x 39.5\"H; Item Dimensions : 56.3 x 26.77 x 38.98 inches; Size : 45.3\" W Drop Leaf; Item Weight : 101 pounds; Number of Drawers : 3; Number Of Shelves : 3; Model Number : SR221265; the size picture: top 45.28 in / 1150 mm, 15.35 in deep plus an 11.42 in leaf (26.77 in / 680 mm with it up), 0.59 in / 15 mm thick, 38.98 in / 990 mm tall, 56.30 in / 1430 mm across with the spice rack and towel bar, total load 300 lb",
+    "source": "The size picture, the White 45.3\" W Drop Leaf variant of the listing in his cart (B0C69GCFC2), read in Chrome 2026-11-17: w is its 56.30\" overall with the racks, d the leaf-down depth, h its 38.98\". The Product information rows garble the same numbers"
+  },
+  "images": [],
+  "notes": "Rejected, 2026-11-17, for the kitchen island brief: 56.3\" across with its spice rack and towel bar, wider than the 51\" wall, and 39\" tall, 3\" over a counter; a 15 mm top. The larger size of the VEVOR in his cart, read because he asked for larger and wheels; $205.99, ships from and sold by Amazon.com, FREE delivery Thursday, November 19. The listing's 42.4\" and 47.6\" drop-leaf sizes showed as unavailable in White; its 42.4\"W was not read. Flags: none. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0DN13DKK5",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DN13DKK5",
+  "name": "HOSTACK 47\"W Kitchen Island Cart with Storage, Rolling Island Table, White",
+  "brand": "HOSTACK",
+  "category": "storage",
+  "tags": [
+    "kitchen",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 179.9,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 47.24,
+    "d": 15.75,
+    "h": 34.06,
+    "raw": "Item Dimensions D x W x H : 15.75\"D x 47.24\"W x 34.06\"H; Size : 15.75\"D x 47.24\"W x 34.06\"H; Item Dimensions : 15.75 x 47.24 x 33.86 inches; Item Weight : 95 pounds; Weight Capacity Maximum : 200 pounds; Number of Drawers : 2; Number of Doors : 3; Top Material Type : MDF Wood; Material Type : Engineered Wood; Base Type : Wheels; Model Number : 216",
+    "source": "Product information rows, the White variant, read in Chrome 2026-11-17; by letter. The price is the color swatch's \"1 option from $179.90\": the page showed no featured offer for White"
+  },
+  "images": [],
+  "notes": "Rejected, 2026-11-17, for the kitchen island brief: on wheels and 47.24\" wide, but an MDF top, 15.75\" deep, and Amazon's summary of its reviews says drawers that do not close properly. 4.4 stars (424): 74 / 14 / 4 / 3 / 5 %; two drawers, a 3-door cabinet, a side open cabinet, five casters that come off; White had no featured offer (\"See All Buying Options\"); Black and Soft Blue $179.99, Ash Gray and Navy Blue $189.99, Sage Green $199.99, FREE delivery Fri, Nov 27. Flags: none. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

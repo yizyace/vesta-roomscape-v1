@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B09P3KT1MK",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B09P3KT1MK",
+  "name": "IRONCK Kitchen Island Table on Wheels with Drop Leaf, 47.25\" Wide White",
+  "brand": "IRONCK",
+  "category": "storage",
+  "tags": [
+    "kitchen",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 109.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 47.25,
+    "d": 15.35,
+    "h": 35.05,
+    "raw": "Item Dimensions D x W x H : 15.35\"D x 47.25\"W x 35.05\"H; Item Dimensions : 15.35 x 47.25 x 35.05 inches; Item Weight : 66 pounds; Maximum Weight Recommendation : 200 pounds; Number of Drawers : 1; Number Of Shelves : 2; Material Type : Engineered Wood; Frame Material Type : Engineered Wood; Model Number : KC-KD-01",
+    "source": "Product information rows, the White 47.25\" W variant, read in Chrome 2026-11-17 after Andrew cleared Amazon's third bot check; by letter. The size picture was not read, so whether the 47.25\" counts its spice rack and towel bar, and the leaf-up depth, are not on record"
+  },
+  "images": [],
+  "notes": "Rejected, 2026-11-17, for the kitchen island brief: on wheels and 47.25\" wide, but an engineered-wood top, 66 lb at that size, one drawer and one cabinet, and Amazon's summary of its reviews has \"cardboard-like wood material\" and mixed sturdiness. 4.4 stars (1,802): 68 / 17 / 7 / 3 / 5 %; four casters, two with brakes; a drop leaf; ships from and sold by IRONCK Direct; FREE delivery Friday, November 27; Black (B09P3G8942) $129.99. Flags: none. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
