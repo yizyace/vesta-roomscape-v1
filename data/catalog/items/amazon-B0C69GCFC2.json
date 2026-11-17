@@ -1,0 +1,42 @@
+{
+  "id": "amazon-B0C69GCFC2",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0C69GCFC2",
+  "name": "VEVOR Kitchen Island Cart with Solid Wood Top, 35.4\" Width Mobile Carts with Storage Cabinet, Rolling Kitchen Table with Spice Rack, Towel Rack, and Drawer, Portable Islands on Wheels, White",
+  "brand": "VEVOR",
+  "category": "storage",
+  "tags": [
+    "kitchen",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 139.91,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 43.3,
+    "d": 17.7,
+    "h": 32.7,
+    "raw": "Item Dimensions D x W x H : 17.7\"D x 35.4\"W x 32.7\"H; Size : 35.4\" W; Item Depth : 17.7 inches; Item Dimensions : 17.7 x 35.4 x 32.7 inches; Ground To Item Distance : 32.5 inches; Item Weight : 66 pounds; Maximum Weight Recommendation : 300 pounds; the listing's size picture (model SR191276): top 35.4 in (900 mm) x 17.7 in (450 mm), 1 in (27 mm) thick, 32.5 in (825 mm) tall, 43.3 in (1100 mm) across with the spice rack and towel bar, top load 59 lb",
+    "source": "Product information rows and the listing's size picture, the White 35.4\" W variant, read in Chrome 2026-11-17; by letter D -> d, H -> h. w is the size picture's 43.3\" overall, with the spice rack and towel bar, since that is what stands along the wall; the W row's 35.4\" is the top alone. The picture gives the height as 32.5\""
+  },
+  "images": [
+    {
+      "file": "amazon-B0C69GCFC2-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/71x+9qCJjFL._AC_SL1500_.jpg",
+      "caption": "main: white cart, natural wood top, two drawers, four doors, spice rack and towel bar"
+    }
+  ],
+  "notes": "In Andrew's Amazon cart, qty 1, read 2026-11-17 (\"I got 2 in my amazon cart, review and find better one\"): his pick under review, not a decision. Andrew, 2026-11-17: \"I want a floating kitchen island. Place on the wall opposite side of wall of where the living room console is (in the kitchen is where I will put it).\" Slot: the kitchen face of the 51\" wall whose living-room face holds the Decofy console (F-20); taken as the same 51\" on the kitchen side, untaped. The kitchen is not measured, so the walkway in front of the piece (F-30: 30\" at least, 36\" preferred; 42\" where it faces the range, sink or fridge, the designer's standard) is unchecked until Andrew tapes from that wall to whatever faces it. Fit: 43.3\" overall leaves 7.7\" of the 51\"; 17.7\" deep; 32.5 to 32.7\" tall, about 3 1/2\" under a 36\" counter, so an adult stoops to chop on it. Two drawers, four doors, adjustable shelves, a spice rack and a towel bar; four lockable swivel casters. Top: solid rubberwood, 1\" thick; body: MDF (\"Solid Rubberwood & MDF\"). 4.3 stars (1,337): 5 star 66%, 1 star 7%; Amazon's summary of the reviews: mixed on assembly and sturdiness, pieces breaking during assembly, unclear picture-only instructions; buyers on the listing report 3 to 5 hours to build and a thin back panel. Amazon's Choice; 200+ bought in past month; typical price $155.99; ships from and sold by Amazon.com; returnable until Jan 31, 2027; FREE delivery Thursday, November 19. The same listing has other sizes, not read: 42.4\"W, and drop-leaf versions at 35.4, 42.4, 45.3, 47.6 and 60\". Review, 2026-11-17: the better of his two (a real wood top, sold by Amazon, seven times the ratings), held back by its height. Flags: none from the vocabulary; the walkway is unchecked. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

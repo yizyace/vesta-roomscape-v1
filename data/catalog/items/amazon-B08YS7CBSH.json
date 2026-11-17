@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B08YS7CBSH",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B08YS7CBSH",
+  "name": "Rolling Kitchen Island Cart with Drawers Shelves, Towel Rack, Locking Casters, Butcher Block Food Prepping Cart Trolley on Wheels, Bamboo Wood",
+  "brand": "Home Aesthetics",
+  "category": "storage",
+  "tags": [
+    "kitchen",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 164.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 29,
+    "d": 21.5,
+    "h": 35,
+    "raw": "Item Dimensions D x W x H : 29\"D x 21.5\"W x 35\"H; Item Dimensions : 29 x 21.5 x 35 inches; Item Weight : 44 pounds; Maximum Weight Recommendation : 110 pounds; a bullet: \"Overall dimensions of 29\"(L) x 21.5\"(W) x 35\"(H)\"",
+    "source": "Product information rows and the bullet, read in Chrome 2026-11-17. The bullet's L is the long side, along the wall, so w is 29 and d 21.5; the row prints the same numbers as D and W"
+  },
+  "images": [],
+  "notes": "Rejected, 2026-11-17, for the kitchen island brief: 29\" on a 51\" wall, an all-bamboo cart in a honey tone (F-68 (4)), one open shelf and two small drawers; opened on its title and rating (4.6 stars, 649) before its photo was looked at. Sold by Crosslinks. Andrew, 2026-11-17: \"I want a floating kitchen island. Place on the wall opposite side of wall of where the living room console is (in the kitchen is where I will put it).\" Flags: none. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
