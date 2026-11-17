@@ -1,0 +1,36 @@
+{
+  "id": "amazon-B0DNYQP854",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0DNYQP854",
+  "name": "Yaheetech Kitchen Island Cart with Storage, Drop Leaf, Open Shelves, White",
+  "brand": "Yaheetech",
+  "category": "storage",
+  "tags": [
+    "kitchen",
+    "storage",
+    "needs-assembly"
+  ],
+  "rooms": [
+    "kitchen"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 154.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 39.5,
+    "d": 29.5,
+    "h": 36,
+    "raw": "Item Dimensions D x W x H : 29.5\"D x 39.5\"W x 36\"H; Size : 35.5\"W; Item Depth : 29.5 inches; Item Weight : 79.6 pounds; Maximum Weight Recommendation : 320 pounds; Number of Drawers : 2; Number Of Shelves : 3; Material Type : Engineered Wood, Pine Wood, Rubberwood; Model Number : YT-00142742-01",
+    "source": "Product information rows, the White 35.5\"W variant, read in Chrome 2026-11-17; by letter. The D row is most likely with its drop leaf up; the size picture was not read, so the leaf-down depth is not on record"
+  },
+  "images": [],
+  "notes": "Rejected, 2026-11-17, for the kitchen island brief on his word that day (\"I prefer larger ove rsmall, lots of space there\"): a 35.5\" top, 39.5\" by its row, on a 51\" wall. A good small cart otherwise: MDF base, varnished solid wood top with a drop leaf, two drawers, a two-door cabinet, three open shelves, four wheels, two that lock; 4.6 stars (1,865); Amazon's Choice; list $169.99; ships from and sold by Yaheetech; FREE delivery Friday, November 20; returnable until Jan 31, 2027. Read after Andrew cleared Amazon's second bot check. A 23.6\"W size and Black (B09BHHBZPP) on the listing. Flags: none. rooms: the brief.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}
