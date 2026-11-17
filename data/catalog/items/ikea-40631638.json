@@ -1,0 +1,42 @@
+{
+  "id": "ikea-40631638",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kallax-shelf-unit-white-40631638/",
+  "name": "KALLAX Shelf unit, white, 16 3/8x57 5/8 \"",
+  "brand": "IKEA",
+  "category": "bookcase",
+  "tags": [
+    "storage",
+    "anchor-required",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "owned",
+  "price": {
+    "amount": 59.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 16.375,
+    "d": 15.375,
+    "h": 57.625,
+    "raw": "Width: 16 3/8 \"; Depth: 15 3/8 \"; Height: 57 5/8 \"; Max load/shelf: 29 lb; Max. load/wall cabinet: 66 lb 2 oz",
+    "source": "IKEA Measurements tab (406.316.38), read in Chrome 2026-11-17; standing, as IKEA lists it"
+  },
+  "images": [
+    {
+      "file": "ikea-40631638-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kallax-shelf-unit-white__0627095_pe693171_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "OWNED (Andrew, 2026-11-17: \"On the side of the wall that runs along both living room and dining room (where there is an inset), I have kallax shelf https://www.ikea.com/us/en/p/kallax-shelf-unit-white-40631638/ (oak color), and another https://www.ikea.com/us/en/p/kallax-shelf-unit-white-90637299/ (3 boxes \"high\", so longway down). Looks great.\"). In the living room's inset, the right wall's 77\" lower section below the 14.5\" step, beside his 3x4 lying (ikea-90637299); the plans draw it standing at the step end, since the order along the wall was not said. His is oak-colored; the article he linked is the White one, the only color its page offers (406.316.38), so the oak unit's own article number is not on record (same size). 15 3/8\" deep in the 14.5\" inset, so it stands 7/8\" proud of the upper wall. Over 27\": anchored to the wall (F-21). Page, 2026-11-17: $59.99, 4.7 stars (4,021), Best seller, in stock at IKEA Long Island. Flags: anchor-required, variant-unconfirmed.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

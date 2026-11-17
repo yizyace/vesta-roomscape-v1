@@ -1,0 +1,43 @@
+{
+  "id": "amazon-B0GT9V5PVY",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GT9V5PVY",
+  "name": "55 Inch Narrow Console Table with Drawers and Open Shelves",
+  "brand": "ONBRILL",
+  "category": "table",
+  "tags": [
+    "dining",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 159.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 55.1,
+    "d": 11.9,
+    "h": 31.5,
+    "raw": "Product Dimensions 11.9\"D x 55.1\"W x 31.5\"H; Item Dimensions D x W x H 11.9\"D x 55.1\"W x 31.5\"H; Size 55-In; Item Weight 61.7 pounds; Maximum Weight Recommendation 150 pounds; Number of Drawers 2",
+    "source": "the Natural Oak 55-In variant's overview row 'Product Dimensions' and item-details rows, read in Chrome 2026-11-17; by letter: D -> d, W -> w, H -> h"
+  },
+  "images": [
+    {
+      "file": "amazon-B0GT9V5PVY-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81K5OZsyaBL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "RANK 1 for the dining room's back wall (Andrew, 2026-11-17: \"Need a long, thin (depthwise) console for the dining room, looks too empty (same side wall where I'll place the clock)\" and \"Make sure when you pick the console it isn't too long such that it blocks the kallax that will be in the dining room\"; asked which wall, \"Back wall, by the last Kallax\".). Natural Oak, 55-In (the listing's sizes are 40, 47 and 55; its Vintage Brown is not offered in 55\"). Two drawers over a full-length open shelf on a thick slab-sided frame, engineered wood. $159.99, 4.3 stars (109), Amazon's Choice; sold and shipped by Aobirui, free delivery November 20 to 24, returnable until Jan 31, 2027 (read 2026-11-17). Fit: the dining room's back wall has a 58 5/8\" free run, from the kitchen walkway's edge (F-42, x 30) to 24\" in front of the corner KALLAX's last cubes (F-32, x 88 5/8): leaves 3 1/2\". The longest kept that fits, and 11.9\" deep. With the LISABO turned along the depth, the table's end stands 24\" off its drawers (F-32). Color: a muted natural oak on white marble, a sibling of the pale ash table and the white-stained-oak KALLAXes (F-68 (2)), and the royal blue clock reads strongly on it. Anchor it (F-21). Flags: fits, anchor-required.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

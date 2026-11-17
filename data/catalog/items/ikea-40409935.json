@@ -9,7 +9,9 @@
     "storage",
     "anchor-required"
   ],
-  "rooms": [],
+  "rooms": [
+    "dining-room"
+  ],
   "status": "ordered",
   "price": {
     "amount": 129.99,
@@ -17,11 +19,11 @@
     "asOf": "2026-11-16"
   },
   "dimensions": {
-    "w": 43.875,
+    "w": 57.625,
     "d": 15.375,
-    "h": 57.625,
+    "h": 43.875,
     "raw": "Width: 43 7/8 \"; Depth: 15 3/8 \"; Height: 57 5/8 \"; Max load/shelf: 29 lb",
-    "source": "IKEA Measurements section, read in Chrome 2026-11-16"
+    "source": "IKEA Measurements section, read in Chrome 2026-11-16. Mapped on 2026-11-17 for lying on its long side, as Andrew has his 3x4 (\"3 boxes high, so longway down\"): w is the page's Height (57 5/8\", along the wall), h its Width (43 7/8\", three cubes high), d as listed"
   },
   "images": [
     {
@@ -30,7 +32,7 @@
       "caption": "product photo, front"
     }
   ],
-  "notes": "ORDERED (Andrew, 2026-11-16: \"took out one item, just ordered\"): qty 2, $245.50 for the line on his order, after a $50.00 discount spread over the order's lines (his order page, his screenshot); delivery by truck December 1, 2026, 9 AM to 9 PM. In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Over 27\": anchored to a wall (F-21). White stained oak effect, a pale finish, not the orange oak-effect F-68 (4) keeps out of the oak-floored rooms. No room plan has a place for it yet; layout back-bedroom i has no free wall that takes it. 4.7 stars (2,730). Flags: anchor-required.",
+  "notes": "ROOM (Andrew, 2026-11-17): both go on the inset wall that runs along the living room and the dining room, lying like his own 3x4 (ikea-90637299), after his two in the living room's inset: \"Plan is to add 2 more of the latter kallaxes (should leave an inch or so of room). That deicions is made and ordered (coming Dec 1, via ikea).\" So they stand on the dining room's right wall, 2 x 57 5/8\" = 115 1/4\" of its 119\" (derived, not taped), drawn ending 1\" from the back corner; the dining console on the back wall stops 24\" short of them (F-32). The office's wardrobe no longer takes one, and the open question of where the second goes is closed. Anchor both (F-21). ORDERED (Andrew, 2026-11-16: \"took out one item, just ordered\"): qty 2, $245.50 for the line on his order, after a $50.00 discount spread over the order's lines (his order page, his screenshot); delivery by truck December 1, 2026, 9 AM to 9 PM. In Andrew's IKEA cart, qty 2 (2026-11-16); his room for them not given yet. Over 27\": anchored to a wall (F-21). White stained oak effect, a pale finish, not the orange oak-effect F-68 (4) keeps out of the oak-floored rooms. No room plan has a place for it yet; layout back-bedroom i has no free wall that takes it. 4.7 stars (2,730). Flags: anchor-required.",
   "captured": {
     "date": "2026-11-16",
     "by": "claude",

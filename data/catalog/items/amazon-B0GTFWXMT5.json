@@ -1,0 +1,35 @@
+{
+  "id": "amazon-B0GTFWXMT5",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0GTFWXMT5",
+  "name": "70\" Fluted Narrow Console Table, Modern 8.7 Inch Deep Entryway Table with 3 Large Drawers, Long Sofa Table Behind Couch with Open Shelf for Living Room, Hallway, Couch, Foyer, Walnut",
+  "brand": "Andehomy",
+  "category": "table",
+  "tags": [
+    "dining",
+    "storage"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 184.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 70.1,
+    "d": 8.7,
+    "h": 35.5,
+    "raw": "Item Dimensions D x W x H 8.7\"D x 70.1\"W x 35.5\"H; Size 70\" with Drawer; Item Depth 8.7 inches; Number of Drawers 3",
+    "source": "the 70\" with Drawer, Walnut Brown variant's item-details rows, read in Chrome 2026-11-17; by letter"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-17 for the dining room's back wall (Andrew, 2026-11-17: \"Need a long, thin (depthwise) console for the dining room, looks too empty (same side wall where I'll place the clock)\" and \"Make sure when you pick the console it isn't too long such that it blocks the kallax that will be in the dining room\"; asked which wall, \"Back wall, by the last Kallax\".): 70.1\" is longer than the back wall's 58 5/8\" free run (F-42, F-32), and it comes only in 70\" (with drawers or open storage). $184.99, 5.0 stars (1), read 2026-11-17.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

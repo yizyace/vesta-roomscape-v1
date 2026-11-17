@@ -1,0 +1,43 @@
+{
+  "id": "amazon-B0HPPDHVN5",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HPPDHVN5",
+  "name": "55\" Solid Wood Console Table with 2 Drawers, Farmhouse Entryway Table with Storage Shelf, Narrow Sofa Table Behind Couch for Hallway, Foyer, Living Room, Dark Brown",
+  "brand": "TRIBEWOOD",
+  "category": "table",
+  "tags": [
+    "dining",
+    "storage",
+    "needs-assembly",
+    "anchor-required"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "candidate",
+  "price": {
+    "amount": 199.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 55.1,
+    "d": 11.81,
+    "h": 32.3,
+    "raw": "Item Dimensions D x W x H 11.81\"D x 55.1\"W x 32.3\"H; Size 55.1\" L x 11.8\" W x 32.3\" H; Item Dimensions L x W x H 55.1\"L x 11.81\"W x 32.3\"H; Item Depth 11.8 inches; Material Type Fir; Number of Drawers 2",
+    "source": "the Dark Brown variant's item-details rows, read in Chrome 2026-11-17; by letter: D -> d, W -> w, H -> h"
+  },
+  "images": [
+    {
+      "file": "amazon-B0HPPDHVN5-1.jpg",
+      "sourceUrl": "https://m.media-amazon.com/images/I/81WjPFn-iiL._AC_SL1500_.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "RANK 4 for the dining room's back wall (Andrew, 2026-11-17: \"Need a long, thin (depthwise) console for the dining room, looks too empty (same side wall where I'll place the clock)\" and \"Make sure when you pick the console it isn't too long such that it blocks the kallax that will be in the dining room\"; asked which wall, \"Back wall, by the last Kallax\".). Dark Brown, solid fir (a second color at $189.99, not opened). Two drawers over a full shelf, turned legs. $199.99, new on Amazon with no ratings yet; sold and shipped by Tribesigns-Way to Origin, free delivery November 25 to 30 (read 2026-11-17). Fit: the dining room's back wall has a 58 5/8\" free run, from the kitchen walkway's edge (F-42, x 30) to 24\" in front of the corner KALLAX's last cubes (F-32, x 88 5/8): leaves 3 1/2\". Color: dark brown grounds the back wall on white marble; rustic farmhouse, a step away from the house's mid-century pieces. Flags: fits, anchor-required.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

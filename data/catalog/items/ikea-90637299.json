@@ -1,0 +1,42 @@
+{
+  "id": "ikea-90637299",
+  "vendor": "ikea",
+  "url": "https://www.ikea.com/us/en/p/kallax-shelf-unit-white-90637299/",
+  "name": "KALLAX Shelf unit, white, 43 7/8x57 5/8 \"",
+  "brand": "IKEA",
+  "category": "bookcase",
+  "tags": [
+    "storage",
+    "anchor-required",
+    "living-room"
+  ],
+  "rooms": [
+    "living-room"
+  ],
+  "status": "owned",
+  "price": {
+    "amount": 129.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 57.625,
+    "d": 15.375,
+    "h": 43.875,
+    "raw": "Width: 43 7/8 \"; Depth: 15 3/8 \"; Height: 57 5/8 \"; Max load/shelf: 29 lb",
+    "source": "IKEA Measurements tab (906.372.99), read in Chrome 2026-11-17. Mapped for lying on its long side, as Andrew has it (2026-11-17: \"3 boxes high, so longway down\"; the page says \"Standing or lying\" and its photo shows it lying): w is the page's Height (57 5/8\", along the wall), h its Width (43 7/8\", three cubes high), d as listed"
+  },
+  "images": [
+    {
+      "file": "ikea-90637299-1.jpg",
+      "sourceUrl": "https://www.ikea.com/us/en/images/products/kallax-shelf-unit-white__0601747_pe681619_s5.jpg",
+      "caption": "main"
+    }
+  ],
+  "notes": "OWNED (Andrew, 2026-11-17, with ikea-40631638: \"and another https://www.ikea.com/us/en/p/kallax-shelf-unit-white-90637299/ (3 boxes \"high\", so longway down). Looks great.\"). Lying in the living room's inset beside the 1x4: four cubes along the wall, three high. With the 1x4 it takes 74\" of the 77\" lower section. Its color was not said; the link is the White. The two on the Dec 1 truck are the same size in white stained oak effect (ikea-40409935) and continue the run into the dining room. Over 27\" as IKEA stands it; lying it is 43 7/8\" tall, still anchored (F-21). Page, 2026-11-17: $129.99, 4.7 stars (3,266), Best seller. Flags: anchor-required.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

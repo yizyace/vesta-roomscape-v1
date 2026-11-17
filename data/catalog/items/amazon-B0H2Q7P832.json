@@ -1,0 +1,35 @@
+{
+  "id": "amazon-B0H2Q7P832",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0H2Q7P832",
+  "name": "Rovibek Modern 55\" Entryway Table Narrow, Narrow Sofa Table Behind Couch",
+  "brand": "Rovibek",
+  "category": "table",
+  "tags": [
+    "dining",
+    "storage"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 115.99,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 55.1,
+    "d": 11.8,
+    "h": 33.1,
+    "raw": "Item Dimensions D x W x H 11.8\"D x 55.1\"W x 33.1\"H; Size 55\" - 0 Drawers; Item Depth 11.8 inches",
+    "source": "the 55\" - 0 Drawers, Black variant's item-details rows, read in Chrome 2026-11-17; by letter"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-17 for the dining room's back wall (Andrew, 2026-11-17: \"Need a long, thin (depthwise) console for the dining room, looks too empty (same side wall where I'll place the clock)\" and \"Make sure when you pick the console it isn't too long such that it blocks the kallax that will be in the dining room\"; asked which wall, \"Back wall, by the last Kallax\".): no drawers, Black only at 55\" (drawers come only at 70\"), 2 ratings, and 11.8\" deep, no thinner than the kept 55\" pieces. $115.99, 5.0 stars (2), read 2026-11-17.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

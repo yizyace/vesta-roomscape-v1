@@ -1,0 +1,35 @@
+{
+  "id": "amazon-B0HDSVK689",
+  "vendor": "amazon",
+  "url": "https://www.amazon.com/dp/B0HDSVK689",
+  "name": "SONGMICS HOME 63.2\" Console Table with 3 Drawers and Bottom Shelf",
+  "brand": "SONGMICS HOME",
+  "category": "table",
+  "tags": [
+    "dining",
+    "storage"
+  ],
+  "rooms": [
+    "dining-room"
+  ],
+  "status": "rejected",
+  "price": {
+    "amount": 169.46,
+    "currency": "USD",
+    "asOf": "2026-11-17"
+  },
+  "dimensions": {
+    "w": 63.2,
+    "d": 9.6,
+    "h": 30.1,
+    "raw": "Product Dimensions 9.6\"D x 63.2\"W x 30.1\"H; Item Dimensions D x W x H 9.6\"D x 63.2\"W x 30.1\"H; Number of Drawers 3",
+    "source": "the Rustic Walnut 63.2\" variant's overview row 'Product Dimensions', read in Chrome 2026-11-17; by letter"
+  },
+  "images": [],
+  "notes": "Rejected 2026-11-17 for the dining room's back wall (Andrew, 2026-11-17: \"Need a long, thin (depthwise) console for the dining room, looks too empty (same side wall where I'll place the clock)\" and \"Make sure when you pick the console it isn't too long such that it blocks the kallax that will be in the dining room\"; asked which wall, \"Back wall, by the last Kallax\".): 63.2\" is longer than the 58 5/8\" free run; its other size, 47.4\" (amazon-B0HDSLB4VJ), was rejected on 2026-11-08 for the Rustic Walnut's red-orange cast, its only color. $169.46, 4.5 stars (164), read 2026-11-17.",
+  "captured": {
+    "date": "2026-11-17",
+    "by": "claude",
+    "method": "chrome"
+  }
+}

@@ -1,124 +1,133 @@
 {
   "room": "dining-room",
   "variant": "a",
-  "name": "Staged: the LISABO 78 3/4 ash across the room with four LISABO chairs on Tumble's Canyon Grey/Ivory 8x10 (washable, pad included), the pendant over it, the buffet and art on the bottom wall",
-  "updatedAt": "2026-10-26T23:16:03.922Z",
-  "notes": "Staged on Andrew's word (2026-10-26, night: \"Pick correct color and size and add it to the app, show me locally. also push up deploy\"): the Tumble set is in the staged room; the rugless room is kept as the Rugless variant. Andrew, 2026-10-26 (night): \"I think we need something like a ruggable so that it's thin enough and separate from the padding to allow actually washing.\" Layout L with the two-piece system in place of IKEA's one-piece LOKALTÅG: Tumble's Canyon Grey/Ivory 8x10 ($399, cushioned pad included), spillproof face, washable at home. Same footprint across the room, x 8 to 128, y 23 to 119 (rot 90): the table and both chair rows on it pushed back, 7\" into the living-room walkway and 22\" into the kitchen's, which a rug may do (F-42). Color (F-68): a cool gray ground gives the pale ash LISABO its contrast and matches the gray seats; ivory motifs keep it light on the oak. Ruggable's flatwoven Cambria Abalone 8x10 is $579 with its pad; Tumble's Canyon Oatmeal/Grey is the warmer alternative. The staged A stays rugless until Eutine chooses. Andrew, later that night: \"tumble rug is orderable on amazon! pretty convenient we should prefer that unless ruggable is way better or something\": the rug placed is the Amazon listing amazon-B0HCMZMMD5 ($399, ships in 4 to 5 days, free delivery November 9, as read 2026-10-26), the same set at the same price; Ruggable's flatwoven is judged not clearly better (thinner cover, $180 more per 8x10, made to order, the same robot-vacuum caveat), so Tumble it is (F-69).",
+  "name": "Staged: the KALLAX wall on the right, the LISABO along the depth toward a 55\" console and the clock on the back wall",
+  "updatedAt": "2026-11-17T20:14:15.206Z",
+  "notes": "Re-staged 2026-11-17 for the KALLAX wall and the dining console. Andrew: \"Need a long, thin (depthwise) console for the dining room, looks too empty (same side wall where I'll place the clock)\"; his two KALLAXes in the living room's inset \"Looks great. Plan is to add 2 more of the latter kallaxes (should leave an inch or so of room). That deicions is made and ordered (coming Dec 1, via ikea).\"; \"Make sure when you pick the console it isn't too long such that it blocks the kallax that will be in the dining room.\" Asked where the console and the clock go: \"Back wall, by the last Kallax\". The room as it stood is kept as C.\nRight wall: kallax-3 and kallax-4, the two Dec 1 KALLAX 3x4s lying, 115 1/4\" of the 119\" (derived) wall, drawn ending 1\" from the back corner, 15 3/8\" deep (x 112 5/8 to 128). Anchored (F-21). kallax-3 stands in the right edge of the top walkway (F-42) on his word: that warning stands.\nBack wall: console-1, the rank-1 console (ONBRILL 55.1 x 11.9 x 31.5\"), x 33.45 to 88.55: the free run is 58 5/8\" from the kitchen walkway's edge (F-42, x 30) to 24\" in front of kallax-4's last cubes (F-32, x 88 5/8), so any console up to 58\" fits without blocking them; each of the five ranked fits. clock-1 centered over it, 58\" to its center (F-70), with a VARPTROSS 20\" either side (cords in covers behind the console) and a small FEJKA on the console.\nTable: the LISABO turned along the room's depth, centered on the console and the clock (x 61): across the room its end would stop 3 7/8\" from the KALLAXes. Its far end 24\" from the console's drawers (F-32), so its living-room end comes within 4 3/8\" of the open side: 34 3/8\" with the living room's walkway (F-30). F-36: 36 1/4\" on the KALLAX side; 15 5/8\" to the kitchen walkway on the other, where those chairs push back, as F-36 allows for the kitchen side. All four chairs see the clock at the table's end (F-70). Pendant over the table's center.\nWarnings that stand, documented: kallax-3, table-1, chair-1 and chair-2 enter the open sides' walkways (F-42), on his KALLAX placement and the table's turn.\nNot placed: the Tumble 8x10 (under a table along the depth it would run 120\" in a 119\" room and under the console; the room is rugless now, F-66), the BESTÅ wall-hung buffet, its BLODFLÄDER canvas and the bird-of-paradise FEJKA (the console, the clock and the KALLAXes take their walls).",
   "placements": [
     {
-      "id": "rug-1",
-      "itemId": "amazon-B0HCMZMMD5",
-      "x": 8,
-      "y": 23,
+      "id": "kallax-3",
+      "itemId": "ikea-40409935",
+      "x": 112.625,
+      "y": 2.75,
       "rotation": 90,
-      "layer": "rug",
-      "note": "a cool gray ground gives the pale ash table its contrast and matches the gray seats (F-68); in both walkways, which a rug may be (F-42)"
-    },
-    {
-      "id": "table-1",
-      "itemId": "ikea-10563773",
-      "x": 30,
-      "y": 62.25,
-      "rotation": 0,
       "layer": "floor",
-      "note": "LISABO 78 3/4 x 30 3/4in ash turned across the room, parallel to the living room: its kitchen end on that walkway's edge, 19 1/4in of dead floor at the right wall, 32.25in from its living-room side to that walkway's edge, 26in from its other side to the bottom wall under the buffet (tight:26)"
+      "note": "KALLAX 3x4 in white stained oak, lying (57 5/8\" along the wall, 43 7/8\" tall), on the Dec 1 truck: continues Andrew's two in the living room's inset; anchored (F-21). Its last 27 1/4\" stand in the top walkway's right edge (F-42) on his word, so validate's warning stands"
     },
     {
-      "id": "chair-1",
-      "itemId": "ikea-90561044",
-      "x": 40.9375,
-      "y": 41.125,
-      "rotation": 0,
+      "id": "kallax-4",
+      "itemId": "ikea-40409935",
+      "x": 112.625,
+      "y": 60.375,
+      "rotation": 90,
       "layer": "floor",
-      "note": "LISABO ash/Tallmyra chair on the living-room side, its back to the walkway 11in behind it; pushing back enters the walkway by about 9in"
+      "note": "the second Dec 1 KALLAX, lying, ending 1\" from the back corner (his \"an inch or so of room\"; the right wall's 119\" is derived); anchored (F-21)"
     },
     {
-      "id": "chair-2",
-      "itemId": "ikea-90561044",
-      "x": 79.9375,
-      "y": 41.125,
-      "rotation": 0,
-      "layer": "floor",
-      "note": "LISABO ash/Tallmyra chair on the living-room side, its back to the walkway 11in behind it; pushing back enters the walkway by about 9in"
-    },
-    {
-      "id": "chair-3",
-      "itemId": "ikea-90561044",
-      "x": 40.9375,
-      "y": 94,
+      "id": "console-1",
+      "itemId": "amazon-B0GT9V5PVY",
+      "x": 33.45,
+      "y": 107.1,
       "rotation": 180,
       "layer": "floor",
-      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table, its back under the floating buffet when pushed back; nobody passes behind"
+      "note": "ONBRILL 55\" console, rank 1 (candidate), on the back wall: 3 1/2\" clear of the kitchen walkway's edge (F-42) and 24\" in front of kallax-4's last cubes (F-32), so it doesn't block them; centered on the table's line (x 61). Anchor it (F-21)"
     },
     {
-      "id": "chair-4",
-      "itemId": "ikea-90561044",
-      "x": 79.9375,
-      "y": 94,
-      "rotation": 180,
-      "layer": "floor",
-      "note": "LISABO ash/Tallmyra chair on the wall side, 1in off the table, its back under the floating buffet when pushed back; nobody passes behind"
-    },
-    {
-      "id": "pendant-1",
-      "itemId": "ikea-90603869",
-      "x": 60.5,
-      "y": 68.75,
-      "rotation": 0,
-      "layer": "top",
-      "note": "GULLSUDARE on the HAVSRIS swag cord, hooked over the table's center (69.4, 77.6)"
-    },
-    {
-      "id": "storage-1",
-      "itemId": "ikea-99623151",
-      "x": 36.6875,
-      "y": 110.375,
+      "id": "clock-1",
+      "itemId": "amazon-B0CBSWJ89W",
+      "x": 55,
+      "y": 118,
       "rotation": 180,
       "layer": "top",
-      "note": "BESTÅ wall-mounted cabinet, 8 5/8\" deep, centered on the table on the bottom wall and floated as a buffet with its underside about 33\" up (top about 48\"), above the chairs' 31 1/8\" backs; push-open doors, on its suspension rails into studs (F-63)"
-    },
-    {
-      "id": "art-1",
-      "itemId": "ikea-20601915",
-      "x": 48.5,
-      "y": 117.75,
-      "rotation": 180,
-      "layer": "top",
-      "note": "BLODFLÄDER centered above the buffet, about 54 to 85 1/2\" up: the focal point from the living room"
+      "note": "Bernhard 12\" Blue (ordered) on the back wall, centered over the console and on the table's center line, 58\" to its center (F-70, revised 2026-11-17); the screw at that height plus the hanger-to-center distance, his own screws and hooks"
     },
     {
       "id": "lamp-1",
       "itemId": "ikea-20610854",
-      "x": 39.09375,
+      "x": 37.5,
       "y": 114,
       "rotation": 180,
       "layer": "top",
-      "note": "VARPTROSS above the buffet's left end, centered between the canvas and the buffet's end (2.4\" to each), center about 60\" up, plug-in, cord in a cover"
+      "note": "VARPTROSS on the back wall 20\" left of the clock's center, center about 52\" up; plug-in, cord in a cover down behind the console"
     },
     {
       "id": "lamp-2",
       "itemId": "ikea-20610854",
-      "x": 98.15625,
+      "x": 77.5,
       "y": 114,
       "rotation": 180,
       "layer": "top",
-      "note": "VARPTROSS above the buffet's right end; as lamp-1"
+      "note": "VARPTROSS 20\" right of the clock's center; as lamp-1"
+    },
+    {
+      "id": "table-1",
+      "itemId": "ikea-10563773",
+      "x": 45.625,
+      "y": 4.35,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "LISABO (owned) turned along the room's depth: across the room its end stood 3 7/8\" from the KALLAX fronts. Its far end 24\" from the console's drawers (F-32), so its living-room end reaches 4 3/8\" from the open side: the way past it is that 4 3/8\" plus the living room's own 30\" walkway, 34 3/8\" (F-30), and validate's 'blocks the opening' warning stands. F-36: 36 1/4\" from its right edge to the KALLAX fronts"
+    },
+    {
+      "id": "chair-1",
+      "itemId": "ikea-90561044",
+      "x": 24.5,
+      "y": 33,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "LISABO chair on the kitchen side, 1\" off the table; it stands 5 1/2\" into the kitchen walkway and pushes back into it, the kitchen side's passing F-36 allows; the warning stands"
+    },
+    {
+      "id": "chair-2",
+      "itemId": "ikea-90561044",
+      "x": 24.5,
+      "y": 61,
+      "rotation": 270,
+      "layer": "floor",
+      "note": "as chair-1"
+    },
+    {
+      "id": "chair-3",
+      "itemId": "ikea-90561044",
+      "x": 77.375,
+      "y": 33,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "LISABO chair on the KALLAX side, 1\" off the table, 15 1/8\" from its back to the KALLAX fronts: push it in to reach the cubes behind it"
+    },
+    {
+      "id": "chair-4",
+      "itemId": "ikea-90561044",
+      "x": 77.375,
+      "y": 61,
+      "rotation": 90,
+      "layer": "floor",
+      "note": "as chair-3"
+    },
+    {
+      "id": "pendant-1",
+      "itemId": "ikea-90603869",
+      "x": 52.125,
+      "y": 34.85,
+      "rotation": 0,
+      "layer": "top",
+      "note": "GULLSUDARE on the HAVSRIS swag cord, hooked over the table's new center (61, 43.7)"
     },
     {
       "id": "plant-1",
-      "itemId": "ikea-70610601",
-      "x": 117,
-      "y": 108,
+      "itemId": "ikea-60615232",
+      "x": 80,
+      "y": 110,
       "rotation": 0,
-      "layer": "floor",
-      "note": "FEJKA bird of paradise in the bottom-right corner, the far corner from both openings, so it walls off nothing"
+      "layer": "top",
+      "note": "small FEJKA monstera on the console's right end, below lamp-2"
     }
   ],
   "extras": [
     {
       "itemId": "ikea-80490052",
       "qty": 1,
-      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center, the shade's bottom about 30in above the top; the cord along the ceiling to the right or bottom wall and down in a cover, never across an open side; the ceiling box is unknown"
+      "note": "HAVSRIS cord set for the pendant: a ceiling hook over the table's center (61, 43.7), the shade's bottom about 30in above the top; the cord along the ceiling to the right or bottom wall and down in a cover, never across an open side; the ceiling box is unknown"
     },
     {
       "itemId": "ikea-40533063",
